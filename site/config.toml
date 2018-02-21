@@ -1,6 +1,6 @@
 baseurl = "/"
 languageLang = "en"
-title = "My new Victor-Hugo site"
+title = "SCARF"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details:
@@ -23,64 +23,137 @@ paginate = 10
 
 # Main menu
 
+# About
 [[menu.main]]
-  name = "Home"
-  url  = "/"
+  name = "About"
   weight = 1
+[[menu.main]]
+  parent = "About"
+  name = "Our Mission"
+  weight = 1
+  url  = "/about/our-mission"
+[[menu.main]]
+  parent = "About"
+  name = "Our Team"
+  weight = 2
+  url  = "/about/our-team"
+[[menu.main]]
+  parent = "About"
+  name = "FAQ"
+  weight = 3
+  url  = "/about/faq"
+[[menu.main]]
+  parent = "About"
+  name = "Past Events"
+  weight = 4
+  url  = "/about/past-sponsored-events"
 
+# Owners
+[[menu.main]]
+  name = "Owners"
+  weight = 2
+[[menu.main]]
+  parent = "Owners"
+  name = "The Healthy Samoyed"
+  url  = "/owners/the-healthy-samoyed"
+  identifier = "owners-the-healthy-samoyed"
+  weight = 1
+[[menu.main]]
+  parent = "Owners"
+  name = "Behavior"
+  url  = "/owners/behavior"
+  identifier = "owners-behavior"
+  weight = 2
+[[menu.main]]
+  parent = "Owners"
+  name = "Selecting A Samoyed Puppy"
+  url  = "/owners/selecting-a-samoyed-puppy"
+  identifier = "owners-selecting-a-samoyed-puppy"
+  weight = 3
+[[menu.main]]
+  parent = "Owners"
+  name = "To Breed, Or Not To Breed"
+  url  = "/owners/to-breed-or-not-to-breed"
+  weight = 4
+[[menu.main]]
+  parent = "Owners"
+  name = "Health Problems"
+  url  = "/owners/health-problems"
+  identifier = "owners-health-problems"
+  weight = 5
+[[menu.main]]
+  parent = "Owners"
+  name = "Enroll Your Samoyed in a Research Study"
+  url  = "/research"
+  identifier = "owners-research"
+  weight = 6
+
+# Breeders
+[[menu.main]]
+  name = "Breeders"
+  weight = 3
+[[menu.main]]
+  parent = "Breeders"
+  name = "The Healthy Samoyed"
+  url  = "/breeders/the-healthy-samoyed"
+  weight = 1
+[[menu.main]]
+  parent = "Breeders"
+  name = "Genetics"
+  url  = "/breeders/genetics"
+  weight = 2
+[[menu.main]]
+  parent = "Breeders"
+  name = "Breeding"
+  url  = "/breeders/breeding"
+  weight = 3
+[[menu.main]]
+  parent = "Breeders"
+  name = "Behavior"
+  url  = "/breeders/behavior"
+  weight = 4
+[[menu.main]]
+  parent = "Breeders"
+  name = "Health Problems"
+  url  = "/breeders/health-problems"
+  weight = 5
+[[menu.main]]
+  parent = "Breeders"
+  name = "Enroll Your Samoyed in a Research Study"
+  url  = "/research"
+  weight = 6
+
+# Research
+[[menu.main]]
+  name = "Research"
+  url  = "/research"
+  weight = 4
+
+# Blog
 [[menu.main]]
   name = "Blog"
   url  = "/blog/"
-  weight = 2
-
-[[menu.main]]
-  name = "FAQ"
-  identifier = "faq"
-  url  = "/faq/"
-  weight = 3
-
-[[menu.main]]
-  name = "Contact"
-  url  = "/contact/"
-  weight = 4
+  weight = 5
 
 # Top bar social links menu
 
 [[menu.topbar]]
   weight = 1
-  name = "GitHub"
-  url = "https://github.com/devcows/hugo-universal-theme"
-  pre = "<i class='fa fa-2x fa-github'></i>"
-
-[[menu.topbar]]
-  weight = 2
   name = "Facebook"
-  url = "http://facebook.com"
+  url = "https://www.facebook.com/samoyed.foundation/"
   pre = "<i class='fa fa-2x fa-facebook'></i>"
-
-[[menu.topbar]]
-  weight = 3
-  name = "Twitter"
-  url = "http://twitter.com"
-  pre = "<i class='fa fa-2x fa-twitter'></i>"
-
-[[menu.topbar]]
-  weight = 4
-  name = "Email"
-  url = "mailto:your@email.com"
-  pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
   viewMorePostLink = "/blog/"
-  author = "DevCows"
-  defaultKeywords = ["devows", "hugo", "go"]
-  defaultDescription = "Site template made by devcows using hugo"
+  author = "Matt Odille"
+  defaultKeywords = ["samoyed", "scarf", "sca"]
+  defaultDescription = "Samoyed Club of America Education and Research Foundation"
 
   # Google Maps API key (if not set will default to not passing a key.)
-  googleMapsApiKey = ""
+  googleMapsApiKey = "AIzaSyDaVrZWfOQfO9enENXhvFOx7cmpLFfYxaM"
 
   # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-  style = "default"
+  style = "violet"
 
   # Since this template is static, the contact form uses www.formspree.io as a
   # proxy. The form makes a POST request to their servers to send the actual
@@ -97,34 +170,30 @@ paginate = 10
   # Enable the contact form by entering your Formspree.io email
   email = ""
 
-  about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-  copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+  about_us = "<p>We're an organization devoted to improving the health of the Samoyed breed.</p>"
+  copyright = "Copyright &copy; 2018, Samoyed Club of America Education and Research Foundation, Inc."
 
   # Format dates with Go's time formatting
   date_format = "January 2, 2006"
 
   logo = "img/logo.png"
-  address = """<p><strong>Universal Ltd.</strong>
-<br>13/25 New Avenue
-<br>Newtown upon River
-<br>45Y 73J
-<br>England
-<br>
-<strong>Great Britain</strong>
-</p>"""
-  latitude = "-12.043333"
-  longitude = "-77.028333"
+  address = """<p><strong>SCARF President</strong>
+      <br>Pam Barbe
+      <br>16611 Lafone
+      <br>Spring, TX 77379-7508
+    </p>
+    """
+  latitude  = "30.0227915"
+  longitude = "-95.5144835"
+  zoom = "6"
 
 [Permalinks]
   blog = "/blog/:year/:month/:day/:filename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
-  enable = true
-  text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
-<p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
-<a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
-</p>"""
+  enable = false
+  text = ""
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
@@ -145,23 +214,23 @@ paginate = 10
   # For more informtion take a look at the README.
 
 [params.testimonials]
-  enable = true
+  enable = false
   # All testimonials are defined in their own files. You can find example items
   # at 'exampleSite/data/testimonials'.
   # For more informtion take a look at the README.
   title = "Testimonials"
-  subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+  subtitle = ""
 
 [params.see_more]
   enable = true
-  icon = "fa fa-file-code-o"
-  title = "Do you want to see more?"
-  subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+  icon = "fa fa-question"
+  title = "Do you want to help?"
+  subtitle = "You can contribute by donating, volunteering, or enrolling your Samoyed in the DNA Database (it's easier than it sounds!)"
   link_url = "#"
-  link_text = "Check other homepages"
+  link_text = "Learn More"
 
 [params.clients]
-  enable = true
+  enable = false
   # All clients are defined in their own files. You can find example items
   # at 'exampleSite/data/clients'.
   # For more informtion take a look at the README.
@@ -171,4 +240,4 @@ paginate = 10
 [params.recent_posts]
   enable = true
   title = "From our blog"
-  subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+  subtitle = ""

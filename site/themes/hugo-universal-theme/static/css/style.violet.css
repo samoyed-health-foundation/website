@@ -1778,6 +1778,14 @@ fieldset[disabled] .btn-template-primary.active {
   background-attachment: fixed;
   background-size: cover;
 }
+.bar.background-image-tiled {
+  background: url('../img/dna_background_tile.png') center center repeat;
+}
+.bar.background-gradient {
+  background-image: -webkit-linear-gradient(45deg, #8545BC 0%,#986dbd 50%,#8545BC 100%);
+  background-image: -o-linear-gradient(45deg, #8545BC 0%,#986dbd 50%,#8545BC 100%);
+  background-image: linear-gradient(45deg, #8545BC 0%,#986dbd 50%,#8545BC 100%);
+}
 .bar.color-white h1,
 .bar.color-white h2,
 .bar.color-white h3,
@@ -2507,6 +2515,7 @@ fieldset[disabled] .btn-template-primary.active {
 #footer {
   background: #555555;
   padding: 50px 0;
+  margin-top: 25px;
   color: #999999;
 }
 #footer h1,
@@ -3553,5 +3562,8 @@ a.list-group-item.active > .badge,
 }
 .yamm .dropdown.yamm-fw .dropdown-menu {
   left: 15px;
+  right: 15px;
+}
+.yamm .dropdown.yamm-single-col .dropdown-menu {
   right: 15px;
 }

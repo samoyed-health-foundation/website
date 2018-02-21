@@ -8,8 +8,9 @@ function map () {
   if ($('#map').length) {
     var lat = $('#gmap-lat').val()
     var lng = $('#gmap-lng').val()
+    var zoom = parseInt($('#gmap-zoom').val())
     var direction = $('#gmap-dir').val()
-    var image = $('#gmap-marker').val()
+    var image = '/img/marker.png'
 
     var styles =
       [
@@ -38,6 +39,7 @@ function map () {
       el: '#map',
       lat: lat,
       lng: lng,
+      zoom: zoom,
       zoomControl: true,
       zoomControlOpt: {
         style: 'SMALL',
