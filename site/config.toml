@@ -126,8 +126,32 @@ paginate = 10
 # Research
 [[menu.main]]
   name = "Research"
-  url  = "/research"
   weight = 4
+[[menu.main]]
+  parent = "Research"
+  name = "All SCARF sponsored studies"
+  url  = "/research/all-scarf-sponsored-research-studies"
+  weight = 1
+[[menu.main]]
+  parent = "Research"
+  name = "Studies that need samples"
+  url  = "/research/scarf-sponsored-studies-that-need-samples"
+  weight = 2
+[[menu.main]]
+  parent = "Research"
+  name = "How SCARF can defray the cost"
+  url  = "/research/how-scarf-can-help-defray-the-cost"
+  weight = 3
+[[menu.main]]
+  parent = "Research"
+  name = "Other studies"
+  url  = "/research/other-research-studies"
+  weight = 4
+[[menu.main]]
+  parent = "Research"
+  name = "Info for Researchers/Investigators"
+  url  = "/research/researchers-investigators"
+  weight = 5
 
 # Blog
 [[menu.main]]
