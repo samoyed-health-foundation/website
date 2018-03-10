@@ -1,42 +1,53 @@
-# Victor Hugo
+# SCARF
 
-**A Hugo boilerplate for creating truly epic websites**
+The code for http://samoyedhealthfoundation.com/
 
-This is a boilerplate for using [Hugo](https://gohugo.io/) as a static site generator and [Gulp](https://gulpjs.com/) + [Webpack](https://webpack.js.org/) as your asset pipeline.
+## Overview
 
-Victor Hugo setup to use [PostCSS](http://postcss.org/) and [Babel](https://babeljs.io/) for CSS and JavaScript compiling/transpiling.
+The repo was forked from Netlify's Hugo starter at
+https://github.com/netlify/victor-hugo
 
-This project is released under the [MIT license](LICENSE). Please make sure you understand its implications and guarantees.
+It uses the Universal theme from Bootstrapious which was ported to a Hugo theme at
+https://github.com/devcows/hugo-universal-theme
+
+## Applying updates
+
+You can subscribe to the GitHub repos listed above to be notified of any changes.
+
+### Hugo starter updates
+
+TODO
+
+### Theme updates
+
+To apply an update to the theme, just download the patch file from GitHub and apply it like so:
+
+```bash
+git apply \
+  --directory=site/themes/hugo-universal-theme \
+  ~/Downloads/f2f2c4fe4612ca8698692b547cbb6c960a1b2c82.patch
+```
 
 ## Usage
 
 ### Prerequisites
 
-You need to have the latest/LTS [node](https://nodejs.org/en/download/) and [npm](https://www.npmjs.com/get-npm) versions installed in order to use Victor Hugo.
-
-Next step, clone this repository and run:
-
 ```bash
+# Install node and npm
+brew install node
+
+# Fetch project dependencies
 npm install
 ```
 
-This will take some time and will install all packages necessary to run Victor Hugo and it's tasks.
-
 ### Development
 
-While developing your website, use:
-
 ```bash
-npm start
+# Compile site and start a development server to host it locally
+npm run start
 ```
 
-or
-
-```bash
-gulp server
-```
-
-Then visit http://localhost:3000/ *- or a new browser windows popped-up already -* to preview your new website. BrowserSync will automatically reload the CSS or refresh the whole page, when stylesheets or content changes.
+BrowserSync will automatically open a browser and refresh the page when stylesheets or content changes.
 
 ### Static build
 
@@ -51,8 +62,6 @@ To get a preview of posts or articles not yet published, run:
 ```bash
 npm run build-preview
 ```
-
-See [package.json](https://github.com/atomtigerzoo/victor-hugo/blob/readme-updates/package.json#L7) or the included gulp file for all tasks.
 
 ## Structure
 
@@ -69,49 +78,12 @@ See [package.json](https://github.com/atomtigerzoo/victor-hugo/blob/readme-updat
 |  |--js               // app.js will be compiled to /app.js with babel
 ```
 
-## Basic Concepts
-
-You can read more about Hugo's template language in their documentation here:
-
-https://gohugo.io/templates/overview/
-
-The most useful page there is the one about the available functions:
-
-https://gohugo.io/templates/functions/
-
-For assets that are completely static and don't need to go through the asset pipeline,
-use the `site/static` folder. Images, font-files, etc, all go there.
-
-Files in the static folder ends up in the web root. So a file called `site/static/favicon.ico`
-will end up being available as `/favicon.ico` and so on...
-
-The `src/js/app.js` file is the entrypoint for webpack and will be built to `/dist/app.js`.
-
-You can use **ES6** and use both relative imports or import libraries from npm.
-
-Any CSS file directly under the `src/css/` folder will get compiled with [PostCSS Next](http://cssnext.io/)
-to `/dist/css/{filename}.css`. Import statements will be resolved as part of the build
-
-## Environment variables
-
-To seperate the development and production *- aka build -* stages, all gulp tasks run with a node environment variable named either `development` or `production`.
-
-You can access the environment variable inside the theme files with `getenv "NODE_ENV"`. See the following example for a conditional statement:
-
-    {{ if eq (getenv "NODE_ENV") "development" }}You're in development!{{ end }}
-
-All tasks starting with *build* set the environment variable to `production` - the other will set it to `development`.
-
 ## Deploying to Netlify
 
-- Push your clone to your own GitHub repository.
-- [Create a new site on Netlify](https://app.netlify.com/start) and link the repository.
-
-Now Netlify will build and deploy your site whenever you push to git.
+Netlify will automatically deploy changes to the `master` branch.
 
 You can also click this button:
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/victor-hugo)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://gitlab.com/modille/scarf-website)
 
-
-## Enjoy!! 😸
+## Enjoy!! 🐶
