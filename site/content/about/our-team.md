@@ -30,7 +30,7 @@ Erie, CO
 
 303-774-8824
 
-[starcheysams@msn.com](mailto:starcheysams@msn.com)
+[starcheywsx@msn.com](mailto:starcheywsx@msn.com)
 
 #### Treasurer
 
