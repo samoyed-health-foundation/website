@@ -2953,6 +2953,13 @@ gulp-decompress@^1.2.0:
     gulp-util "^3.0.1"
     readable-stream "^2.0.2"
 
+gulp-flatten@^0.3.1:
+  version "0.3.1"
+  resolved "https://registry.npmjs.org/gulp-flatten/-/gulp-flatten-0.3.1.tgz#51e7fec13a33c404578d18c1589d1b5bc45fe1d6"
+  dependencies:
+    gulp-util "^3.0.7"
+    through2 "^2.0.0"
+
 gulp-postcss@^6.1.1:
   version "6.4.0"
   resolved "https://registry.npmjs.org/gulp-postcss/-/gulp-postcss-6.4.0.tgz#78a32e3c87aa6cdcec5ae1c905e196d478e8c5d5"
