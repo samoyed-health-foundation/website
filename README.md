@@ -1,6 +1,6 @@
 # SCARF
 
-The code for http://samoyedhealthfoundation.com/
+The code for http://samoyedhealthfoundation.org/
 
 ## Overview
 
