@@ -68,6 +68,9 @@ To get a preview of posts or articles not yet published, run:
 
 ```bash
 npm run build-preview
+
+# or to see unfinished pages continuously reload after each change
+npm run start-preview
 ```
 
 ## Structure
