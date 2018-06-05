@@ -22,147 +22,45 @@ paginate = 10
 [menu]
 
 # Main menu
+[[menu.main]]
+  name = "Home"
+  weight = 1
+  url  = "/"
 
 # About
 [[menu.main]]
   name = "About"
-  weight = 1
-[[menu.main]]
-  parent = "About"
-  name = "Our Mission"
-  weight = 1
-  url  = "/about/our-mission"
-[[menu.main]]
-  parent = "About"
-  name = "Our Team"
   weight = 2
-  url  = "/about/our-team"
-[[menu.main]]
-  parent = "About"
-  name = "FAQ"
-  weight = 3
-  url  = "/about/faq"
-[[menu.main]]
-  parent = "About"
-  name = "Past Events"
-  weight = 4
-  url  = "/about/past-sponsored-events"
+  url = "/about"
 
 # Owners
 [[menu.main]]
   name = "Owners"
-  weight = 2
-[[menu.main]]
-  parent = "Owners"
-  name = "The Healthy Samoyed"
-  url  = "/owners/the-healthy-samoyed"
-  identifier = "owners-the-healthy-samoyed"
-  weight = 1
-[[menu.main]]
-  parent = "Owners"
-  name = "Behavior"
-  url  = "/owners/behavior"
-  identifier = "owners-behavior"
-  weight = 2
-[[menu.main]]
-  parent = "Owners"
-  name = "Selecting A Samoyed Puppy"
-  url  = "/owners/selecting-a-samoyed-puppy"
-  identifier = "owners-selecting-a-samoyed-puppy"
   weight = 3
-[[menu.main]]
-  parent = "Owners"
-  name = "To Breed, Or Not To Breed"
-  url  = "/owners/to-breed-or-not-to-breed"
-  weight = 4
-[[menu.main]]
-  parent = "Owners"
-  name = "Health Problems"
-  url  = "/owners/health-problems"
-  identifier = "owners-health-problems"
-  weight = 5
-[[menu.main]]
-  parent = "Owners"
-  name = "Enroll Your Samoyed in a Research Study"
-  url  = "/research"
-  identifier = "owners-research"
-  weight = 6
+  url = "/owners"
 
 # Breeders
 [[menu.main]]
   name = "Breeders"
-  weight = 3
-[[menu.main]]
-  parent = "Breeders"
-  name = "The Healthy Samoyed"
-  url  = "/breeders/the-healthy-samoyed"
-  weight = 1
-[[menu.main]]
-  parent = "Breeders"
-  name = "Genetics"
-  url  = "/breeders/genetics"
-  weight = 2
-[[menu.main]]
-  parent = "Breeders"
-  name = "Breeding"
-  url  = "/breeders/breeding"
-  weight = 3
-[[menu.main]]
-  parent = "Breeders"
-  name = "Behavior"
-  url  = "/breeders/behavior"
   weight = 4
-[[menu.main]]
-  parent = "Breeders"
-  name = "Health Problems"
-  url  = "/breeders/health-problems"
-  weight = 5
-[[menu.main]]
-  parent = "Breeders"
-  name = "Enroll Your Samoyed in a Research Study"
-  url  = "/research"
-  weight = 6
+  url = "/breeders"
 
 # Research
 [[menu.main]]
   name = "Research"
-  weight = 4
-[[menu.main]]
-  parent = "Research"
-  name = "All SCARF sponsored studies"
-  url  = "/research/all-scarf-sponsored-research-studies"
-  weight = 1
-[[menu.main]]
-  parent = "Research"
-  name = "Studies that need samples"
-  url  = "/research/scarf-sponsored-studies-that-need-samples"
-  weight = 2
-[[menu.main]]
-  parent = "Research"
-  name = "How SCARF can defray the cost"
-  url  = "/research/how-scarf-can-help-defray-the-cost"
-  weight = 3
-[[menu.main]]
-  parent = "Research"
-  name = "Other studies"
-  url  = "/research/other-research-studies"
-  weight = 4
-[[menu.main]]
-  parent = "Research"
-  name = "Info for Researchers/Investigators"
-  url  = "/research/researchers-investigators"
   weight = 5
+  url = "/research"
 
 # Diseases
 [[menu.main]]
   name = "Diseases"
   url  = "/diseases/overview"
-  weight = 5
+  weight = 6
 
 # Databases
 [[menu.main]]
   name = "Databases"
-  weight = 6
+  weight = 7
 [[menu.main]]
   parent = "Databases"
   name = "Q & A"
@@ -198,7 +96,7 @@ paginate = 10
 [[menu.main]]
   name = "Blog"
   url  = "/blog/"
-  weight = 7
+  weight = 8
 
 # Top bar social links menu
 

@@ -1,7 +1,8 @@
 +++
-date = "2017-04-05T22:45:08-04:00"
+categories = []
+date = "2017-04-15"
+tags = []
 title = "Behavior"
-draft = false
 +++
 
 <div class="heading mb-small">

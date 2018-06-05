@@ -1,11 +1,9 @@
 +++
 date = "2017-04-05T22:45:08-04:00"
 title = "Other research studies"
-draft = false
 +++
 
-While the following studies are not being funded by SCARF, they may be
-of interest to Samoyed owners:
+<p class="lead">While the following studies are not being funded by SCARF, they may be of interest to Samoyed owners:</p>
 
 **[Canine Genome Project](http://www.samoyedhealthfoundation.com/research/resolveuid/d9eac364d7bac610553e80c13509267f)** -
 The Ostrander Laboratory at the National Human Genome Research Institute at
