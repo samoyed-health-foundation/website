@@ -1,8 +1,9 @@
 +++
 categories = []
 date = "2017-04-15T15:27:16-04:00"
-tags = []
 title = "About us"
+tags = []
+type = "team"
 
 +++
 
@@ -10,7 +11,7 @@ title = "About us"
 <h3>Our Team</h3>
 </div>
 
-Below are the SCARF 2017 Officers and Board of Directors.
+Below are the SCARF 2018 Officers and Board of Directors.
 
 #### President
 
