@@ -16,14 +16,14 @@ draft = false
 -   [**Overview of the
     > Database**](http://www.samoyedhealthfoundation.com/databases/instructions-for-using-the-database-1#Overview%20of%20the%20Database)
 
--   [**Adding my Samoyed\'s records to the Main
+-   [**Adding my Samoyed's records to the Main
     > Database**](http://www.samoyedhealthfoundation.com/databases/instructions-for-using-the-database-1#Adding)
 
--   [**Adding my Samoyed\'s Record to the Companion
+-   [**Adding my Samoyed's Record to the Companion
     > Databases** ](http://www.samoyedhealthfoundation.com/databases/instructions-for-using-the-database-1#Companion%20Databases)**-**Adverse
     > Event and/or Death Report
 
--   [**Updating:  Editing and Modifying your Samoyed\'s
+-   [**Updating:  Editing and Modifying your Samoyed's
     > records**](http://www.samoyedhealthfoundation.com/databases/instructions-for-using-the-database-1#Updating)
 
 -   [**Lost Password
@@ -98,19 +98,19 @@ will be brought up. Your \"***account*** ***name***\" will be your email
 address. Create your own \"***password***\", which should be less than 8
 numbers and/or letters and is case sensitive. The information you
 provide will not be disclosed to anyone without your permission. 
-Continue with [Adding my Samoyed\'s records in the
+Continue with [Adding my Samoyed's records in the
 database](http://www.samoyedhealthfoundation.com/databases/instructions-for-using-the-database-1#Adding) below. 
 
 If you do not have internet access, the paperwork will be sent to you
-with your kit.  Your swabs will have your Samoyed\'s \"***identification
+with your kit.  Your swabs will have your Samoyed's \"***identification
 code***\" on the swab envelopes. You fill out the paperwork using your
-Samoyed\'s  \"***identification code***\", create your own security
+Samoyed's  \"***identification code***\", create your own security
 password and return the completed paperwork, the DNA swabs, the release
 form and a 3-generation pedigree to the bank (DOGenes, Inc.). The Scarf
 Treasurer will be notified by the Bank that you have returned the kit
 and it is complete. The SCA Education and Research Foundation, Inc.
 Treasurer will then re-reimburse you for the DNA bank kit (s).
-The [Treasurer\'s contact
+The [Treasurer's contact
 information](http://www.samoyedhealthfoundation.com/aboutus/scarf-contacts#Adding) and
 further [information on DNA
 Banking](http://www.samoyedhealthfoundation.com/databases/dna-bank-q-a#Adding)can
@@ -155,22 +155,22 @@ Your *\"**account*** ***name**\"* will be your email address. Create
 your own *\"**password**\"*, which should be less than 8 numbers and/or
 letters. The password will be case sensitive. The information you
 provide will not be disclosed to anyone without your permission. The DNA
-Bank is an independent facility and it\'s personnel are not affiliated
+Bank is an independent facility and it's personnel are not affiliated
 with any Samoyed dog organization. Click the ***\"Save Member
 Data\"*** button and you will be returned to the ***\"Samoyed Database
 Member Login\"***.  Fill in your email address and password and you will
-be immediately taken to the \"***Member\'s Home Page***\" where you can
-click the ***\"Add Samoyed\"*** button to begin adding your Samoyed\'s
+be immediately taken to the \"***Member's Home Page***\" where you can
+click the ***\"Add Samoyed\"*** button to begin adding your Samoyed's
 information to the database.
 
  
 
-**Adding my Samoyed\'s Record to the Main Database **\
+**Adding my Samoyed's Record to the Main Database **\
 \
 After logging in, you will be taken to the ***\"Members Home Page\"***. 
 To add a record, click the ***\"Add Samoyed\"*** button which is for
 adding a record to the ***\"main database\"*** . You must enter your
-Samoyed\'s information into the ***\"main database\"*** prior to using
+Samoyed's information into the ***\"main database\"*** prior to using
 either of the companion databases (Adverse Events and Death Reports). 
 Most of the fields in the main database are self explanatory.  There are
 comments in each field to guide you through the data entry process. The
@@ -182,20 +182,20 @@ code\".***
 It is critical to enter this \"***identification code***\" at the
 beginning of the data entry as this code links together all of the
 databases of information (including adverse events and/or death
-reports), that may be accessed at a later date.  You may use your dog\'s
+reports), that may be accessed at a later date.  You may use your dog's
 AKC (or other registry) number or may click on the random number
 generator to get an \"***identification code***\" for your Samoyed. 
 Once you have chosen an ***\"identification code\"*** for your dog and
 added the record, that code **cannot** be changed.
 
-After you enter your Samoyed\'s data, to the best of your ability, click
+After you enter your Samoyed's data, to the best of your ability, click
 the ***\"Add\"*** button at the bottom of the form.  You will be taken
 to a page that says ***\"your record has been saved***\".  Print a copy
 for your records and then click on \"***CONTINUE AND ADD NEW RECORD***\"
 to take you back to the \"***Members Home Page\" ***where you can either
 add a new record, update previously added reports, or logout.
 
-If you can\'t complete your data entry in one session, be sure to click
+If you can't complete your data entry in one session, be sure to click
 the ***\"Add\"*** button at the bottom of the form to save your data
 before leaving the page.  At a later time, you can log back into the
 database from the ***\"Member Login\"*** page.  You will be taken to
@@ -219,7 +219,7 @@ For example:
 
 **List Food Brand(s):** Purina?Eukanuba/Iams ***Incorrect input*** 
 
-**Adding my Samoyed\'s Record to the Companion Databases** - Adverse
+**Adding my Samoyed's Record to the Companion Databases** - Adverse
 Event and/or Death Report
 
 Besides the main database entry which describes in detail information
@@ -231,30 +231,30 @@ and access these databases from the ***\"Members Home Page\"***.  Prior
 to using either of these \"***companion***\" databases, you must have
 already entered this particular dog into the ***\"main\"*** database. 
 You must use the same ***\"identification code\"*** that you used when
-creating your Samoyed\'s original record in the ***\"main\" ***database
+creating your Samoyed's original record in the ***\"main\" ***database
 for these two companion databases so that all of the databases for the
 same Samoyed are linked together. 
 
-After you enter your Samoyed\'s data, click the ***\"Add\"*** button at
+After you enter your Samoyed's data, click the ***\"Add\"*** button at
 the bottom of the form.  You will be taken to a page that says \"***your
 record has been saved***\".  Print a copy for your records and then
 click on \"***CONTINUE AND ADD NEW RECORD***\" to take you back to
 the **\"*Members Home Page\" ***where you can either add a new record or
 update previously added reports.
 
-If you can\'t complete your data entry in one session, be sure to click
+If you can't complete your data entry in one session, be sure to click
 the ***\"Add\"*** button at the bottom of the form to save your data
 before leaving the page.  At a later time, you can log back into the
 database from the ***\"Member Login\"*** page.  You will be taken to
 the  **\"*Members Home Page\" ***where you can click on  the*** \"Update
-Existing Samoyed Records\" ***button.  Your dog\'s records will be
+Existing Samoyed Records\" ***button.  Your dog's records will be
 displayed when you click the appropriate \"***update***\" button (main
 database, death record or adverse event record).  You will have access
 to only your records.
 
  
 
-**Updating: Editing and Modifying your Samoyed\'s records**
+**Updating: Editing and Modifying your Samoyed's records**
 
 After you login to the database from the ***\"Member Login\"*** page,
 your browser will automatically take you to the ***\"Members Home
@@ -314,7 +314,7 @@ Bank.  Note:  All co-owners on the dog must sign the form.\
 
 **Privacy and Security issues associated with the database/bank**
 
-The DNA Bank is an independent facility and it\'s personnel are not
+The DNA Bank is an independent facility and it's personnel are not
 affiliated with any Samoyed dog organization. The ***\"identification
 code\"*** and password are secured and only accessible by two people at
 the bank.  All DNA samples, the accompanying pedigree, and any other
@@ -322,7 +322,7 @@ documents pertaining to that animal or owner, will be released to a
 research facility with no personal or identifying information other than
 the ***\"identification code\"*** which you have assigned to it. 
 
-Your Samoyed\'s records will be stored on a secure server.   The
+Your Samoyed's records will be stored on a secure server.   The
 information is routinely backed up.
 
 Cookies - A cookie is a small data file that is placed on your

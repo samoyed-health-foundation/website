@@ -4,8 +4,8 @@ title = "Adding your Samoyed"
 draft = false
 +++
 
-This database is to be used by owners who wish to enter their Samoyed's information and/or it's DNA into the Samoyed DNA Bank.
-The purpose of this database is to collect data, which reflects a complete description of your Samoyed and it's environment.
+This database is to be used by owners who wish to enter their Samoyed's information and/or its DNA into the Samoyed DNA Bank.
+The purpose of this database is to collect data, which reflects a complete description of your Samoyed and its environment.
 Each Samoyed's data will help to complete a truer picture of our breed.
 The data you supply on this form will be automatically entered into the secure DNA database.
 Periodically, the DNA bank will report anonymous statistical information on the Samoyed breed to the public and research community with no identifying references to the actual Samoyeds or their owners.

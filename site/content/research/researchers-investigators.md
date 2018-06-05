@@ -17,4 +17,4 @@ draft = false
 [SCARF](mailto:research@samoyedhealthfoundation.org?subject=Looking%20for%20Samoyed%20research%20study%20participants)
 
 - Items ineligible for funding...
-[more](http://www.samoyedhealthfoundation.com/research/resolveuid/9306b7203eacc54b1744a23315662f77)
+[more](/research/items-ineligible-for-funding)

@@ -19,10 +19,10 @@ together.
 
 The information you provide will be reported by the DNA Bank to a
 researcher or the Foundation, as anonymous statistical information.  In
-some cases, additional follow up information on your dog\'s condition
+some cases, additional follow up information on your dog's condition
 may be important for a scientific evaluation of the underlying cause of
-your Samoyed\'s health incident. If you wish to be contacted for further
-information on your dog\'s incident, you MUST give PRIOR CONSENT to do
+your Samoyed's health incident. If you wish to be contacted for further
+information on your dog's incident, you MUST give PRIOR CONSENT to do
 so; [CLICK HERE](https://www.dogenes.com/members1.html) to go to the
 page where the Owner Consent form is located.
 

@@ -18,12 +18,12 @@ draft = false
     > is better to have both normal (control) and ill animals for a
     > study?](http://www.samoyedhealthfoundation.com/databases/dna-bank-q-a#4.)
 
-5.  [Most research or DNA banks only ask me to release my animal\'s DNA
+5.  [Most research or DNA banks only ask me to release my animal's DNA
     > for their use in research. Why am I being asked to sign a release
     > document that looks so
     > legal?](http://www.samoyedhealthfoundation.com/databases/dna-bank-q-a#5.)
 
-6.  [Once I enter my animal\'s DNA and information in the Bank, will its
+6.  [Once I enter my animal's DNA and information in the Bank, will its
     > personal information ever become
     > public?](http://www.samoyedhealthfoundation.com/databases/dna-bank-q-a#6.)
 
@@ -35,27 +35,27 @@ draft = false
     > identity of the animal and the
     > owner?](http://www.samoyedhealthfoundation.com/databases/dna-bank-q-a#8.)
 
-9.  [Why would I want to put my Samoyed\'s DNA and data information into
+9.  [Why would I want to put my Samoyed's DNA and data information into
     > the DNA
     > Bank?](http://www.samoyedhealthfoundation.com/databases/dna-bank-q-a#9.)
 
 10. [Why am I asked to sign a transfer of DNA Ownership and Release form
-    > when I enter my Samoyeds\' DNA in the
+    > when I enter my Samoyeds' DNA in the
     > Bank?](http://www.samoyedhealthfoundation.com/databases/dna-bank-q-a#10.)
 
-11. [How do I donate my Samoyed\'s DNA to the DNA Bank
+11. [How do I donate my Samoyed's DNA to the DNA Bank
     > repository?](http://www.samoyedhealthfoundation.com/databases/dna-bank-q-a#11.)
 
 12. [What is the difference between participating in a collection event
     > or requesting a DNA
     > Kit?](http://www.samoyedhealthfoundation.com/databases/dna-bank-q-a#12.)
 
-13. [Is there a service fee for maintaining my Samoyed\'s in the DNA
+13. [Is there a service fee for maintaining my Samoyed's in the DNA
     > Bank
     > Repository?](http://www.samoyedhealthfoundation.com/databases/dna-bank-q-a#13.)
 
 14. [Would there be any future monetary gain either to myself or the
-    > Foundation from the use of my animal\'s
+    > Foundation from the use of my animal's
     > DNA?](http://www.samoyedhealthfoundation.com/databases/dna-bank-q-a#14.)
 
 15. [What is a DNA Bank
@@ -77,7 +77,7 @@ draft = false
 20. [Can non-SCA members donate their Samoyed's DNA to the
     > bank?](http://www.samoyedhealthfoundation.com/databases/dna-bank-q-a#20.)
 
-21. [Can Samoyed owners from outside the USA donate their Samoyed\'s
+21. [Can Samoyed owners from outside the USA donate their Samoyed's
     > DNA?](http://www.samoyedhealthfoundation.com/databases/dna-bank-q-a#21.)
 
 22. [Can I enter a Samoyed who is not registered with any purebred
@@ -109,7 +109,7 @@ draft = false
     > reaction to a drug or
     > product?](http://www.samoyedhealthfoundation.com/databases/dna-bank-q-a#29.)
 
-30. [Does this DNA collection have anything to do with AKC\'s DNA
+30. [Does this DNA collection have anything to do with AKC's DNA
     > program for frequent sires or CHIC/OFA
     > Bank?](http://www.samoyedhealthfoundation.com/databases/dna-bank-q-a#30.)
 
@@ -168,12 +168,12 @@ samples. This would give them a more complete picture of our breed's
 genetic blueprint, which could help the investigators find a treatment
 or test for our breed.
 
-### 5. Most research or DNA banks only ask me to release my animal\'s DNA for their use in research. Why am I being asked to sign a release document that looks so legal?
+### 5. Most research or DNA banks only ask me to release my animal's DNA for their use in research. Why am I being asked to sign a release document that looks so legal?
 
 It is common practice that most research institutions or DNA banks do
-not provide the owner, who is donating their animal\'s DNA for research,
+not provide the owner, who is donating their animal's DNA for research,
 with full disclosure of the owner's rights, as the owner of the
-animal\'s DNA. When you enter a Samoyed into the Samoyed DNA Bank you
+animal's DNA. When you enter a Samoyed into the Samoyed DNA Bank you
 are trusting the Foundation to make the right decisions for our owners
 and our breed. Your Foundation wants you to fully understand all the
 aspects of your DNA ownership. We feel it is your right to know and
@@ -183,10 +183,10 @@ understanding of your property rights.
 
 \[[TOP](http://www.samoyedhealthfoundation.com/databases/dna-bank-q-a#TOP)\]
 
-### 6. Once I enter my animal\'s DNA and information in the Bank, will its personal information ever become public?
+### 6. Once I enter my animal's DNA and information in the Bank, will its personal information ever become public?
 
 No. If a researcher has had success, he/she may publish a scientific
-paper, which may refer to animal\'s by the researcher codes. The owner
+paper, which may refer to animal's by the researcher codes. The owner
 or the dog can never be identified. However, when the owner filled out
 the original paperwork for the Bank, they may permit a researcher to
 contact them for further information on that animal. Also, from time to
@@ -226,7 +226,7 @@ Examples of this might be:
 1.  Each animal is assigned an Identification Code that is password
     > protected. That Identification Code will link all information
     > about the owner and the animal. The DNA Bank is an independent
-    > facility and it\'s personnel are not affiliated with any Samoyed
+    > facility and it's personnel are not affiliated with any Samoyed
     > dog organization. The Identification Code and password are secured
     > and only accessible by 2 people at the bank.
 
@@ -234,9 +234,9 @@ Examples of this might be:
     > information on the animal for those owners with internet access.
 
 3.  Alternatively, paperwork may be filled out in the privacy of the
-    > owners\' home and sent with the swab kit directly to the bank.
+    > owners' home and sent with the swab kit directly to the bank.
 
-4.  In order to access their Samoyed\'s records, owners must provide
+4.  In order to access their Samoyed's records, owners must provide
     > their user name and password.
 
 5.  All DNA Samples, the accompanying pedigree, and any other documents
@@ -246,27 +246,27 @@ Examples of this might be:
 
 \[[TOP](http://www.samoyedhealthfoundation.com/databases/dna-bank-q-a#TOP)\]
 
-### 9. Why would I want to put my Samoyed\'s DNA and data information into the DNA Bank?
+### 9. Why would I want to put my Samoyed's DNA and data information into the DNA Bank?
 
 1.  Each Samoyed has a genetic blueprint, which is a piece of the
-    > Samoyed genetic puzzle, and researchers can use it\'s DNA to map
+    > Samoyed genetic puzzle, and researchers can use it's DNA to map
     > the Samoyed genetic codes.
 
 2.  Collecting information on the Samoyed breed's environment, nutrition
     > and vaccinations can reveal trends that could affect your
-    > Samoyed\'s quality of life.
+    > Samoyed's quality of life.
 
-### 10. Why am I asked to sign a transfer of DNA Ownership and Release form when I enter my Samoyeds\' DNA in the Bank?
+### 10. Why am I asked to sign a transfer of DNA Ownership and Release form when I enter my Samoyeds' DNA in the Bank?
 
 You own the Samoyed and therefore you own anything that is from that
 animal. The Foundation cannot accept responsibility for the maintenance
-of your property (DNA); nor could the Foundation release the animal\'s
+of your property (DNA); nor could the Foundation release the animal's
 DNA and data to a research facility, unless you have given it to the
 Foundation. Therefore, when the owner submits a DNA sample to the Bank,
 it must be accompanied by a signed transfer of ownership & release form,
 which is provided in the DNA kits.
 
-### 11. How do I donate my Samoyed\'s DNA to the DNA Bank repository?
+### 11. How do I donate my Samoyed's DNA to the DNA Bank repository?
 
 1.  You can participate in a collection event held at a local regional
     > club. Upcoming collection events are listed on the home page.
@@ -280,9 +280,9 @@ which is provided in the DNA kits.
 
 If you participate in a collection event:
 
--   You enter all your Samoyed\'s information on-line into a secure data
+-   You enter all your Samoyed's information on-line into a secure data
     > base system using a password that you have created.  You bring the
-    > animal, the animal\'s Identification Code, a copy of the animal/s
+    > animal, the animal's Identification Code, a copy of the animal/s
     > 3-generation pedigree and a signed  DNA release form to the
     > collection site. The local club will have a technician to swab the
     > inside cheek of the animal to collect its skin cells (DNA).
@@ -302,11 +302,11 @@ If you request DNA Kits/s from the DNA Bank:
 
 ### \[[TOP](http://www.samoyedhealthfoundation.com/databases/dna-bank-q-a#TOP)\]
 
-### 13. Is there a service fee for maintaining my Samoyed\'s in the DNA Bank Repository?
+### 13. Is there a service fee for maintaining my Samoyed's in the DNA Bank Repository?
 
 The Foundation has allocated funds to pay for the collection, storage
 and maintenance of all Samoyeds in the DNA Bank. However, the processing
-of fees is different depending on how the animals\' DNA is collected.
+of fees is different depending on how the animals' DNA is collected.
 
 -   If you participate through a local regional club DNA collection
     > event, there will be no outlay of your money.
@@ -317,11 +317,11 @@ of fees is different depending on how the animals\' DNA is collected.
     > to the DNA Bank, you will be re-reimbursed by the Foundation
     > Treasurer for your DNA Bank kit (s).
 
-### 14. Would there be any future monetary gain either to myself or the Foundation from the use of my animal\'s DNA?
+### 14. Would there be any future monetary gain either to myself or the Foundation from the use of my animal's DNA?
 
 No, neither the Foundation nor you would be entitled to any royalties
 that might result from the development of test or treatments. The
-Foundation\'s Samoyed research investigations are funded through another
+Foundation's Samoyed research investigations are funded through another
 non-profit, like the AKC Canine Health Foundation, and their scientific
 advisory board makes determinations on the quality of the research
 study. They would sign a contract allowing grant money to be funneled
@@ -382,10 +382,10 @@ to submitting spent semen straws.
 ### 20. Can non-SCA members donate their Samoyed's DNA to the bank?
 
 Yes, since the purpose of the bank is to house a large cross section
-that is representatives of the breeds\' DNA, all Samoyed owners may
-participate by donating their animals\' DNA.
+that is representatives of the breeds' DNA, all Samoyed owners may
+participate by donating their animals' DNA.
 
-### 21. Can Samoyed owners from outside the USA donate their Samoyed\'s DNA?
+### 21. Can Samoyed owners from outside the USA donate their Samoyed's DNA?
 
 In the initial set up stages, the DNA bank will collect DNA from only
 USA Samoyeds. However, since the mission of the Foundation is the health
@@ -437,7 +437,7 @@ No, you can only submit DNA and data for Samoyeds you currently own.
 ### 27. If I co-own a dog, will all owners have to sign the submittal forms?
 
 If a dog is co-owned, the owner in possession of the Samoyed must submit
-the Samoyed\'s DNA and accompanying data into the Bank. All owners must
+the Samoyed's DNA and accompanying data into the Bank. All owners must
 sign the release document for the DNA and data to be accepted by the
 Bank.
 
@@ -453,11 +453,11 @@ event information on dogs who do not have DNA banked in the repository.
 However, these dogs must be entered into the main database prior to
 filling out the adverse event report.
 
-### 30. Does this DNA collection have anything to do with AKC\'s DNA program for frequent sires or CHIC/OFA Bank?
+### 30. Does this DNA collection have anything to do with AKC's DNA program for frequent sires or CHIC/OFA Bank?
 
 No, the SCA Foundation is a totally separate organization and devoted
 only to improving the quality of life of the Samoyed. Our DNA Bank is
-solely for collecting DNA and data on the Samoyed breed. The AKC\'s DNA
+solely for collecting DNA and data on the Samoyed breed. The AKC's DNA
 program for frequent sires and the CHIC/OFA Bank is collecting data on
 multiple breeds for their own objectives.
 

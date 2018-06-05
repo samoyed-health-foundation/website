@@ -16,7 +16,14 @@ You can subscribe to the GitHub repos listed above to be notified of any changes
 
 ### Hugo starter updates
 
-TODO
+To apply an update to the starter, just download the patch file from GitHub and apply it like so:
+
+```bash
+git apply \
+  ~/Downloads/40defd77c37998935e4f5c94351c2bc572d7f9d6.patch \
+  --exclude package-lock.json \
+  --exclude yarn.lock
+```
 
 ### Theme updates
 
