@@ -7,7 +7,7 @@ title = "About us"
 +++
 
 <div class="heading mb-small">
-<h3>Mission...</h3>
+<h3>Mission</h3>
 </div>
 
 The SCA Education and Research Foundation, Inc. is a non-profit corporation, recognized by the IRS as a 501(C)(3) organization - devoted to improving the health of the Samoyed breed. [more](/about/our-mission)...
@@ -25,6 +25,6 @@ Q What is the SCA Foundation? A The Foundation is a registered 501c3 not-for-pro
 
 
 <div class="heading mb-small">
-<h3>SCARF Contacts</h3>
+<h3>SCARF contacts</h3>
 </div>
 [more](/team/our-team)...
