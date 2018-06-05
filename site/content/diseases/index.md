@@ -1,8 +1,11 @@
 +++
 date = "2017-04-05T22:45:08-04:00"
 title = "Diseases"
-draft = false
 +++
+
+<div class="heading mb-small">
+<h3>Disorders, syndromes and conditions</h3>
+</div>
 
 As in humans, the Samoyed has some intermittently diagnosed diseases and many diseases in a very small percentage of the population that are present, but not significant in the population.
 
@@ -19,12 +22,14 @@ This section is not intended to diagnose or treat an illness, but rather as a ge
 
 # List - A to Z
 
-TODO
+more...
 
-# Most common in Samoyeds
-
-TODO
 
 # List - By system or class
 
-TODO
+more...
+
+
+# Most common in Samoyeds
+
+more...

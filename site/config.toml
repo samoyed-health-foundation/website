@@ -54,7 +54,7 @@ paginate = 10
 # Diseases
 [[menu.main]]
   name = "Diseases"
-  url  = "/diseases/overview"
+  url  = "/diseases"
   weight = 6
 
 # Databases
