@@ -34,7 +34,7 @@ CHIC liaison is [Cheri Hollenback](mailto:SammyMom@aol.com?subject=CHIC)
 
 - [xl-pra from Optigen](http://www.optigen.com/opt9_test_xlpra.html)
 
-- [DNA test for Inherited Retinal Dysplasia/Dwarfism](http://www.samoyedhealthfoundation.com/optigen-dna-test-for-retinal-dysplasia-dwarfism-in-the-samoyed) from Optigen
+- [DNA test for Inherited Retinal Dysplasia/Dwarfism](/optigen-dna-test-for-retinal-dysplasia-dwarfism-in-the-samoyed) from Optigen
 
 - [DNA test for Hereditary Nephritis - Samoyed Hereditary Glomerulopathy](http://www.vetgen.com/canine-hereditary-nephritis.html) from Vetgen
 
@@ -46,7 +46,7 @@ CHIC liaison is [Cheri Hollenback](mailto:SammyMom@aol.com?subject=CHIC)
 
 - A [talking glossary](http://www.genome.gov/Glossary/) of genetic terminology
 
-- [Picking A Puppy - How the genetics of behavior can help you choose the best one for you](http://www.samoyedhealthfoundation.com/breeders/picking-a-puppy) by Susan Thorpe-Vargas Ph.D.
+- [Picking A Puppy - How the genetics of behavior can help you choose the best one for you](/breeders/picking-a-puppy) by Susan Thorpe-Vargas Ph.D.
 
 - [Guide to Hereditary and Congenital Diseases in Dogs](http://siriusdog.com/articles/hereditary-congenital-diseases-dog.htm) by W. Jean Dodds, DVM
 
@@ -68,4 +68,4 @@ CHIC liaison is [Cheri Hollenback](mailto:SammyMom@aol.com?subject=CHIC)
 
 - [Natural Protection of Genetic Variation](http://www.pawpeds.com/pawacademy/general/naturalprotection/) by Dr. Per Eric Sundgren - this makes understanding the importance of the Major Histocompatibility Complex (MHC) to your breeding program very understandable
 
-- [Practical Genetics for Samoyed Breeders and Owners](http://www.samoyedhealthfoundation.com/aboutus/dr-bell-s-lecture.pdf) by Jerold S Bell, DVM, Tufts University School of Veterinary Medicine
+- [Practical Genetics for Samoyed Breeders and Owners](/files/dr_bell_genetics_lecture.pdf) by Jerold S Bell, DVM, Tufts University School of Veterinary Medicine
