@@ -24,32 +24,32 @@ paginate = 10
 # Main menu
 [[menu.main]]
   name = "Home"
-  weight = 1
   url  = "/"
+  weight = 1
 
 # About
 [[menu.main]]
   name = "About"
-  weight = 2
   url = "/about"
+  weight = 2
 
 # Owners
 [[menu.main]]
   name = "Owners"
-  weight = 3
   url = "/owners"
+  weight = 3
 
 # Breeders
 [[menu.main]]
   name = "Breeders"
-  weight = 4
   url = "/breeders"
+  weight = 4
 
 # Research
 [[menu.main]]
   name = "Research"
-  weight = 5
   url = "/research"
+  weight = 5
 
 # Diseases
 [[menu.main]]
@@ -60,37 +60,8 @@ paginate = 10
 # Databases
 [[menu.main]]
   name = "Databases"
+  url = "/databases"
   weight = 7
-[[menu.main]]
-  parent = "Databases"
-  name = "Q & A"
-  url  = "/databases/q-and-a"
-  weight = 1
-[[menu.main]]
-  parent = "Databases"
-  name = "Adding your Samoyed"
-  url  = "/databases/adding-your-samoyed"
-  weight = 2
-[[menu.main]]
-  parent = "Databases"
-  name = "Using the Database"
-  url  = "/databases/using-the-database"
-  weight = 3
-[[menu.main]]
-  parent = "Databases"
-  name = "Incident Report"
-  url  = "/databases/incident-report"
-  weight = 4
-[[menu.main]]
-  parent = "Databases"
-  name = "Death Report"
-  url  = "/databases/death-report"
-  weight = 5
-[[menu.main]]
-  parent = "Databases"
-  name = "Recent Analysis (PDF)"
-  url  = "/files/database_analysis_2015_feb.pdf"
-  weight = 6
 
 # Blog
 [[menu.main]]
