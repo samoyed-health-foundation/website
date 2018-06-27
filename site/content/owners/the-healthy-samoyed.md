@@ -55,7 +55,7 @@ whelping litters, etc.
 
 - [Information on Prescription Diets](http://www.prescriptiondiets.com/)
 
-- [Pet Food Recall Information ](http://www.samoyedhealthfoundation.com/dog-food-recall-information)
+- [Pet Food Recall Information ](/dog-food-recall-information)
 
 <div class="heading mb-small">
 <h3>Toxic Plants and Poisons</h3>
