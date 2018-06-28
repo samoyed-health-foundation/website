@@ -223,8 +223,7 @@ inside cheek of the animal to collect its skin cells (DNA).
 If you request DNA Kits/s from the DNA Bank:
 
 -   You will pay for each kit on line. When you receive the kits, you
-will follow the [instructions for swabbing the inside
-cheek](http://www.samoyedhealthfoundation.com/databases/cheek-swab-sampling-instructions) of
+will follow the [instructions for swabbing the inside cheek](/databases/cheek-swab-sampling-instructions) of
 each animal. The paperwork will have an assigned Identification
 Code. You fill out the paperwork, create your security password
 and return the completed paperwork, the DNA swabs, the release
