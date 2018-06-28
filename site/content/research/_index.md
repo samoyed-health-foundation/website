@@ -7,7 +7,7 @@ title = "Research"
 +++
 
 
-<p class="lead"><i class="fa fa-puzzle-piece"></i> Is your Samoyed a missing piece of the puzzle???</p>
+<i class="fa fa-puzzle-piece"></i> Is your Samoyed a missing piece of the puzzle???
 
 
 <div class="heading mb-small">
