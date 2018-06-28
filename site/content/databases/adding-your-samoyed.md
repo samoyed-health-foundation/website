@@ -25,7 +25,7 @@ Thank you for taking your time to make a difference. You and your
 Samoyed's participation in this DNA bank is creating the building
 blocks necessary to make all our Samoyed's lives healthier and happier.
 
-[Instructions for Using the Database](http://www.samoyedhealthfoundation.com/databases/instructions-for-using-the-database-1) -
+[Instructions for Using the Database](/databases/using-the-database) -
 becoming a member, logging in, adding records, editing records, etc.
 
 This is a link to the secure [DNA Database Members Page](https://www.dogenes.com/members1.html).
