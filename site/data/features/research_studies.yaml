@@ -3,4 +3,4 @@ weight: 3
 name: "Research Studies"
 icon: "fa fa-flask"
 description: "We sponsor research studies, help collect DNA samples as well as funding for research studies, and guide researchers through the process of performing a research study."
-url: "/research/all-scarf-sponsored-research-studies"
+url: "/research"
