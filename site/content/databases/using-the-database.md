@@ -32,7 +32,7 @@ Participation the SCARF DNA banking project is open to all owners of
 Samoyeds.
 
 Before you participate please go to the SCARF
-website: [http://www.samoyedhealthfoundation.org](http://www.samoyedhealthfoundation.com/).
+website: [http://www.samoyedhealthfoundation.org](http://www.samoyedhealthfoundation.org/).
 Follow the link to Databases (top menu) and review
 the [Q&A](/databases/q-and-a) section
 for a complete explanation of the DNA Banking process.
@@ -87,7 +87,7 @@ and it is complete. The SCA Education and Research Foundation, Inc.
 Treasurer will then re-reimburse you for the DNA bank kit(s).
 The [Treasurer's contact information](/team/our-team) and
 further [information on DNA Banking](/databases/q-and-a) can
-be found at [http://www.samoyedhealthfoundation.org](http://www.samoyedhealthfoundation.com/).
+be found at [http://www.samoyedhealthfoundation.org](http://www.samoyedhealthfoundation.org/).
 
 ### Overview of the Database {#overview-of-the-database}
 
