@@ -85,4 +85,4 @@ The focus of this group is to influence legislation.
   - [http://saova.org/download.html](http://saova.org/download.html)
   - [http://www.ncraoa.com/download.html](http://www.ncraoa.com/download.html)
 - 7 things you did not know about [HSUS](http://www.consumerfreedom.com/downloads/reference/docs/200810_CCF_7Things_HSUS.pdf) and [Peta](http://www.consumerfreedom.com/downloads/reference/docs/200810_CCF_7Things_PETA.pdf) from the Center for Consumer Freedom
-- [The Truth About Animal Rights brochure](http://www.samoyedhealthfoundation.org/The%20Truth%20About%20Animal%20Rights.pdf) (pdf)
+- [The Truth About Animal Rights brochure](/files/The_Truth_About_Animal_Rights.pdf) (pdf)
