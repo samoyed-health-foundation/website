@@ -8,11 +8,11 @@ Samples from Samoyeds are needed for these SCARF sponsored research studies:
 
 #### Closed Studies
 
-- [Bloat Study](http://www.samoyedhealthfoundation.com/research/current-research-studies/bloat-study)
+- [Bloat Study](/research/current-studies/bloat-study)
 
-- [AKCCHF grant \#00366](http://www.samoyedhealthfoundation.com/research/current-research-studies/akcchf-grant-0366/akcchf-grant-366) -
+- [AKCCHF grant \#00366](/research/current-studies/akcchf-grant-0366) -
 Mammary Cancer Research to benefit dogs and
-humans! - [more](http://www.samoyedhealthfoundation.com/research/current-research-studies/akcchf-grant-0366/akcchf-grant-366)\...
+humans! - [more](/research/current-studies/akcchf-grant-0366)\...
 
 ----
 
