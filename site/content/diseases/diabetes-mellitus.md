@@ -83,10 +83,10 @@ extremely elevated (600+ mg/dL).
 
 ## Treatment Guidelines
 
-Note: Treatment of animals should only be performed by a licensed
-veterinarian. Veterinarians should consult the current literature and
-current pharmacological formularies before initiating any treatment
-protocol.
+> Note: Treatment of animals should only be performed by a licensed
+> veterinarian. Veterinarians should consult the current literature and
+> current pharmacological formularies before initiating any treatment
+> protocol.
 
 Treatment is insulin. Oral Hypoglycemic agents are rarely used in
 canines. Typical treatment is two injections a day given 12 hours a
