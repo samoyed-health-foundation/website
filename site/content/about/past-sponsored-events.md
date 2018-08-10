@@ -64,3 +64,22 @@ title = "Past Events"
 
 - Sponsored a genetics seminar given by Dr. Jerold S. Bell, DVM at the SCA National Specialty
   - <i class="fa fa-file"></i> [Click here](/files/dr_bell_genetics_lecture.pdf) for a printable pdf version of the lecture
+
+<div class="heading mb-small">
+<h3>Collection clinics</h3>
+</div>
+
+#### 2012
+
+- Samoyed Club of Central Arizona
+- Samoyed Association of Minneapolis St Paul
+
+#### 2011
+
+- Pittsburgh Samoyed Club
+
+#### 2010
+
+- Samoyed Fanciers of Central Florida
+- Barbary Coast Samoyed Club
+- Spirit of St Louis Samoyed Club
