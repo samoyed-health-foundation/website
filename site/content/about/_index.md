@@ -21,7 +21,7 @@ Q What is the SCA Foundation? A The Foundation is a registered 501c3 not-for-pro
 <div class="heading mb-small">
 <h3>Past sponsored events</h3>
 </div>
-2002 - sponsored a genetics seminar given by Dr. Jerold S. Bell, DVM at the SCA National Specialty [more](/about/past-sponsored-events)...
+2018 - Co-sponsor the heart and eye clinics for samoyeds at the 2018 Samoyed Club of America National Specialty [more](/about/past-sponsored-events)...
 
 
 <div class="heading mb-small">
