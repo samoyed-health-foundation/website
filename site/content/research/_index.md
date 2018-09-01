@@ -23,6 +23,12 @@ title = "Research"
 
 
 <div class="heading mb-small">
+<h3>All SCARF sponsored collection clinics</h3>
+</div>
+[more](/research/research-study-collection-clinics)....
+
+
+<div class="heading mb-small">
 <h3>How SCARF can help defray the cost...</h3>
 </div>
 of participating in one of our sponsored research studies - [more](/research/how-scarf-can-help-defray-the-cost)...
