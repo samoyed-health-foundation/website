@@ -9,7 +9,7 @@ title = "AKCCHF grant #00366"
 **Monique Dore, DVM PhD, University of Montreal.**
 
 Mammary Cancer Research to benefit dogs and humans!  This is an
-extension of the [previous study (AKCCHF\#02222)](http://www.samoyedhealthfoundation.com/research/current-research-studies/akcchf-grant-02222-closed) on
+extension of the [previous study (AKCCHF\#02222)](/research/current-studies/akcchf-grant-02222-closed) on
 the connection between elevated levels of the COX-2 enzyme and the
 development of mammary tumors.  So far, Doré's research has shown
 "that COX-2 was not expressed in the normal (mammary) gland but was

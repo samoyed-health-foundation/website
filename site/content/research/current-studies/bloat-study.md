@@ -2,6 +2,8 @@
 title = "Bloat Study (closed)"
 +++
 
+> **Update:** This research study is complete.  Samples are no longer required.
+
 # >100 DNA samples needed for SCARF funded Bloat study
 
 In 1987 the Morris Animal Foundation reported that there were approximately 60,000 cases of bloat in dogs in the USA with a mortality rate ranging from 7 -60 % depending on accessibility to adequate veterinary care.    Clearly the understanding of this process at the molecular level and studies of the physiology of GDV are of importance to owners and breeders of purebred dogs.

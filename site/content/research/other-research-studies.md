@@ -5,14 +5,14 @@ title = "Other research studies"
 
 <p class="lead">While the following studies are not being funded by SCARF, they may be of interest to Samoyed owners:</p>
 
-**[Canine Genome Project](http://www.samoyedhealthfoundation.com/research/resolveuid/d9eac364d7bac610553e80c13509267f)** -
+**[Canine Genome Project](/research/canine-genome-research-at-the-ostrander-lab)** -
 The Ostrander Laboratory at the National Human Genome Research Institute at
 NIH is soliciting donations of blood samples from pure bred dogs for
 canine health research.
 They are working on projects to help reduce the
 incidence of inherited diseases, and to understand disease patterns
 across breeds...
-[more](http://www.samoyedhealthfoundation.com/research/resolveuid/d9eac364d7bac610553e80c13509267f)
+[more](/research/canine-genome-research-at-the-ostrander-lab)
 
 ---
 
@@ -33,7 +33,7 @@ Institutes of Health/National Cancer Institute to study five types of
 cancer that occur in both dogs and humans. The ultimate goal is to
 develop improved diagnostics and more individualized therapies for both
 canines and people...
-[more](http://www.samoyedhealthfoundation.com/research/resolveuid/cb0ad1455a921df69a1f39f48595cfff)
+[more](/research/cancer-research-at-van-andel-institute)
 
 ---
 
@@ -55,7 +55,7 @@ these families are as important to sample as the affected dogs. Complete
 or nearly complete families are critical to the success of this
 research. Participation in the project is confidential -- the names of
 individual owners or dogs will not be
-revealed."...[more](http://www.samoyedhealthfoundation.com/research/resolveuid/f8689211ae5012fd2678df7642191255)
+revealed."...[more](/research/glaucoma-research)
 
 ---
 

@@ -17,4 +17,4 @@ humans! - [more](/research/current-studies/akcchf-grant-0366)\...
 ----
 
 You may also participate in the
-[Samoyed DNA bank/databases](/database)
+[Samoyed DNA bank/databases](/databases)
