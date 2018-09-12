@@ -22,10 +22,6 @@ paginate = 10
 [menu]
 
 # Main menu
-[[menu.main]]
-  name = "Home"
-  url  = "/"
-  weight = 1
 
 # About
 [[menu.main]]
