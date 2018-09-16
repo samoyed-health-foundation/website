@@ -1,5 +1,5 @@
 +++
-title = "AKCCHF Grant #01699-A (open)"
+title = "AKCCHF Grant #01699-A"
 +++
 
 ### Preventing Inaccurate Diagnosis of Brucellosis
