@@ -1,10 +1,8 @@
 +++
-title = "Diseases"
+title = "Diabetes mellitus"
 +++
 
-# Diabetes mellitus
-
-## Summary
+# Summary
 
 Diabetes mellitus (DM) is a disorder where the body is unable to
 regulate blood sugar levels.
@@ -25,7 +23,7 @@ The body eliminates excess blood glucose by filtering it through the kidneys and
 
 </details>
 
-## Signs and Symptoms
+# Signs and Symptoms
 
 The classic signs of diabetes are
 
@@ -46,7 +44,7 @@ Dogs are often diagnosed with diabetes because the owner notices the dog
 has suddenly gone blind. This is due to the rapid cataract development
 that often occurs in diabetic dogs.
 
-## Causes
+# Causes
 
 -   genetic
 
@@ -59,7 +57,7 @@ that often occurs in diabetic dogs.
 
 -   predisposing diseases: hyperadrenocorticism, acromegaly
 
-## Risk Factors
+# Risk Factors
 
 -   OBESITY - both obese cats and dogs are at risk for developing type
     II diabetes. Cats over 15 pounds are at high risk.
@@ -70,7 +68,7 @@ that often occurs in diabetic dogs.
 -   Breed predisposition: Samoyeds are about 12 times more likely to
     develop diabetes compared to mixed breed dogs.
 
-## Diagnostic Tests
+# Diagnostic Tests
 
 A diagnosis of DM is made based on clinical signs, physical exam, and
 lab tests. Findings typically include persistent hyperglycemia (elevated
@@ -81,7 +79,7 @@ Normal blood glucose values range from about 80-120 mg/dL. Diabetic
 animals can have blood glucose values that are moderately elevated, or
 extremely elevated (600+ mg/dL).
 
-## Treatment Guidelines
+# Treatment Guidelines
 
 > Note: Treatment of animals should only be performed by a licensed
 > veterinarian. Veterinarians should consult the current literature and
@@ -108,7 +106,7 @@ their blood glucose.  Home blood glucose monitoring should be performed
 in consultation with your veterinarian.
 
 
-## Management
+# Management
 
 
 Diabetes can be controlled and your dog can live a long quality life
@@ -118,7 +116,7 @@ significant financial contribution, especially at first. Education,
 patience and commitment will make caring for your Diabetic Samoyed a
 rewarding experience.
 
-## Support Groups
+# Support Groups
 
 <http://www.caninediabetes.org/maillists.html> 
 
@@ -130,7 +128,7 @@ Please note it is the number one and not an L at the end of netwrx.
 Leave the subject line blank.
 Write **subscribe rainbowbridge** in the body of the letter.
 
-## Suggested Links
+# Suggested Links
 
 <http://www.caninediabetes.org/pdorg/>
 {{< rating 2 >}}
@@ -169,7 +167,7 @@ is a godsend to the Diabetic pet caretaker.
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-## Current Research
+# Current Research
 
 - [SCARF-Sponsored Research](http://www.samoyedhealthfoundation.org/diseases/diabetes-mellitus/akcchf-grant-610)
 
@@ -177,7 +175,7 @@ is a godsend to the Diabetic pet caretaker.
 
 - [Other research involving Samoyeds](http://www.samoyedhealthfoundation.org/diseases/diabetes-mellitus/other-research-involving-samoyeds)
 
-## "Living with a Disorder" Journal Entries
+# "Living with a Disorder" Journal Entries
 
 - [a labor of love](http://www.samoyedhealthfoundation.org/diseases/diabetes-mellitus/a-labor-of-love)
 

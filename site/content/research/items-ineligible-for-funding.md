@@ -1,7 +1,5 @@
 +++
-date = "2017-04-05T22:45:08-04:00"
 title = "Items Ineligible for Funding"
-draft = false
 +++
 
 - The purchase of dogs

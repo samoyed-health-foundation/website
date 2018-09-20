@@ -2,9 +2,9 @@
 title = "British Samoyed Club"
 +++
 
-<div class="heading mb-small">
-<h3>Eye testing</h3>
-</div>
+
+# Eye testing
+
 
 by Hazel Fitzgibbon,
 SCARF Foreign Liaison

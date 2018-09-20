@@ -1,7 +1,5 @@
 +++
-date = "2017-04-05T22:45:08-04:00"
 title = "To Breed or Not To Breed"
-draft = false
 +++
 
 - [Breeding Your Samoyed](http://www.samoyed.org/SCA/documents/scabreedingyoursamoyed.pdf) - a Samoyed Club of America publication

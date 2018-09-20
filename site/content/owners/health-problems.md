@@ -1,20 +1,18 @@
 +++
-date = "2017-04-05T22:45:08-04:00"
 title = "Health Problems"
-draft = false
 +++
 
-<div class="heading mb-small">
-<h3>General</h3>
-</div>
+
+# General
+
 
 - [Samoyed specific health disorders/diseases](/diseases/disorders-syndromes-and-conditions)
 
 - [Samoyed health links](http://www.mirage-samoyeds.com/healthlinks1.htm)
 
-<div class="heading mb-small">
-<h3>Whelping and Early Puppyhood</h3>
-</div>
+
+# Whelping and Early Puppyhood
+
 
 - [Fading Puppy Syndrome](http://www.dogsworldwide.com/drdog/contributions/vb2.htm) by Val Brown on Dogs Worldwide website
 
@@ -42,9 +40,9 @@ draft = false
 
 - [Eclampsia (Milk Fever or Puerperal Tetany)](http://www.peteducation.com/article.cfm?cls=2&cat=1554&articleid=1505) by Race Foster, DVM and Marty Smith, DVM
 
-<div class="heading mb-small">
-<h3>Pharmacy</h3>
-</div>
+
+# Pharmacy
+
 
 > Always ask for an "information sheet" on the prescribed medication and read it before administering the medication to your pet.
 
@@ -86,9 +84,9 @@ collection of links on the thepetquardian.com website
 - **[Brochure on how to use NSAIDS (pain relief medications) safely](http://www.fda.gov/downloads/AnimalVeterinary/NewsEvents/CVMUpdates/UCM054572.pdf) - this could save your dog's life.**
 
 
-<div class="heading mb-small">
-<h3>Laboratory</h3>
-</div>
+
+# Laboratory
+
 
 - [What do those lab tests mean?](http://www.vetmed.wsu.edu/ClientED/lab.asp)
 

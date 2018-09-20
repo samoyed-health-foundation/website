@@ -1,13 +1,12 @@
 +++
 date = "2017-04-15T15:26:28-04:00"
 title = "Dog Food Recall Information"
-
 +++
 
 
-<div class="heading mb-small">
-<h3>Suggested Links</h3>
-</div>
+
+# Suggested Links
+
 
 [http://www.itchmo.com/](http://www.itchmo.com/) - The most current information. You can sign up to receive email notifications of any recalls as they are happening.
 
@@ -15,9 +14,9 @@ title = "Dog Food Recall Information"
 
 [FDA Pet Food Recalls Product List](http://www.accessdata.fda.gov/scripts/newpetfoodrecalls/)
 
-<div class="heading mb-small">
-<h3>News Articles</h3>
-</div>
+
+# News Articles
+
 
 From the *New York Times*:
 

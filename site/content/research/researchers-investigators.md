@@ -1,7 +1,5 @@
 +++
-date = "2017-04-05T22:45:08-04:00"
 title = "Info for Research/Investigators"
-draft = false
 +++
 
 - Why the Samoyed is the breed of choice for research studies?...

@@ -2,9 +2,9 @@
 title = "NCSF"
 +++
 
-<div class="heading mb-small">
-<h3>A note from NCSF...</h3>
-</div>
+
+# A note from NCSF...
+
 
 > "NCSF held our annual match on October 14th. In addition to the usual Fall festivities, 13 Samoyeds participated in the University of Pennsylvania study of diabetes mellitus in Samoyeds. Blood was drawn from these healthy dogs, some with diabetic relatives, some without. The blood samples were then sent to the University's Assistant Professor of Internal Medicine, Rebecka S. Hess, DVM, Diplomate ACVIM for inclusion. We are to date, the first club and group of Sammy owners/exhibitors to participate in this very important study.
 

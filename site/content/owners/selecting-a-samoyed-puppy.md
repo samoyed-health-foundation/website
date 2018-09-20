@@ -1,7 +1,5 @@
 +++
-date = "2017-04-05T22:45:08-04:00"
 title = "Selecting A Samoyed Puppy"
-draft = false
 +++
 
 - [Buyers Guide](http://www.samoyed.org/SCA/buyone.html) from the Samoyed Club of America (SCA)

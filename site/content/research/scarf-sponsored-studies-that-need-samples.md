@@ -1,12 +1,10 @@
 +++
-date = "2017-04-05T22:45:08-04:00"
 title = "Studies that need samples"
-draft = false
 +++
 
 Samples from Samoyeds are needed for these SCARF sponsored research studies:
 
-#### Closed Studies
+# Closed Studies
 
 - [Bloat Study](/research/current-studies/bloat-study)
 

@@ -2,9 +2,9 @@
 title = "DSA"
 +++
 
-<div class="heading mb-small">
-<h3>DSA helps Thyroid Research</h3>
-</div>
+
+# DSA helps Thyroid Research
+
 
 On a treacherous winter day in December, 7 members from the Denver Samoyed Association and friends along with 11 of their fuzzy friends, braved the icy and snow packed streets in almost blizzard conditions to attend the thyroid clinic to assist SCARF and benefit the breed.
 

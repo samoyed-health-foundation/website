@@ -1,16 +1,14 @@
 +++
-date = "2017-04-05T22:45:08-04:00"
 title = "All SCARF sponsored studies"
-draft = false
 +++
 
 You can read about how AKCCHF approves grant proposals at http://www.akcchf.org/research/application-process/.
 
 You can read about how MAF approves grant proposals at http://www.morrisanimalfoundation.org/for-grant-seekers/.
 
-<div class="heading mb-small">
-<h3>Samples requested</h3>
-</div>
+
+# Samples requested
+
 
 - [2012 Bloat Study](/research/current-studies/bloat-study)
 
@@ -22,9 +20,9 @@ humans! - [more](/research/current-studies/akcchf-grant-0366)\...
 You may also participate in the
 [Samoyed DNA bank/databases](/databases)
 
-<div class="heading mb-small">
-<h3>Funded Research Grants (2015)</h3>
-</div>
+
+# Funded Research Grants (2015)
+
 
 #### AKC CANINE HEALTH FOUNDATION OAK GRANTS
 
@@ -80,9 +78,9 @@ Understanding the Transmission Risk of Bacterial Infections between
 Therapy Dogs and Kids with Cancer.  Dr. Allen R. Chen, Johns Hopkins
 University \[[final report](/files/D15CA-802 FinalReport.pdf)\]
 
-<div class="heading mb-small">
-<h3>Funded Research Grants (2013)</h3>
-</div>
+
+# Funded Research Grants (2013)
+
 
 #### AKC CANINE HEALTH FOUNDATION OAK GRANTS
 
@@ -161,9 +159,9 @@ report](/files/D13CA-802.pdf)\]
 
 
 
-<div class="heading mb-small">
-<h3>Funded Research Grants (2012)</h3>
-</div>
+
+# Funded Research Grants (2012)
+
 
 #### AKC CANINE HEALTH FOUNDATION GRANTS
 
@@ -216,9 +214,9 @@ update](/files/D12MS-002 update.pdf)\] [\[final
 report\]](/files/D12MS-002 Final Report.pdf)
 
 
-<div class="heading mb-small">
-<h3>Funded Research Grants (2011)</h3>
-</div>
+
+# Funded Research Grants (2011)
+
 
 - [AKCCHF grant \#01670-A (closed):](/research/current-studies/akcchf-grant-01670-a)
 Pinpointing the causal mutation(s) underlying a genome-wide association
@@ -226,9 +224,9 @@ signal for hereditary cataract in Northern breeds.  Sally L Ricketts,
 PhD, Animal Health Trust  \[$2000\]
 
 
-<div class="heading mb-small">
-<h3>Funded Research Grants (2010)</h3>
-</div>
+
+# Funded Research Grants (2010)
+
 
 #### AKC CANINE HEALTH FOUNDATION GRANTS
 
@@ -297,9 +295,9 @@ Inc.
 
 
 
-<div class="heading mb-small">
-<h3>Funded Research Grants (2009)</h3>
-</div>
+
+# Funded Research Grants (2009)
+
 
 - [Rabies Challenge Fund](http://www.rabieschallengefund.org/) [\[Summary\]](http://www.rabieschallengefund.org/latest/summary-of-the-rabies-challenge-fund-duration-of-immunity-study)
 
@@ -360,9 +358,9 @@ report](/files/1240-A EY1 FINAL Summary \(2\).pdf)\]
 
 
 
-<div class="heading mb-small">
-<h3>Funded Research Grants (2008)</h3>
-</div>
+
+# Funded Research Grants (2008)
+
 
 - [AKCCHF grant \#00613
 (closed):](/research/current-studies/akcchf-grant-00613)  The
@@ -431,9 +429,9 @@ Story](http://www.akcchf.org/research/success-stories/survivin-canine-osteosarco
 
 
 
-<div class="heading mb-small">
-<h3>Funded Research Grants (2007)</h3>
-</div>
+
+# Funded Research Grants (2007)
+
 
 - [AKCCHF Grant \#00366
 (closed):](/research/current-studies/akcchf-grant-0366)  Molecular
@@ -450,9 +448,9 @@ of Genetic Markers for Diabetes Mellitus in Samoyed and Australian
 Terrier Dogs.  Rebecka S Hess, DVM DACVIM, University of Pennsylvania
 School of Veterinary Medicine.  \[Additional funding $10,000\]
 
-<div class="heading mb-small">
-<h3>Funded Research Grants (2006)</h3>
-</div>
+
+# Funded Research Grants (2006)
+
 
 - [AKCCHF Grant \#00305 (closed):](/research/current-studies/akcchf-grant-305)
 Histocompatibility Alleles Conferring Susceptibility to Canine Diabetes,
@@ -475,9 +473,9 @@ School of Veterinary Medicine. \[$10,000\]
 
 
 
-<div class="heading mb-small">
-<h3>Funded Research Grants (2005)</h3>
-</div>
+
+# Funded Research Grants (2005)
+
 
 - [AKCCHF Grant \#00305 (closed):](/research/current-studies/akcchf-grant-305)
 Histocompatibility Alleles Conferring Susceptibility to Canine Diabetes,
@@ -502,9 +500,9 @@ Hormones.  Rebecca L Davies, PhD; Sheila Torres, DVM MS PhD DACVD.
 
 
 
-<div class="heading mb-small">
-<h3>Funded Research Grants (2002)</h3>
-</div>
+
+# Funded Research Grants (2002)
+
 
 - [AKCCHF Grant \#02222 (closed): ](/research/current-studies/akcchf-grant-02222)Molecular
 Control of Prostaglandin Synthesis in Canine Mammary Tumors.  Monique
@@ -512,9 +510,9 @@ Dore, DVM PhD, University of Montreal.
 
 
 
-<div class="heading mb-small">
-<h3>Funded Research Grants (2001)</h3>
-</div>
+
+# Funded Research Grants (2001)
+
 
 - [AKCCHF Grant \#02277 (closed): ](/research/current-studies/akcchf-grant-02277) Identification
 of the Genetic Cause or Causes for Cataracts in Several Breeds.  George
@@ -522,9 +520,9 @@ J Brewer MD, University of Michigan.  \[$3000\]
 
 
 
-<div class="heading mb-small">
-<h3>Funded Research Grants (prior to 2001)</h3>
-</div>
+
+# Funded Research Grants (prior to 2001)
+
 
 - [AKCCHF Grant \#01637 (closed):](/research/current-studies/akcchf-grant-01637) Identification
 of DNA Marker(s) for Cataracts in Purebred Dogs, with Emphasis on the

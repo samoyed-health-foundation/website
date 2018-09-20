@@ -1,7 +1,5 @@
 +++
-date = "2017-04-05T22:45:08-04:00"
 title = "The Healthy Samoyed"
-draft = false
 +++
 
 - [The Healthy Dog](http://www.akc.org/public_education/healthy_dog.cfm) from the American Kennel Club
@@ -13,9 +11,9 @@ draft = false
 - [Temperature Adaptation in Northern Dogs](http://www.samoyed.org/heat.html) by Ted Greenlee -
 including the reasons you do not want to shave your Samoyed's coat
 
-<div class="heading mb-small">
-<h3>Holistic/Alternative Medicine</h3>
-</div>
+
+# Holistic/Alternative Medicine
+
 
 - [American Holistic Veterinary Medical Association](http://www.ahvma.org/)
 
@@ -25,9 +23,9 @@ including the reasons you do not want to shave your Samoyed's coat
 
 - [American Veterinary Chiropractic Association](http://www.avcadoctors.com/) and [How to Locate a Practitioner](http://www.avcadoctors.com/search_for_avca_certified_doctor.htm)
 
-<div class="heading mb-small">
-<h3>Vaccination Information</h3>
-</div>
+
+# Vaccination Information
+
 
 - [2006 AAHA Canine Vaccine Guidelines](http://www.aahanet.org/PublicDocuments/VaccineGuidelines06Revised.pdf) - pdf
 
@@ -37,9 +35,9 @@ including the reasons you do not want to shave your Samoyed's coat
 
 - [The Vaccination Website for Dogs and Cats by Richard B. Ford, DVM, MS](http://www.dvmvac.com/)
 
-<div class="heading mb-small">
-<h3>Nutrition</h3>
-</div>
+
+# Nutrition
+
 
 - [Dog Food Analysis](http://www.dogfoodanalysis.com/) - an independent site for dog food information and reviews
 
@@ -57,9 +55,9 @@ whelping litters, etc.
 
 - [Pet Food Recall Information ](/dog-food-recall-information)
 
-<div class="heading mb-small">
-<h3>Toxic Plants and Poisons</h3>
-</div>
+
+# Toxic Plants and Poisons
+
 
 - [Nestle Purina](http://www.purina.com/dogs/safety/PoisonousPlants.aspx) has a basic list of toxic plants on their website.
 

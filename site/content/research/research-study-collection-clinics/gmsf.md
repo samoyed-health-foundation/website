@@ -2,9 +2,9 @@
 title = "GMSF"
 +++
 
-<div class="heading mb-small">
-<h3>GMSF Diabetes Collection Event</h3>
-</div>
+
+# GMSF Diabetes Collection Event
+
 
 On Saturday, November 4, 2006 the Greater Milwaukee Samoyed Fanciers held a “blood drive” of a different sort.
 Robin Barkhaus got the ball rolling on this event. As part of the November GMSF meeting, the Club members donated the blood samples of 7 Samoyeds for Dr. Rebecca Hess’ diabetes study on Samoyeds at the University Pennsylvania.

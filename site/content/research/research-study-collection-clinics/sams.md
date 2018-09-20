@@ -2,9 +2,9 @@
 title = "SAMS"
 +++
 
-<div class="heading mb-small">
-<h3>SAMS Collection Clinic</h3>
-</div>
+
+# SAMS Collection Clinic
+
 
 On August 28th, blood was collected by the members of SAMS and sent to the [Dr Hess grant studying diabetes](/research/current-research-studies/akcchf-grant-610), funded by the SCA Research Foundation.
 

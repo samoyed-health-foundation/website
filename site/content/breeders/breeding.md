@@ -1,12 +1,10 @@
 +++
-date = "2017-04-05T22:45:08-04:00"
 title = "Breeding"
-draft = false
 +++
 
-<div class="heading mb-small">
-<h3>General</h3>
-</div>
+
+# General
+
 
 - [Breeder Vet Articles](http://www.showdogsupersite.com/featx.html#bvet) by Mary Wakeman, DVM Ashford Animal Clinic, Canine Fertility Center
 
@@ -14,9 +12,9 @@ draft = false
 
 - [Breeding, Whelping, and Rearing Puppies FAQ](http://www.faqs.org/faqs/dogs-faq/medical-info/whelping/) by Liza Lee Miller
 
-<div class="heading mb-small">
-<h3>Reproduction</h3>
-</div>
+
+# Reproduction
+
 
 - [Canine Reproduction](http://www.labbies.com/canine_reproduction_table_of_con.htm) by Pamela A. Davol on the labbies.com website
 

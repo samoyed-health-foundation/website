@@ -1,12 +1,10 @@
 +++
-date = "2017-04-05T22:45:08-04:00"
 title = "Behavior"
-draft = false
 +++
 
-<div class="heading mb-small">
-<h3>Training And Behavior</h3>
-</div>
+
+# Training And Behavior
+
 
 - [Living with Your Samoyed](http://www.samoyed.org/SCA/documents/scalivingwithyoursamoyed.pdf) - a Samoyed Club of America publication
 
@@ -34,9 +32,9 @@ draft = false
 
 - [Illness Related Anxiety](http://www.jojoreader.com/reader/anx.html) - very interesting article on how behavioral changes may indicate a medical problem in your dog
 
-<div class="heading mb-small">
-<h3>Microchipping</h3>
-</div>
+
+# Microchipping
+
 
 - [Be Prepared](http://www.breedingbetterdogs.com/prepared.html) by Dr. Carmen L. Battaglia
 

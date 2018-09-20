@@ -1,12 +1,10 @@
 +++
-date = "2017-04-05T22:45:08-04:00"
 title = "Genetics"
-draft = false
 +++
 
-<div class="heading mb-small">
-<h3>Registries</h3>
-</div>
+
+# Registries
+
 
 - Closed registries release only normal results to the public.
   - PennHIP and Canine Eye Registration Foundation (CERF) are examples of closed registries.
@@ -26,9 +24,9 @@ jointly sponsored by the AKC/Canine Health Foundation (AKC/CHF) and the
 Orthopedic Foundation for Animals (OFA)  For more information, the SCA
 CHIC liaison is [Cheri Hollenback](mailto:SammyMom@aol.com?subject=CHIC) 
 
-<div class="heading mb-small">
-<h3>Gene Tests</h3>
-</div>
+
+# Gene Tests
+
 
 > The following DNA tests are available for Samoyeds at this time.  These are listed for informational purposes only. SCARF neither recommends or endorses the validity of the tests themselves.
 
@@ -40,9 +38,9 @@ CHIC liaison is [Cheri Hollenback](mailto:SammyMom@aol.com?subject=CHIC)
 
 - [Genetic Testing: A Guide for Breeders](http://www.netpets.com/dogs/reference/genetics/dnatest.html) by Mary Whiteley, Ph.D.
 
-<div class="heading mb-small">
-<h3>Suggested Reading</h3>
-</div>
+
+# Suggested Reading
+
 
 - A [talking glossary](http://www.genome.gov/Glossary/) of genetic terminology
 

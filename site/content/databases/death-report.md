@@ -1,10 +1,8 @@
 +++
-date = "2017-04-05T22:45:08-04:00"
 title = "Death Report"
-draft = false
 +++
 
-### Samoyed Death Report Form
+# Samoyed Death Report Form
 
 The purpose of this death report is to help keep other Samoyed owners
 informed of possible health problems and help the Foundation seek and

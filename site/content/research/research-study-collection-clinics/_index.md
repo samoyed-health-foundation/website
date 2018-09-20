@@ -2,9 +2,9 @@
 title = "Research Study Collection Clinics"
 +++
 
-<div class="heading mb-small">
-<h3>Previous Research Study Collection Clinics:</h3>
-</div>
+
+# Previous Research Study Collection Clinics
+
 
 - British Samoyed Club - [more](/research/research-study-collection-clinics/british-samoyed-club)
 - NCSF - [more](/research/research-study-collection-clinics/ncsf)

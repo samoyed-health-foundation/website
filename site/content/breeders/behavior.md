@@ -1,13 +1,10 @@
 +++
-categories = []
-date = "2017-04-15"
-tags = []
 title = "Behavior"
 +++
 
-<div class="heading mb-small">
-<h3>Your New Litter</h3>
-</div>
+
+# Your New Litter
+
 
 - [Puppy aptitude test](http://www.workingdogs.com/testing_volhard.htm) by Wendy & Joachim Volhard
 
@@ -15,9 +12,9 @@ title = "Behavior"
 
 - [Developing High Achievers](http://www.breedingbetterdogs.com/achiever.html) - Originally published as "Early Neurological Stimulation" by Carmen L. Battaglia
 
-<div class="heading mb-small">
-<h3>Training And Behavior</h3>
-</div>
+
+# Training And Behavior
+
 
 - [Living with Your Samoyed](http://www.samoyed.org/SCA/documents/scalivingwithyoursamoyed.pdf) - a Samoyed Club of America publication
 
@@ -45,9 +42,9 @@ title = "Behavior"
 
 - [Illness Related Anxiety](http://www.jojoreader.com/reader/anx.html) - very interesting article on how behavioral changes may indicate a medical problem in your dog
 
-<div class="heading mb-small">
-<h3>Microchipping</h3>
-</div>
+
+# Microchipping
+
 
 - [Be Prepared](http://www.breedingbetterdogs.com/prepared.html) by Dr. Carmen L. Battaglia
 

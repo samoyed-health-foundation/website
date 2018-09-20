@@ -1,14 +1,6 @@
 +++
-categories = []
-date = "2017-04-15T15:26:28-04:00"
-tags = []
-title = "About us"
-
+title = "Our Mission"
 +++
-
-<div class="heading mb-small">
-<h3>Our Mission</h3>
-</div>
 
 The SCA Education and Research Foundation, Inc. is a non-profit corporation, recognized by the IRS as a 501(&#99;)(3) organization - devoted to improving the  health of the Samoyed breed.
 

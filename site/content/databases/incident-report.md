@@ -1,10 +1,8 @@
 +++
-date = "2017-04-05T22:45:08-04:00"
 title = "Incident Report"
-draft = false
 +++
 
-### Samoyed Health Adverse Event Incident Reporting
+# Samoyed Health Adverse Event Incident Reporting
 
 The purpose of this incident report is to help keep other Samoyed owners
 informed of possible health problems and help the Foundation seek and

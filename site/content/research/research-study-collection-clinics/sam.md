@@ -2,9 +2,9 @@
 title = "SAM"
 +++
 
-<div class="heading mb-small">
-<h3>SAM To Run Diabetes Clinic</h3>
-</div>
+
+# SAM To Run Diabetes Clinic
+
 
 In conjunction with their Annual Heartworm Clinic, the Samoyed Association of Madison has generously volunteered to collect DNA samples from normal Samoyeds for [Dr Hess's study of Diabetes](/research/current-research-studies/akcchf-grant-610). The event was held on Monday evening, March 12, 2007. Wanda Krauss and Bob were coordinating the collection of the DNA blood samples of Sammies 7 years of age or older with Dr Hess.
 

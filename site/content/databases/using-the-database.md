@@ -1,7 +1,5 @@
 +++
-date = "2017-04-05T22:45:08-04:00"
 title = "Using the Database"
-draft = false
 +++
 
 - [How to Participate in the Samoyed Database/DNA banking project](#how)
@@ -26,7 +24,7 @@ draft = false
 
 - [Privacy and Security Issues associated with the database/bank](#privacy-and-security)
 
-### How to Participate in the Samoyed Database/DNA banking project {#how}
+# How to Participate in the Samoyed Database/DNA banking project {#how}
 
 Participation the SCARF DNA banking project is open to all owners of
 Samoyeds.
@@ -46,7 +44,7 @@ DNA banking process, but wish to contribute to the body of knowledge of
 our breed, and enter in facts about their Samoyed, you may fill out the
 database without providing DNA on your dog.
 
-### Order kits and supplies for DNA banking {#order-kits}
+# Order kits and supplies for DNA banking {#order-kits}
 
 You can order kits and supplies in 2 ways:
 
@@ -89,7 +87,7 @@ The [Treasurer's contact information](/team/our-team) and
 further [information on DNA Banking](/databases/q-and-a) can
 be found at [http://www.samoyedhealthfoundation.org](http://www.samoyedhealthfoundation.org/).
 
-### Overview of the Database {#overview-of-the-database}
+# Overview of the Database {#overview-of-the-database}
 
 The SCARF DNA Repository/Database consists of three directories.
 
@@ -109,7 +107,7 @@ the **"identification** **code"** or the **"registration
 number"** will be able to tie these different directories together to
 give a complete picture of that dog.
 
-### Creating Your Account {#creating-your-account}
+# Creating Your Account {#creating-your-account}
 
 **Note:** You will need cookies enabled in your browser to become a member.
 [Click here](http://www.dogenes.com/HELP%20FILE%20FOR%20COOKIES.pdf) to find
@@ -125,7 +123,7 @@ Click the **"Save Member Data"** button and you will be returned to the **"Samoy
 Fill in your email address and password and you will be immediately taken to the "**Member's Home Page**" where you can click the **"Add Samoyed"** button to begin adding your Samoyed's information to the database.
 
 
-### Adding my Samoyed's Record to the Main Database {#adding}
+# Adding my Samoyed's Record to the Main Database {#adding}
 
 After logging in, you will be taken to the **"Members Home Page"**.
 To add a record, click the **"Add Samoyed"** button which is for adding a record to the **"main database"**.
@@ -175,7 +173,7 @@ For example:
 
 **List Food Brand(s):** Purina?Eukanuba/Iams **Incorrect input**
 
-### Adding my Samoyed's Record to the Companion Databases - Adverse Event and/or Death Report {#companion-databases}
+# Adding my Samoyed's Record to the Companion Databases - Adverse Event and/or Death Report {#companion-databases}
 
 Besides the main database entry which describes in detail information
 about your Samoyed, there are two additional databases; **"adverse
@@ -208,7 +206,7 @@ database, death record or adverse event record). You will have access
 to only your records.
 
 
-### Updating: Editing and Modifying your Samoyed's records {#updating}
+# Updating: Editing and Modifying your Samoyed's records {#updating}
 
 After you login to the database from the **"Member Login"** page,
 your browser will automatically take you to the **"Members Home
@@ -230,13 +228,13 @@ dog"** from the database. Note:  Once you delete a record, it cannot
 be recovered.
 
 
-### Lost Password Retrieval {#lost-password-retrieval}
+# Lost Password Retrieval {#lost-password-retrieval}
 
 Enter your Email address and click on **"Mail Me My Password"** and
 your password will be sent to your email address.
 
 
-### How to Change my Email address or Password {#change-profile}
+# How to Change my Email address or Password {#change-profile}
 
 From the **"Samoyed Database Member Login"** page, login into your
 account. At the bottom of the **"Members Home page"**, click on the
@@ -244,7 +242,7 @@ button that says **"Update My Profile"**. After you finish updating
 your profile, click on the **"Save Member Data"** button.
 
 
-### Requirements to complete submission to the DNA Bank {#requirements-to-complete}
+# Requirements to complete submission to the DNA Bank {#requirements-to-complete}
 
 Your Samoyed is not considered officially entered into the SCARF DNA
 database until:
@@ -263,7 +261,7 @@ Bank. Note:  All co-owners on the dog must sign the form.
 
 4) You have mailed the swabbed cheek swabs to the DNA Bank.
 
-### Privacy and Security issues associated with the database/bank {#privacy-and-security}
+# Privacy and Security issues associated with the database/bank {#privacy-and-security}
 
 The DNA Bank is an independent facility and its personnel are not
 affiliated with any Samoyed dog organization. The **"identification

@@ -1,7 +1,5 @@
 +++
-date = "2017-04-05T22:45:08-04:00"
 title = "Adding your Samoyed"
-draft = false
 +++
 
 This database is to be used by owners who wish to enter their Samoyed's information and/or its DNA into the Samoyed DNA Bank.
