@@ -1,6 +1,6 @@
-
-AKCCHF Grant \#01584 Abstract ---  Samoyed Club of America Education and Research Foundation (SCARF)
-===================================================================================================
++++
+title = "AKCCHF Grant #01584 Abstract"
++++
 
 Conformation in Cranial Cruciate Ligament Deficiency in Dogs \
  \

@@ -1,6 +1,6 @@
-
-AKCCHF grant \#01569 abstract ---  Samoyed Club of America Education and Research Foundation (SCARF)
-===================================================================================================
++++
+title = "AKCCHF grant #01569 abstract"
++++
 
 01569:  Evaluation of GS-9219 in Canine Cutaneous Lymphoma \
  \

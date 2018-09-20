@@ -1,6 +1,6 @@
-
-AKCCHF Grant 01609 Abstract ---  Samoyed Club of America Education and Research Foundation (SCARF)
-=================================================================================================
++++
+title = "AKCCHF Grant #01609 Abstract"
++++
 
 **Use of Probiotic VSL\# 3 to Reduce the Symptoms of Inflammatory Bowel
 Disease **\

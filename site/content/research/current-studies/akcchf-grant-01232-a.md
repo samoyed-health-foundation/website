@@ -1,6 +1,6 @@
-
-AKCCHF grant \#01232-A (closed) ---  Samoyed Club of America Education and Research Foundation (SCARF)
-=====================================================================================================
++++
+title = "AKCCHF grant #01232-A (closed)"
++++
 
 Nicola J Mason, BVetMed, PhD, University of Pennsylvania
 

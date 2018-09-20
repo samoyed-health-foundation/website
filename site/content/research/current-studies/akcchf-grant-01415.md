@@ -1,6 +1,6 @@
-
-AKCCHF grant \#01415 (closed) ---  Samoyed Club of America Education and Research Foundation (SCARF)
-===================================================================================================
++++
+title = "AKCCHF grant #01415 (closed)"
++++
 
 **Bruce Hammerberg, DVM PhD, North Carolina State University
 \[\$2500\]**

@@ -1,6 +1,6 @@
-
-Morris Grant D10CA-060 (closed) ---  Samoyed Club of America Education and Research Foundation (SCARF)
-=====================================================================================================
++++
+title = "Morris Grant D10CA-060 (closed)"
++++
 
 **Dawn Merton Boothe, DVM PhD, Auburn University**
 

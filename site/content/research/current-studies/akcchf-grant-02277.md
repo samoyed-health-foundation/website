@@ -1,6 +1,6 @@
-
-AKCCHF grant \#02277 (closed) ---  Samoyed Club of America Education and Research Foundation (SCARF)
-===================================================================================================
++++
+title = "AKCCHF grant #02277 (closed)"
++++
 
 **George J Brewer MD, University of Michigan**
 

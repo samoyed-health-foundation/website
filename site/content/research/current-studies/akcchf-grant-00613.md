@@ -1,6 +1,6 @@
-
-AKCCHF grant \#00613 (closed) ---  Samoyed Club of America Education and Research Foundation (SCARF)
-===================================================================================================
++++
+title = "AKCCHF grant #00613 (closed)"
++++
 
 Matthew Breen, PhD, North Carolina State University
 

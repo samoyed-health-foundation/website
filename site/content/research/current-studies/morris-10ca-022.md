@@ -1,6 +1,6 @@
-
-Morris 10CA-022 Abstract ---  Samoyed Club of America Education and Research Foundation (SCARF)
-==============================================================================================
++++
+title = "Morris 10CA-022 Abstract"
++++
 
 **Studying the Effect of Cranberry Extract on Canine Urinary Tract
 Infections**

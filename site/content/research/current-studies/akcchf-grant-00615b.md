@@ -1,6 +1,6 @@
-
-AKCCHF grant \#00615B (closed) ---  Samoyed Club of America Education and Research Foundation (SCARF)
-====================================================================================================
++++
+title = "AKCCHF grant #00615B (closed)"
++++
 
 **Jaime F Modiano, VMD PhD, \[\$2500 from AKCCHF Donor Advised fund\]**
 

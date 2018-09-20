@@ -1,6 +1,6 @@
-
-Morris Grant D12CA-803 Abstract ---  Samoyed Club of America Education and Research Foundation (SCARF)
-=====================================================================================================
++++
+title = "Morris Grant D12CA-803 Abstract"
++++
 
 Dr. Deborah Guest, Animal Health Trust, Pilot Study, D12CA-803\
 Total Study Cost: \$11,286.  SCARF contributed \$3000.    

@@ -1,6 +1,6 @@
-
-AKCCHF grant \#01130 (closed) ---  Samoyed Club of America Education and Research Foundation (SCARF)
-===================================================================================================
++++
+title = "AKCCHF grant #01130 (closed)"
++++
 
 **Susan E Lana, DVM, Colorado State University \[\$2500\]**
 

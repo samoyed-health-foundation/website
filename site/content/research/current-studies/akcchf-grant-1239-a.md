@@ -1,6 +1,6 @@
-
-AKCCHF grant \#01239-A (closed) ---  Samoyed Club of America Education and Research Foundation (SCARF)
-=====================================================================================================
++++
+title = "AKCCHF grant #01239-A (closed)"
++++
 
 **Final Report:**  Cryptorchidism, or retained testicles, is one of the
 common congenital problems in dogs. The testes of cryptorchids are more

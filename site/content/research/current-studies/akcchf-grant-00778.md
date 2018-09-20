@@ -1,6 +1,6 @@
-
-AKCCHF grant \#00778 (closed) ---  Samoyed Club of America Education and Research Foundation (SCARF)
-===================================================================================================
++++
+title = "AKCCHF grant #00778 (closed)"
++++
 
 **Barbara J Biller, DVM, Colorado State University**
 

@@ -1,6 +1,6 @@
-
-AKCCHF Grant \#02128-A (Closed) ---  Samoyed Club of America Education and Research Foundation (SCARF)
-=====================================================================================================
++++
+title = "AKCCHF Grant #02128-A (Closed)"
++++
 
 **Jason Stull, VMD, PhD, Ohio State University, Principal Investigator**
 

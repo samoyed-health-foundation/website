@@ -1,6 +1,6 @@
-
-AKCCHF grant \#00982 (closed) ---  Samoyed Club of America Education and Research Foundation (SCARF)
-===================================================================================================
++++
+title = "AKCCHF grant #00982 (closed)"
++++
 
 Evaluation of Efficacy of Fasaret in Dogs with Osteosarcoma
 

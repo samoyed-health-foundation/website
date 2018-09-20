@@ -1,6 +1,6 @@
-
-Morris Grant D12CA-031 ---  Samoyed Club of America Education and Research Foundation (SCARF)
-============================================================================================
++++
+title = "Morris Grant D12CA-031"
++++
 
 **Understanding the Genetic Basis for Urinary Stones**
 

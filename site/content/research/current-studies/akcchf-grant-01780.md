@@ -1,6 +1,6 @@
-
-AKCCHF grant \#01780 (open) ---  Samoyed Club of America Education and Research Foundation (SCARF)
-=================================================================================================
++++
+title = "AKCCHF grant #01780 (open)"
++++
 
 **Defining the Mechanism by Which Ticks Locate Dogs in Order to Better
 Prevent Disease Transmission.**

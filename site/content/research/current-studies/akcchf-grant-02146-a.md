@@ -1,6 +1,6 @@
-
-AKCCHF Grant \#02146-A (closed) ---  Samoyed Club of America Education and Research Foundation (SCARF)
-=====================================================================================================
++++
+title = "AKCCHF Grant #02146-A (closed)"
++++
 
 **Heather Chandler, PhD, Ohio State University**
 

@@ -1,6 +1,6 @@
-
-AKCCHF grant \#01231-A (closed) ---  Samoyed Club of America Education and Research Foundation (SCARF)
-=====================================================================================================
++++
+title = "AKCCHF grant #01231-A (closed)"
++++
 
 Prevalence and Localization of Bartonella spp. in Vascular Tumors from
 Dogs

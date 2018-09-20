@@ -1,6 +1,6 @@
-
-Morris Grant D10CA-801A ---  Samoyed Club of America Education and Research Foundation (SCARF)
-=============================================================================================
++++
+title = "Morris Grant D10CA-801A"
++++
 
 Diabetes mellitus affects thousands of dogs every year and can cause
 nerve damage (peripheral neuropathy) that may lead to impaired vision,

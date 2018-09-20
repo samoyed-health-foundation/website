@@ -1,6 +1,6 @@
-
-Morris Grant D15CA-047 (open) ---  Samoyed Club of America Education and Research Foundation (SCARF)
-===================================================================================================
++++
+title = "Morris Grant D15CA-047 (open)"
++++
 
 **Scientific Title:  Niche Conditioning for Metastasis in Canine
 Osteosarcoma**

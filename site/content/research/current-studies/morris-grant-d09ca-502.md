@@ -1,5 +1,6 @@
-**Morris Grant D09CA-502 (closed)**
-===================================
++++
+title = "Morris Grant D09CA-502 (closed)"
++++
 
 **Identifying Factors that Affect Survival of Dogs with Stomach Rotation
 and Bloat**

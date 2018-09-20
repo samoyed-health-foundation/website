@@ -1,6 +1,6 @@
-
-AKCCHF grant \#01806 (open) ---  Samoyed Club of America Education and Research Foundation (SCARF)
-=================================================================================================
++++
+title = "AKCCHF grant #01806 (open)"
++++
 
 **A Novel Virus-Based Anti-Tumor Treatment for Canine Osteosarcoma**
 

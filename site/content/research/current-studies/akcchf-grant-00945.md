@@ -1,6 +1,6 @@
-
-AKCCHF grant \#00945 (closed) ---  Samoyed Club of America Education and Research Foundation (SCARF)
-===================================================================================================
++++
+title = "AKCCHF grant #00945 (closed)"
++++
 
 **Albert E Jergens, DVM, PhD, Iowa State University**
 

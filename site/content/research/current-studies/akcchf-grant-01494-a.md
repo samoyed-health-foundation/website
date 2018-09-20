@@ -1,6 +1,6 @@
-
-AKCCHF grant \#01494-A (open) ---  Samoyed Club of America Education and Research Foundation (SCARF)
-===================================================================================================
++++
+title = "AKCCHF grant #01494-A (open)"
++++
 
 ***Identifying the cause of drug resistance in canine lymphoma.***
 

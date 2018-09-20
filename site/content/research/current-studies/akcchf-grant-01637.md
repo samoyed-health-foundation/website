@@ -1,6 +1,6 @@
-
-AKCCHF grant \#01637 (closed) ---  Samoyed Club of America Education and Research Foundation (SCARF)
-===================================================================================================
++++
+title = "AKCCHF grant #01637 (closed)"
++++
 
 **Identification of DNA Marker(s) for Cataracts in Purebred Dogs, with
 Emphasis on the Breeds Alaskan Malamute, Siberian Husky, and Samoyed**

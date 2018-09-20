@@ -1,6 +1,6 @@
-
-AKCCHF grant\#01670-A Abstract ---  Samoyed Club of America Education and Research Foundation (SCARF)
-====================================================================================================
++++
+title = "AKCCHF grant#01670-A Abstract"
++++
 
 **AKCCHF grant \#01670-A:** Pinpointing the causal mutation(s)
 underlying a genome-wide association signal for hereditary cataract in

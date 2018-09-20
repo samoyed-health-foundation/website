@@ -1,6 +1,6 @@
-
-AKCCHF grant \#01064-A ---  Samoyed Club of America Education and Research Foundation (SCARF)
-============================================================================================
++++
+title = "AKCCHF grant #01064-A"
++++
 
 **Investigator:**  Douglas H Thamm, VMD, Colorado State University
 

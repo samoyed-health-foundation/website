@@ -1,6 +1,6 @@
-
-Morris Grant D08CA-500 Abstract ---  Samoyed Club of America Education and Research Foundation (SCARF)
-=====================================================================================================
++++
+title = "Morris Grant D08CA-500 Abstract"
++++
 
 **Dr George E Moore, Purdue University**
 

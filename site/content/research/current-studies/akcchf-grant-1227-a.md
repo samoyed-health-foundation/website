@@ -1,6 +1,6 @@
-
-AKCCHF grant \#01227-A (closed) ---  Samoyed Club of America Education and Research Foundation (SCARF)
-=====================================================================================================
++++
+title = "AKCCHF grant #01227-A (closed)"
++++
 
 ### Specificity and Sensitivity of the Pancreatic Lipase Immunoreactivity (SPEC cPL) Test for the Diagnosis of Canine Pancreatitis
 

@@ -1,5 +1,5 @@
 +++
-title = "glaucoma research"
+title = "Glaucoma Research"
 +++
 
 The University of Missouri is currently conducting a genetic marker study on glaucoma.

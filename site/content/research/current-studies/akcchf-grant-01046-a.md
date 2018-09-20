@@ -1,6 +1,6 @@
-
-AKCCHF grant \#01046-A (closed) ---  Samoyed Club of America Education and Research Foundation (SCARF)
-=====================================================================================================
++++
+title = "AKCCHF grant #01046-A (closed)"
++++
 
 **Investigator: ** Sung Hyeok Hong, DVM PhD, National Cancer Institute
 

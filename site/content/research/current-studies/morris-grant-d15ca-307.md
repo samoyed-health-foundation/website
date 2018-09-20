@@ -1,6 +1,6 @@
-
-Morris Grant D15CA-307 (open) ---  Samoyed Club of America Education and Research Foundation (SCARF)
-===================================================================================================
++++
+title = "Morris Grant D15CA-307 (open)"
++++
 
 **Scientific Title: Short- and Intermediate-term Efficacy of Telmisartan
 for the Treatment of Persistent Canine Renal Proteinuria**

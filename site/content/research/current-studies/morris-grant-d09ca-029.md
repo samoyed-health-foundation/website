@@ -1,6 +1,6 @@
-
-Morris Grant D09CA-029 ---  Samoyed Club of America Education and Research Foundation (SCARF)
-============================================================================================
++++
+title = "Morris Grant D09CA-029"
++++
 
 **Dr. Lauren A. Trepanier, University of Wisconsin**
 

@@ -1,6 +1,6 @@
-
-AKCCHF grant \#01782 (open) ---  Samoyed Club of America Education and Research Foundation (SCARF)
-=================================================================================================
++++
+title = "AKCCHF grant #01782 (open)"
++++
 
 **Defining the Elements of Successful Cranial Cruciate Ligament Repair**
 

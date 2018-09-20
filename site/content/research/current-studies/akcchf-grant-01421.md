@@ -1,6 +1,6 @@
-
-AKCCHF grant \#01421 (closed) ---  Samoyed Club of America Education and Research Foundation (SCARF)
-===================================================================================================
++++
+title = "AKCCHF grant #01421 (closed)"
++++
 
 **Stephen A Kania, PhD, University of Tennessee \[\$2500\]**
 

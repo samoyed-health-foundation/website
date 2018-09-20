@@ -1,6 +1,6 @@
-
-AKCCHF grant \#01822  ---  Samoyed Club of America Education and Research Foundation (SCARF)
-===========================================================================================
++++
+title = "AKCCHF grant #01822"
++++
 
 **Beyond the Genome: The Intersection of Genes and the Environment in
 Canine Cancer**

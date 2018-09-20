@@ -1,6 +1,6 @@
-
-Morris D12MS-002 Abstract ---  Samoyed Club of America Education and Research Foundation (SCARF)
-===============================================================================================
++++
+title = "Morris D12MS-002 Abstract"
++++
 
 Dr Gerlinde R Van de Walle, Ghent University, Belgium
 

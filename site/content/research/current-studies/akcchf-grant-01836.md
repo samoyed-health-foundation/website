@@ -1,6 +1,6 @@
-
-AKCCHF grant \# 01836 (closed) ---  Samoyed Club of America Education and Research Foundation (SCARF)
-====================================================================================================
++++
+title = "AKCCHF grant #01836 (closed)"
++++
 
 **Identifying the Genetic Cause of Canine Hip Dysplasia**
 

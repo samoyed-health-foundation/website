@@ -1,6 +1,6 @@
-
-AKCCHF Grant \#00972 (closed) ---  Samoyed Club of America Education and Research Foundation (SCARF)
-===================================================================================================
++++
+title = "AKCCHF Grant #00972 (closed)"
++++
 
 **Grant \#00972**: Identification of Mutations Associated with
 Hereditary Cataracts in Northern Breeds

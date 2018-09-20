@@ -1,6 +1,6 @@
-
-AKCCHF grant \#00997-A ---  Samoyed Club of America Education and Research Foundation (SCARF)
-============================================================================================
++++
+title = "AKCCHF grant #00997-A"
++++
 
 **Eric Ledbetter, DVM, Cornell University**
 

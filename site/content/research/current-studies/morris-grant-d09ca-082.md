@@ -1,6 +1,6 @@
-
-Morris Grant D09CA-082 (discontinued) ---  Samoyed Club of America Education and Research Foundation (SCARF)
-===========================================================================================================
++++
+title = "Morris Grant D09CA-082 (discontinued)"
++++
 
 **This study has been discontinued by the researcher due to undesirable
 effects on the patient.  SCARF has redirected the funding to

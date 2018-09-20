@@ -1,6 +1,6 @@
-
-AKCCHF grant \#00763 (closed) ---  Samoyed Club of America Education and Research Foundation (SCARF)
-===================================================================================================
++++
+title = "AKCCHF grant #00763 (closed)"
++++
 
 **David Wilkie DVM, Ohio State University**
 

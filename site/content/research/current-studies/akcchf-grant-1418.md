@@ -1,6 +1,6 @@
-
-AKCCHF Grant \#01418 Abstract ---  Samoyed Club of America Education and Research Foundation (SCARF)
-===================================================================================================
++++
+title = "AKCCHF Grant #01418 Abstract"
++++
 
  \
 **1418: PET 2.0: Providing Engineered T-cells (PET): New Genetic and

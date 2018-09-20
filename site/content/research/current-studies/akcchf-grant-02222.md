@@ -1,6 +1,6 @@
-
-AKCCHF grant \# 02222 (closed) ---  Samoyed Club of America Education and Research Foundation (SCARF)
-====================================================================================================
++++
+title = "AKCCHF grant #02222 (closed)"
++++
 
 **Monique Dore, DVM PhD,  University of Montreal.**
 
