@@ -16,7 +16,7 @@ migration. There are multiple ways capsule scarring may be treated or
 prevented in humans, however to date, there is not an effective approved
 method of preventing or eliminating capsule scarring in the canine
 population undergoing cataract surgery. Rarely, the capsule scarring may
-be opaque enough to obstruct a dog\'s vision completely and the goal of
+be opaque enough to obstruct a dog's vision completely and the goal of
 this study is to provide a mechanism to improve the degree of capsule
 scarring.
 

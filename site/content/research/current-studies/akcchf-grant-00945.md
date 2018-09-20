@@ -21,12 +21,12 @@ population of 18 IBD dogs for comparison to 6 healthy dog tissues. We
 have carefully extracted the genetic material (RNA) from endoscopic
 samples which will be used in our gene profiling studies.  We have now
 evaluated gene expression profiles in the normal versus diseased dog
-groups using sophisticated statistical modeling to help us \'tease out\'
+groups using sophisticated statistical modeling to help us 'tease out'
 gene expression patterns which discern healthy versus diseased
 intestinal tissues. It is our expectation to identify specific genes
 which serve as biomarkers for diagnosing canine IBD and for monitoring
 the effects of therapy. We have now identified a grouping of 17
-\'marker\' genes that may be more critically assessed in future
+'marker' genes that may be more critically assessed in future
 studies.  We have noted that IBD dogs show differences in intestinal
 gene expression as compared to healthy dogs; and these differences in
 expression may help to explain the mechanisms of chronic inflammation in
@@ -36,7 +36,7 @@ intestinal bacteria accompany the abnormal gene patterns.
 It is our belief that this association should be explored more fully
 with additional studies; since this situation is identical to the
 association between people and their intestinal bacterial populations
-causing human IBD (i.e., Crohn\'s disease and ulcerative colitis). We
+causing human IBD (i.e., Crohn's disease and ulcerative colitis). We
 have now confirmed the expression patterns of select differentially
 expressed genes in diseased dogs using sophisticated molecular
 techniques. This suggests that the observations regarding gene

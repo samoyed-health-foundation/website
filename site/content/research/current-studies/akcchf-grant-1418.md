@@ -5,7 +5,7 @@ title = "AKCCHF Grant #01418 Abstract"
  \
 **1418: PET 2.0: Providing Engineered T-cells (PET): New Genetic and
 Immunotherapy Targeting Canines with Spontaneous B-cell Lymphoma
-(Harnessing a Dog\'s Own Immune System to Kill Lymphoma Tumor Cells)**
+(Harnessing a Dog's Own Immune System to Kill Lymphoma Tumor Cells)**
 
 Grant Status: Open\
 Grant Amount: \$150,000.  SCARF contributed \$2500.\
@@ -19,7 +19,7 @@ Lymphoma is the most common malignancy of dogs representing up to 25% of
 diagnosed cancers. Dogs often develop an aggressive form of lymphoma
 that is rarely curable, with most unfortunately succumbing to disease
 within 12 months of diagnosis despite best-available chemotherapies. We
-seek to develop a new treatment to re-train the dog\'s own immune system
+seek to develop a new treatment to re-train the dog's own immune system
 to attack the most common type of canine lymphoma, B-cell lymphoma. We
 plan to obtain a small number of circulating white blood cells, called T
 cells, from the blood of affected dogs and insert a gene that will cause
@@ -38,7 +38,7 @@ basically untreatable.
 
 **Publication:**
 
-O\'Connor CM, Sheppard S, Hartline CA, Huls H, Johnson M, Palla SL,
+O'Connor CM, Sheppard S, Hartline CA, Huls H, Johnson M, Palla SL,
 Maiti S, Ma W, Davis RE, Craig S, Lee DA, Champlin R, Wilson H, Cooper
 LJ. [Adoptive T-cell therapy improves treatment of canine non-Hodgkin
 lymphoma post

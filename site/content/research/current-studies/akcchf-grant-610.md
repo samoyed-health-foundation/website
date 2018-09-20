@@ -36,7 +36,7 @@ owners that have helped make this project possible. Please contact Dr.
 Hess (rhess\@vet.upenn.edu) if your dog donated blood for the study
 while it was not diabetic and has since become diabetic.
 
-The project\'s WGA results are very intriguing, and indicate that the
+The project's WGA results are very intriguing, and indicate that the
 underlying basis of Type I diabetes, while not identical in both breeds,
 may have some common etiology as well. These findings emphasize the
 power of within breed studies. In the future, we would like to perform

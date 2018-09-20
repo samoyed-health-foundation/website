@@ -26,7 +26,7 @@ methylation found between breed lineages will be complemented by the
 study of gene expression to understand how methylation regulates levels
 of expression.
 
-Upon completion of this study, Dr. Wayne\'s laboratory will have
+Upon completion of this study, Dr. Wayne's laboratory will have
 proof-of-principle for evaluation of the canine methylome. Ultimately,
 he intends to establish a public web-based resource to serve as a
 repository for the dog methylomes. The collection of methylomes they

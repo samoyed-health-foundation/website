@@ -7,13 +7,13 @@ title = "AKCCHF grant #02222 (closed)"
 **Molecular Control of Prostaglandin Synthesis in Canine Mammary
 Tumors**
 
-So far, Dr. Doré\'s research has shown \"that COX-2 was not expressed in
+So far, Dr. Doré's research has shown \"that COX-2 was not expressed in
 the normal (mammary) gland but was detected in 24% of adenomas and in
 56% of adenocarcinomas (P \< 0.001).\"  Dr. Doré continued this research
 with [AKCCHF grant
 \#00366](http://www.samoyedhealthfoundation.com/research/current-research-studies/akcchf-grant-0366/akcchf-grant-366).
 
-Read all about this exciting research in Dr. Doré\'s publications that
+Read all about this exciting research in Dr. Doré's publications that
 were supported by AKCCHF grants \#02222 and \#00366:
 
 Dore M et al.  [Cyclooxygenase-2 Expression in Canine Mammary

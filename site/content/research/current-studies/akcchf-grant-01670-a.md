@@ -55,7 +55,7 @@ among the ten dogs and the Boxer reference genome sequence. We devised a
 computer program to examine the segregation of each variant with HC
 using both a dominant and recessive genetic model and we found 200
 variants that showed perfect segregation with HC in our ten dogs. We
-excluded variants where the potential \'risk\' allele was the same as
+excluded variants where the potential 'risk' allele was the same as
 the Boxer reference genome sequence, as it is unlikely that these would
 represent causal mutations. This left us with 78 variants that we
 checked manually against online databases to assess which were within,
@@ -70,7 +70,7 @@ assessed these two variants in 200 Siberian Huskies, 200 Alaskan
 Malamutes and 130 Samoyeds and found that one of the variants showed
 strong statistical association with HC in two of the breeds. However,
 this variant is very common in both dogs with HC and in older dogs with
-clear eyes, and doesn\'t completely account for HC in our samples. It
+clear eyes, and doesn't completely account for HC in our samples. It
 may be that this is a susceptibility variant and there is an
 environmental component to HC that affects how the genetic
 susceptibility is expressed, however, before we explore this possibility

@@ -19,10 +19,10 @@ here](http://www.samoyedhealthfoundation.com/research/current-research-studies/a
 ***Project Summary from the AKCCHF.org website:***
 
 "The brown dog tick (BDT) is common across the U.S. and is the most
-widely distributed tick in the world. BDT\'s carry and transmit the
+widely distributed tick in the world. BDT's carry and transmit the
 pathogens that cause debilitating diseases such as canine ehrlichiosis
 and babesiosis. Prevention of these diseases is accomplished through
-tick control. BDT\'s can complete their entire life cycle indoors,
+tick control. BDT's can complete their entire life cycle indoors,
 making management difficult. Records of infestations are increasing and
 unpublished data indicates that a high level of pesticide resistance is
 present in domestic populations. Consequently once introduced, these
@@ -30,11 +30,11 @@ ticks are particularly hard to eradicate and as one female tick may lay
 5,000 eggs, the problem soon gets out-of-hand. Pesticide resistance
 leads to aggressive treatment regimes, which in turn, lead to increased
 exposure of humans and pets to chemical residues. Alternatives to
-pesticides are needed. Studies have shown that BDT\'s are attracted to
+pesticides are needed. Studies have shown that BDT's are attracted to
 dog odor, a blend of volatile chemicals used by ticks to find a blood
 meal.
 
-In this study, Dr. Weeks will identify the chemicals BDT\'s use to
+In this study, Dr. Weeks will identify the chemicals BDT's use to
 locate a dog. This will enable manipulation of tick behavior thereby
 facilitating management and reducing the need for extensive use of
 pesticides. Improved tick control without the need for increased

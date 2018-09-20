@@ -30,7 +30,7 @@ targeting approaches have revolutionized the treatment of certain
 cancers the in human clinics, no such targeting systems are currently
 available for use in the dog. Antibodies utilized in the human clinics
 are not used in veterinary medicine because they are not canine in
-origin so will be rapidly rejected by the dog\'s immune system.
+origin so will be rapidly rejected by the dog's immune system.
 Furthemore, these antibodies may not cross-react with canine tumor
 molecules so will be ineffective in the canine system.
 
@@ -57,7 +57,7 @@ treatment of many different malignancies.
 
 We have been successful in these efforts and have generated several
 antibody fragments that bind to canine VEGF. We are currently testing
-their ability to neutralize VEGF\'s effects on the growth of
+their ability to neutralize VEGF's effects on the growth of
 hemangiosarcoma cells in vitro. Furthermore, we are now taking steps to
 modify these fragments and generate canine monoclonal antibodies that
 are likely to have more favourable pharmacokinetic properties. It is

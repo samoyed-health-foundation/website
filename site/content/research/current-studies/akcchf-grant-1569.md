@@ -33,7 +33,7 @@ intravenous infusion once every 21 days.  The primary endpoint will be
 objective response rate.  Secondary endpoints will include
 progression-free survival, as well as acute and cumulative adverse
 effects.  Successful demonstration of efficacy of GS-9219 against canine
-CTCL would provide an important drug in the veterinarian\'s
+CTCL would provide an important drug in the veterinarian's
 armamentarium against this challenging disease.
 
 **Publication:**

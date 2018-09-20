@@ -29,7 +29,7 @@ and kill tumor cells while sparing normal cells. Preliminary studies
 have demonstrated that this virus-based anti-tumor treatment is safe
 when administered to canine osteosarcoma patients and is potentially
 efficacious in treating osteosarcoma. While this virus was hypothesized
-to kill osteosarcoma cells through its replication, Dr. Smith\'s
+to kill osteosarcoma cells through its replication, Dr. Smith's
 research team hypothesizes that the viral vector may also stimulate an
 anti-tumor immune response in addition to the expected anti-viral
 response. In this study, the efficacy and mechanism of action of the

@@ -17,7 +17,7 @@ Total Grant Amount:  \$34,000.  SCARF contributed \$2500.
 
 A torn ligament in the knee, known as cranial cruciate ligament
 deficiency (CCLD), is the leading cause of lameness affecting the knees
-of large breed dogs. The focus of Dr. Griffon\'s research is to
+of large breed dogs. The focus of Dr. Griffon's research is to
 establish a way to identify individual dogs that are susceptible to this
 problem and, ultimately, prevent CCLD. This research group previously
 developed a \"CCLD conformation score\" to differentiate limbs of

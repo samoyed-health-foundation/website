@@ -76,7 +76,7 @@ therapies."
 Thomas, R, Seiser, El, Motsinger-Reif, A, Borst, L, Valli, Ve, Kelley,
 K, Suter, Se, Argyle, D, Burgess, K, Bell, J, Lindblad-Toh, K, Modiano,
 Jf and Breen, M (2011) [Refining tumor-associated aneuploidy through
-\'genomic recoding\' of recurrent DNA copy number aberrations in 150
+'genomic recoding' of recurrent DNA copy number aberrations in 150
 canine non-Hodgkin
 lymphomas.](http://www.ncbi.nlm.nih.gov/pubmed/21375435) Leukemia &
 Lymphoma 52:  1321-1335

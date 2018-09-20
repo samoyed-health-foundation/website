@@ -24,7 +24,7 @@ University of Minnesota Veterinary Diagnostic Laboratory
 
 **Project Summary from the AKCCHF.org website:**
 
-\"The thyroid gland secretes hormones which are very important for
+"The thyroid gland secretes hormones which are very important for
 development, growth, reproduction and metabolism. Sometimes the thyroid
 gland does not produce enough thyroid hormone and hypothyroidism occurs.
 Hypothyroidism is very common in dogs and many are treated with thyroid
@@ -45,7 +45,7 @@ from breeding programs. Furthermore, the incidence of hypothyroidism in
 the breed will be overestimated. We wish to establish breed-specific
 normal thyroid reference intervals to improve the diagnosis of true
 hypothyroidism in the Alaskan Malamute, English Setter, Golden
-Retriever, Keeshond, Samoyed, and Siberian Husky breeds.\"
+Retriever, Keeshond, Samoyed, and Siberian Husky breeds."
 
 **Update from the AKCCHF.org website:**
 
@@ -75,8 +75,8 @@ Veterinary Diagnostic Investigation. 27: 716-727.
 Sharkey, L., K. Gjevre, R. Hegstad-Davies, S. Torres and C. Munoz-Zanzi
 (2009) Breed-associated variability in serum biochemical analytes in
 four large-breed dogs. Veterinary Clinical Pathology. 38, 375-380. 
-\"[Breed- Specific Reference Intervals for Assessing Thyroid Function in
-Seven Dog Breeds](http://www.ncbi.nlm.nih.gov/pubmed/19351336).\"
+"[Breed- Specific Reference Intervals for Assessing Thyroid Function in
+Seven Dog Breeds](http://www.ncbi.nlm.nih.gov/pubmed/19351336)."
 
 ## PARTICIPATION CRITERIA
 
@@ -90,7 +90,7 @@ levels.  As of 10/31/08, 35 more normal Samoyed samples are needed.
     enrolled. Dogs previously diagnosed with thyroid problems or that
     show signs of thyroid problems (obesity, lethargy, poor hair coat,
     and infertility) are not eligible to participate. Please do not
-    enroll animals that you suspect may have \'thyroid issues\'. *The
+    enroll animals that you suspect may have 'thyroid issues'. *The
     appropriate dogs are those that you are most convinced are healthy,
     fit, and robust animals.*
 
@@ -142,7 +142,7 @@ laboratory. Therefore, owners may also choose to have the thyroid levels
 done and reported to OFA. OFA has graciously waived the thyroid
 registration fee. If the dog is not passed into the thyroid testing part
 of the study (due to abnormalities found during the initial screening),
-the owner may request having the thyroid levels run at the owner\'s
+the owner may request having the thyroid levels run at the owner's
 expense. Volunteers will receive comprehensive laboratory data at no
 charge to the owner. More importantly, you will have the pride in
 knowing that you have participated in an opportunity to improve the
@@ -158,7 +158,7 @@ regional club in the mid-west would like to plan a collection event,
 please contact Dr. Rebecca Davies at 612-626-0168
 or  <rdavies@umn.edu> or <http://www.cvm.umn.edu/cic/current/endocrine/home.html>
 
-1. **Request a \"Blood, Sweat and Cheers\" information packet** in
+1. **Request a "Blood, Sweat and Cheers" information packet** in
 order to participate in the Thyroid Research Project. The packet will
 contain:
 

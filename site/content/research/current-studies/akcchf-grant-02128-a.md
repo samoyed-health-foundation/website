@@ -48,7 +48,7 @@ compete. 
 **Research Team:**  \
 Jason W. Stull, VMD, MPVM, PhD, DACVPM (Public Health, Epidemiology),
 Principal Investigator Armando Hoet, DVM, PhD, DACVPM (Public Health,
-Epidemiology) Jeanette O\'Quin, DVM, MPH (Public Health, Epidemiology)
+Epidemiology) Jeanette O'Quin, DVM, MPH (Public Health, Epidemiology)
 Mary Jo Burkhard, DVM, PhD, DACVP (Immunology/Infectious Disease,
 Clinical Pathology) Michelle Evason, DVM, DACVIM (Internal Medicine) J.
 Scott Weese, DVM, DVSc, DACVIM (Infectious Disease, Internal Medicine)

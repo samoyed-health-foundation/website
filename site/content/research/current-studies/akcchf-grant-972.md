@@ -82,7 +82,7 @@ breeds are known to be affected by the condition.
 
 To detect mutations in numerous genes requires analysis of a larger
 number of samples using a rigorous definition for affected dogs
-(\'cases\') and unaffected dogs (\'controls\'). Therefore for their
+('cases') and unaffected dogs ('controls'). Therefore for their
 final investigation they concentrated their efforts on four breeds that
 display a clinically similar form of HC and for which we have sufficient
 numbers of cases and controls for analysis. They have conducted a GWA

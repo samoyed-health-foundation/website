@@ -17,7 +17,7 @@ and that are more common in Golden Retrievers (with that form of the
 disease) than in other breeds, suggesting breed-specific profiles of
 genetic abnormalities exist in canine lymphoma.
 
-To continue this work, we have used contemporary \"array-based\"
+To continue this work, we have used contemporary "array-based"
 technologies to identify genes that map to these regions and how they
 contribute to the disease. The results from these analysis are in many
 ways comforting, as they show differences that are proportional to what
