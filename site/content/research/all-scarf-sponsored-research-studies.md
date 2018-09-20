@@ -142,7 +142,7 @@ How a Protein Helps Hemangiosarcoma Cells Survive.  Erin B Dickerson,
 PhD, University of Minnesota  \[[study
 update](/files/D13CA-062 update.pdf)\]
 
-- [MAF Grant D13CA-071 (closed):](/research/current-studies/morris-grant-d13ca-071) Identifying Genetic Markers for
+- MAF Grant D13CA-071 (closed): Identifying Genetic Markers for
 Congenital Heart Disease in Dogs.  Kathryn M. Meurs, DVM PhD, North
 Carolina State University  \[[final
 report](/files/D13CA-071 Final Report.pdf)\]
@@ -269,13 +269,13 @@ undesirable effects on the patient. SCARF has re-directed this funding
 to another study.
 
 - [MAF
-Grant D09CA-029:](/research/current-studies/morris-grant-d09ca0029) Determining
+Grant D09CA-029:](/research/current-studies/morris-grant-d09ca-029) Determining
 Risk Factors for Lymphoma.  Dr. Lauren A. Trepanier, University of
 Wisconsin
 
   - Scarf has re-directed the funds from D09CA-082 to this study.
 
-- [MAF Grant D10CA-016 (open)](/research/current-studies/morris-grant-d10ca-016.md): Investigating a Noninvasive, At-home
+- MAF Grant D10CA-016 (open): Investigating a Noninvasive, At-home
 Diagnostic Technique for Gastrointestinal Disorders.  Pedro L Boscan,
 DVM PhD, Colorado State University \[$3000\] \[[Study
 update](/files/D10CA-016 update.pdf)\]
@@ -389,7 +389,7 @@ Albert E Jergens, DVM PhD, Iowa State University \[$2500\]
 \[[publication](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0039333) 2012\]
 
 - [AKCCHF grant \#00972
-(closed):](/research/current-studies/akcchf-grant-972-report)  Identification
+(closed):](/research/current-studies/akcchf-grant-972)  Identification
 of Mutations Associated with Hereditary Cataracts in Northern Breeds.
 Cathyrn Mellersh, PhD, Animal Health Trust \[$2500\]
 
