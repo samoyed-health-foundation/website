@@ -1,5 +1,5 @@
 +++
-title = "Help Us"
+title = "How you can help"
 +++
 
 # Donating

@@ -156,7 +156,7 @@ paginate = 10
   icon = "fa fa-question"
   title = "Do you want to help?"
   subtitle = "You can contribute by donating, volunteering, or enrolling your Samoyed in the DNA Database (it's easier than it sounds!)"
-  link_url = "/help-us"
+  link_url = "/how-you-can-help"
   link_text = "Learn More"
 
 [params.clients]
