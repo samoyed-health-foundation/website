@@ -2,9 +2,7 @@
 title = "Diseases"
 +++
 
-
 # Disorders, syndromes and conditions
-
 
 As in humans, the Samoyed has some intermittently diagnosed diseases and many diseases in a very small percentage of the population that are present, but not significant in the population.
 
@@ -19,14 +17,15 @@ This section is not intended to diagnose or treat an illness, but rather as a ge
 > SCARF is in the process of having more topics reviewed so that they may be uploaded to the website.
 > Please check back soon.
 
+
 # List - A to Z
 
-more...
+[more](/diseases/a-to-z-diseases)...
 
 
 # List - By system or class
 
-more...
+[more](/diseases/by-system-or-class)...
 
 
 # Most common in Samoyeds

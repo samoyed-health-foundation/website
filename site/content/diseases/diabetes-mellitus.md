@@ -79,6 +79,10 @@ Normal blood glucose values range from about 80-120 mg/dL. Diabetic
 animals can have blood glucose values that are moderately elevated, or
 extremely elevated (600+ mg/dL).
 
+<div style="display: none">
+# References
+</div>
+
 # Treatment Guidelines
 
 > Note: Treatment of animals should only be performed by a licensed
@@ -90,7 +94,7 @@ Treatment is insulin. Oral Hypoglycemic agents are rarely used in
 canines. Typical treatment is two injections a day given 12 hours a
 part. There are several different types of insulin but it is always
 given subcutaneously (as an injection).  You will work with your
-Veterinarian to determine the correct dosage and insulin for your dog. 
+Veterinarian to determine the correct dosage and insulin for your dog.
 Each dog is unique in this.
 
 Diet plays an important role in keeping your pet's diabetes well
@@ -118,7 +122,7 @@ rewarding experience.
 
 # Support Groups
 
-<http://www.caninediabetes.org/maillists.html> 
+<http://www.caninediabetes.org/maillists.html>
 
 <https://groups.yahoo.com/neo/groups/diabetespet/info>
 
