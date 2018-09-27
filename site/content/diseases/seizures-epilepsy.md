@@ -1,0 +1,228 @@
+::: {#content}
+::: {#region-content .documentContent}
+Seizures/Epilepsy
+=================
+
+**Liaison:** Jan Young **Email:** <jannermd@yahoo.com>
+
+<div>
+
+Epilepsy is a chronic condition characterized by recurrent seizures. 
+Seizures are involuntary muscle activity caused by an abnormal
+electrical storm in the brain. Epilepsy can be either idiopathic or
+primary (unknown cause) or secondary (caused by something else). In
+idiopathic epilepsy there is no identifiable abnormality other than the
+seizures themselves and it is assumed to be hereditary. It typically
+begins between 1  and 5 years.  In secondary epilepsy the seizures are
+the result of an identifiable cause such as a brain lesion or other
+medical condition. Secondary epilepsy commonly begins in the first year
+or in older dogs.
+
+Seizures can manifest in many ways and can be very brief (seconds) or
+can last for many minutes or, in rare occasions, hours or until they are
+stopped by medical intervention.
+
+</div>
+
+Would you like to **[add a Living with this
+Disorder](seizures-epilepsy/addliving_form.html)** journal entry?
+
+Signs and Symptoms
+------------------
+
+1.  Generalized Seizures:
+
+-   Generalized, tonic-clonic (grand mal) seizures are the most common
+    in dogs. These begin with the tonic phase, a contraction of all
+    skeletal muscles and loss of consciousness resulting in the dog
+    typically falling on his side with stiff legs and the head often
+    arched back. There may be involuntary vocalization or twitching,
+    drooling, and loss of bowel/bladder control. This phase is usually
+    brief and is then followed by a clonic phase characterized by
+    rhythmic movements including jaw and legs (paddling motions).
+
+-   Less commonly generalized seizures can just be tonic or just clonic
+    and rarely tonic-clonic seizures may be mild enough that
+    consciousness is not lost.  
+
+-   Petit mal seizures are a brief generalized seizure often
+    characterized by simple staring for a brief period and then the dog
+    returns to normal.
+
+2.  Partial (focal) seizures are less common. In this type of seizure
+the abnormal electrical activity does not spread to include the entire
+brain. A seizure may begin as a partial seizure and then spread to
+become generalized (tonic-clonic). Partial seizures are much more likely
+to be secondary, resulting from a specific cause. Partial seizures can
+be either simple (only affect the area of the brain that controls
+movement) and characterized by focal twitching or blinking, or complex
+(psychomotor seizures originating in the part of the brain that controls
+behavior) where consciousness is altered and there may be bizarre
+behavior such as unprovoked aggression or repetitive behavior.
+
+ 3.  Status epilepticus is a prolonged seizure or a series of seizures
+that occur continuously or repeatedly in a 24 hour period and is a
+medical emergency. Untreated, it can lead to brain damage and even
+death.
+
+ 
+
+Seizures are typically preceded by a period of abnormal behavior called
+the pre-ictal phase. The dog may show signs of anxiety and apprehension:
+whining, pacing, panting, seeking comfort from the owner. The seizure
+itself is the ictal stage. Most generalized seizures are followed by a
+post-ictal phase which can last from minutes to hours and is
+characterized by stupor, disorientation, and/or blindness.
+
+ 
+
+Causes
+------
+
+Idiopathic or primary epilepsy is believed to be an inherited condition.
+It is a fairly common disorder in canines but relatively rare in
+Samoyeds compared with some other breeds. Secondary epilepsy or seizures
+are due to specific brain lesions or other medical conditions.
+
+Risk Factors
+------------
+
+First degree relatives with idiopathic epilepsy.
+
+Secondary epilepsy or seizures are due to specific medical conditions
+such as brain trauma or tumor, ingestion of toxins, infection, and
+certain metabolic conditions.
+
+Diagnostic Tests
+----------------
+
+Perhaps the most important information your vet needs is an accurate
+description (or even a video) of the seizure or episode. This, together
+with a good physical and neurological examination of your pet, will be
+very useful in helping diagnose the cause of your dog's seizure(s).
+Based on this information your vet will obtain a variety of blood tests
+(complete blood count (CBC), blood chemistries, thyroid function tests)
+and a urinalysis. Depending on the results of these tests, further
+studies may be indicated: MRI or CT brain scan, spinal tap,
+electroencephalogram (EEG), or other laboratory tests.
+
+Idiopathic epilepsy is a diagnosis of exclusion. If all of the above
+studies are normal then a diagnosis of primary epilepsy is made.
+
+Treatment Guidelines
+--------------------
+
+Note: Treatment of animals should only be performed by a licensed
+veterinarian. Veterinarians should consult the current literature and
+current pharmacological formularies before initiating any treatment
+protocol.
+
+Medications are the treatment of choice for epilepsy however not all
+dogs with epilepsy require medication. This is a choice that is made by
+the veterinarian and the owner of the animal. When medications are used,
+they are usually a life-long therapy and cannot be discontinued
+suddenly.  Common drugs which are used for canine epilepsy include
+phenobarbital, primodone, potassium bromide and Valium (diazepam). In
+certain instances, more uncommon medications are needed.  The medication
+regimen must be customized for each dog.  Other treatments may include
+surgery (for specific brain lesions), vagal nerve stimulation, and
+special diets.
+
+Management
+----------
+
+Seizures lasting for more than 5-10 minutes (actual seizure, not
+including pre- and post-ictal stages), or three seizures within a 24
+hour period, is considered a medical emergency and the dog should be
+taken to a veterinarian immediately.
+
+Because idiopathic epilepsy is believed to be inherited, affected dogs
+or dogs with primary relatives  with this type of epilepsy should not be
+bred.
+
+References
+----------
+
+[Understanding Your Pet\'s
+Epilepsy](http://www.canine-epilepsy.net/basics/basics_index.html){.external-link},
+Canine Epilepsy Network   ![three bones
+rating](images/disorder-images/3-bones.gif/image_preview.png){.image-inline}
+[Canine Seizures - Overview, Causes and
+Treatment](http://www.canine-epilepsy-guardian-angels.com/seizures_overview_cause_treatment.htm){.external-link} 
+at canine-epilepsy-guardian-angels.com ![two bones
+rating](images/disorder-images/2-bones.gif/image_preview.png){.image-inline}
+
+<div>
+
+![](seizures-epilepsy/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
+![](seizures-epilepsy/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
+![](seizures-epilepsy/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
+![](seizures-epilepsy/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
+[(full description of ratings)](ratings-what-do-they-mean.html)
+
+</div>
+
+Support Groups
+--------------
+
+[EPIL-K9 List](http://www.canine-epilepsy.com/){.external-link}
+
+ 
+
+Suggested Links
+---------------
+
+[AKC Canine Health Foundation symposium on Canine Epilepsy
+1997](http://www.mirage-samoyeds.com/epilepsy.htm){.external-link}  
+![two bones
+rating](images/disorder-images/2-bones.gif/image_preview.png){.image-inline}
+
+ 
+
+[Emergency Care for Canine
+Seizures](http://www.canine-epilepsy-guardian-angels.com/emergencycare.html){.external-link}
+at canine-epilepsy-guardian-angels.com   ![two bones
+rating](images/disorder-images/2-bones.gif/image_preview.png){.image-inline}
+
+ 
+
+[Canine Epilepsy
+Resources ](http://www.canine-epilepsy.com/Resources.html){.external-link}
+
+at canine-epilepsy-guardian-angels.com  ![one bone
+rating](images/disorder-images/bone.gif/image_preview.png){.image-inline}
+
+ 
+
+[Seizures and Your
+Dog](http://dogs.about.com/od/caninediseases/p/seizures.htm){.external-link}
+at about.com  ![two bones
+rating](images/disorder-images/2-bones.gif/image_preview.png){.image-inline}
+
+ 
+
+[Psychomotor
+Seizures](http://www.canine-epilepsy-guardian-angels.com/Psychomotor.htm){.external-link}
+at canine-epilepsy-guardian-angels.com ![two bones
+rating](images/disorder-images/2-bones.gif/image_preview.png){.image-inline}
+
+ 
+
+ 
+
+<div>
+
+![](seizures-epilepsy/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
+![](seizures-epilepsy/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
+![](seizures-epilepsy/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
+![](seizures-epilepsy/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
+[(full description of ratings)](ratings-what-do-they-mean.html)
+
+</div>
+
+Current Research
+----------------
+
+-   [Seizures/Epilepsy](seizures-epilepsy/seizures-epilepsy.html)
+:::
+:::
