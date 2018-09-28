@@ -1,27 +1,25 @@
-::: {#content}
-::: {#region-content .documentContent}
 Luxating Patella
 ================
 
-<div>
 
- 
 
-*Note:* We do not currently have a health liaison for this disorder.  If
-you would like to volunteer, please contact [[Pam
-Barbe](mailto:president@samoyedhealthfoundation.org?subject=Questions%20about%20becoming%20a%20Health%20Information%20Liaison%20or%20Reviewer)]{.link-mailto} 
-and she will be happy to answer any of your questions.  For a
-description of the position, please click on [disorder health
+
+
+*Note:* We do not currently have a health liaison for this disorder.  If
+you would like to volunteer, please contact [[Pam
+Barbe](mailto:president@samoyedhealthfoundation.org?subject=Questions%20about%20becoming%20a%20Health%20Information%20Liaison%20or%20Reviewer)]{.link-mailto}
+and she will be happy to answer any of your questions.  For a
+description of the position, please click on [disorder health
 information
 liaison.](../help/become-a-health-information-liaison.html "become a health information liaison...")
 
- Thank you to Deb Thompson for putting together this article for SCARF.
+ Thank you to Deb Thompson for putting together this article for SCARF.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Luxating patella or dislocation of the knee, is a condition where the
 patella or kneecap moves out of its normal location. The patella, or
-knee cap, should be located in the center of the knee joint.  There are
+knee cap, should be located in the center of the knee joint.  There are
 two types of luxation:
 
 -   **Medial:** Also known as MLP, is the most common. This is where the
@@ -45,11 +43,11 @@ the groove the pain is gone and the dog will usually resume normal
 activities. Lameness is often intermittent and may be non-existent in
 some dogs.
 
- 
 
- 
 
-</div>
+
+
+
 
 Would you like to **[add a Living with this
 Disorder](luxating-patella/addliving_form.html)** journal entry?
@@ -86,7 +84,7 @@ Signs and Symptoms
     tissues as result of minor trauma or because of worsening of
     degenerative joint disease pain. Most common type in Samoyeds.
 
- 
+
 
 Signs vary dramatically with the degree of luxation. In grades 1 and 2,
 lameness is evident only when the patella is in the luxated position.
@@ -105,7 +103,7 @@ Dog may have no symptoms.
 
 **Grade 2** luxations occur when there is occasional spontaneous
 lameness but the patella returns to normal positioning easily enough
-that the dog usually shows little pain.  This is typically the dog that
+that the dog usually shows little pain.  This is typically the dog that
 occasionally carries a rear leg for two or three steps on occasion but
 then puts it back down and goes on as if nothing was wrong.
 
@@ -124,22 +122,22 @@ including poor to no ability to jump.
 **Grade 5** (or severe grade 4 depending on the grading scheme) is when
 the dog won\'t use the legs or when the gait is stiff legged due to the
 patella being underdeveloped or permanently dislocated and fixed in
-place outside its normal position. 
+place outside its normal position.
 
 Causes
 ------
 
 Luxation may result from traumatic injury or congenital (present at
-birth) deformities. A birth defect where the legs turn inward may also
+birth) deformities. A birth defect where the legs turn inward may also
 be a cause. If the trochlear groove that the patellar ligament (knee
 cap) rides in is too shallow or if the distal attachment of the patellar
 ligament is medial instead of central, the patella will dislocate
-medially when the knee is bent.  When this occurs, the dog has
+medially when the knee is bent.  When this occurs, the dog has
 difficulty bearing weight on the leg until the ligament snaps back into
-place.  Sometimes only one knee is involved, but the disease can become
+place.  Sometimes only one knee is involved, but the disease can become
 bilateral (involving both legs) in about 50% of cases.
 
- 
+
 
 Risk Factors
 ------------
@@ -153,9 +151,9 @@ Patellar luxation is diagnosed based upon history, physical exam
 findings (palpitation of the knee), and may use x-rays to confirm the
 diagnosis.
 
- 
 
- 
+
+
 
 Treatment Guidelines
 --------------------
@@ -194,14 +192,14 @@ early in life will have pretty stiff knee joints by the time they are
 old. This probably is at least partially due to arthritis from the years
 of luxating patellae.
 
- 
+
 
 If the surgery is performed before arthritis occurs, the prognosis is
-excellent.  Your dog should regain full use of its leg.  However, if
+excellent.  Your dog should regain full use of its leg.  However, if
 arthritis has already occurred, your dog will experience pain in the
 joint, especially in cold weather.
 
- 
+
 
 Surgery will alter both the affected structures and the movement of the
 patella. The groove at the base of the femur may be surgically deepened
@@ -213,19 +211,19 @@ bony protuberance at the site of the attachment of the quadriceps tendon
 on the tibia may be cut off and then re-attached in a more lateral
 position.
 
- 
+
 
 All of these procedures work well and the type performed depends on the
-individual case and the Surgeon.  Recovery time post-surgery is varied
+individual case and the Surgeon.  Recovery time post-surgery is varied
 and depends upon weight and age of the pet, pet's physical activity, and
-degree of involvement of the surgical procedure. 
+degree of involvement of the surgical procedure.
 
- 
 
-Most pets will begin touching their toes to the floor in 2 to 4 weeks. 
+
+Most pets will begin touching their toes to the floor in 2 to 4 weeks.
 By 2 to 3 months after surgery your dog should be using the limb well.
 
- 
+
 
 If your dog requires surgical correction of both knees, they will
 generally be operated approximately 6 weeks apart. This is to allow the
@@ -234,7 +232,7 @@ surgery on the second side. In smaller dogs they may operate on both
 knees at the same time, but this would not be advisable in a Samoyed or
 other larger dog.
 
- 
+
 
 Management
 ----------
@@ -256,7 +254,7 @@ Management
     process because they usually lick too much and traumatize the area.
     Licking can remove stitches and cause the incision to open, it can
     also cause infection. Licking can become a severe habit that is
-    difficult to break.  Dogs will frequently lick the incision when the
+    difficult to break.  Dogs will frequently lick the incision when the
     owner is not watching such as at night time; if the skin looks red
     or excoriated the most common cause is from licking.
 -   To stop your dog from licking the following can be tried:
@@ -266,7 +264,7 @@ Management
 2.  Cervical collar (bite not collar) is a less awkward device and can
     be effective at stopping a pet from licking the surgical site
 3.  Bitter apple can be applied around the incision; many dogs will
-    continue to lick  after application of this topical
+    continue to lick  after application of this topical
 4.  Bitter Apple and Liquid Heet^TM^ (obtain this from a drugstore\...it
     is used for sore muscles) mixed in a 2:1 ratio can be applied around
     the skin incision
@@ -289,23 +287,23 @@ areas.
 
 **Without Surgery**
 
--    Activity may be normal to restricted based upon severity of
+-    Activity may be normal to restricted based upon severity of
     disease.
--   Weight control is important in treating this disease condition. 
+-   Weight control is important in treating this disease condition.
     Excess weight increases the load and stress on the knee joints.
 -   Anti-inflammatory medications may be given for inflammation and pain
-    control. 
+    control.
 -   Nutritional supplements are available to help decrease arthritis and
-    maintain as normal and healthy of a joint as possible. 
+    maintain as normal and healthy of a joint as possible.
 -   Additional help can be given with the use of pet ramps, stairs, or
     steps. These can help the dog travel from one place to another,
     especially up and down, without adding any pain or damage to the
-    patella*.*   
+    patella*.*
 
 Support Groups
 --------------
 
- 
+
 
 Orthodogs Yahoo support group
 
@@ -320,12 +318,12 @@ The Orthopedic Foundation of America will issue registration numbers to
 dogs whose patellar have been examined and manipulated by a vet,
 forwarded to the OFA, and found to be normal. For More Information visit
 the [[Orthopedic Foundation of
-America]{.underline}](http://www.offa.org/pdf/plapp_bw.pdf){.external-link}
+America]{.underline}](http://www.offa.org/pdf/plapp_bw.pdf)
 
- 
+
 
 [ACVS - Medial Patellar
-Luxations](https://www.acvs.org/small-animal/patellar-luxations){.external-link} 
+Luxations](https://www.acvs.org/small-animal/patellar-luxations)
 [[!\[3
 bones\](/img/3-bones.gif)]{.underline}](http://www.acvs.org/AnimalOwners/HealthConditions/SmallAnimalTopics/MedialPatellarLuxations/ "external-link")
 
@@ -335,21 +333,21 @@ bones\](/img/2-bones.gif)]{.underline}](http://www.acvs.org/AnimalOwners/HealthC
 
 <http://www.ovrs.com/brochures/patellar-luxation-pamphlet.pdf>
 
-   !\[2 bones\](/img/2-bones.gif)
+   !\[2 bones\](/img/2-bones.gif)
 
-[[http://www.offa.org/pl\_overview.html]{.underline}](http://www.offa.org/pl_overview.html)   [[!\[3
+[[http://www.offa.org/pl\_overview.html]{.underline}](http://www.offa.org/pl_overview.html)   [[!\[3
 bones\](/img/3-bones.gif)]{.underline}](http://www.acvs.org/AnimalOwners/HealthConditions/SmallAnimalTopics/MedialPatellarLuxations/ "external-link")
 
-<https://cpvh.com/luxating-patella-knee-cap/>  [[!\[2
+<https://cpvh.com/luxating-patella-knee-cap/>  [[!\[2
 bones\](/img/2-bones.gif)]{.underline}](http://www.acvs.org/AnimalOwners/HealthConditions/SmallAnimalTopics/MedialPatellarLuxations/ "external-link")
 
 [Merck Veterinary Manual
-Online](http://www.merckvetmanual.com/mvm/musculoskeletal_system/arthropathies_and_related_disorders_in_small_animals/patellar_luxation_in_small_animals.html){.external-link}
+Online](http://www.merckvetmanual.com/mvm/musculoskeletal_system/arthropathies_and_related_disorders_in_small_animals/patellar_luxation_in_small_animals.html)
 - Patellar Luxations ![four bones
-rating](images/disorder-images/4-bones.gif/image_large.png){.image-inline
+rating](/img/4-bones.gif/image_large.png){.image-inline
 width="46" height="15"}
 
-<div>
+
 
 ![](luxating-patella/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
 ![](luxating-patella/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
@@ -357,7 +355,7 @@ width="46" height="15"}
 ![](luxating-patella/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
 [(full description of ratings)](ratings-what-do-they-mean.html)
 
-</div>
+
 
 Current Research
 ----------------
@@ -368,5 +366,3 @@ Current Research
 ------------------------------------------
 
 -   [Oh My Aching Knees](luxating-patella/oh-my-aching-knees.html)
-:::
-:::

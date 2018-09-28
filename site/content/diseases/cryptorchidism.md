@@ -1,11 +1,9 @@
-::: {#content}
-::: {#region-content .documentContent}
 Cryptorchidism
 ==============
 
 **Liaison:** Hazel Fitzgibbon **Email:** <Smiliesam@hotmail.com>
 
-<div>
+
 
 At birth, the testicles of a male puppy are still within its abdomen. As
 the animal develops, the testicles slowly \"descend\" into the scrotum.
@@ -13,14 +11,14 @@ The scrotum provides a cooler environment for sperm development, which
 does not occur correctly at the higher temperatures found within the
 mammalian body.
 
-In cryptorchidism, one or both testicles are "hidden."  A unilateral
+In cryptorchidism, one or both testicles are "hidden."  A unilateral
 cryptorchid dog is a male with only one testicle descended into the
 scrotum; the other testicle is retained in the inguinal canal or
-abdominal region.  A bilateral cryptorchid has no visible testicles;
+abdominal region.  A bilateral cryptorchid has no visible testicles;
 both are retained. Unilateral cryptorchids are often called monorchids,
 mistakenly. A monorchid literally has only one testicle.
 
-</div>
+
 
 Would you like to **[add a Living with this
 Disorder](cryptorchidism/addliving_form.html)** journal entry?
@@ -34,10 +32,10 @@ the scrotum of an intact male dog.
 Causes
 ------
 
-This is generally considered to be a hereditary problem in dogs.  In
+This is generally considered to be a hereditary problem in dogs.  In
 breeds that have been studied, it appears to be polygenetic (caused by
 more than one gene) and recessive (parents may not exhibit the problem,
-but can pass it on).  The genetics have not been studied specifically in
+but can pass it on).  The genetics have not been studied specifically in
 Samoyeds.
 
 Risk Factors
@@ -56,9 +54,9 @@ discreet, shielding them with vast amounts of hair.
 Testicles can also be palpated (examined by touch).
 
 In young puppies, the testicles are softer and may be difficult to
-palpate.  However, they should be descended and palpable by ten weeks. 
+palpate.  However, they should be descended and palpable by ten weeks.
 I know of a puppy who was not entire until he was 5 months old, but this
-is an extreme.  If the testicles have not descended by the age of 6
+is an extreme.  If the testicles have not descended by the age of 6
 months, the path by which they descend is normally closed off.
 
 Treatment Guidelines
@@ -70,19 +68,19 @@ current pharmacological formularies before initiating any treatment
 protocol.
 
 Hormone injections have been reported to bring down a testicle, but this
-has not been proven in well-controlled research\*.  The general
+has not been proven in well-controlled research\*.  The general
 consensus is to neuter (castrate) the dog to prevent cancerous
-development of the retained testicle.  The risk of testicular cancer has
+development of the retained testicle.  The risk of testicular cancer has
 been found to be ten times higher in a retained testicle than in a
-descended testicle.  When operating, the veterinarian must literally
+descended testicle.  When operating, the veterinarian must literally
 hunt for the testicle which may be located anywhere from the area around
 the kidney in the abdomen to the muscle near the groin.
 
- 
+
 
 ------------------------------------------------------------------------
 
-\* Note from the AKC secretary:  \"If it was found that a dog had a
+\* Note from the AKC secretary:  \"If it was found that a dog had a
 testicle lowered through a chemical treatment, the dog would be
 disqualified, with all awards received after the treatment rescinded,and
 the owner would be subject to disciplinary action.\"
@@ -96,32 +94,32 @@ There is much anecdotal evidence from breeders and pet owners alike that
 supports this!
 
 Cryptorchids should not be bred, because the problem is believed to be
-hereditary.  Careful consideration should also be given to continued
+hereditary.  Careful consideration should also be given to continued
 breeding of parents of a cryptorchid, who do carry the defective
 gene(s), or breeding of siblings of a cryptorchid, who may carry the
-defective gene(s). 
+defective gene(s).
 
 A cryptorchid will often have no problems initially with his situation,
 showing no indications of being in pain or discomfort. However, research
-has shown that retained testicles often become cancerous.  Some also
+has shown that retained testicles often become cancerous.  Some also
 feel that there is an increased risk of testicular torsion, which is
-very painful.  In some breeds dogs have lived very long lives without
+very painful.  In some breeds dogs have lived very long lives without
 being castrated but these seem to be the exception rather than the rule.
 
 References
 ----------
 
-1.  <div>
+1.  
 
-    Memon M and Tibary A.  2001.  Canine and Feline Cryptorchidism.  In
-    Recent Advances in Small Animal Reproduction.  International
-    Veterinary Information Service.    
-    [[http://www.ivis.org/advances/Concannon/memon/ivis.pdf]{.underline}](http://www.ivis.org/advances/Concannon/memon/ivis.pdf) 
+    Memon M and Tibary A.  2001.  Canine and Feline Cryptorchidism.  In
+    Recent Advances in Small Animal Reproduction.  International
+    Veterinary Information Service.
+    [[http://www.ivis.org/advances/Concannon/memon/ivis.pdf]{.underline}](http://www.ivis.org/advances/Concannon/memon/ivis.pdf)
     !\[3 bones\](/img/3-bones.gif)
 
-    </div>
+    
 
-<div>
+
 
 ![](cryptorchidism/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
 ![](cryptorchidism/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
@@ -129,7 +127,7 @@ References
 ![](cryptorchidism/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
 [(full description of ratings)](ratings-what-do-they-mean.html)
 
-</div>
+
 
 Support Groups
 --------------
@@ -143,24 +141,24 @@ Suggested Links
 
 <http://cidd.discoveryspace.ca/disorder/cryptorchidism-retained-testicle.html>
 
-  [!\[3 bones\](/img/3-bones.gif)]{.underline}
+  [!\[3 bones\](/img/3-bones.gif)]{.underline}
 
- 
 
- 
 
- 
+
+
+
 
 <http://siriusdog.com/cyptorchidism-congenital-testicle-dog.htm>
 
-  (Wonderful description by Fred Lanting.) !\[2
+  (Wonderful description by Fred Lanting.) !\[2
 bones\](/img/2-bones.gif)
 
- 
 
- 
 
-<div>
+
+
+
 
 ![](cryptorchidism/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
 ![](cryptorchidism/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
@@ -168,12 +166,10 @@ bones\](/img/2-bones.gif)
 ![](cryptorchidism/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
 [(full description of ratings)](ratings-what-do-they-mean.html)
 
-</div>
+
 
 Current Research
 ----------------
 
 -   [Cryptorchidism
     Research](cryptorchidism/cryptorchidism-research.html)
-:::
-:::

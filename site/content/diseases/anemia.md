@@ -1,27 +1,25 @@
-::: {#content}
-::: {#region-content .documentContent}
 Anemia
 ======
 
 **Liaison:** Jan Young **Email:** <jannermd@yahoo.com>
 
-<div>
+
 
 Anemia is a decrease in the number of erythrocytes or red blood cells
 (RBCs) circulating in the blood stream. It is not a disease in and of
 itself but, rather, is a symptom of a number of diseases. Regenerative
 anemia can occur while RBCs are still being produced, as a result of
-loss (bleeding) or increased destruction.  Nonregenerative anemia   is
-due to a lack of production of RBCs.  Anemia is also classified as
+loss (bleeding) or increased destruction.  Nonregenerative anemia   is
+due to a lack of production of RBCs.  Anemia is also classified as
 either acute (sudden and rapid) or chronic (slow and long standing).
 
-</div>
 
-<div>
+
+
 
 [Show more detail](anemia5a76.html?showlong=1)
 
-</div>
+
 
 Would you like to **[add a Living with this
 Disorder](anemia/addliving_form.html)** journal entry?
@@ -29,7 +27,7 @@ Disorder](anemia/addliving_form.html)** journal entry?
 Signs and Symptoms
 ------------------
 
-Acute anemia can result in shock and even death if the  blood volume is
+Acute anemia can result in shock and even death if the  blood volume is
 not replaced rapidly. Signs include rapid heart rate, pale gums,
 bounding or weak pulse, and low blood pressure. Chronic anemia is more
 subtle. Common signs and symptoms include easy tiring or panting and
@@ -44,7 +42,7 @@ Causes
 **Causes of regenerative anemia:**
 
 Blood loss: external or internal bleeding resulting from injury,
-parasites, or  from rupture of a splenic tumor or other neoplasm.  
+parasites, or  from rupture of a splenic tumor or other neoplasm.
 
 Hemolysis (break down of red blood cells): Immune-mediated hemolytic
 anemia ([IMHA: see separate
@@ -52,7 +50,7 @@ discussion](immune-mediated-hemolytic-anemia.html "Immune-Mediated Hemolytic Ane
 other immune-related hemolysis, metabolic causes, toxins, infections,
 and certain inherited diseases.
 
- 
+
 
 **Causes of nonregenerative anemia:**
 
@@ -73,7 +71,7 @@ Diagnostic Tests
 -   Hematocrit or Packed Cell Volume (PCV) - a quick test for
     determining what percent of blood is RBCs.
 
--   CBC with platelet and reticulocyte count (young RBCs)  - Can detect
+-   CBC with platelet and reticulocyte count (young RBCs)  - Can detect
     anemia and may give information about the possible cause.
 
 -   Depending on the results of these tests your vet may then obtain any
@@ -97,11 +95,11 @@ References
 ----------
 
 [Anemia, The Merck Manual, Pet Health
-Edition](http://www.merckvetmanual.com/pethealth/dog_disorders_and_diseases/blood_disorders_of_dogs/anemia_in_dogs.html?qt=anemia&alt=sh){.external-link}
+Edition](http://www.merckvetmanual.com/pethealth/dog_disorders_and_diseases/blood_disorders_of_dogs/anemia_in_dogs.html?qt=anemia&alt=sh)
 ![four bones
-rating](images/disorder-images/4-bones.gif/image_preview.png){.image-inline}
+rating](/img/4-bones.gif/image_preview.png)
 
-<div>
+
 
 ![](anemia/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
 ![](anemia/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
@@ -109,7 +107,7 @@ rating](images/disorder-images/4-bones.gif/image_preview.png){.image-inline}
 ![](anemia/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
 [(full description of ratings)](ratings-what-do-they-mean.html)
 
-</div>
+
 
 Support Groups
 --------------
@@ -120,25 +118,25 @@ underlying cause of the anemia.
 Suggested Links
 ---------------
 
- 
+
 
 [Blood Cells and Complete Blood Counts (CBC) in
-Animals](http://www.peteducation.com/article.cfm?c=2+2144&aid=987){.external-link}
-at PetEducation.com  ![two bones
-rating](images/disorder-images/2-bones.gif/image_preview.png){.image-inline}
+Animals](http://www.peteducation.com/article.cfm?c=2+2144&aid=987)
+at PetEducation.com  ![two bones
+rating](/img/2-bones.gif/image_preview.png)
 
- 
+
 
 [Dog
-Anemia](http://www.dog-health-guide.org/doganemia.html){.external-link}
+Anemia](http://www.dog-health-guide.org/doganemia.html)
 at dog-health-guide.org ![two bones
-rating](images/disorder-images/2-bones.gif/image_preview.png){.image-inline}
+rating](/img/2-bones.gif/image_preview.png)
 
- 
 
- 
 
-<div>
+
+
+
 
 ![](anemia/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
 ![](anemia/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
@@ -146,6 +144,4 @@ rating](images/disorder-images/2-bones.gif/image_preview.png){.image-inline}
 ![](anemia/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
 [(full description of ratings)](ratings-what-do-they-mean.html)
 
-</div>
-:::
-:::
+

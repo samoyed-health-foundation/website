@@ -1,21 +1,19 @@
-::: {#content}
-::: {#region-content .documentContent}
 Hip Dysplasia (HD)
 ==================
 
-<div>
+
 
 Canine Hip Dysplasia (HD) is the abnormal development of the hip joint
-such that there is not a proper fit between the ball and socket.  The
+such that there is not a proper fit between the ball and socket.  The
 hip joint may be loose (laxity), the ball may be partially dislocated
 from the socket (subluxation), or the joint can erode to the point where
 the ball is no longer round and the socket is flattened (shallow
-acetabulum).  Improper fit leads to excessive wear and tear with damage
-to the cartilage, loss of joint lubrication and inflammation.  It gets
+acetabulum).  Improper fit leads to excessive wear and tear with damage
+to the cartilage, loss of joint lubrication and inflammation.  It gets
 worse with age and affected dogs eventually develop osteoarthritis
 (degenerative joint disease) which can be very painful.
 
-</div>
+
 
 Would you like to **[add a Living with this
 Disorder](hip-dysplasia-hd/addliving_form.html)** journal entry?
@@ -36,14 +34,14 @@ HD is polygenic and multifactorial. This means it is genetic and
 controlled by multiple genes, but also influenced by environmental
 factors such as weight and age.
 
- 
+
 
 Risk Factors
 ------------
 
 Related dogs with hip dysplasia.
 
- 
+
 
 Diagnostic Tests
 ----------------
@@ -66,7 +64,7 @@ the dog can be evaluated. X-ray evaluations of young dogs do not always
 accurately predict whether or not a dog will develop CHD later in life.
 Although HD is genetic, a DNA test is not yet available.
 
- 
+
 
 Treatment Guidelines
 --------------------
@@ -90,14 +88,14 @@ veterinarian; do NOT give human painkillers). Glucosamine and
 chondroitin sulfate, nutritional supplements, also appear to help
 although this has yet to be proven in stringent scientific studies.
 
- 
+
 
 [This link has good explanations of the surgical
-options. ](http://www.veterinarypartner.com/Content.plx?P=A&S=0&C=0&A=1916){.external-link}
+options. ](http://www.veterinarypartner.com/Content.plx?P=A&S=0&C=0&A=1916)
 ![two bones
-rating](images/disorder-images/2-bones.gif/image_preview.png){.image-inline}
+rating](/img/2-bones.gif/image_preview.png)
 
- 
+
 
 Management
 ----------
@@ -113,27 +111,27 @@ the overall Samoyed gene pool too severely. The following OFA article
 discusses how to use available information, including a \"vertical
 pedigree,\" to help make breeding decisions.
 
- 
+
 
 *[OFA: Collecting and utilizing phenotypic data to minimize disease: A
 breeder\'s practical
-guide](http://www.ofa.org/pdf/hovanart.pdf){.external-link}  ![three
+guide](http://www.ofa.org/pdf/hovanart.pdf)  ![three
 bones
-rating](images/disorder-images/3-bones.gif/image_preview.png){.image-inline}*
+rating](/img/3-bones.gif/image_preview.png)*
 
 References
 ----------
 
 [Orthopedic Foundation for
-Animals](https://www.ofa.org/diseases/hip-dysplasia){.external-link} 
+Animals](https://www.ofa.org/diseases/hip-dysplasia)
 ![three bones
-rating](images/disorder-images/3-bones.gif/image_preview.png){.image-inline}
+rating](/img/3-bones.gif/image_preview.png)
 
-[PennHIP](http://info.antechimagingservices.com/pennhip/navigation/general/what-is-PennHIP.html){.external-link} 
+[PennHIP](http://info.antechimagingservices.com/pennhip/navigation/general/what-is-PennHIP.html)
 ![three bones
-rating](images/disorder-images/3-bones.gif/image_preview.png){.image-inline}
+rating](/img/3-bones.gif/image_preview.png)
 
-<div>
+
 
 ![](hip-dysplasia-hd/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
 ![](hip-dysplasia-hd/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
@@ -141,48 +139,48 @@ rating](images/disorder-images/3-bones.gif/image_preview.png){.image-inline}
 ![](hip-dysplasia-hd/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
 [(full description of ratings)](ratings-what-do-they-mean.html)
 
-</div>
+
 
 Support Groups
 --------------
 
 [Yahoo Group discussing Canine Hip Dysplasia, its causes, treatment and
-recovery.](https://groups.yahoo.com/neo/groups/CanineHD/info){.external-link}
+recovery.](https://groups.yahoo.com/neo/groups/CanineHD/info)
 
 Suggested Links
 ---------------
 
 [Mirage
-Samoyeds](http://www.mirage-samoyeds.com/hipofa.htm#links){.external-link} 
+Samoyeds](http://www.mirage-samoyeds.com/hipofa.htm#links)
 ![two bones
-rating](images/disorder-images/2-bones.gif/image_preview.png){.image-inline}
+rating](/img/2-bones.gif/image_preview.png)
 
- 
+
 
 [British scheme for scoring
-hips](http://www.bva.co.uk/hip_scheme.aspx){.external-link}  ![three
+hips](http://www.bva.co.uk/hip_scheme.aspx)  ![three
 bones
-rating](images/disorder-images/3-bones.gif/image_preview.png){.image-inline}
+rating](/img/3-bones.gif/image_preview.png)
 
- 
+
 
 [Dr. Bell\'s Genetics
 Lecture](../aboutus/dr-bell-s-lecture.html "Dr. Bell's Genetics Lecture"){.internal-link}
-presented to the Samoyed Club of America October 15, 2002  ![two bones
-rating](images/disorder-images/2-bones.gif/image_preview.png){.image-inline}
+presented to the Samoyed Club of America October 15, 2002  ![two bones
+rating](/img/2-bones.gif/image_preview.png)
 
- 
+
 
 Research article in the Veterinary Journal for anyone interested in the
 genetic methods used to evaluate HD:
 
 [*The long (and winding) road to gene discovery for canine hip
-dysplasia.*  Zhu et al, Vet J. 2009:  181:
-97-110](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2679856/?tool=pubmed){.external-link} 
+dysplasia.*  Zhu et al, Vet J. 2009:  181:
+97-110](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2679856/?tool=pubmed)
 ![three bones
-rating](images/disorder-images/3-bones.gif/image_preview.png){.image-inline}
+rating](/img/3-bones.gif/image_preview.png)
 
-<div>
+
 
 ![](hip-dysplasia-hd/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
 ![](hip-dysplasia-hd/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
@@ -190,7 +188,7 @@ rating](images/disorder-images/3-bones.gif/image_preview.png){.image-inline}
 ![](hip-dysplasia-hd/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
 [(full description of ratings)](ratings-what-do-they-mean.html)
 
-</div>
+
 
 Current Research
 ----------------
@@ -203,5 +201,3 @@ Current Research
 
 -   [Living with Canine Hip
     Dysplasia](hip-dysplasia-hd/living-with-canine-hip-dysplasia.html)
-:::
-:::

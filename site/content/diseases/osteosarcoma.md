@@ -1,23 +1,21 @@
-::: {#content}
-::: {#region-content .documentContent}
 Osteosarcoma
 ============
 
 **Liaison:** Liz Swearingen **Email:** <moonmistsams@gmail.com>
 
-<div>
 
-Osteosarcoma (OSA) is a malignant tumor of the bone (bone cancer).  It
+
+Osteosarcoma (OSA) is a malignant tumor of the bone (bone cancer).  It
 can develop in any bone, but occurs most often in the limbs, near the
 shoulder, wrist or knee.
 
-</div>
 
-<div>
+
+
 
 [Show more detail](osteosarcoma5a76.html?showlong=1)
 
-</div>
+
 
 Would you like to **[add a Living with this
 Disorder](osteosarcoma/addliving_form.html)** journal entry?
@@ -48,9 +46,9 @@ Pelvis
 Causes
 ------
 
-The exact cause of osteosarcoma is unknown.  The tumors are often found
+The exact cause of osteosarcoma is unknown.  The tumors are often found
 near growth plates, so factors promoting rapid growth rate and bone
-turnover may be involved.   In animal studies, several viruses
+turnover may be involved.   In animal studies, several viruses
 (polyomavirus, SV-40 virus and type C retroviruses), fluoride, and
 metabolites of the insecticide diflubenzuron, have been linked to
 osteosarcoma.
@@ -70,13 +68,13 @@ Risk Factors
 
 -   Spaying or neutering prior to one year of age (see link below)
 
- 
 
-[Cooley DM et al.  2002.  Endogenous Gonadal Hormone Exposure and Bone
+
+[Cooley DM et al.  2002.  Endogenous Gonadal Hormone Exposure and Bone
 Sarcoma Risk. Cancer Epidemiol Biomarkers Prev
-11:1434](http://cebp.aacrjournals.org/cgi/content/full/11/11/1434){.external-link}.    
+11:1434](http://cebp.aacrjournals.org/cgi/content/full/11/11/1434).
 ![three bones
-rating](images/disorder-images/3-bones.gif/image_preview.png){.image-inline}
+rating](/img/3-bones.gif/image_preview.png)
 
 Diagnostic Tests
 ----------------
@@ -89,7 +87,7 @@ Diagnosis may include the following:
 
 -   Neurological exam to rule out other causes of lameness
 
--   X-rays of the suspected tumor 
+-   X-rays of the suspected tumor
 
 -   X-rays of the lungs to look for metastases
 
@@ -108,7 +106,7 @@ Other types of cancer and infection must be ruled out.
 -   Infection of the bone such as Coccidioidomycosis, caused by the
     fungus Coccidiodes immitis
 
- 
+
 
 Treatment Guidelines
 --------------------
@@ -119,29 +117,29 @@ current pharmacological formularies before initiating any treatment
 protocol.
 
 Treatment plans for osteosarcoma may be either curative or palliative
-(relieve/lessen pain without curing).  
+(relieve/lessen pain without curing).
 
 If the intent is to attempt a cure, the tumor must be removed either by
-amputation or, when possible, limb sparing procedures.  Surgery may be
-followed by chemotherapy to reduce metastases.  Because most tumors have
+amputation or, when possible, limb sparing procedures.  Surgery may be
+followed by chemotherapy to reduce metastases.  Because most tumors have
 already metastasized when diagnosed, cure is difficult.
 
 Palliative care typically includes radiation and pain medication.
 
 Artemisinin is an herb that has been shown to kill some cancer cells in
-the laboratory.  Anecdotal reports claim that it can stop the growth of
+the laboratory.  Anecdotal reports claim that it can stop the growth of
 osteosarcoma in dogs, but peer-reviewed scientific research has not yet
 been published.
 
- 
 
-**Prognosis:** 
+
+**Prognosis:**
 
 Prognosis depends on many factors including the dog\'s age (it is more
 aggressive in younger dogs), size of tumor, location of tumor, blood
-levels of alkaline phosphatase, and presence of metastases.  Survival
-times vary greatly.  Median survival times of 3-18 months have been
-reported, depending on the location. 
+levels of alkaline phosphatase, and presence of metastases.  Survival
+times vary greatly.  Median survival times of 3-18 months have been
+reported, depending on the location.
 
 Management
 ----------
@@ -149,33 +147,33 @@ Management
 If amputation is required, most dogs do very well on three legs, not
 realizing that they are disabled!
 
- 
 
-[Help for Tripod Dogs](http://tripawds.com/){.external-link}     ![one
+
+[Help for Tripod Dogs](http://tripawds.com/)     ![one
 bone
-rating](images/disorder-images/bone.gif/image_preview.png){.image-inline}
+rating](/img/bone.gif/image_preview.png)
 
 References
 ----------
 
-[Osteosarcoma,](http://www.caninecancer.com/Osteosarcoma.html){.external-link}
-caninecancer.com     ![one bone
-rating](images/disorder-images/bone.gif/image_preview.png){.image-inline}
+[Osteosarcoma,](http://www.caninecancer.com/Osteosarcoma.html)
+caninecancer.com     ![one bone
+rating](/img/bone.gif/image_preview.png)
 
- 
 
- [Canine
-Osteosarcoma](http://www.marvistavet.com/osteosarcoma.pml){.external-link},
-marvistavet.com     ![two bones
-rating](images/disorder-images/2-bones.gif/image_preview.png){.image-inline}
 
- 
+ [Canine
+Osteosarcoma](http://www.marvistavet.com/osteosarcoma.pml),
+marvistavet.com     ![two bones
+rating](/img/2-bones.gif/image_preview.png)
 
-   
 
- 
 
-<div>
+
+
+
+
+
 
 ![](osteosarcoma/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
 ![](osteosarcoma/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
@@ -183,88 +181,88 @@ rating](images/disorder-images/2-bones.gif/image_preview.png){.image-inline}
 ![](osteosarcoma/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
 [(full description of ratings)](ratings-what-do-they-mean.html)
 
-</div>
+
 
 Support Groups
 --------------
 
- [Bone Cancer Dogs,
-Inc.](http://www.bonecancerdogs.org/){.external-link}
+ [Bone Cancer Dogs,
+Inc.](http://www.bonecancerdogs.org/)
 
- 
+
 
 [Canine Cancer Awareness
-Organization](http://caninecancerawareness.org/therapy-and-support/support-groups-on-the-web){.external-link}
+Organization](http://caninecancerawareness.org/therapy-and-support/support-groups-on-the-web)
 
-     
+
 
 [Bone Cancer
-Dogs ](https://groups.yahoo.com/neo/groups/bonecancerdogs/info){.external-link}
+Dogs ](https://groups.yahoo.com/neo/groups/bonecancerdogs/info)
 
 Yahoo Group
 
- 
+
 
 Suggested Links
 ---------------
 
- 
 
-[Chun R  et al: Cisplatin and doxorubicin combination chemotherapy for
+
+[Chun R  et al: Cisplatin and doxorubicin combination chemotherapy for
 the treatment of canine osteosarcoma: J Vet Intern Med. 2000
-Sep-Oct;14(5):495-8](http://www.ncbi.nlm.nih.gov/pubmed/11012111){.external-link}.     
+Sep-Oct;14(5):495-8](http://www.ncbi.nlm.nih.gov/pubmed/11012111).
 ![three bones
-rating](images/disorder-images/3-bones.gif/image_preview.png){.image-inline}
+rating](/img/3-bones.gif/image_preview.png)
 
 [BoneCancerDogs,
-Inc](http://www.bonecancerdogs.org/){.external-link}       ![one bone
-rating](images/disorder-images/bone.gif/image_preview.png){.image-inline}
+Inc](http://www.bonecancerdogs.org/)       ![one bone
+rating](/img/bone.gif/image_preview.png)
 
- 
+
 
 [Osteosarcoma -
-Wikipedia](http://en.wikipedia.org/wiki/Osteosarcoma){.external-link}   
+Wikipedia](http://en.wikipedia.org/wiki/Osteosarcoma)
 ![two bones
-rating](images/disorder-images/2-bones.gif/image_preview.png){.image-inline}
+rating](/img/2-bones.gif/image_preview.png)
 
 [Bone Cancer in
-Dogs  ](http://www.dogcancer.net/osteo.html){.external-link}  at
-www.dogcancer.net  ![one bone
-rating](images/disorder-images/bone.gif/image_preview.png){.image-inline}
+Dogs  ](http://www.dogcancer.net/osteo.html)  at
+www.dogcancer.net  ![one bone
+rating](/img/bone.gif/image_preview.png)
 
 [Canine Osteosarcoma: The Most Common Bone
-Disease](http://www.vetinfo.com/canine-osteosarcoma.html){.external-link}  
-at www.vetinfo.com    ![two bones
-rating](images/disorder-images/2-bones.gif/image_preview.png){.image-inline}
+Disease](http://www.vetinfo.com/canine-osteosarcoma.html)
+at www.vetinfo.com    ![two bones
+rating](/img/2-bones.gif/image_preview.png)
 
-[Kuntz C.  Appendix B: Canine Osteosarcoma.  In Musculoskeletal Cancer
-Surgery, Treatment of Sarcomas and Allied Diseases.  Ed. MM Malawer and
-PH Sugarbaker.  Kluwer Academic Publishers
-2001](http://www.sarcoma.org/publications/mcs/ch38.pdf){.external-link}.     
+[Kuntz C.  Appendix B: Canine Osteosarcoma.  In Musculoskeletal Cancer
+Surgery, Treatment of Sarcomas and Allied Diseases.  Ed. MM Malawer and
+PH Sugarbaker.  Kluwer Academic Publishers
+2001](http://www.sarcoma.org/publications/mcs/ch38.pdf).
 ![four bones
-rating](images/disorder-images/4-bones.gif/image_preview.png){.image-inline}
+rating](/img/4-bones.gif/image_preview.png)
 
 [Canine Osteosarcoma: Amputation and Life
-Quality](http://www.dogcancerblog.com/canine-osteosarcoma-amputation-and-life-quality/){.external-link} 
-at www.dogcancerblog.com    ![two bones
-rating](images/disorder-images/2-bones.gif/image_preview.png){.image-inline}
+Quality](http://www.dogcancerblog.com/canine-osteosarcoma-amputation-and-life-quality/)
+at www.dogcancerblog.com    ![two bones
+rating](/img/2-bones.gif/image_preview.png)
 
 [Canine Osteosarcoma
-Treatment ](http://www.dog-health-guide.org/canineosteosarcomatreatment.html){.external-link} 
-at www.dog-health-guide.org  ![two bones
-rating](images/disorder-images/2-bones.gif/image_preview.png){.image-inline}
+Treatment ](http://www.dog-health-guide.org/canineosteosarcomatreatment.html)
+at www.dog-health-guide.org  ![two bones
+rating](/img/2-bones.gif/image_preview.png)
 
 [The Gabriel Institute - Research in Canine
-Osteosarcoma](http://www.gabrielinstitute.org/){.external-link}    
+Osteosarcoma](http://www.gabrielinstitute.org/)
 ![one bone
-rating](images/disorder-images/bone.gif/image_preview.png){.image-inline}
+rating](/img/bone.gif/image_preview.png)
 
 [Common Cancers -
-Osteosarcoma](http://caninecancerawareness.org/category/osteosarcoma){.external-link}  
-at www.caninecancerawareness.org    ![one bone
-rating](images/disorder-images/bone.gif/image_preview.png){.image-inline}
+Osteosarcoma](http://caninecancerawareness.org/category/osteosarcoma)
+at www.caninecancerawareness.org    ![one bone
+rating](/img/bone.gif/image_preview.png)
 
-<div>
+
 
 ![](osteosarcoma/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
 ![](osteosarcoma/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
@@ -272,7 +270,7 @@ rating](images/disorder-images/bone.gif/image_preview.png){.image-inline}
 ![](osteosarcoma/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
 [(full description of ratings)](ratings-what-do-they-mean.html)
 
-</div>
+
 
 Current Research
 ----------------
@@ -284,5 +282,3 @@ Current Research
 ------------------------------------------
 
 -   [Bone Cancer and Grief](osteosarcoma/bone-cancer-and-grief.html)
-:::
-:::

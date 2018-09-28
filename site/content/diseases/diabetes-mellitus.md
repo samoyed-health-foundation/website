@@ -81,7 +81,7 @@ extremely elevated (600+ mg/dL).
 
 <div style="display: none">
 # References
-</div>
+
 
 # Treatment Guidelines
 

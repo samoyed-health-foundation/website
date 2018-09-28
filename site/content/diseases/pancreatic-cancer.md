@@ -1,11 +1,9 @@
-::: {#content}
-::: {#region-content .documentContent}
 Pancreatic Cancer
 =================
 
 **Liaison:** Jan Young **Email:** <jannermd@yahoo.com>
 
-<div>
+
 
 Tumors of the pancreas are of two types: exocrine (involving cells which
 produce digestive enzymes) and endocrine (involving cells which produce
@@ -13,7 +11,7 @@ hormones). Tumors of either type can be benign (adenomas) or
 malignant/cancerous (adenocarcinomas). Benign tumors tend to grow slowly
 and often are amenable to surgical removal. Malignant tumors,
 particularly exocrine cancers, grow rapidly, metastasize early and carry
-a very poor prognosis. Pancreatic cancer is rare in dogs.  Some breeds,
+a very poor prognosis. Pancreatic cancer is rare in dogs.  Some breeds,
 including Samoyeds, are said to be more prone to pancreatic cancers than
 other breeds, although this has not been reported for Samoyeds in the
 scientific literature. Older dogs (of any breed) are more likely to
@@ -21,7 +19,7 @@ develop pancreatic cancers. Malignant pancreatic tumors are more common
 than benign ones. Exocrine cancers are more common than endocrine.
 Exocrine cancers are the most common and have the poorest prognosis.
 
-</div>
+
 
 Would you like to **[add a Living with this
 Disorder](pancreatic-cancer/addliving_form.html)** journal entry?
@@ -30,7 +28,7 @@ Signs and Symptoms
 ------------------
 
 **Exocrine tumors:** Signs and symptoms of exocrine tumors are vague and
-generalized.  Benign tumors are typically small and may not cause many
+generalized.  Benign tumors are typically small and may not cause many
 symptoms. Malignant tumors, being fast growing, are larger and cause
 symptoms sooner, including pain, vomiting and weight loss. An abdominal
 mass may be palpable. Jaundice may be present because of blockage by the
@@ -102,12 +100,12 @@ chemotherapy are not helpful. Prognosis is guarded in any case.
 References
 ----------
 
-  [Dennis MM et al, 2008.  Hyalinizing Pancreatic Adenocarcinoma in Six
-Dogs.](http://vet.sagepub.com/content/45/4/475.full){.external-link} 
-Veterinary Pathology 45:  475-483.     ![three bones
-rating](images/disorder-images/3-bones.gif/image_preview.png){.image-inline}
+  [Dennis MM et al, 2008.  Hyalinizing Pancreatic Adenocarcinoma in Six
+Dogs.](http://vet.sagepub.com/content/45/4/475.full)
+Veterinary Pathology 45:  475-483.     ![three bones
+rating](/img/3-bones.gif/image_preview.png)
 
-<div>
+
 
 ![](pancreatic-cancer/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
 ![](pancreatic-cancer/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
@@ -115,58 +113,58 @@ rating](images/disorder-images/3-bones.gif/image_preview.png){.image-inline}
 ![](pancreatic-cancer/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
 [(full description of ratings)](ratings-what-do-they-mean.html)
 
-</div>
+
 
 Support Groups
 --------------
 
- 
+
 
 [Canine Cancer
-Awareness](http://caninecancerawareness.org/therapy-and-support/support-groups-on-the-web){.external-link}
+Awareness](http://caninecancerawareness.org/therapy-and-support/support-groups-on-the-web)
 list of support groups on the web
 
 Suggested Links
 ---------------
 
 [Pancreatic Neoplasms in Small
-Animals](http://www.merckvetmanual.com/mvm/digestive_system/the_exocrine_pancreas/pancreatic_neoplasms_in_small_animals.html){.external-link}
-in The Merck Veterinary Manual.   ![four bones
-rating](images/disorder-images/4-bones.gif/image_preview.png){.image-inline}
+Animals](http://www.merckvetmanual.com/mvm/digestive_system/the_exocrine_pancreas/pancreatic_neoplasms_in_small_animals.html)
+in The Merck Veterinary Manual.   ![four bones
+rating](/img/4-bones.gif/image_preview.png)
 [Canine
-Insulinoma](http://vetspecialists.co.uk/factsheets/Oncology_facts/Canine_Insulinoma.html){.external-link}
-from Davies Veterinary Specialists.  ![two bones
-rating](images/disorder-images/2-bones.gif/image_preview.png){.image-inline}
-[Vallee IK 2003.  Insulin-secreting beta cell neoplasia in a 10-year-old
-dog](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC340214/){.external-link}. 
-Can Vet J 44:592-594.     ![three bones
-rating](images/disorder-images/3-bones.gif/image_preview.png){.image-inline}
+Insulinoma](http://vetspecialists.co.uk/factsheets/Oncology_facts/Canine_Insulinoma.html)
+from Davies Veterinary Specialists.  ![two bones
+rating](/img/2-bones.gif/image_preview.png)
+[Vallee IK 2003.  Insulin-secreting beta cell neoplasia in a 10-year-old
+dog](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC340214/).
+Can Vet J 44:592-594.     ![three bones
+rating](/img/3-bones.gif/image_preview.png)
 [Exocrine Pancreatic Cancer from the National Canine Cancer
-Foundation](http://www.wearethecure.org/exocrine-pancreatic-cancer){.external-link}
-(www.wearethecure.org)  ![two bones
-rating](images/disorder-images/2-bones.gif/image_preview.png){.image-inline}
-[Dzaja P et al, 2000.  Insulinoma in a dog; case
-report. ](http://www.vef.unizg.hr/vetarhiv/papers/70-1/dzaja.pdf){.external-link}
-Veterinarski Arhiv 70:  13-20.  ![two bones
-rating](images/disorder-images/2-bones.gif/image_preview.png){.image-inline}
+Foundation](http://www.wearethecure.org/exocrine-pancreatic-cancer)
+(www.wearethecure.org)  ![two bones
+rating](/img/2-bones.gif/image_preview.png)
+[Dzaja P et al, 2000.  Insulinoma in a dog; case
+report. ](http://www.vef.unizg.hr/vetarhiv/papers/70-1/dzaja.pdf)
+Veterinarski Arhiv 70:  13-20.  ![two bones
+rating](/img/2-bones.gif/image_preview.png)
 
-[Madarame H et al.   2009.  Retrospective Study of Canine Insulinomas: 
+[Madarame H et al.   2009.  Retrospective Study of Canine Insulinomas:
 Eight Cases
-(2005-2008).](https://www.jstage.jst.go.jp/article/jvms/71/7/71_7_905/_article){.external-link} 
-J Vet Med Sci 71:  905-911.   ![three bones
-rating](images/disorder-images/3-bones.gif/image_preview.png){.image-inline}
-Veterinary Society of Surgical Oncology.  ![three bones
-rating](images/disorder-images/3-bones.gif/image_preview.png){.image-inline}
-  [Pancreatic
-Adenocarcinoma](http://www.vsso.org/index.php/9-education-1/education/369-pancreatic-adc){.external-link}
-  [Pancreatic
-Gastrinoma](http://www.vsso.org/index.php/9-education-1/education/371-pancreatic-gastrinoma){.external-link}
-  [Pancreatic
-Glucagonoma](http://www.vsso.org/index.php/9-education-1/education/370-pancreatic-glucagonoma){.external-link} 
-  [Pancreatic
-Insulinoma](http://www.vsso.org/index.php/9-education-1/education/373-pancreatic-insulinoma){.external-link}
+(2005-2008).](https://www.jstage.jst.go.jp/article/jvms/71/7/71_7_905/_article)
+J Vet Med Sci 71:  905-911.   ![three bones
+rating](/img/3-bones.gif/image_preview.png)
+Veterinary Society of Surgical Oncology.  ![three bones
+rating](/img/3-bones.gif/image_preview.png)
+  [Pancreatic
+Adenocarcinoma](http://www.vsso.org/index.php/9-education-1/education/369-pancreatic-adc)
+  [Pancreatic
+Gastrinoma](http://www.vsso.org/index.php/9-education-1/education/371-pancreatic-gastrinoma)
+  [Pancreatic
+Glucagonoma](http://www.vsso.org/index.php/9-education-1/education/370-pancreatic-glucagonoma)
+  [Pancreatic
+Insulinoma](http://www.vsso.org/index.php/9-education-1/education/373-pancreatic-insulinoma)
 
-<div>
+
 
 ![](pancreatic-cancer/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
 ![](pancreatic-cancer/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
@@ -174,6 +172,4 @@ Insulinoma](http://www.vsso.org/index.php/9-education-1/education/373-pancreatic
 ![](pancreatic-cancer/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
 [(full description of ratings)](ratings-what-do-they-mean.html)
 
-</div>
-:::
-:::
+

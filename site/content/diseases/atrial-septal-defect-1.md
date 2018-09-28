@@ -1,22 +1,20 @@
-::: {#content}
-::: {#region-content .documentContent}
 Atrial Septal Defect
 ====================
 
 **Liaison:** Jan Young **Email:** <jannermd@yahoo.com>
 
-<div>
+
 
 An atrial septal defect is a hole between the upper two chambers of the
 heart.
 
-</div>
 
-<div>
+
+
 
 [Show more detail](atrial-septal-defect-15a76.html?showlong=1)
 
-</div>
+
 
 Would you like to **[add a Living with this
 Disorder](atrial-septal-defect-1/addliving_form.html)** journal entry?
@@ -31,7 +29,7 @@ wall. Dogs with small ASDs typically live a normal life although they
 may have a tendency toward respiratory infections. With increasing size,
 signs and symptoms may begin. A heart murmur is again present but may
 have a different quality because of the larger size of the hole and
-sometimes because of  turbulence of an increased amount of blood flowing
+sometimes because of  turbulence of an increased amount of blood flowing
 from the right ventricle into the lungs. Dogs with larger ASDs may have
 exercise intolerance and/or have a bluish tinge to the tongue and/or
 mucous membranes. There may be retarded growth rate in young dogs.
@@ -61,7 +59,7 @@ Diagnostic Tests
 
 Once your vet hears a murmur that does not disappear by 6 mos. of age,
 or there are any symptoms, diagnostic studies including an
-electrocardiogram (ECG), chest x-ray (CXR),  echocardiogram, and perhaps
+electrocardiogram (ECG), chest x-ray (CXR),  echocardiogram, and perhaps
 an ultrasound (US) may be done. These studies will help determine the
 presence of an ASD and the degree, if any, of enlargement of the right
 side of the heart and thereby the severity of the disease progression.
@@ -85,41 +83,41 @@ Management
 ----------
 
 Because ASD is believed to be inherited, affected dogs or dogs with
-primary relatives with ASD should not be bred.  Samoyeds used for
+primary relatives with ASD should not be bred.  Samoyeds used for
 breeding should have a cardiac examination by a veterinarian with
-advanced training in cardiology.   If the results of the examination are
-normal and submitted to the Orthopedic Foundation for Animals (OFA), 
+advanced training in cardiology.   If the results of the examination are
+normal and submitted to the Orthopedic Foundation for Animals (OFA),
 the OFA assigns an OFA number, certifying the dog as free from
 congenital heart defects.
 
 References
 ----------
 
- 
+
 
 [Atrial Septal
-Defect](http://cidd.discoveryspace.ca/disorder/atrial-septal-defect-asd.html){.external-link},
+Defect](http://cidd.discoveryspace.ca/disorder/atrial-septal-defect-asd.html),
 Canine Inherited Disorders Database, University of Prince Edward
-Island   ![three bones
-rating](images/disorder-images/3-bones.gif/image_preview.png){.image-inline}
+Island   ![three bones
+rating](/img/3-bones.gif/image_preview.png)
 
 [Congenital Cardiac Disease and the
-OFA](http://www.offa.org/cardiac_about.html){.external-link}   ![three
+OFA](http://www.offa.org/cardiac_about.html)   ![three
 bones
-rating](images/disorder-images/3-bones.gif/image_preview.png){.image-inline}
+rating](/img/3-bones.gif/image_preview.png)
 
- 
+
 
 [Cardiovascular System of the
-Dog](http://www.vetmed.wsu.edu/ClientED/anatomy/cardiovascular.aspx){.external-link},
-Washington State University  ![three bones
-rating](images/disorder-images/3-bones.gif/image_preview.png){.image-inline}
+Dog](http://www.vetmed.wsu.edu/ClientED/anatomy/cardiovascular.aspx),
+Washington State University  ![three bones
+rating](/img/3-bones.gif/image_preview.png)
 
- 
 
- 
 
-<div>
+
+
+
 
 ![](atrial-septal-defect-1/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
 ![](atrial-septal-defect-1/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
@@ -127,48 +125,48 @@ rating](images/disorder-images/3-bones.gif/image_preview.png){.image-inline}
 ![](atrial-septal-defect-1/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
 [(full description of ratings)](ratings-what-do-they-mean.html)
 
-</div>
+
 
 Support Groups
 --------------
 
 [Yahoo Groups Canine Congestive Heart
-Failure](https://groups.yahoo.com/neo/groups/congestiveheartfailure/info){.external-link}
+Failure](https://groups.yahoo.com/neo/groups/congestiveheartfailure/info)
 
- 
+
 
 [Yahoo Groups Canine Heart
-Health](https://groups.yahoo.com/neo/groups/caninehearthealth/info){.external-link}
+Health](https://groups.yahoo.com/neo/groups/caninehearthealth/info)
 
- 
+
 
 Suggested Links
 ---------------
 
 [Atrial Septal Defect in Dogs,
-aquaticcommunity.com](http://www.aquaticcommunity.com/dog/health/cardio/Atrialseptaldefect.php){.external-link}  
+aquaticcommunity.com](http://www.aquaticcommunity.com/dog/health/cardio/Atrialseptaldefect.php)
 ![one bone
-rating](images/disorder-images/bone.gif/image_preview.png){.image-inline}
+rating](/img/bone.gif/image_preview.png)
 
- 
 
- 
+
+
 
 [Atrial Septal Defect image,
-Wikipedia](http://en.wikipedia.org/wiki/File:Atrial_septal_defect-en.png){.external-link}  
+Wikipedia](http://en.wikipedia.org/wiki/File:Atrial_septal_defect-en.png)
 ![two bones
-rating](images/disorder-images/2-bones.gif/image_preview.png){.image-inline}
+rating](/img/2-bones.gif/image_preview.png)
 
- 
+
 
 [Heart Failure in Your Dog,
-2ndchance.info](http://www.2ndchance.info/dogdilcardiomyopathy.htm){.external-link}  
+2ndchance.info](http://www.2ndchance.info/dogdilcardiomyopathy.htm)
 ![one bone
-rating](images/disorder-images/bone.gif/image_preview.png){.image-inline}
+rating](/img/bone.gif/image_preview.png)
 
- 
 
-<div>
+
+
 
 ![](atrial-septal-defect-1/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
 ![](atrial-septal-defect-1/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
@@ -176,6 +174,4 @@ rating](images/disorder-images/bone.gif/image_preview.png){.image-inline}
 ![](atrial-septal-defect-1/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
 [(full description of ratings)](ratings-what-do-they-mean.html)
 
-</div>
-:::
-:::
+

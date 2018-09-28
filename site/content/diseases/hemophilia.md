@@ -1,17 +1,15 @@
-::: {#content}
-::: {#region-content .documentContent}
 Hemophilia
 ==========
 
 **Liaison:** Jan Young **Email:** <jannermd@yahoo.com>
 
-<div>
+
 
 Hemophilia is a disease of the clotting system of the blood and is the
-most common bleeding disorder in cats and dogs.  The clotting mechanism
+most common bleeding disorder in cats and dogs.  The clotting mechanism
 is a cascade of events, each event dependent on a different protein
 factor. There are two primary types of hemophilia: hemophilia A and
-hemophilia B.  Hemophilia A is a deficiency of factor VIII; hemophilia B
+hemophilia B.  Hemophilia A is a deficiency of factor VIII; hemophilia B
 is a deficiency of factor IX. Hemophilia A is more common and its
 severity is dependent on the level of factor VIII activity. Hemophilia B
 is more rare but is often more severe.
@@ -26,15 +24,15 @@ carriers and may pass the disease on to their sons. It is more common in
 some breeds than others, and the Samoyed is listed on several websites
 as one of these breeds. However, the original source of this information
 is unclear, and the disease has not been described in Samoyeds in the
-scientific literature.  It is a relatively rare disease in Samoyeds.
+scientific literature.  It is a relatively rare disease in Samoyeds.
 
-</div>
 
-<div>
+
+
 
 [Show more detail](hemophilia5a76.html?showlong=1)
 
-</div>
+
 
 Would you like to **[add a Living with this
 Disorder](hemophilia/addliving_form.html)** journal entry?
@@ -58,7 +56,7 @@ at a very young age.
 Causes
 ------
 
-As noted above, hemophilia A and B are X-linked inherited defects. 
+As noted above, hemophilia A and B are X-linked inherited defects.
 
 Risk Factors
 ------------
@@ -76,7 +74,7 @@ factors in the clotting cascade might be low/missing.
 
 Once the coagulation profile is determined, specific assays are
 available for the levels of factor VIII, factor IX, and some other
-factors.  These tests can confirm that a dog has a specific bleeding
+factors.  These tests can confirm that a dog has a specific bleeding
 disorder, but it cannot rule out a carrier state because carriers may
 have normal levels.
 
@@ -84,9 +82,9 @@ Genetic (DNA) tests for the carrier state of Hemophilia B, factor VII
 deficiency and von Willebrand\'s disease (another clotting disorder) are
 available from VetGen for certain breeds, but not for Samoyeds.
 
-[VetGen](http://www.vetgen.com/canine-services.html){.external-link}
+[VetGen](http://www.vetgen.com/canine-services.html)
 
- 
+
 
 Treatment Guidelines
 --------------------
@@ -124,16 +122,16 @@ References
 ----------
 
 [Congenital coagulation protein
-disorders](http://www.merckvetmanual.com/mvm/circulatory_system/hemostatic_disorders/coagulation_protein_disorders.html){.external-link}. 
-Merck Veterinary Manual.   ![four bones
-rating](images/disorder-images/4-bones.gif/image_preview.png){.image-inline}
+disorders](http://www.merckvetmanual.com/mvm/circulatory_system/hemostatic_disorders/coagulation_protein_disorders.html).
+Merck Veterinary Manual.   ![four bones
+rating](/img/4-bones.gif/image_preview.png)
 [Hemophilia
-A](http://ahdc.vet.cornell.edu/sects/coag/clinical/Hemopha.cfm){.external-link}
-from the Cornell University College of Veterinary Medicine  ![three
+A](http://ahdc.vet.cornell.edu/sects/coag/clinical/Hemopha.cfm)
+from the Cornell University College of Veterinary Medicine  ![three
 bones
-rating](images/disorder-images/3-bones.gif/image_preview.png){.image-inline}
+rating](/img/3-bones.gif/image_preview.png)
 
-<div>
+
 
 ![](hemophilia/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
 ![](hemophilia/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
@@ -141,44 +139,44 @@ rating](images/disorder-images/3-bones.gif/image_preview.png){.image-inline}
 ![](hemophilia/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
 [(full description of ratings)](ratings-what-do-they-mean.html)
 
-</div>
+
 
 Support Groups
 --------------
 
 [Canine
-Hemophilia](http://www.facebook.com/pages/Canine-Hemophilia-Support-Group/133078033429365){.external-link}
+Hemophilia](http://www.facebook.com/pages/Canine-Hemophilia-Support-Group/133078033429365)
 There is a Canine Hemophilia Support Group on Facebook.
 
- 
 
- 
+
+
 
 Suggested Links
 ---------------
 
 [Hemophilia at the Canine Inherited Disorders
-Database](http://cidd.discoveryspace.ca/disorder/hemophilia.html){.external-link},
-University of Prince Edward Island  ![three bones
-rating](images/disorder-images/3-bones.gif/image_preview.png){.image-inline}
+Database](http://cidd.discoveryspace.ca/disorder/hemophilia.html),
+University of Prince Edward Island  ![three bones
+rating](/img/3-bones.gif/image_preview.png)
 
- 
 
- [X-Linked Recessive
-Inheritance](http://en.wikipedia.org/wiki/X-linked_recessive_inheritance){.external-link}
-at wikipedia  ![two bones
-rating](images/disorder-images/2-bones.gif/image_preview.png){.image-inline}
 
- 
+ [X-Linked Recessive
+Inheritance](http://en.wikipedia.org/wiki/X-linked_recessive_inheritance)
+at wikipedia  ![two bones
+rating](/img/2-bones.gif/image_preview.png)
+
+
 
 [Bleeding Disorders of
-Dogs](http://www.merckvetmanual.com/pethealth/dog_disorders_and_diseases/blood_disorders_of_dogs/bleeding_disorders_of_dogs.html?qt=hemophilia&alt=sh){.external-link}. 
+Dogs](http://www.merckvetmanual.com/pethealth/dog_disorders_and_diseases/blood_disorders_of_dogs/bleeding_disorders_of_dogs.html?qt=hemophilia&alt=sh).
 Merck Manual Pet Health Edition ![four bones
-rating](images/disorder-images/4-bones.gif/image_preview.png){.image-inline}
+rating](/img/4-bones.gif/image_preview.png)
 
- 
 
-<div>
+
+
 
 ![](hemophilia/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
 ![](hemophilia/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
@@ -186,12 +184,10 @@ rating](images/disorder-images/4-bones.gif/image_preview.png){.image-inline}
 ![](hemophilia/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
 [(full description of ratings)](ratings-what-do-they-mean.html)
 
-</div>
+
 
 Current Research
 ----------------
 
 -   [Canine hemophilia
     research](hemophilia/canine-hemophilia-research.html)
-:::
-:::

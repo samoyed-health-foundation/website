@@ -1,23 +1,21 @@
-::: {#content}
-::: {#region-content .documentContent}
 Fading Puppy Syndrome
 =====================
 
 **Liaison:** Gail Spieker **Email:** <tahogail@gmail.com>
 
-<div>
+
 
 Fading Puppy Syndrome is not a specific disease or diagnosis, but a
 description of signs that may be due to environmental factors, genetic
-causes or infectious agents.  It is used to describe a puppy that
+causes or infectious agents.  It is used to describe a puppy that
 appears normal at birth, but "fades" - fails to grow and thrive during
-the first weeks of life.  Sometimes it affects entire litters.
+the first weeks of life.  Sometimes it affects entire litters.
 
 ![mom and
 pups](fading-puppy-syndrome/mom%20and%20pups.jpg/image_large.jpg){.image-inline
 width="302" height="268"}
 
-</div>
+
 
 Would you like to **[add a Living with this
 Disorder](fading-puppy-syndrome/addliving_form.html)** journal entry?
@@ -26,27 +24,27 @@ Signs and Symptoms
 ------------------
 
 Fading Puppy Syndrome usually occurs in neonates (newborns) from birth
-to 3 weeks.  Signs include not nursing, crying, and losing weight.  The
-puppy may be limp.  Feces may be soft and yellow green if fading is
+to 3 weeks.  Signs include not nursing, crying, and losing weight.  The
+puppy may be limp.  Feces may be soft and yellow green if fading is
 caused by the canine herpes virus.
 
 Causes
 ------
 
 Although the signs in Fading Puppy Syndrome appear the same, there are
-many causes that could be involved.  It is essential to seek early
+many causes that could be involved.  It is essential to seek early
 intervention and diagnosis because puppies worsen quickly and may die
 within a day or two.
 
 **Environmental factors** are one of the main causes of death in
-neonates.  Poor mothering can cause puppies to develop hypothermia, in
-which the body temperature falls precipitously.  Puppies in the first
+neonates.  Poor mothering can cause puppies to develop hypothermia, in
+which the body temperature falls precipitously.  Puppies in the first
 week of life depend on the mother, or on outside sources such as heat
 lamps or whelping room maintained at 85 degrees Fahrenheit, to maintain
-sufficient body heat.  In those few days, puppies do not have the
+sufficient body heat.  In those few days, puppies do not have the
 ability to shiver, and their body temperature varies from 95 to 98
-degrees Fahrenheit.  By the second and third week, normal body
-temperature rises to 97 to 100 degrees Fahrenheit.  It is not until the
+degrees Fahrenheit.  By the second and third week, normal body
+temperature rises to 97 to 100 degrees Fahrenheit.  It is not until the
 fourth week that body temperature reaches 101.5 degrees Fahrenheit,
 which is normal for adult dogs.
 
@@ -55,49 +53,49 @@ comfort, hyperthermia may occur. Puppies may over heat in those
 circumstances and cry incessantly.
 
 Dams who have **Caesarean sections** have litters with higher death
-rates than litters whelped naturally.  There may be several reasons for
+rates than litters whelped naturally.  There may be several reasons for
 this, one of them being that the maternal instinct is not as strong to
 mother the newborns, or factors resulting from the operation itself.
 
-**Environmental toxins** are another cause of Fading Puppy Syndrome. 
+**Environmental toxins** are another cause of Fading Puppy Syndrome.
 Bedding materials or substances used to clean or wash the whelping box
-may be toxic to newborns.  It may be advisable not to use pine
+may be toxic to newborns.  It may be advisable not to use pine
 oils/phenols;or bleach/ammonium based cleaners that come in direct
 contact with the puppies. It seems to be preferable to use mild cleaners
 with no strong odors that have been thoroughly rinsed before the puppies
 are returned to the whelping box.
 
-**Genetics** also plays an important role in neonatal fatalities. 
+**Genetics** also plays an important role in neonatal fatalities.
 Highly inbred litters, such as those from breedings of siblings, may
-have decreased litter size and a high neonatal mortality rate.  Gross
-abnormalities are often found in the ill or deceased puppies.  Cleft
+have decreased litter size and a high neonatal mortality rate.  Gross
+abnormalities are often found in the ill or deceased puppies.  Cleft
 palates, atrophy of the thymus and cardiovascular defects are only three
 of the problems found in fading puppies.
 
-**Low birth weight** is another factor in fading puppy syndrome.  It can
+**Low birth weight** is another factor in fading puppy syndrome.  It can
 be associated with transient juvenile hypoglycemia (low blood sugar), a
-common cause of fatality especially in toy breeds.  It occurs when
-feeding isn't frequent enough to maintain blood sugar levels.  Even if
+common cause of fatality especially in toy breeds.  It occurs when
+feeding isn't frequent enough to maintain blood sugar levels.  Even if
 recognized and treated by feeding frequent small meals, the condition
 may persist for several months.
 
 **Infection**, caused by either bacteria or viruses, is often associated
-with fading puppy syndrome.  Neonatal septicemia is a systemic bacterial
+with fading puppy syndrome.  Neonatal septicemia is a systemic bacterial
 infection that could be transmitted through the mother or from an
-unclean environment.  Viral infections, most frequently canine herpes
+unclean environment.  Viral infections, most frequently canine herpes
 virus contracted by the bitch during the last three weeks before birth,
-can result in abortion or early neonatal death.  Canine parvovirus 1
+can result in abortion or early neonatal death.  Canine parvovirus 1
 (also called CPV-1 or minute virus of canines, MVC) ) is another cause
 of fading puppy syndrome. Vaccination of the dam for viral diseases
 prior to breeding allows her immunity to carry through to the puppies in
-her colostrum.  Unfortunately, vaccines for canine herpes virus and
+her colostrum.  Unfortunately, vaccines for canine herpes virus and
 canine parvovirus 1 are not currently available in the United States.
 
 Finally, **intestinal parasites**, particularly roundworm and hookworms,
 which can cross through the placenta, may be a contributing factor in
 early puppy death.
 
- 
+
 
 Risk Factors
 ------------
@@ -106,7 +104,7 @@ Risk Factors
 -   Delivery by caesarean section
 -   Highly inbred litter
 
- 
+
 
 Treatment Guidelines
 --------------------
@@ -116,35 +114,35 @@ veterinarian. Veterinarians should consult the current literature and
 current pharmacological formularies before initiating any treatment
 protocol.
 
-Call your vet immediately if you suspect a puppy is fading.  Specific
+Call your vet immediately if you suspect a puppy is fading.  Specific
 treatment will depend on what your vet feels may be causing the
-problem.   Supportive care includes keeping affected puppies warm (room
+problem.   Supportive care includes keeping affected puppies warm (room
 at 85 to 95 degrees Fahrenheit) and preventing dehydration with the use
 of an eye dropper to administer fluids such as Esbilac, water and liver
 juice.
 
- 
+
 
 References
 ----------
 
-[Fading puppy and kitten syndrome:  Do you know the
-signs](http://files.dvm360.com/alfresco_images/DVM360/2013/11/18/48492ec0-72f6-4cf6-b5be-e8077aa0688a/article-197291.pdf){.external-link}?
-by Joni L. Freshman, DVM, MS, DACVIM.  Veterinary Medicine, November
-2005  !\[3 bones\](/img/3-bones.gif)
+[Fading puppy and kitten syndrome:  Do you know the
+signs](http://files.dvm360.com/alfresco_images/DVM360/2013/11/18/48492ec0-72f6-4cf6-b5be-e8077aa0688a/article-197291.pdf)?
+by Joni L. Freshman, DVM, MS, DACVIM.  Veterinary Medicine, November
+2005  !\[3 bones\](/img/3-bones.gif)
 
-[[http://www.marvistavet.com/herpes-infection-canine.pml]{.underline}](http://www.marvistavet.com/herpes-infection-canine.pml){.external-link}  
+[[http://www.marvistavet.com/herpes-infection-canine.pml]{.underline}](http://www.marvistavet.com/herpes-infection-canine.pml)
 !\[2 bones\](/img/2-bones.gif)
 
-[http://www.heirlair.com/parvo.htm](https://web.archive.org/web/20060427034534/http://www.heirlair.com/parvo.htm){.external-link} 
- [![one bone
-rating](images/disorder-images/bone.gif/image_large.png){.image-inline
+[http://www.heirlair.com/parvo.htm](https://web.archive.org/web/20060427034534/http://www.heirlair.com/parvo.htm)
+ [![one bone
+rating](/img/bone.gif/image_large.png){.image-inline
 width="16"
-height="15"}](http://www.vetmedpub.com/vetmed/data/articlestandard//vetmed/462005/197291/article.pdf "external-link") -
+height="15"}](http://www.vetmedpub.com/vetmed/data/articlestandard//vetmed/462005/197291/article.pdf "external-link") -
 Information on canine parvovirus 1 (currently available only through
 internet \"wayback machine\"
 
-<div>
+
 
 ![](fading-puppy-syndrome/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
 ![](fading-puppy-syndrome/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
@@ -152,66 +150,66 @@ internet \"wayback machine\"
 ![](fading-puppy-syndrome/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
 [(full description of ratings)](ratings-what-do-they-mean.html)
 
-</div>
+
 
 Support Groups
 --------------
 
 <https://groups.yahoo.com/neo/groups/pregnancy_and_pups/info>
 
- 
+
 
 Suggested Links
 ---------------
 
 If you experience fading puppy syndrome with a litter please see the
 suggested links to be better prepared should it appear with the next
-litter.  If a puppy dies, an autopsy to understand the cause can help
+litter.  If a puppy dies, an autopsy to understand the cause can help
 define preventive steps for future litters.
 
- 
 
- 
+
+
 
 [<http://www.lowchensaustralia.com/breeding/fadingpups.htm>]{.underline}
 
- ![one bone
-rating](images/disorder-images/bone.gif/image_large.png){.image-inline
+ ![one bone
+rating](/img/bone.gif/image_large.png){.image-inline
 width="16" height="15"}
 
- 
 
-[[http://searsvet.50megs.com/Herpes1.html]{.underline}](http://searsvet.50megs.com/Herpes1.html)  ![one
+
+[[http://searsvet.50megs.com/Herpes1.html]{.underline}](http://searsvet.50megs.com/Herpes1.html)  ![one
 bone
-rating](images/disorder-images/bone.gif/image_large.png){.image-inline
+rating](/img/bone.gif/image_large.png){.image-inline
 width="16" height="15"}
 
- 
+
 
 <http://showdogsupersite.com/kenlclub/breedvet/fading.html>
 
- !\[2 bones\](/img/2-bones.gif)
+ !\[2 bones\](/img/2-bones.gif)
 
-[[http://www.peteducation.com/article.cfm?cls=2&articleid=443]{.underline}](http://www.peteducation.com/article.cfm?cls=2&articleid=443) 
+[[http://www.peteducation.com/article.cfm?cls=2&articleid=443]{.underline}](http://www.peteducation.com/article.cfm?cls=2&articleid=443)
 !\[2 bones\](/img/2-bones.gif)
 
- 
 
-[[http://www.2ndchance.info/herpesvirusdog.htm]{.underline}](http://www.2ndchance.info/herpesvirusdog.htm)  ![one
+
+[[http://www.2ndchance.info/herpesvirusdog.htm]{.underline}](http://www.2ndchance.info/herpesvirusdog.htm)  ![one
 bone
-rating](images/disorder-images/bone.gif/image_large.png){.image-inline
+rating](/img/bone.gif/image_large.png){.image-inline
 width="16" height="15"}
 
- 
 
-[[http://www.vetinfo4dogs.com/dherpes.html]{.underline}](http://www.vetinfo4dogs.com/dherpes.html) !\[2
+
+[[http://www.vetinfo4dogs.com/dherpes.html]{.underline}](http://www.vetinfo4dogs.com/dherpes.html) !\[2
 bones\](/img/2-bones.gif)
 
-<http://www.provet.co.uk/health/diseases/parvovirus.htm>  !\[2
-bones\](/img/2-bones.gif) - information on parvovirus 1 and how it
+<http://www.provet.co.uk/health/diseases/parvovirus.htm>  !\[2
+bones\](/img/2-bones.gif) - information on parvovirus 1 and how it
 relates to fading puppies
 
-<div>
+
 
 ![](fading-puppy-syndrome/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
 ![](fading-puppy-syndrome/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
@@ -219,12 +217,10 @@ relates to fading puppies
 ![](fading-puppy-syndrome/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
 [(full description of ratings)](ratings-what-do-they-mean.html)
 
-</div>
+
 
 Current Research
 ----------------
 
 -   [Canine Parvovirus 1
     ](fading-puppy-syndrome/canine-parvovirus-1.html)
-:::
-:::

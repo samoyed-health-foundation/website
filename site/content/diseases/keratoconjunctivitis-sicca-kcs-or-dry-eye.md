@@ -1,11 +1,9 @@
-::: {#content}
-::: {#region-content .documentContent}
 Keratoconjunctivitis Sicca (KCS) or Dry Eye
 ===========================================
 
 **Liaison:** Anngharaad \"Annie\" Reid **Email:** <annie.reid@cox.net>
 
-<div>
+
 
 **Keratoconjunctivitis Sicca (\"KCS\") **or **Dry Eye** is an eye
 disease. Keratoconjunctivitis sicca is a latin term. "Kerato" refers to
@@ -13,16 +11,16 @@ the cornea or clear covering of the eye. "Conjunctivae" are the moist
 pink membranes of the eye socket. "Itis" means inflammation. "Sicca"
 means dry. KCS means inflamed, dry cornea and conjunctiva. Generally, it
 occurs when there is a deficiency in the water portion of the tear film
-which normally accounts for 95% of the tear volume. 
+which normally accounts for 95% of the tear volume.
 
-</div>
 
-<div>
+
+
 
 [Show more
 detail](keratoconjunctivitis-sicca-kcs-or-dry-eye5a76.html?showlong=1)
 
-</div>
+
 
 Would you like to **[add a Living with this
 Disorder](keratoconjunctivitis-sicca-kcs-or-dry-eye/addliving_form.html)**
@@ -35,7 +33,7 @@ Dogs show their discomfort by rubbing their eyes, squinting and being
 sensitive to light. Their eyes may become red and inflamed and/or the
 cornea may appear dull and dry. There is commonly a thick, mucoid (or
 gooey) discharge in the eye or adhered to the eyelashes and hairs around
-the eye.  
+the eye.
 
 In time (if left untreated), the cornea will undergo destructive changes
 in an effort to protect the eye. These changes result in brown
@@ -62,7 +60,7 @@ Causes
     to lubricate your Sammy's eyes with ointment prior to surgery.
 -   Removal of the nictating membrane (instead of replacement) during
     surgery for Cherry Eye
--   Trauma 
+-   Trauma
 
 Mode of Inheritance
 -------------------
@@ -83,7 +81,7 @@ borderline. A measurement of less than 10mm is dry. A measurement of
 less than 5mm is very dry. Fluorescein stain is used to define possible
 breaks in the corneal surface and the rate of the tear break up. Rose
 Bengal stain may be used to evaluate the health of the cornea's
-epithelium.  
+epithelium.
 
 Many dogs with STT measurements of less than 10mm may not show clinical
 signs of KCS.
@@ -108,7 +106,7 @@ There are several objectives in treating "dry eye." These include:
 -   [[Stimulate natural tear
     production]{.underline}](#Stimulate%20natural%20tear%20production:)
 
- 
+
 
 **[Tear replacement]{#Tear%20replacement}**
 
@@ -121,7 +119,7 @@ gland destruction (see below).**
 **[Lubrication]{#Lubrication}**
 
 Artificial tears alone do not lubricate as well as natural tears, so the
-addition of a lubricant is recommended. 
+addition of a lubricant is recommended.
 
 **[Reduce bacterial overgrowth]{#Reduce%20bacterial%20overgrowth}**
 
@@ -130,7 +128,7 @@ the eyelids that is no longer being washed away by tears. This mucus
 buildup is food for bacterial growth. An antibiotic and acetylcysteine
 are either added to or in combination therapy with the artificial tear
 solution to help keep the mucus discharge and bacterial overgrowth under
-control.  
+control.
 
 **[Reduce inflammation]{#Reduce%20inflammation}**
 
@@ -144,9 +142,9 @@ production:]{#Stimulate%20natural%20tear%20production:}**
 ***Pilocarpine*****:** Patients with nerve loss are treated with
 pilocarpine. Pilocarpine is a "cholinergic" drug -- it stimulates the
 lacrimal glands to produce tears, but may have undesirable side effects
-(diarrhea, drooling, vomiting, drop in heart rate). 
+(diarrhea, drooling, vomiting, drop in heart rate).
 
-***Cyclosporine*****: ** This is the primary treatment for "dry eye"
+***Cyclosporine*****: ** This is the primary treatment for "dry eye"
 because of its efficiency at stimulating tear production (dogs with
 Schirmer tear tests as low as 2mm still have an 80% chance of responding
 to cyclosporine), the need for fewer applications and the lack of
@@ -154,12 +152,12 @@ undesirable side effects with long term use.
 
 Cyclosporine is an immunomodulating drug that, when applied as an eye
 drop or ointment, suppresses the immune destruction that is the most
-common cause of "dry eye" and restores tear production. 
+common cause of "dry eye" and restores tear production.
 
 *Shering-Plough* developed Optimmune^®^ Ophthalmic Ointment, an eye
 ointment containing 0.2% cyclosporine.
 
-***Tacrolimus:***** ** Tacrolimus is one of a group of relatively new
+***Tacrolimus:***** ** Tacrolimus is one of a group of relatively new
 drugs called calcineuron inhibitors. These drugs are anti-inflammatory,
 and immunosuppressive or immunomodulatory. At the present time,
 tacrolimus is primarily used in the treatment of KCS and immune-mediated
@@ -170,7 +168,7 @@ dogs that are unresponsive to cyclosporine.
 
 ### Surgical Solutions {#surgical-solutions style="text-align: justify;"}
 
-**Parotid Duct Transposition **
+**Parotid Duct Transposition **
 
 The parotid duct is the salivary gland on either side of the facial
 cheek. It produces saliva which is carried to the mouth via a duct. This
@@ -180,26 +178,26 @@ mineral deposits will form on the eye surface and eye drops may be
 required to control this. The dog's eyes will water when fed and facial
 wetting may be undesirable.
 
-**Superficial Keratectomy **
+**Superficial Keratectomy **
 
 If the surface of the cornea becomes pigmented and interferes with a
 dog's vision, the pigmented surface can sometimes be surgically removed.
 This procedure is rarely performed unless the primary underlying
-condition is well controlled to help prevent recurrence.  
+condition is well controlled to help prevent recurrence.
 
 References
 ----------
 
-[[www.eyevet.ca]{.underline}](http://www.eyevet.ca/) !\[2
+[[www.eyevet.ca]{.underline}](http://www.eyevet.ca/) !\[2
 bones\](/img/2-bones.gif)
 
-[[www.marvistavet.com]{.underline}](http://www.marvistavet.com/dry-eye.pml){.external-link} !\[2
+[[www.marvistavet.com]{.underline}](http://www.marvistavet.com/dry-eye.pml) !\[2
 bones\](/img/2-bones.gif)
 
-[[www.eyevetclinic.co.uk]{.underline}](http://www.eyevetclinic.co.uk/) !\[2
-bones\](/img/2-bones.gif)** **
+[[www.eyevetclinic.co.uk]{.underline}](http://www.eyevetclinic.co.uk/) !\[2
+bones\](/img/2-bones.gif)** **
 
-<div>
+
 
 ![](keratoconjunctivitis-sicca-kcs-or-dry-eye/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
 ![](keratoconjunctivitis-sicca-kcs-or-dry-eye/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
@@ -207,23 +205,23 @@ bones\](/img/2-bones.gif)** **
 ![](keratoconjunctivitis-sicca-kcs-or-dry-eye/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
 [(full description of ratings)](ratings-what-do-they-mean.html)
 
-</div>
+
 
 Suggested Links
 ---------------
 
-[[http://www.eyevet.ca/kcs.html]{.underline}](http://www.eyevet.ca/kcs.html "external-link") 
+[[http://www.eyevet.ca/kcs.html]{.underline}](http://www.eyevet.ca/kcs.html "external-link")
 [!\[2
 bones\](/img/2-bones.gif)]{.underline}[[]{.underline}](http://www.eyevet.info/kcs.html "external-link")
 
-[[http://www.marvistavet.com/dry-eye.pml]{.underline}](http://www.marvistavet.com/dry-eye.pml){.external-link}
+[[http://www.marvistavet.com/dry-eye.pml]{.underline}](http://www.marvistavet.com/dry-eye.pml)
 [!\[2 bones\](/img/2-bones.gif)]{.underline}
 
-[[http://www.medi-vet.com/dog-eye-care-s/1831.htm]{.underline}](http://www.medi-vet.com/dog-eye-care-s/1831.htm){.external-link}
+[[http://www.medi-vet.com/dog-eye-care-s/1831.htm]{.underline}](http://www.medi-vet.com/dog-eye-care-s/1831.htm)
 
- 
 
-<div>
+
+
 
 ![](keratoconjunctivitis-sicca-kcs-or-dry-eye/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
 ![](keratoconjunctivitis-sicca-kcs-or-dry-eye/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
@@ -231,12 +229,10 @@ bones\](/img/2-bones.gif)]{.underline}[[]{.underline}](http://www.eyevet.info/kc
 ![](keratoconjunctivitis-sicca-kcs-or-dry-eye/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
 [(full description of ratings)](ratings-what-do-they-mean.html)
 
-</div>
+
 
 \"Living with a Disorder\" Journal Entries
 ------------------------------------------
 
 -   [In the Blink of an
     Eye](keratoconjunctivitis-sicca-kcs-or-dry-eye/in-the-blink-of-an-eye.html)
-:::
-:::

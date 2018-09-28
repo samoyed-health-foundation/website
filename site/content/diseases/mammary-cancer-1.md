@@ -1,20 +1,18 @@
-::: {#content}
-::: {#region-content .documentContent}
 Mammary Cancer
 ==============
 
-<div>
+
 
 Cancerous Tumors that originate along the mammary chain. It is the
 canine equivalent of human breast cancer.
 
-</div>
 
-<div>
+
+
 
 [Show more detail](mammary-cancer-15a76.html?showlong=1)
 
-</div>
+
 
 Would you like to **[add a Living with this
 Disorder](mammary-cancer-1/addliving_form.html)** journal entry?
@@ -35,7 +33,7 @@ division and differentiation.
 Risk Factors
 ------------
 
--    Bitches intact after the first or second estrus cycle.
+-    Bitches intact after the first or second estrus cycle.
 
 <!-- -->
 
@@ -49,7 +47,7 @@ foci.
 Diagnostic Tests
 ----------------
 
--    Palpation of the area along the mammary chain and associated lymph
+-    Palpation of the area along the mammary chain and associated lymph
     nodes.
 
 <!-- -->
@@ -60,14 +58,14 @@ Diagnostic Tests
 -   Cells removed from the lump with a needle may be examined (fine
     needle aspiration) but this is not as accurate as a biopsy.
 
- 
+
 
 Must rule out cysts, mastitis (infection of breast tissue), dermatologic
 (skin) diseases and tumors that are not mammary cancer but may be
 located over the mammary gland such as mast cell tumors and soft tissue
 sarcomas.
 
- 
+
 
 One report suggests that the most important assessment of mammary tumors
 may be their behavioral malignancy (will the tumor act malignant, i.e.
@@ -78,7 +76,7 @@ infiltrative eg. swollen lymph nodes) and confirmed by biopsy (evidence
 of local invasion). The report suggests 90% of canine mammary tumors are
 behaviorally benign.
 
- 
+
 
 Treatment Guidelines
 --------------------
@@ -88,7 +86,7 @@ veterinarian. Veterinarians should consult the current literature and
 current pharmacological formularies before initiating any treatment
 protocol.
 
- 
+
 
 Treatment depends on results of the diagnostic tests. Other factors to
 be considered are behavioral malignancy, prognosis, age and physical
@@ -105,7 +103,7 @@ condition of the bitch.
 Unlike in humans, radiation and chemotherapy are typically not very
 effective in dogs, although they are used in some cases.
 
- 
+
 
 **Prognosis:**
 
@@ -126,7 +124,7 @@ effective in dogs, although they are used in some cases.
 8.  Tumors that are not attached to under or overlying tissues (suggests
     less rapid growth of tumor)
 
- 
+
 
 **Factors irrelevant to prognosis:**
 
@@ -140,7 +138,7 @@ effective in dogs, although they are used in some cases.
 Management
 ----------
 
- 
+
 
 Some recommend life time nutritional supplements for predisposed dogs:
 Inositol hexaphosphate, 1-3 beta glucan, fucose. These have some effect
@@ -148,7 +146,7 @@ on cancer in isolated cells in the laboratory or in preliminary animal
 experiments, but there has been no definitive research proving their
 effectiveness.
 
- 
+
 
 Twenty-six percent of intact bitches are expected to eventually have
 mammary cancer. If a bitch will not be used for breeding, spaying prior
@@ -158,75 +156,75 @@ after one estrus cycle reduces the risk to 8%.
 References
 ----------
 
-[Hellmen E et al. *Prognostic Factors in Canine Mammary Tumors:  a
+[Hellmen E et al. *Prognostic Factors in Canine Mammary Tumors:  a
 Multivariate Study of 202 Consecutive Cases.* Vet Pathol 1993.
-30:20-27](http://vet.sagepub.com/content/30/1/20.short){.external-link}. 
+30:20-27](http://vet.sagepub.com/content/30/1/20.short).
 ![three bones
-rating](images/disorder-images/3-bones.gif/image_preview.png){.image-inline}
+rating](/img/3-bones.gif/image_preview.png)
 
-  
+
 
 [*Canine Mammary Tumors.* Ohio State College of Veterinary
-Medicine.](http://vet.osu.edu/vmc/canine-mammary-tumors){.external-link} 
+Medicine.](http://vet.osu.edu/vmc/canine-mammary-tumors)
 ![three bones
-rating](images/disorder-images/3-bones.gif/image_preview.png){.image-inline}
+rating](/img/3-bones.gif/image_preview.png)
 
- 
+
 
 [Hoskins JD. *Prognosis, treatment of canine mammary tumors.*
-www.dvm60.com 
-2008](http://veterinarynews.dvm360.com/dvm/Medicine/Prognosis-treatment-of-canine-mammary-tumors/ArticleStandard/Article/detail/520483){.external-link} 
+www.dvm60.com
+2008](http://veterinarynews.dvm360.com/dvm/Medicine/Prognosis-treatment-of-canine-mammary-tumors/ArticleStandard/Article/detail/520483)
 ![two bones
-rating](images/disorder-images/2-bones.gif/image_preview.png){.image-inline}
+rating](/img/2-bones.gif/image_preview.png)
 
- 
 
-  [*Mammary Tumors in Dogs and Cats: What Do I Tell the Owner.* Histovet
+
+  [*Mammary Tumors in Dogs and Cats: What Do I Tell the Owner.* Histovet
 Surgical
-Pathology](http://www.histovet.com/pdf/HIS_MammaryTumor.pdf){.external-link}.
+Pathology](http://www.histovet.com/pdf/HIS_MammaryTumor.pdf).
 ![two bones
-rating](images/disorder-images/2-bones.gif/image_preview.png){.image-inline} 
+rating](/img/2-bones.gif/image_preview.png)
 
 [*Mammary Cancer*.
-www.caninecancerawareness.org](http://caninecancerawareness.org/canine-cancer-diagnosis/mammary-cancer){.external-link}
+www.caninecancerawareness.org](http://caninecancerawareness.org/canine-cancer-diagnosis/mammary-cancer)
 ![one bone
-rating](images/disorder-images/bone.gif/image_preview.png){.image-inline}
+rating](/img/bone.gif/image_preview.png)
 
- 
+
 
 [*Cancer and Tumors - Mammary Tumors*.
-www.vetinfo.com](http://www.vetinfo.com/dmammary.html#0_undefined,0_){.external-link}
+www.vetinfo.com](http://www.vetinfo.com/dmammary.html#0_undefined,0_)
 ![two bones
-rating](images/disorder-images/2-bones.gif/image_preview.png){.image-inline}
+rating](/img/2-bones.gif/image_preview.png)
 
- 
+
 
 [*Overview of Mammary
-Tumors*](http://www.merckvetmanual.com/mvm/reproductive_system/mammary_tumors/overview_of_mammary_tumors.html){.external-link}.
+Tumors*](http://www.merckvetmanual.com/mvm/reproductive_system/mammary_tumors/overview_of_mammary_tumors.html).
 Merck Veterinary Manual. ![four bones
-rating](images/disorder-images/4-bones.gif/image_preview.png){.image-inline}
+rating](/img/4-bones.gif/image_preview.png)
 
- 
 
- [*Mammary Tumors in Cats and Dogs*. American College of Veterinary
-Surgeons](https://www.acvs.org/small-animal/mammary-tumors){.external-link}.
+
+ [*Mammary Tumors in Cats and Dogs*. American College of Veterinary
+Surgeons](https://www.acvs.org/small-animal/mammary-tumors).
 ![three bones
-rating](images/disorder-images/3-bones.gif/image_preview.png){.image-inline}  
+rating](/img/3-bones.gif/image_preview.png)
 
- 
+
 
 [Brooks WC. *Mammary Tumors in Dogs.*
-www.veterinarypartner.com](http://www.veterinarypartner.com/Content.plx?P=A&A=1350&S=2&EVetID=0){.external-link}
+www.veterinarypartner.com](http://www.veterinarypartner.com/Content.plx?P=A&A=1350&S=2&EVetID=0)
 ![two bones
-rating](images/disorder-images/2-bones.gif/image_preview.png){.image-inline}
- 
+rating](/img/2-bones.gif/image_preview.png)
+
 
 [*Mammary Gland (Breast) Cancer in Dogs.*
-www.petcancercenter.org](http://www.petcancercenter.org/Cancer_Types_Breast_Dogs.html){.external-link}
- ![one bone
-rating](images/disorder-images/bone.gif/image_preview.png){.image-inline}
+www.petcancercenter.org](http://www.petcancercenter.org/Cancer_Types_Breast_Dogs.html)
+ ![one bone
+rating](/img/bone.gif/image_preview.png)
 
-<div>
+
 
 ![](mammary-cancer-1/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
 ![](mammary-cancer-1/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
@@ -234,7 +232,7 @@ rating](images/disorder-images/bone.gif/image_preview.png){.image-inline}
 ![](mammary-cancer-1/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
 [(full description of ratings)](ratings-what-do-they-mean.html)
 
-</div>
+
 
 Support Groups
 --------------
@@ -242,17 +240,17 @@ Support Groups
 This support group is for all types of canine cancer.
 
 [Yahoo Group Canine
-Cancer](https://groups.yahoo.com/neo/groups/caninecancer/info){.external-link}
+Cancer](https://groups.yahoo.com/neo/groups/caninecancer/info)
 
 Suggested Links
 ---------------
 
-<http://www.labbies.com/cancerintro.htm>  ![one bone
-rating](images/disorder-images/bone.gif/image_preview.png){.image-inline}
+<http://www.labbies.com/cancerintro.htm>  ![one bone
+rating](/img/bone.gif/image_preview.png)
 
- 
 
-<div>
+
+
 
 ![](mammary-cancer-1/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
 ![](mammary-cancer-1/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
@@ -260,7 +258,7 @@ rating](images/disorder-images/bone.gif/image_preview.png){.image-inline}
 ![](mammary-cancer-1/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
 [(full description of ratings)](ratings-what-do-they-mean.html)
 
-</div>
+
 
 Current Research
 ----------------
@@ -271,5 +269,3 @@ Current Research
 ------------------------------------------
 
 -   [Mammary tumors](mammary-cancer-1/mammary-tumors.html)
-:::
-:::
