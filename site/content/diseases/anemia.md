@@ -1,5 +1,6 @@
-Anemia
-======
++++
+title = "Anemia"
++++
 
 **Liaison:** Jan Young **Email:** <jannermd@yahoo.com>
 
@@ -14,15 +15,11 @@ due to a lack of production of RBCs.  Anemia is also classified as
 either acute (sudden and rapid) or chronic (slow and long standing).
 
 
+<details>
+<summary>*Click here to show/hide more detail*</summary>
+Red blood cells (RBCs) carry oxygen from the lungs throughout the tissues of the body. They have a normal life span of perhaps 120 days, and as they age, they are removed from the blood stream by the spleen and discarded. The bone marrow constantly makes new RBCs to replace the old ones. Certain diseases and environmental factors can cause the RBCs to be broken down and removed faster than normal, resulting in a need for the bone marrow to work harder. If the bone marrow cannot keep up with the rate of breakdown, anemia can result. In other situations, the underlying problem may be an inability of the bone marrow to make new RBCs even at a normal rate, again resulting in anemia. A third category of anemia is the result of bleeding, either acutely or chronically. When anemia is found in your dog, it is important, as a first step, for your vet to determine which type of anemia is present.
+</details>
 
-
-
-[Show more detail](anemia5a76.html?showlong=1)
-
-
-
-Would you like to **[add a Living with this
-Disorder](anemia/addliving_form.html)** journal entry?
 
 Signs and Symptoms
 ------------------
@@ -45,8 +42,7 @@ Blood loss: external or internal bleeding resulting from injury,
 parasites, or  from rupture of a splenic tumor or other neoplasm.
 
 Hemolysis (break down of red blood cells): Immune-mediated hemolytic
-anemia ([IMHA: see separate
-discussion](immune-mediated-hemolytic-anemia.html "Immune-Mediated Hemolytic Anemia"){.internal-link}),
+anemia ([IMHA: see separate discussion](/diseases/immune-mediated-hemolytic-anemia)),
 other immune-related hemolysis, metabolic causes, toxins, infections,
 and certain inherited diseases.
 
@@ -94,20 +90,14 @@ may be necessary.
 References
 ----------
 
-[Anemia, The Merck Manual, Pet Health
-Edition](http://www.merckvetmanual.com/pethealth/dog_disorders_and_diseases/blood_disorders_of_dogs/anemia_in_dogs.html?qt=anemia&alt=sh)
-![four bones
-rating](/img/4-bones.gif/image_preview.png)
+[Anemia, The Merck Manual, Pet Health Edition](http://www.merckvetmanual.com/pethealth/dog_disorders_and_diseases/blood_disorders_of_dogs/anemia_in_dogs.html?qt=anemia&alt=sh)
+![4 bones](/img/4-bones.gif)
 
-
-
-![](anemia/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](anemia/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](anemia/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](anemia/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
-
-
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 Support Groups
 --------------
@@ -120,17 +110,11 @@ Suggested Links
 
 
 
-[Blood Cells and Complete Blood Counts (CBC) in
-Animals](http://www.peteducation.com/article.cfm?c=2+2144&aid=987)
-at PetEducation.com  ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+[Blood Cells and Complete Blood Counts (CBC) in Animals](http://www.peteducation.com/article.cfm?c=2+2144&aid=987) at PetEducation.com
+![2 bones](/img/2-bones.gif)
 
-
-
-[Dog
-Anemia](http://www.dog-health-guide.org/doganemia.html)
-at dog-health-guide.org ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+[Dog Anemia](http://www.dog-health-guide.org/doganemia.html) at dog-health-guide.org
+![2 bones](/img/2-bones.gif)
 
 
 
@@ -138,10 +122,10 @@ rating](/img/2-bones.gif/image_preview.png)
 
 
 
-![](anemia/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](anemia/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](anemia/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](anemia/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
 
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
