@@ -1,5 +1,6 @@
-Alopecia X
-==========
++++
+title = "Alopecia X"
++++
 
 **Liaison:** Elizabeth Wells **Email:** <solidgoldsams@charter.net>
 
@@ -13,7 +14,7 @@ shed and growth patterns are disrupted. The dog sheds coat and fails to
 re-grow a normal coat. The primary clinical presentation is the
 symmetrical, gradual loss of hair over the trunk and thighs, while hair
 on the head and front limbs remains normal.  Sometimes the guard hairs
-are lost first leaving a soft \"puppy\" coat. The skin may also darken,
+are lost first leaving a soft "puppy" coat. The skin may also darken,
 called hyper-pigmentation. Other terms for the condition in veterinary
 literature include Adult Onset Growth Hormone Deficiency, Growth
 Hormone-Responsive Alopecia, Castration-Responsive Alopecia, and, more
@@ -22,9 +23,6 @@ Malamutes often refer to it as Coat Funk and Pomeranian breeders call it
 Black Skin Disease.
 
 
-
-Would you like to **[add a Living with this
-Disorder](alopecia-x/addliving_form.html)** journal entry?
 
 Signs and Symptoms
 ------------------
@@ -142,72 +140,44 @@ References
 ----------
 
 Paradis, Manon in Kirk's Current Veterinary Therapy XIII -- Small Animal
-Practice, "Melatonin Therapy for Canine Alopecia" pp546-549  ![four
-bones
-rating](/img/4-bones.gif/image_large.png){.image-inline
-width="46" height="15"}
+Practice, "Melatonin Therapy for Canine Alopecia" pp546-549
+![4 bones](/img/4-bones.gif)
 
-**[]{.underline}**
+[Adrenal steroid hormone concentrations in dogs with hair cycle arrest (Alopecia X) before and during treatment with melatonin and mitotane](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=15500479&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVAbstractPlus) by Linda A. Frank, Keith A Hnilica and Jack Oliver, *Veterinary Dermatology* 2004; 15(5):  278-284
+![3 bones](/img/3-bones.gif)
 
-**[[Adrenal steroid hormone concentrations in dogs with hair cycle
-arrest (Alopecia X) before and during treatment with melatonin and
-mitotane](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=15500479&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVAbstractPlus "external-link")]{.underline}**[,](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=15500479&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVAbstractPlus "external-link")
-by Linda A. Frank, Keith A Hnilica and Jack Oliver, *Veterinary
-Dermatology* 2004; 15(5):  278-284  **[!\[3
-bones\](/img/3-bones.gif)]{.underline}**
+[Treatment of canine Alopecia X with trilostane](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=15500480&ordinalpos=2&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum), by Rosario Cerundolo, David H Lloyd, Angelo Persechino, Helen Evans and Andria Cauvin, *Veterinary Dermatology* 2004; 15(5):  285-293
+![3 bones](/img/3-bones.gif)
 
-**[Treatment of canine Alopecia X with
-trilostane](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=15500480&ordinalpos=2&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum "external-link"),**
-by Rosario Cerundolo, David H Lloyd, Angelo Persechino, Helen Evans and
-Andria Cauvin, *Veterinary Dermatology* 2004; 15(5):  285-293  **!\[3
-bones\](/img/3-bones.gif)**
-
-Identifying \"look alike\" endocrine diseases, by Pat White DVM MS
-diplomat ACVD *DVM* June 2001 !\[2 bones\](/img/2-bones.gif)
+Identifying "look alike" endocrine diseases, by Pat White DVM MS diplomat ACVD *DVM* June 2001
+![2 bones](/img/2-bones.gif)
 
  
 
  
 
-[](http://www.vet.utk.edu/hairloss "external-link")
+<http://www.vet.utk.edu/hairloss>
 
 
 
-![](alopecia-x/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](alopecia-x/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](alopecia-x/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](alopecia-x/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
-
-
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 Suggested Links
 ---------------
 
 Dr. Linda A. Frank Department of Small Animal Clinical Sciences College
 of Veterinary Medicine The University of Tennessee Knoxville, TN
-37996-4544 Tel: (865) 974-8387 (ET) Email:
-[[LFrank\@utk.edu]{.underline}](mailto:LFrank@utk.edu) Website: [[Hair
-Loss]{.underline}](http://www.vet.utk.edu/hairloss "external-link") 
-!\[2 bones\](/img/2-bones.gif)
+37996-4544
 
-[Mar Vista Animal Center Health
-Pages](http://www.marvistavet.com/alopecia-x.pml) !\[2
-bones\](/img/2-bones.gif)
+Tel: (865) 974-8387 (ET)
 
- 
+Email: [LFrank@utk.edu](mailto:LFrank@utk.edu) Website: [Hair Loss](http://www.vet.utk.edu/hairloss)
+![2 bones](/img/2-bones.gif)
 
+[Mar Vista Animal Center Health Pages](http://www.marvistavet.com/alopecia-x.pml)
+![2 bones](/img/2-bones.gif)
 
-
-![](alopecia-x/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](alopecia-x/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](alopecia-x/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](alopecia-x/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
-
-
-
-Current Research
-----------------
-
--   [Mapping Alopecia X ](alopecia-x/mapping-alopecia-x.html)

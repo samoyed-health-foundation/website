@@ -176,8 +176,3 @@ Suggested Links
 
 [Canis Major](http://www.canismajor.com/dog/tagress.html)
 ![two bones rating](/img/2-bones.gif)
-
-Current Research
-----------------
-
-- [Diet and Aggression](/aggression/diet-and-aggression.html)
