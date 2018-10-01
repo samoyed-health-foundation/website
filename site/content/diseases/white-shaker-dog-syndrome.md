@@ -1,7 +1,10 @@
-White Shaker Dog Syndrome
-=========================
++++
+title = "White Shaker Dog Syndrome"
++++
 
-**Liaison:** Hazel Fitzgibbon **Email:** <Smiliesam@Hotmail.com>
+**Liaison:** Hazel Fitzgibbon
+
+**Email:** <Smiliesam@Hotmail.com>
 
 
 
@@ -16,16 +19,12 @@ all coat colors are now recognized as being susceptible.
 Because of the response to steroids and the recognition of this syndrome
 in breeds other than those with a white hair coat, this disease is also
 referred to as Steroid Responsive Tremor Syndrome.  Another name for the
-disease is Idiopathic Cerebellitis \[inflammation of the cerebellum
-(part of the brain) with unknown cause\].
+disease is Idiopathic Cerebellitis [inflammation of the cerebellum
+(part of the brain) with unknown cause].
 
 
 
 
-
-Would you like to **[add a Living with this
-Disorder](white-shaker-dog-syndrome/addliving_form.html)** journal
-entry?
 
 Signs and Symptoms
 ------------------
@@ -88,10 +87,10 @@ indicative of inflammation. It may however be normal.
 Treatment Guidelines
 --------------------
 
-Note: Treatment of animals should only be performed by a licensed
-veterinarian. Veterinarians should consult the current literature and
-current pharmacological formularies before initiating any treatment
-protocol.
+> **Note:** Treatment of animals should only be performed by a licensed
+> veterinarian. Veterinarians should consult the current literature and
+> current pharmacological formularies before initiating any treatment
+> protocol.
 
 Most dogs respond to an immunosuppressive dose of cortico-steroids
 (prednisone), or to diazepines.  Sometimes both drugs are given.
@@ -119,34 +118,30 @@ curable.  It can be incapacitating.
 References
 ----------
 
-[[http://www.addl.purdue.edu/newsletters/2004/spring/tremors.htm]{.underline}](http://www.addl.purdue.edu/newsletters/2004/spring/tremors.htm)
+[http://www.addl.purdue.edu/newsletters/2004/spring/tremors.htm](http://www.addl.purdue.edu/newsletters/2004/spring/tremors.htm)
+![3 bones](/img/3-bones.gif)
 
-**!\[3 bones\](/img/3-bones.gif)**
-
-Parker, A.J. 1995. \"Little white shakers\" syndrome: generalized,
+Parker, A.J. 1995. "Little white shakers" syndrome: generalized,
 sporadic, acquired, idiopathic tremors in adult dogs. In J.D. Bonaguara
-and R.W. Kirk (eds) Kirk\'s Current Veterinary Therapy XII Small Animal
+and R.W. Kirk (eds) Kirk's Current Veterinary Therapy XII Small Animal
 Practice. pp. 1126-1127. W.B. Saunders Co., Toronto
-
 ![four bones
-rating](/img/4-bones.gif/image_large.png){.image-inline
-width="46" height="15"}
+rating](/img/4-bones.gif)
 
 Bagley RS.  Diseases of the Cerebellum.  Page 31 in: Principles of
 Neurologic Evaluation:  Evaluation of Dogs and Cats that Look and Act
-Funny. !\[3 bones\](/img/3-bones.gif)
+Funny. ![3 bones](/img/3-bones.gif)
 
 
 
 
 
-![](white-shaker-dog-syndrome/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](white-shaker-dog-syndrome/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](white-shaker-dog-syndrome/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](white-shaker-dog-syndrome/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
 
-
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 Support Groups
 --------------
@@ -164,10 +159,9 @@ Suggested Links
 
 General information is included in the following sites for other breeds;
 
-[[http://www.malteseonly.com/shakerdog.html]{.underline}](http://www.malteseonly.com/shakerdog.html)
+[http://www.malteseonly.com/shakerdog.html](http://www.malteseonly.com/shakerdog.html)
 ![one bone
-rating](/img/bone.gif/image_large.png){.image-inline
-width="16" height="15"}
+rating](/img/1-bone.gif)
 
 
 
@@ -176,7 +170,7 @@ width="16" height="15"}
 Westie Foundation:  [White Shaker Disease
 Syndrome ](https://www.westiefoundation.org/assets/white-shaker-ebook.pdf)
 ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
 
 
 
@@ -184,16 +178,10 @@ rating](/img/2-bones.gif/image_preview.png)
 
 
 
-![](white-shaker-dog-syndrome/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](white-shaker-dog-syndrome/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](white-shaker-dog-syndrome/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](white-shaker-dog-syndrome/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 
-
-Current Research
-----------------
-
--   [Research
-    Articles](white-shaker-dog-syndrome/research-articles.html)

@@ -1,7 +1,6 @@
-Elbow Dysplasia
-===============
-
-
++++
+title = "Elbow Dysplasia"
++++
 
 Elbow Dysplasia is the result of abnormal development of the elbow
 joint.  Improper fit leads to excessive wear and tear and inflammation.
@@ -9,15 +8,19 @@ It gets worse with age and affected dogs eventually develop degenerative
 joint disease (osteoarthritis) which can be very painful.
 
 
+<details>
+<summary>*Click here to show/hide more detail*</summary>
 
+There are three different abnormalities that may occur singly or together in elbow dysplasia in one or both elbows:
 
+- Fragmentation of the medial coronoid process of the ulna
+- Osteochondritis (or osteochondrosis) of the medial humeral condyle
+- Ununited anconeal process
 
-[Show more detail](elbow-dysplasia5a76.html?showlong=1)
+[Description of abnormalities](http://www.merckvetmanual.com/mvm/musculoskeletal_system/arthropathies_and_related_disorders_in_small_animals/elbow_dysplasia_in_small_animals.html) in the Merck Veterinary Manual
+![4 bones](/img/4-bones.gif)
 
-
-
-Would you like to **[add a Living with this
-Disorder](elbow-dysplasia/addliving_form.html)** journal entry?
+</details>
 
 Signs and Symptoms
 ------------------
@@ -58,7 +61,7 @@ evaluation. X-rays can also detect elbow dysplasia prior to a dog
 exhibiting signs.  Because elbow dysplasia is genetic and very
 undesirable, X-rays are frequently used to screen dogs prior to
 breeding.  The X-rays can be sent to an organization that provides an
-independent evaluation of the dog\'s elbows.  In the United States the
+independent evaluation of the dog's elbows.  In the United States the
 Orthopedic Foundation for Animals
 ([OFA](http://www.offa.org/)) provides this service;
 they issue an OFA elbow registry number if the elbows are normal.  If
@@ -72,10 +75,10 @@ available.
 Treatment Guidelines
 --------------------
 
-Note: Treatment of animals should only be performed by a licensed
-veterinarian. Veterinarians should consult the current literature and
-current pharmacological formularies before initiating any treatment
-protocol.
+> **Note:** Treatment of animals should only be performed by a licensed
+> veterinarian. Veterinarians should consult the current literature and
+> current pharmacological formularies before initiating any treatment
+> protocol.
 
 Elbow dysplasia can be treated surgically and/or medically.  Surgery is
 not successful in all cases; it is most effective when performed in
@@ -98,21 +101,21 @@ pain or further injury to the affected joints.
 
 Elbow dysplasia should also be managed in a breeding program.  Selecting
 dogs for breeding based on x-ray screening can reduce, but not eliminate
-elbow dysplasia, because some dogs can be \"carriers\" without
+elbow dysplasia, because some dogs can be "carriers" without
 exhibiting it.  Approximately 2-4% of Samoyeds have been found to have
 elbow dysplasia.  Since there are plenty of Samoyeds without elbow
 dysplasia, those with any grade of the disorder should NOT be bred.
 Samoyeds with relatives with elbow dysplasia may be carriers and should
 not be bred unless careful consideration of their entire pedigree shows
 minimal risk.  The following OFA article discusses how to use available
-information, including a \"vertical pedigree,\" to help make breeding
+information, including a "vertical pedigree," to help make breeding
 decisions.
 
 [Collecting and utilizing phenotypic data to minimize disease:  A
-breeder\'s practical
+breeder's practical
 guide](http://www.offa.org/pdf/hovanart.pdf)  ![three
 bones
-rating](/img/3-bones.gif/image_preview.png)
+rating](/img/3-bones.gif)
 
 
 
@@ -123,29 +126,29 @@ References
 
 [Elbow Dysplasia](http://www.offa.org/ed_types.html) at
 the Orthopedic Foundation for Animals  ![three bones
-rating](/img/3-bones.gif/image_preview.png)
+rating](/img/3-bones.gif)
+
 [Elbow
 Dysplasia](http://www.merckvetmanual.com/mvm/musculoskeletal_system/arthropathies_and_related_disorders_in_small_animals/elbow_dysplasia_in_small_animals.html)
 in the Merck Veterinary Manual  ![four bones
-rating](/img/4-bones.gif/image_preview.png)
+rating](/img/4-bones.gif)
+
 Elbow Dysplasia in Dogs  at vetsurgerycentral.com  ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
 
 
-
-![](elbow-dysplasia/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](elbow-dysplasia/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](elbow-dysplasia/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](elbow-dysplasia/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
-
-
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 Support Groups
 --------------
 
 [Yahoo Group for Canine Elbow
 Dysplasia](https://groups.yahoo.com/neo/groups/k9elbow/info)
+
 [Yahoo Group for dogs with various orthopedic
 issues](https://groups.yahoo.com/neo/groups/orthodogs/info)
 
@@ -155,32 +158,29 @@ Suggested Links
 [Summary of OFA elbow dysplasia
 registry](http://www.mirage-samoyeds.com/elbowofa.htm)
 at www.mirage-samoyeds.com  ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
+
 [British Veterinary
 Association](https://www.bva.co.uk/uploadedFiles/Content/Canine_Health_Schemes/Elbow_Scheme/CHS-elbow-dyspalsia-feb-2014.pdf)
- ![three bones
-rating](/img/3-bones.gif/image_preview.png)
+![three bones
+rating](/img/3-bones.gif)
+
 [Canine Elbow
 Dysplasia,](https://www.acvs.org/small-animal/canine-elbow-dysplasia)
 American College of Veterinary Surgeons ![three bones
-rating](/img/3-bones.gif/image_preview.png)
-[Dr. Bell\'s Genetics
-lecture](../aboutus/dr-bell-s-lecture.html "Dr. Bell's Genetics Lecture"){.internal-link}
+rating](/img/3-bones.gif)
+
+[Dr. Bell's Genetics
+lecture](/files/dr_bell_genetics_lecture.pdf)
 ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
 
 
 
-![](elbow-dysplasia/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](elbow-dysplasia/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](elbow-dysplasia/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](elbow-dysplasia/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
 
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-
-Current Research
-----------------
-
--   [Canine Elbow Dysplasia
-    Research](elbow-dysplasia/canine-elbow-dysplasia-research.html)

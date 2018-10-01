@@ -1,7 +1,10 @@
-Pancreatitis
-============
++++
+title = "Pancreatitis"
++++
 
-**Liaison:** Jan Young **Email:** <jannermd@yahoo.com>
+**Liaison:** Jan Young
+
+**Email:** <jannermd@yahoo.com>
 
 
 
@@ -13,8 +16,6 @@ inflammation of the pancreas. This can be acute or chronic.
 
 
 
-Would you like to **[add a Living with this
-Disorder](pancreatitis/addliving_form.html)** journal entry?
 
 Signs and Symptoms
 ------------------
@@ -70,10 +71,10 @@ this is becoming the gold standard test.
 Treatment Guidelines
 --------------------
 
-Note: Treatment of animals should only be performed by a licensed
-veterinarian. Veterinarians should consult the current literature and
-current pharmacological formularies before initiating any treatment
-protocol.
+> **Note:** Treatment of animals should only be performed by a licensed
+> veterinarian. Veterinarians should consult the current literature and
+> current pharmacological formularies before initiating any treatment
+> protocol.
 
 **Acute Pancreatitis:** Acute pancreatitis can be life-threatening.
 Early recognition and treatment can improve chances of recovery. The
@@ -102,7 +103,7 @@ The  Royal Veterinary College in London has completed a study on the
 [Nutritional Management of Acute Pancreatitis in Dogs and
 Cats](http://onlinelibrary.wiley.com/enhanced/doi/10.1111/vec.12180/). ![three
 bones
-rating](/img/3-bones.gif/image_preview.png)
+rating](/img/3-bones.gif)
 
 **Chronic pancreatitis:** Some animals develop chronic pancreatitis
 which can lead to diabetes or pancreatic insufficiency. In this latter
@@ -115,45 +116,49 @@ from the pancreas of hogs and cattle.
 References
 ----------
 
-1\. [Canine
+- (1) [Canine
 Pancreatitis](http://www.veterinarypartner.com/Content.plx?P=A&A=2214)
 by Wendy C. Brooks, DVM, DipABVP, at www.veterinarypartner.com ![two
 bones
-rating](/img/2-bones.gif/image_preview.png)
-2. Papa K et al 2011.  [Occurence, clinical features and outcome of
+rating](/img/2-bones.gif)
+- (2) Papa K et al 2011.  [Occurence, clinical features and outcome of
 canine pancreatitis (80
 cases).](http://www.ncbi.nlm.nih.gov/pubmed/21354940)
 Acta Vet Hung 59(1) 37-52. ![three bones
-rating](/img/3-bones.gif/image_preview.png)
-3. Mansfield et al 2011.  [A Pilot Study to Assess Tolerability of Early
+rating](/img/3-bones.gif)
+- (3) Mansfield et al 2011.  [A Pilot Study to Assess Tolerability of Early
 Enteral Nutrition via Esophagostomy Tube Feeding in Dogs with Severe
 Acute
 Pancreatitis.](http://www.ncbi.nlm.nih.gov/pubmed/21418318)
 J Vet Int Med 25(3) 419-425 ![three bones
-rating](/img/3-bones.gif/image_preview.png)
-**SCARF-sponsored research:**  *Report to Grant Sponsor (SCARF) from
-Investigator: *  4. [Specificity and Sensitivity of the Pancreatic
-Lipase Immunoreactivity (SPEC cPL) Test for the Diagnosis of canine
-Pancreatitis](../research/current-research-studies/1227-A.html "1227-A"){.internal-link}:
-![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/3-bones.gif)
 
-*Published Paper:* 5. Trivedi S, Marks SL et al 2011.  [Sensitivity and
+**SCARF-sponsored research:**
+
+- (4) Report to Grant Sponsor (SCARF) from
+Investigator: [Specificity and Sensitivity of the Pancreatic
+Lipase Immunoreactivity (SPEC cPL) Test for the Diagnosis of canine
+Pancreatitis](/research/current-studies/akcchf-grant-1227-a):
+![two bones
+rating](/img/2-bones.gif)
+
+**Published Paper:**
+
+- (5) Trivedi S, Marks SL et al 2011.  [Sensitivity and
 Specificity of Canine Pancreas-Specific Lipase (cPL) and Other Markers
 for Pancreatitis in 70 Dogs with and without Histopathologic Evidence of
 Pancreatitis.](http://onlinelibrary.wiley.com/doi/10.1111/j.1939-1676.2011.00793.x/abstract)
 J Vet Int Med 25(6): 1241-1247.  ![three bones
-rating](/img/3-bones.gif/image_preview.png)
+rating](/img/3-bones.gif)
 
 
 
-![](pancreatitis/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](pancreatitis/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](pancreatitis/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](pancreatitis/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
 
-
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 Suggested Links
 ---------------
@@ -161,32 +166,30 @@ Suggested Links
 [Pancreatitis (Inflammation) in
 Dogs](http://www.peteducation.com/article.cfm?c=2+2103&aid=335)
 at www.peteducation.com  ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
+
 [Pancreatitis in Dogs:  Symptoms and
 Treatments](http://pets.webmd.com/dogs/dog-pancreatitis-symptoms-and-treatment)
 at pets.webmd.com ![three bones
-rating](/img/3-bones.gif/image_preview.png)
+rating](/img/3-bones.gif)
+
 Mansfield  CS, Watson PD, Jones BR.  2011.  [Specificity and sensitivity
 of serum canine pancreatic elastase-1 concentration in the diagnosis of
 pancreatitis.](http://vdi.sagepub.com/content/23/4/691.full.pdf)
 J VET Diagn Invest 23(691).  ![three bones
-rating](/img/3-bones.gif/image_preview.png)
+rating](/img/3-bones.gif)
+
 [Canine
 Pancreatitis](http://shelleycetin.hubpages.com/hub/Canine-Pancreatitis)
 at HubPages ![one bone
-rating](/img/bone.gif/image_preview.png)
+rating](/img/1-bone.gif)
 
 
 
-![](pancreatitis/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](pancreatitis/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](pancreatitis/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](pancreatitis/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 
-
-Current Research
-----------------
-
--   [Pancreatitis Research ](pancreatitis/pancreatitis.html)

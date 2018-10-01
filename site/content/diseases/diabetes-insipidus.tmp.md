@@ -1,7 +1,10 @@
-Diabetes Insipidus
-==================
++++
+title = "Diabetes Insipidus"
++++
 
-**Liaison:** Marie Monaco **Email:** <monaco678@gmail.com>
+**Liaison:** Marie Monaco
+
+**Email:** <monaco678@gmail.com>
 
 
 

@@ -1,20 +1,19 @@
-Pulmonic Stenosis
-=================
++++
+title = "Pulmonic Stenosis"
++++
 
 
 
-*Note:* We do not currently have a health liaison for this disorder.  If
-you would like to volunteer, please contact [[Pam
-Barbe](mailto:president@samoyedhealthfoundation.org?subject=Questions%20about%20becoming%20a%20Health%20Information%20Liaison%20or%20Reviewer)]{.link-mailto}
-and she will be happy to answer any of your questions.  For a
-description of the position, please click on [disorder health
-information
-liaison.](../help/become-a-health-information-liaison.html "become a health information liaison...")
+> **Note:** We do not currently have a health liaison for this disorder.
+> If you would like to volunteer, please contact
+> [Pam Barbe](mailto:president@samoyedhealthfoundation.org?subject=Questions%20about%20becoming%20a%20Health%20Information%20Liaison%20or%20Reviewer)
+> and she will be happy to answer any of your questions.
+> For a description of the position, please click on
+> [disorder health information liaison](/become-a-health-information-liaison)
+> or
+> [health information reviewer](/become-a-health-information-reviewer).
 
- Thank you to Joy Ritter for putting together this article for SCARF.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
+Thank you to Joy Ritter for putting together this article for SCARF.
 
 
 In  normal circulation,  the ventricle on the right side of the heart
@@ -26,7 +25,7 @@ As the blood leaves the right ventricle it flows through the pulmonic
 valve into the pulmonary artery which goes to the lungs. With pulmonic
 stenosis (PS), there is a narrowing (stenosis) or obstruction in this
 path.  This is usually due to a malformation of the pulmonic valve
-(\"pulmonic valve dysplasia\"), but the abnormality may be just above or
+("pulmonic valve dysplasia"), but the abnormality may be just above or
 below the valve as well.
 
 The heart must work harder to pump the blood past the obstruction.  This
@@ -41,8 +40,6 @@ of the heart showing the pulmonic stenosis.
 
 
 
-Would you like to **[add a Living with this
-Disorder](pulmonic-stenosis/addliving_form.html)** journal entry?
 
 Signs and Symptoms
 ------------------
@@ -83,10 +80,10 @@ Diagnostic Tests
 Treatment Guidelines
 --------------------
 
-Note: Treatment of animals should only be performed by a licensed
-veterinarian. Veterinarians should consult the current literature and
-current pharmacological formularies before initiating any treatment
-protocol.
+> **Note:** Treatment of animals should only be performed by a licensed
+> veterinarian. Veterinarians should consult the current literature and
+> current pharmacological formularies before initiating any treatment
+> protocol.
 
 1.  Mild forms, no treatment necessary.
 2.  Moderate to severe forms, relief of symptoms as necessary
@@ -101,7 +98,7 @@ protocol.
 Management
 ----------
 
-From an owner\'s perspective:
+From an owner's perspective:
 
 The mild form of PS is self limiting.  Dogs should be spayed/neutered to
 prevent accidental pregnancy.  Nutritional advice would be to keep the
@@ -119,21 +116,20 @@ References
     Stenosis](http://www.vet.upenn.edu/docs/default-source/cardiology-brochures-(ryan)/understanding-pulmonic-stenosis.pdf?sfvrsn=0)
     from the Matthew J. Ryan Veterinary Hospital, University of
     Pennsylvania School of Veterinary Medicine.  ![two bones
-    rating](/img/2-bones.gif/image_large.png)
+    rating](/img/2-bones.gif)
 2.  [Pulmonic
     Stenosis](http://cidd.discoveryspace.ca/disorder/pulmonic-stenosis.html)
     from the Canine Inherited Disorders Database  ![three bones
-    rating](/img/3-bones.gif/image_large.png)
+    rating](/img/3-bones.gif)
 
 
 
-![](pulmonic-stenosis/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](pulmonic-stenosis/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](pulmonic-stenosis/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](pulmonic-stenosis/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
 
-
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 Support Groups
 --------------
@@ -142,13 +138,13 @@ Support Groups
 
 <http://pets.groups.yahoo.com/group/dogheart/>
 
-dogheart yahoo group- \"This list is for pet owners whose canine
+dogheart yahoo group- "This list is for pet owners whose canine
 companions suffer from congestive heart failure, cardiomyopathy or other
-cardiac or cardiopulmonary disease. It\'s a place to share experiences,
+cardiac or cardiopulmonary disease. It's a place to share experiences,
 ask for advice from other owners, grieve and enjoy our companions in
 spite of their health problems. The list owner is NOT a veterinarian,
 just a guardian of a sick dog who would like to connect with others in
-the same situation.\"
+the same situation."
 
 Suggested Links
 ---------------
@@ -156,18 +152,18 @@ Suggested Links
 1.  <http://www.vet.upenn.edu/veterinary-hospitals/ryan-veterinary-hospital/services/cardiology>
     Search for 'pulmonic stenosis'.  This site has a wealth of
     information on it, as well as slide presentations.  ![three bones
-    rating](/img/3-bones.gif/image_large.png)
+    rating](/img/3-bones.gif)
 2.  <http://www.offa.org/cardiac_about.html> \-- This link has good
     descriptions of the cardiac physical and ultrasound exams.  ![three
     bones
-    rating](/img/3-bones.gif/image_large.png)
+    rating](/img/3-bones.gif)
 3.  [Pulmonic
     Stenosis](http://ic.upei.ca/cidd/disorder/pulmonic-stenosis)
     from the Canine Inherited Disorders Database  ![three bones
-    rating](/img/3-bones.gif/image_large.png)
-4.  [[[http://www.mirage-samoyeds.com/heart.htm]{.underline}](http://www.mirage-samoyeds.com/heart.htm)]{.link-external} \--
+    rating](/img/3-bones.gif)
+4.  [http://www.mirage-samoyeds.com/heart.htm](http://www.mirage-samoyeds.com/heart.htm) \--
     Samoyed State of Heart by Cheri Hollenback  ![two bones
-    rating](/img/2-bones.gif/image_large.png)
+    rating](/img/2-bones.gif)
 
 
 
@@ -175,16 +171,10 @@ Suggested Links
 
 
 
-![](pulmonic-stenosis/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](pulmonic-stenosis/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](pulmonic-stenosis/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](pulmonic-stenosis/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 
-
-Current Research
-----------------
-
--   [Pulmonic Stenosis
-    Research](pulmonic-stenosis/pulmonic-stenosis-research.html)

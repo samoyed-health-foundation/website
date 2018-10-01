@@ -1,7 +1,10 @@
-Partial Albinism
-================
++++
+title = "Partial Albinism"
++++
 
-**Liaison:** Hazel Fitzgibbon **Email:** <Smiliesam@hotmail.com>
+**Liaison:** Hazel Fitzgibbon
+
+**Email:** <Smiliesam@hotmail.com>
 
 
 
@@ -10,16 +13,7 @@ lack of melanin, or pigment, in eyes, skin and hair.   This lack of
 pigmentation can cause several associated conditions which have been
 studied extensively in human beings and in dogs.
 
-+-----------------------------------------------------------------------+
-|                                                                       |
-|                                                                       |
-| ![female albino                                                       |
-| Samoyed](partial-albinism/albino%20female.jpg/image_preview.jpg){.ima |
-| ge-inline                                                             |
-| width="350" height="257"}                                             |
-+-----------------------------------------------------------------------+
-| Female                                                                |
-+-----------------------------------------------------------------------+
+{{< figure src="/img/albino_female.jpg" title="Female" >}}
 
 An albino dog with blue eyes is called a Cornaz Albino.  A Samoyed with
 blue eyes isn't necessarily an albino or partial albino if it has skin
@@ -29,8 +23,6 @@ pigmentation.
 
 
 
-Would you like to **[add a Living with this
-Disorder](partial-albinism/addliving_form.html)** journal entry?
 
 Signs and Symptoms
 ------------------
@@ -41,14 +33,7 @@ examination will usually show a blue or green eye. These can range from
 very pale to quite intense colour. A *pink* eye is the usual albino
 trait in some mammals.
 
-+-----------------------------------------------------------------------+
-| ![male albino                                                         |
-| Samoyed](partial-albinism/albino%20male.jpg/image_preview.jpg){.image |
-| -inline                                                               |
-| width="400" height="295"}                                             |
-+-----------------------------------------------------------------------+
-| Male                                                                  |
-+-----------------------------------------------------------------------+
+{{< figure src="/img/albino_male.jpg" title="Male" >}}
 
 The lack of melanin in the eye can cause several sight problems. Albinos
 may have poor vision, "evidenced by difficulty catching pieces of
@@ -93,15 +78,15 @@ Diagnostic Tests
 
 [There are no genetic tests yet for albinism in dogs.  Diagnosis is
 typically by observation of the eyes and skin (nose, lips, eye rims,
-footpads, and skin beneath the thick white fur).]{.p1}
+footpads, and skin beneath the thick white fur).]
 
 Treatment Guidelines
 --------------------
 
-Note: Treatment of animals should only be performed by a licensed
-veterinarian. Veterinarians should consult the current literature and
-current pharmacological formularies before initiating any treatment
-protocol.
+> **Note:** Treatment of animals should only be performed by a licensed
+> veterinarian. Veterinarians should consult the current literature and
+> current pharmacological formularies before initiating any treatment
+> protocol.
 
 Albinism cannot be treated *per se*, but the conditions associated with
 it can be helped, see Management Tips.
@@ -136,22 +121,21 @@ not keep your dog outside in the sun.
 References
 ----------
 
-[[http://serendip.brynmawr.edu/biology/b103/f02/web1/bzea.html]{.underline}](http://serendip.brynmawr.edu/biology/b103/f02/web1/bzea.html)  !\[2
-bones\](/img/2-bones.gif)
+[http://serendip.brynmawr.edu/biology/b103/f02/web1/bzea.html](http://serendip.brynmawr.edu/biology/b103/f02/web1/bzea.html)  ![2
+bones](/img/2-bones.gif)
 
 
 
  **[The Genetics of the
 Dog](http://books.google.com/books?id=bgZwjdB4xgEC&pg=PA74&dq=cornaz+albino&sig=XOr0NRAblHF-TOUtUzpjrxrTDgI "external-link")**.
 By Jeff Sampson  and Anatoly Ruvinsky.  2001 CABI Publishing.  Page
-74.  !\[3 bones\](/img/3-bones.gif)
+74.  ![3 bones](/img/3-bones.gif)
 
 
 
 **[Albinism in
 Dogs](http://links.jstor.org/sici?sici=0006-3444%28192912%2921%3A1%2F4%3C144%3AAID%3E2.0.CO%3B2-G&size=LARGE&origin=JSTOR-enlargePage "external-link").**
-Karl Pearson, C. H. Usher.  *Biometrika*, Vol. 21, No. 1/4 (Dec., 1929),
-pp. 144-163 doi:10.2307/2332555  !\[2 bones\](/img/2-bones.gif)
+Karl Pearson, C. H. Usher.  *Biometrika*, Vol. 21, No. 1 of 4 (Dec., 1929), pp. 144-163 doi:10.2307 of 2332555  ![2 bones](/img/2-bones.gif)
 
 Fascinating reading about colour breeding after the first World War.
 Pearson was the first to use the term "Cornaz Albino," in memory of
@@ -164,13 +148,12 @@ dog.
 
 
 
-![](partial-albinism/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](partial-albinism/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](partial-albinism/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](partial-albinism/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
 
-
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 Support Groups
 --------------
@@ -181,39 +164,31 @@ exist for Deaf and Blind dogs.
 Suggested Links
 ---------------
 
-[[http://bowlingsite.mcf.com/Genetics/ColorGen.html]{.underline}](http://bowlingsite.mcf.com/Genetics/ColorGen.html)  ![one
+[http://bowlingsite.mcf.com/Genetics/ColorGen.html](http://bowlingsite.mcf.com/Genetics/ColorGen.html)  ![one
 bone
-rating](/img/bone.gif/image_large.png){.image-inline
-width="16" height="15"} - Summary of canine coat color genetics.
+rating](/img/1-bone.gif)
 
 
 
-[[http://www.kolumbus.fi/sarakontu/link/canlinks.html\#fci5]{.underline}](http://www.kolumbus.fi/sarakontu/link/canlinks.html#fci5)
+[http://www.kolumbus.fi/sarakontu/link/canlinks.html\#fci5](http://www.kolumbus.fi/sarakontu/link/canlinks.html#fci5)
 ![one bone
-rating](/img/bone.gif/image_large.png){.image-inline
-width="16" height="15"} - Interesting site with links to colour genetics
+rating](/img/1-bone.gif) - Interesting site with links to colour genetics
 for many Spitz breeds
 
 
 
-[[http://www.dpca.org/BreedEd/albinohistory.htm]{.underline}](http://dpca.org/albino/albino_about.htm)  ![one
+[http://www.dpca.org/BreedEd/albinohistory.htm](http://dpca.org/albino/albino_about.htm)  ![one
 bone
-rating](/img/bone.gif/image_large.png){.image-inline
-width="16" height="15"} - From the Doberman Pinscher Club of America
+rating](/img/1-bone.gif) - From the Doberman Pinscher Club of America
 
 
 
 
 
-![](partial-albinism/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](partial-albinism/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](partial-albinism/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](partial-albinism/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 
-
-Current Research
-----------------
-
--   [Partial Albinism](partial-albinism/partial-albinism.html)

@@ -1,7 +1,10 @@
-Zinc Responsive Dermatosis
-==========================
++++
+title = "Zinc Responsive Dermatosis"
++++
 
-**Liaison:** We are looking for a volunteer. **Email:**
+**Liaison:** We are looking for a volunteer.
+
+**Email:**
 <Smiliesam@hotmail.com>
 
 
@@ -11,11 +14,6 @@ with zinc.  It is one of the manifestations of zinc deficiency.  The
 deficiency can be dietary, or in some Arctic breeds, Samoyeds being one
 of them, it can be an inherited disorder of zinc absorption.
 
-
-
-Would you like to **[add a Living with this
-Disorder](zinc-responsive-dermatosis/addliving_form.html)** journal
-entry?
 
 Signs and Symptoms
 ------------------
@@ -79,10 +77,10 @@ response to zinc supplementation.
 Treatment Guidelines
 --------------------
 
-Note: Treatment of animals should only be performed by a licensed
-veterinarian. Veterinarians should consult the current literature and
-current pharmacological formularies before initiating any treatment
-protocol.
+> **Note:** Treatment of animals should only be performed by a licensed
+> veterinarian. Veterinarians should consult the current literature and
+> current pharmacological formularies before initiating any treatment
+> protocol.
 
 If the cause of the zinc deficiency is dietary, an improvement in diet
 and short term zinc supplementation can usually bring improvement in a
@@ -118,8 +116,6 @@ Aloe Vera gel for immediate relief can be used, although sparingly.
 Management
 ----------
 
-** **
-
 The gene(s) responsible for poor absorption appear to be recessive, but
 there are as yet no genetic markers in evidence in any of the affected
 breeds. Spaying females with the disorder has been reported to allow
@@ -131,27 +127,27 @@ References
 ----------
 
 1.  [Canine Inherited Disorders
-    Database](http://cidd.discoveryspace.ca/disorder/zinc-responsive-dermatosis.html)**
-    !\[3 bones\](/img/3-bones.gif)**
-2.  [Colombini S]{.underline}, [Dunstan RW]{.underline}.
+    Database](http://cidd.discoveryspace.ca/disorder/zinc-responsive-dermatosis.html)
+    ![3 bones](/img/3-bones.gif)
+2.  Colombini S, Dunstan RW.
     [Zinc-responsive dermatosis in northern-breed dogs: 17 cases
-    (1990-1996)](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=PubMed&Cmd=ShowDetailView&TermToSearch=9267507&ordinalpos=11&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum "external-link").
-    [[J Am Vet Med Assoc.]{.underline} 1997 Aug
-    15;211(4):451-3.]{.ti}[  !\[3 bones\](/img/3-bones.gif)]{.linkbar}
+    (1990-1996)](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=PubMed&Cmd=ShowDetailView&TermToSearch=9267507&ordinalpos=11&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum).
+    J Am Vet Med Assoc. 1997 Aug
+    15;211(4):451-3. ![3 bones](/img/3-bones.gif)
 3.  Tim D. G. Watson**.**  [Diet and Skin Disease in Dogs and
-    Cats](http://jn.nutrition.org/cgi/content/full/128/12/2783S "external-link").
+    Cats](http://jn.nutrition.org/cgi/content/full/128/12/2783S).
     The Journal of Nutrition Vol. 128 No. 12 December 1998, pp.
-    2783S-2789S !\[3 bones\](/img/3-bones.gif)
+    2783S-2789S ![3 bones](/img/3-bones.gif)
 4.  White SD, Bourdeau P,  Rosychuk RAW, Cohen B, Bonenberger T,
      Fieseler KV., Ihrke P, Chapman P, Schultheiss P,  Zur G, Cannon
     A, Outerbridge C.  [Zinc-responsive dermatosis in dogs: 41 cases and
     literature
-    review](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=11360336&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVAbstractPlus "external-link").  [Veterinary
-    Dermatology]{.underline}, Volume 12, Number 2, April 2001 , pp.
-    101-109(9).  !\[3 bones\](/img/3-bones.gif)
+    review](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=11360336&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVAbstractPlus).  Veterinary
+    Dermatology, Volume 12, Number 2, April 2001 , pp.
+    101-109(9).  ![3 bones](/img/3-bones.gif)
 5.  [Skin Diseases of the Dog and Cat: Clinical and Histopathologic
-    Diagnosis](http://books.google.com/books?id=VKa2Wo3Wc-kC&pg=PA189&lpg=PA189&dq=%22zinc+responsive%22+dermatosis+in+%22northern+breed%22+dogs&source=web&ots=GafyyeyA1d&sig=iWrtG2I4y0qClRVxwkE26w5GmPU#PPA188,M1 "external-link") b[y
-    Thelma Lee Gross  !\[3 bones\](/img/3-bones.gif)]{.author}
+    Diagnosis](http://books.google.com/books?id=VKa2Wo3Wc-kC&pg=PA189&lpg=PA189&dq=%22zinc+responsive%22+dermatosis+in+%22northern+breed%22+dogs&source=web&ots=GafyyeyA1d&sig=iWrtG2I4y0qClRVxwkE26w5GmPU#PPA188,M1) by
+    Thelma Lee Gross  ![3 bones](/img/3-bones.gif)
 
 
 
@@ -159,13 +155,12 @@ References
 
 
 
-![](zinc-responsive-dermatosis/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](zinc-responsive-dermatosis/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](zinc-responsive-dermatosis/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](zinc-responsive-dermatosis/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
 
-
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 Support Groups
 --------------
@@ -177,27 +172,22 @@ Suggested Links
 
 [Zinc Deficiency in the Siberian
 Husky](http://www.siberianhuskyhealthfoundation.com/Health.html)
-from the Siberian Husky Health Foundation  !\[3
-bones\](/img/3-bones.gif)
+from the Siberian Husky Health Foundation  ![3
+bones](/img/3-bones.gif)
 
 [Canine Zinc-Responsive
 Dermatosis](http://veterinarynews.dvm360.com/canine-zinc-responsive-dermatosis)
 by Carlo Vitale, DVM, Dipl. ACVD on the dvm360.com website.  This
-article contains some photographs.  [!\[2
-bones\](/img/2-bones.gif)](http://www.siberianhuskyhealthfoundation.org/health_zincdeficiency.asp "external-link")
-
-** **
-
-** **
+article contains some photographs.  [![2
+bones](/img/2-bones.gif)](http://www.siberianhuskyhealthfoundation.org/health_zincdeficiency.asp)
 
 
 
 
-
-![](zinc-responsive-dermatosis/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](zinc-responsive-dermatosis/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](zinc-responsive-dermatosis/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](zinc-responsive-dermatosis/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 

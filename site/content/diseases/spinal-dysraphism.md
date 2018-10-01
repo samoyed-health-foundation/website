@@ -1,7 +1,10 @@
-Spinal Dysraphism/Spina bifida/Syringomyelia
-============================================
++++
+title = "Spinal Dysraphism/Spina bifida/Syringomyelia"
++++
 
-**Liaison:** Jan Young **Email:** <jannermd@yahoo.com>
+**Liaison:** Jan Young
+
+**Email:** <jannermd@yahoo.com>
 
 
 
@@ -22,20 +25,22 @@ reported in a Samoyed.
 
 
 
+<details>
+<summary>*Click here to show/hide more detail*</summary>
+Spinal dysraphism is the general term for a congenital (existing at birth) malformation that affects the spinal column.  It  results from defective or delayed closure of the neural tube during embryonic development. There can be a single defect, or multiple defects in multiple locations along the spinal column. Defects include the following:
+
+- **Spina bifida:**  A bony cleft (failure of closure) of the spinal column with protrusion of the meninges (lining of the spinal cord) or meninges and spinal cord tissue. The skin over the defect may be intact or open. Depending on the amount and location of the protruding tissue, there can be involvement of the motor and sensory system, including partial paralysis and loss of bowel and bladder control. The condition can vary wildly in severity, and the degree of impairment depends on the amount of involved nervous tissue. Typically it is nonprogressive (doesn't get worse with time).
+
+- **Spina bifida occulta:** A bony cleft of the spinal column that does not involve protrusion of any tissue. There is no involvement of the nervous or motor system, but there may be abnormal patterns of hair in the area and in some instances there may be a pilonidal sinus, a dimple in the skin with an opening to the spinal cord. This can be a potential source of infection.
+
+- **Syringomyelia:**  A condition where there are abnormal fluid-filled cavities within the spinal column which may interfere with the function of the nervous tissue of the spinal cord. It is often associated with a chiari malformation where the brain is displaced downward, forcing the cerebral spinal fluid (CSF) into the spinal cord and interfering with its flow.  Syringomyelia occurs primarily in the neck region because this is the area of the spinal cord closest to where the pressure is coming from.
+
+- **Hemivertebra:**  A deformed vertebra which often leads to scoliosis (curvature of the spine)
+
+- **Tethering of the cord:** A situation in which the spinal cord (nerve tissue) is bound to bony tissue.  As the dog grows, the cord is stretched and can be damaged. This can be surgically released to prevent further damage. Sometimes tethering is the only manifestation of spinal dysraphism.
+</details>
 
 
->
-
-
-
-
-
-[Show more detail](spinal-dysraphism5a76.html?showlong=1)
-
-
-
-Would you like to **[add a Living with this
-Disorder](spinal-dysraphism/addliving_form.html)** journal entry?
 
 Signs and Symptoms
 ------------------
@@ -52,11 +57,9 @@ permanent and will not resolve.
     a wide-based stance to improve balance. Bunny hopping and/or toe
     walking can be seen as well.
 
-<!-- -->
-
 -   Decreased ability to use the tail.
 
--    Loss of bowel and bladder control because of involvement of the
+-   Loss of bowel and bladder control because of involvement of the
     nerves controlling these functions. The anus may be flaccid (loose
     and weak) and pressure over the bladder may cause leakage.
 
@@ -140,10 +143,10 @@ column to help outline the nervous tissue) may be useful on occasions.
 Treatment Guidelines
 --------------------
 
-Note: Treatment of animals should only be performed by a licensed
-veterinarian. Veterinarians should consult the current literature and
-current pharmacological formularies before initiating any treatment
-protocol.
+> **Note:** Treatment of animals should only be performed by a licensed
+> veterinarian. Veterinarians should consult the current literature and
+> current pharmacological formularies before initiating any treatment
+> protocol.
 
 **Spina Bifida**
 
@@ -168,7 +171,7 @@ and allow for recovery. The likelihood of this is extremely rare.
 Hanna FY, 2008.  The successful treatment of a Yorkshire Terrier puppy
 with spina bifida and myelomeningocele.  European Journal of Companion
 Animal Practice 18:47-50.  ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
 
 **Syringomyelia**
 
@@ -205,26 +208,27 @@ References
 Spinal Cord Disorders -Congenital and Inherited Anomalies of the Nervous
 System.   Merck Veterinary Manual, 10th edition. Pp 1125-1126  ![four
 bones
-rating](/img/4-bones.gif/image_preview.png)
+rating](/img/4-bones.gif)
+
 Arias  MVB et al, 2008.  [Spina bifida in three
 dogs.](http://bjvp.org.br/wp-content/uploads/2015/07/V.1-N.2-15-20881_2009_12_30_35_2.pdf)
 Brazilian Journal of Veterinary Pathology 1: 64-69.  ![three bones
-rating](/img/3-bones.gif/image_preview.png)
+rating](/img/3-bones.gif)
+
 [Vite CH.  Developmental
 Disorders. ](http://www.ivis.org/advances/vite/braund16/ivis.pdf)
-In:  Braund\'s Clinical Neurology in Small Animals:  Localization,
+In:  Braund's Clinical Neurology in Small Animals:  Localization,
 Diagnois and Treatment.  2004.   ![four bones
-rating](/img/4-bones.gif/image_preview.png)
+rating](/img/4-bones.gif)
 
 
 
-![](spinal-dysraphism/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](spinal-dysraphism/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](spinal-dysraphism/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](spinal-dysraphism/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
 
-
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 Support Groups
 --------------
@@ -240,7 +244,7 @@ Suggested Links
 
 Spina bifida in Dogs at www.petwave.com.  This is a four page article,
 each page being a separate link. ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
 
 [Spina bifida in
 dogs:](http://www.petwave.com/Dogs/Dog-Health-Center/Reproductive-Disorders/Spina-Bifida.aspx)
@@ -257,17 +261,17 @@ Prognosis: ](http://www.petwave.com/Dogs/Dog-Health-Center/Reproductive-Disorder
 [Spina bifida  - Canine Inherited Disorders
 Database](http://cidd.discoveryspace.ca/disorder/spina-bifida.html),
 Univ. of Prince Edward Island ![three bones
-rating](/img/3-bones.gif/image_preview.png)
+rating](/img/3-bones.gif)
 
 [Congenital and Inherited Spinal Cord
 Disorders](http://www.merckvetmanual.com/mvm/nervous_system/congenital_and_inherited_anomalies_of_the_nervous_system/congenital_and_inherited_spinal_cord_disorders.html)
 in the Merck Veterinary Manual  ![four bones
-rating](/img/4-bones.gif/image_preview.png)
+rating](/img/4-bones.gif)
 
 [Spinal
 Dysraphism](http://www.nervous-system-diseases.com/spinal-dysraphism.html)
 at www.nervous-system-diseases.com  ![one bone
-rating](/img/bone.gif/image_preview.png)
+rating](/img/1-bone.gif)
 
 
 
@@ -275,23 +279,23 @@ rating](/img/bone.gif/image_preview.png)
 Samoyed
 dog](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1696303/pdf/canvetj00433-0039.pdf).
 Can Vet Jour 14:317-321.  ![three bones
-rating](/img/3-bones.gif/image_preview.png)
+rating](/img/3-bones.gif)
 
 
 
 [Canine Chiari
 Institute.](http://www.caninechiariinstitute.org/)
 ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
 
 
 
 
 
-![](spinal-dysraphism/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](spinal-dysraphism/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](spinal-dysraphism/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](spinal-dysraphism/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 

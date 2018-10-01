@@ -1,7 +1,10 @@
-Cerebellar Degeneration/Cerebellar Abiotrophy
-=============================================
++++
+title = "Cerebellar Degeneration/Cerebellar Abiotrophy"
++++
 
-**Liaison:** Jan Young **Email:** <jannermd@yahoo.com>
+**Liaison:** Jan Young
+
+**Email:** <jannermd@yahoo.com>
 
 
 
@@ -18,16 +21,14 @@ condition, can have a quality lifespan.
 
 
 
+<details>
+<summary>*Click here to show/hide more detail*</summary>
+
+The degeneration is a result of a progressive dying off of certain neurons in the brain, specifically in the cerebellum, called Purkinje cells. These cells are responsible for communication between areas of the cerebellum that control balance and coordination. Without these cells, the sense of space and distance are lost and balance and coordination become impaired. Although "abiotrophy" means no nutritive factor, it is not actually known what causes the Purkinje cells to degenerate other than as a genetically inherited metabolic disease.
+
+</details>
 
 
-[Show more
-detail](cerebellar-degeneration-cerebeller-abiotrophies5a76.html?showlong=1)
-
-
-
-Would you like to **[add a Living with this
-Disorder](cerebellar-degeneration-cerebeller-abiotrophies/addliving_form.html)**
-journal entry?
 
 Signs and Symptoms
 ------------------
@@ -103,19 +104,20 @@ References
 
 Cerebellar Disorders in The Merck Veterinary Manual 10th Edition. Ed
 Kahn, Cynthia M. Pub Merck and Co, Inc. pp 1120-1121    ![four bones
-rating](/img/4-bones.gif/image_preview.png)
+rating](/img/4-bones.gif)
+
 [Bell JS, DVM.  Cerebellar Abiotrophy:  Its cause and
 diagnosis. ](http://www.stca.biz/index.php/health/health-library-scottiephile/319-cerebellar-abiotrophy-ca/493-cerebellar-abiotrophy-its-cause-and-diagnosis)
 ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
 
 
 
-![](cerebellar-degeneration-cerebeller-abiotrophies/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](cerebellar-degeneration-cerebeller-abiotrophies/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](cerebellar-degeneration-cerebeller-abiotrophies/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](cerebellar-degeneration-cerebeller-abiotrophies/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 
 
@@ -130,25 +132,24 @@ Suggested Links
 [Congenital and Inherited Disorders of the Nervous System in
 Dogs](http://www.merckvetmanual.com/pethealth/dog_disorders_and_diseases/brain_spinal_cord_and_nerve_disorders_of_dogs/congenital_and_inherited_disorders_of_the_nervous_system_in_dogs.html?qt=cerebellar%20disorders&alt=sh)
 in the Merck Manual Pet Health Edition ![four bones
-rating](/img/4-bones.gif/image_preview.png)
+rating](/img/4-bones.gif)
 
 [Cerebellar
 Abiotrophy](http://en.wikipedia.org/wiki/Cerebellar_abiotrophy)
 at wikipedia      ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
 
 [Cerebellar Abiotrophy
 (Ataxia)](http://cidd.discoveryspace.ca/disorder/cerebellar-abiotrophyataxia.html)
 at the Canine Inherited Disorders Database, University of Prince Edward
 Island       ![three bones
-rating](/img/3-bones.gif/image_preview.png)
+rating](/img/3-bones.gif)
 
 [Amo AN et al.  2009.  Canine cerebellar cortical abiotrophy in two
 mixed breed
 littermates](http://sedici.unlp.edu.ar/handle/10915/11242).
 Analecta Veterinaria 29: 39-41.  ![two bones
-rating](/img/2-bones.gif/image_preview.png)
-
+rating](/img/2-bones.gif)
 
 
 Good description of the course of the disease:
@@ -156,22 +157,11 @@ Good description of the course of the disease:
 [Berry ML et al.  2003.  Cerebellar abiotrophy in a miniature
 schnauzer](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC340240/?tool=pubmed).
 Can Vet J 44: 657-759.    ![three bones
-rating](/img/3-bones.gif/image_preview.png)
+rating](/img/3-bones.gif)
 
 
-
-
-
-![](cerebellar-degeneration-cerebeller-abiotrophies/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](cerebellar-degeneration-cerebeller-abiotrophies/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](cerebellar-degeneration-cerebeller-abiotrophies/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](cerebellar-degeneration-cerebeller-abiotrophies/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
-
-
-
-Current Research
-----------------
-
--   [Current
-    Research](cerebellar-degeneration-cerebeller-abiotrophies/current-research.html)
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)

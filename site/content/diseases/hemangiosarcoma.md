@@ -1,8 +1,10 @@
-Hemangiosarcoma
-===============
++++
+title = "Hemangiosarcoma"
++++
 
-**Liaison:** Jan Young **Email:** <jannermd@yahoo.com>
+**Liaison:** Jan Young
 
+**Email:** <jannermd@yahoo.com>
 
 
 Canine hemangiosarcoma is a highly malignant, rapidly spreading cancer
@@ -14,10 +16,6 @@ in rapid death. Any age or breed of dog can have hemangiosarcoma but it
 is most common in middle age or older dogs and in large breeds. It is,
 interestingly, extremely rare in humans and in cats.
 
-
-
-Would you like to **[add a Living with this
-Disorder](hemangiosarcoma/addliving_form.html)** journal entry?
 
 Signs and Symptoms
 ------------------
@@ -109,10 +107,10 @@ bleeding.
 Treatment Guidelines
 --------------------
 
-Note: Treatment of animals should only be performed by a licensed
-veterinarian. Veterinarians should consult the current literature and
-current pharmacological formularies before initiating any treatment
-protocol.
+> **Note:** Treatment of animals should only be performed by a licensed
+> veterinarian. Veterinarians should consult the current literature and
+> current pharmacological formularies before initiating any treatment
+> protocol.
 
 Treatment depends on the location of the tumor. Dermal tumors are most
 successfully treated as they often can be completely removed through
@@ -127,19 +125,18 @@ References
 [Hemangiosarcoma.  Modiano Lab at the University of
 Minnesota](http://www.modianolab.org/cancer/cancer_hemangiosarcoma.shtml)
 ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
 
 
 
 
 
-![](hemangiosarcoma/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](hemangiosarcoma/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](hemangiosarcoma/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](hemangiosarcoma/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
 
-
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 Support Groups
 --------------
@@ -162,34 +159,22 @@ Suggested Links
 
 [Hemangiosarcoma](http://en.wikipedia.org/wiki/Hemangiosarcoma)
 at Wikipedia  ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
 
 [Hemangiosarcoma](http://www.caninecancer.com/Hemangiosarcoma.html)
 at caninecancer.com  ![one bone
-rating](/img/bone.gif/image_preview.png)
+rating](/img/1-bone.gif)
 
 [Hemangiosarcoma](http://caninecancerawareness.org/?s=hemangiosarcoma)
 at caninecancerawareness.org  ![one bone
-rating](/img/bone.gif/image_preview.png)
+rating](/img/1-bone.gif)
 
 
 
 
-![](hemangiosarcoma/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](hemangiosarcoma/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](hemangiosarcoma/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](hemangiosarcoma/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-
-
-Current Research
-----------------
-
--   [Hemangiosarcoma Research](hemangiosarcoma/hemangiosarcoma.html)
-
-\"Living with a Disorder\" Journal Entries
-------------------------------------------
-
--   [Hemangiosarcoma](hemangiosarcoma/hemangiosarcoma-1.html)
--   [Hemangiosarcoma](hemangiosarcoma/hemangiosarcoma-2.html)

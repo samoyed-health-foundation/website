@@ -1,17 +1,19 @@
-Retinal Dysplasia (Folds)
-=========================
++++
+title = "Retinal Dysplasia (Folds)"
++++
 
 
 
 
 
-Note: We do not currently have a health liaison for this disorder.  If
-you would like to volunteer, please contact [[Pam
-Barbe](mailto:president@samoyedhealthfoundation.org?subject=Questions%20about%20becoming%20a%20Health%20Information%20Liaison%20or%20Reviewer)]{.link-mailto}
-and she will be happy to answer any of your questions.  For a
-description of the position, please click on [disorder health
-information
-liaison.](../help/become-a-health-information-liaison.html "become a health information liaison...")
+> **Note:** We do not currently have a health liaison for this disorder.
+> If you would like to volunteer, please contact
+> [Pam Barbe](mailto:president@samoyedhealthfoundation.org?subject=Questions%20about%20becoming%20a%20Health%20Information%20Liaison%20or%20Reviewer)
+> and she will be happy to answer any of your questions.
+> For a description of the position, please click on
+> [disorder health information liaison](/become-a-health-information-liaison)
+> or
+> [health information reviewer](/become-a-health-information-reviewer).
 
  Thank you to Helen Newman for putting together this article for SCARF.
 
@@ -46,8 +48,6 @@ linked to skeletal defects in the Labrador Retriever and the Samoyed.
 
 
 
-Would you like to **[add a Living with this
-Disorder](retinal-dysplasia-folds/addliving_form.html)** journal entry?
 
 Signs and Symptoms
 ------------------
@@ -97,15 +97,15 @@ that causes inherited Retinal Dysplasia/OculoSkeletal Dysplasia (OSD,
 ie.,dwarfism) in the Samoyed and Labrador Retriever.  For more
 information:
 
-[[http://www.optigen.com/opt9\_rdosd.html]{.underline}](http://www.optigen.com/opt9_rdosd.html)
+[[http://www.optigen.com/opt9\_rdosd.html]](http://www.optigen.com/opt9_rdosd.html)
 
 Treatment Guidelines
 --------------------
 
-Note: Treatment of animals should only be performed by a licensed
-veterinarian. Veterinarians should consult the current literature and
-current pharmacological formularies before initiating any treatment
-protocol.
+> **Note:** Treatment of animals should only be performed by a licensed
+> veterinarian. Veterinarians should consult the current literature and
+> current pharmacological formularies before initiating any treatment
+> protocol.
 
 
 
@@ -122,21 +122,18 @@ Aroch,I, Ofri R. and Alzenberg, I., Haematological, ocular and skeletal
 abnormalities in a Samoyed family.  The Journal of Small Animal
 Practice.  Vol.37:7, p.333-339,  1996    [link to
 abstract](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=8840254&dopt=Citation) ![three
-bones rating](/img/3-bones.gif){.image-inline
-width="37" height="15"}
+bones rating](/img/3-bones.gif)
 
 
 
 American College of Veterinary Ophthalmologist  1999  ![three bones
-rating](/img/3-bones.gif){.image-inline width="37"
-height="15"}
+rating](/img/3-bones.gif)
 
 Howell,D.M. Stankovics, M.E., Sarna C.S. and Aguirre G.D.  The
 geographic form of retinal dysplasia in dogs is not always a congenital
 abnormality.  Veterinary Ophthalmology  p. 61-66, 1999.  [link to
 abstract](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=11397243&query_hl=9&itool=pubmed_docsum)
-![three bones rating](/img/3-bones.gif){.image-inline
-width="37" height="15"}
+![three bones rating](/img/3-bones.gif)
 
 
 
@@ -144,18 +141,16 @@ MacMillian A.D. and Lipton D.E., Heritability of Multifocal Retinal
 Dysplasia in American Cocker Spaniels,  JAVMA, vol. 172:5 p. 568-572
 1978. [link to
 abstract](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=632194&query_hl=13&itool=pubmed_docsum) ![three
-bones rating](/img/3-bones.gif){.image-inline
-width="37" height="15"}
+bones rating](/img/3-bones.gif)
 
 Meyers V.N., Jezyk P.F., Aguirre G.D. and Paterson D.F., Short-limbed
 dwarfism and ocular defects in the Samoyed dog,  JAVMA, vol. 183:9, p.
 975-979, Nov. 1, 1983. [link to
 abstract](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?itool=abstractplus&db=pubmed&cmd=Retrieve&dopt=abstractplus&list_uids=12002589) ![three
-bones rating](/img/3-bones.gif){.image-inline
-width="37" height="15"} Willis, Malcolm B.   "Genetics of the Dog"
+bones rating](/img/3-bones.gif)
+Willis, Malcolm B.   "Genetics of the Dog"
 Howell Book House 1989.  ![three bones
-rating](/img/3-bones.gif){.image-inline width="37"
-height="15"}
+rating](/img/3-bones.gif)
 
 
 
@@ -163,50 +158,45 @@ height="15"}
 
 
 
-![](retinal-dysplasia-folds/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](retinal-dysplasia-folds/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](retinal-dysplasia-folds/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](retinal-dysplasia-folds/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
 
-
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 Suggested Links
 ---------------
 
 [OFA Eye
 Evaluation](http://www.offa.org/eye_evaluation.html)
-![three bones rating](/img/3-bones.gif){.image-inline
-width="37" height="15"} [Merck Veterinary
+![three bones rating](/img/3-bones.gif)
+
+[Merck Veterinary
 Manual](http://www.merckvetmanual.com/mvm/eye_and_ear/ophthalmology/ocular_fundus.html?qt=retinal%20dysplasia&alt=sh)
-![three bones rating](/img/3-bones.gif){.image-inline
-width="37" height="15"} [Gionfriddo, Julie (AVCO diplomate),  Retinal
+![three bones rating](/img/3-bones.gif)
+
+[Gionfriddo, Julie (AVCO diplomate),  Retinal
 Dyspalsia and Retinal
 Folds](http://www.eyevet.ca/ret_dysplasia.html)
-![three bones rating](/img/3-bones.gif){.image-inline
-width="37" height="15"} [Stroyan, Keith D., Dwarfism and Eye disorders
+![three bones rating](/img/3-bones.gif)
+
+[Stroyan, Keith D., Dwarfism and Eye disorders
 in Labrador Retrievers, Important Scientific
 Findings.](http://www.math.uiowa.edu/~stroyan/Shohola/Dwarf.htm)  ![two
-bones rating](/img/2-bones.gif){.image-inline
-width="27" height="15"}
+bones rating](/img/2-bones.gif)
+
 <http://cidd.discoveryspace.ca/disorder/retinal-dysplasia.html>  ![two
-bones rating](/img/2-bones.gif){.image-inline
-width="27" height="15"}
+bones rating](/img/2-bones.gif)
 
 
 
 
 
-![](retinal-dysplasia-folds/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](retinal-dysplasia-folds/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](retinal-dysplasia-folds/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](retinal-dysplasia-folds/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 
-
-\"Living with a Disorder\" Journal Entries
-------------------------------------------
-
--   [Living with Retinal
-    Dysplasia](retinal-dysplasia-folds/living-with-retinal-dysplasia.html)

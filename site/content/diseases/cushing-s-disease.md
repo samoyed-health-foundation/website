@@ -1,11 +1,14 @@
-Cushing\'s Disease
-==================
++++
+title = "Cushing's Disease"
++++
 
-**Liaison:** Melissa Howell **Email:** <sams4luv@aol.com>
+**Liaison:** Melissa Howell
+
+**Email:** <sams4luv@aol.com>
 
 
 
-In Cushing\'s Disease, also known as hyperadrenocorticism, there is an
+In Cushing's Disease, also known as hyperadrenocorticism, there is an
 excess of cortisol or related corticosteroids in the body.   Cortisol
 and other corticosteroid hormones are produced by the cortex, or outer
 portion, of the adrenal glands.   Cortisol is released by the adrenals
@@ -19,10 +22,6 @@ the body.  If more is needed, it releases adrenocorticotropic hormone,
 or ACTH.  This hormone then signals the adrenal glands to release more
 cortisol.  Cushing's is caused by a defect somewhere in this process.
 
-
-
-Would you like to **[add a Living with this
-Disorder](cushing-s-disease/addliving_form.html)** journal entry?
 
 Signs and Symptoms
 ------------------
@@ -101,10 +100,10 @@ later.
 Treatment Guidelines
 --------------------
 
-Note: Treatment of animals should only be performed by a licensed
-veterinarian. Veterinarians should consult the current literature and
-current pharmacological formularies before initiating any treatment
-protocol.
+> **Note:** Treatment of animals should only be performed by a licensed
+> veterinarian. Veterinarians should consult the current literature and
+> current pharmacological formularies before initiating any treatment
+> protocol.
 
 Many adrenal gland tumors can be surgically removed, although surgery in
 this area (near the kidney and aorta) is considered major and usually
@@ -119,7 +118,7 @@ The following link gives more information about adrenal surgery and
 complications:
 
 <http://www.marvistavet.com/treatment-pituitary-cushings-syndrome.pml>
-!\[2 bones\](/img/2-bones.gif)
+![2 bones](/img/2-bones.gif)
 
 Surgery on the pituitary, located at the base of the brain, is very
 risky in dogs, requires a neurosurgeon, and is rarely performed.
@@ -139,27 +138,27 @@ takes longer to work.
 **L-deprenyl**  (also called Anipryl or [Selegiline)  acts by a very
 different mechanism, suppressing ACTH release by the pituitary.  It
 doesn't require monitoring tests, but is expensive, and not all dogs
-respond to it.  ]{.all}
+respond to it.  ]
 
-[]{#Trilostane}**Trilostane** (also called Vetoryl ) inhibits the
+**Trilostane** (also called Vetoryl ) inhibits the
 production of cortisol.   It typically has fewer side effects than
 lysodren.   Note:  The FDA approved the use of Trilostane on May 11,
 2009 and this should help with availability.  Per a [letter to
 veterinarians](http://www.fda.gov/AnimalVeterinary/SafetyHealth/ProductSafetyInformation/ucm182038.htm)
-from the FDA, \"Now that VETORYL is approved and available for
+from the FDA, "Now that VETORYL is approved and available for
 veterinary use in the U.S., trilostane should not be imported from other
-countries or compounded from bulk.\"
+countries or compounded from bulk."
 
 The following website has an excellent discussion of the pros and cons
 of these different drug treatments:
 
 <http://www.marvistavet.com/treatment-pituitary-cushings-syndrome.pml>
-!\[2 bones\](/img/2-bones.gif)
+![2 bones](/img/2-bones.gif)
 
 If the cause of Cushing's is iatrogenic the treatment is to withdraw the
 drug that caused it.  This must be done gradually, because the drugs
 causing iatrogenic Cushing's reduce adrenal production of cortisol.  The
-adrenals must be given time to recover and produce cortisol again.** **
+adrenals must be given time to recover and produce cortisol again.
 
 If left untreated, a dog with Cushing's can develop additional
 complications including diabetes, high blood pressure, congestive heart
@@ -172,26 +171,25 @@ system.
 References
 ----------
 
-[[http://www.marvistavet.com/cushings-disease-information-center.pml]{.underline}](http://www.marvistavet.com/cushings-disease-information-center.pml)
-!\[2 bones\](/img/2-bones.gif)
+[http://www.marvistavet.com/cushings-disease-information-center.pml](http://www.marvistavet.com/cushings-disease-information-center.pml)
+![2 bones](/img/2-bones.gif)
 
-[[http://www.vetmed.auburn.edu/dcs/sac/mededu/cushings/home.html]{.underline}](http://web.archive.org/web/20020627120906/http://www.vetmed.auburn.edu/dcs/sac/mededu/cushings/home.html)
-!\[3 bones\](/img/3-bones.gif)
-
-
-
-![](cushing-s-disease/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](cushing-s-disease/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](cushing-s-disease/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](cushing-s-disease/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
+[http://www.vetmed.auburn.edu/dcs/sac/mededu/cushings/home.html](http://web.archive.org/web/20020627120906/http://www.vetmed.auburn.edu/dcs/sac/mededu/cushings/home.html)
+![3 bones](/img/3-bones.gif)
 
 
+
+
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 Support Groups
 --------------
 
-[[www.k9cushings.com]{.underline}](http://www.k9cushings.com/)
+[www.k9cushings.com](http://www.k9cushings.com/)
 
 <https://groups.yahoo.com/neo/groups/caninecushings-autoimmunecare/info>
 
@@ -200,31 +198,19 @@ Support Groups
 Suggested Links
 ---------------
 
-<http://www.canismajor.com/dog/cushings.html>  ![one bone
-rating](/img/bone.gif/image_large.png){.image-inline
-width="16" height="15"}
+<http://www.canismajor.com/dog/cushings.html>
+![one bone rating](/img/1-bone.gif)
 
-<http://www.2ndchance.info/cushings.htm>  ![one bone
-rating](/img/bone.gif/image_large.png){.image-inline
-width="16" height="15"}
+<http://www.2ndchance.info/cushings.htm>
+![one bone rating](/img/1-bone.gif)
 
 <http://dogs.about.com/od/caninediseases/fl/Cushings-Disease-in-Dogs.htm>
-![one bone
-rating](/img/bone.gif/image_large.png){.image-inline
-width="16" height="15"}
+![one bone rating](/img/1-bone.gif)
 
 
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-![](cushing-s-disease/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](cushing-s-disease/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](cushing-s-disease/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](cushing-s-disease/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
-
-
-
-Current Research
-----------------
-
--   [Research: Diagnosis and Treatment of Cushing's Disease in
-    dogs](cushing-s-disease/diagnosis-and-treatment-of-cushing2019s-disease-in-dogs.html)

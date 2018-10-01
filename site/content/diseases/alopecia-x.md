@@ -2,7 +2,9 @@
 title = "Alopecia X"
 +++
 
-**Liaison:** Elizabeth Wells **Email:** <solidgoldsams@charter.net>
+**Liaison:** Elizabeth Wells
+
+**Email:** <solidgoldsams@charter.net>
 
 
 

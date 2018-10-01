@@ -1,7 +1,10 @@
-Sebaceous Adenitis (SA)
-=======================
++++
+title = "Sebaceous Adenitis (SA)"
++++
 
-**Liaison:** Tina Oswald **Email:** <tkoswald66@gmail.com>
+**Liaison:** Tina Oswald
+
+**Email:** <tkoswald66@gmail.com>
 
 
 
@@ -15,8 +18,6 @@ to dog and breed to breed.
 
 
 
-Would you like to **[add a Living with this
-Disorder](sebaceous-adenitis-sa/addliving_form.html)** journal entry?
 
 Signs and Symptoms
 ------------------
@@ -52,10 +53,10 @@ withers, and in any affected areas.
 Treatment Guidelines
 --------------------
 
-Note: Treatment of animals should only be performed by a licensed
-veterinarian. Veterinarians should consult the current literature and
-current pharmacological formularies before initiating any treatment
-protocol.
+> **Note:** Treatment of animals should only be performed by a licensed
+> veterinarian. Veterinarians should consult the current literature and
+> current pharmacological formularies before initiating any treatment
+> protocol.
 
 There are currently no 'gold standard' antibiotics or supplements that
 will cure Sebaceous Adenitis.   About 95% of owners with SA affected
@@ -88,33 +89,29 @@ References
 
 [Merck Veterinary Manual
 online](http://www.merckvetmanual.com/mvm/integumentary_system/congenital_and_inherited_anomalies_of_the_integumentary_system/hyperplastic_and_seborrheic_syndromes.html) on
-Hyperplastic and Seborrheic Syndromes** ![four bones
-rating](/img/4-bones.gif){.image-inline width="46"
-height="15"}  **
+Hyperplastic and Seborrheic Syndromes ![four bones
+rating](/img/4-bones.gif)
 
 [Merck Veterinary Manual
 online](http://www.merckvetmanual.com/mvm/eye_and_ear/diseases_of_the_pinna/sebaceous_adenitis.html)
 on Sebaceous Adenitis ![four bones
-rating](/img/4-bones.gif){.image-inline width="46"
-height="15"}
+rating](/img/4-bones.gif)
 
 [Sebaceous
 Adenitis](https://www.ofa.org/diseases/other-diseases/sebaceous-adenitis)
 on the OFA website ![three bones
-rating](/img/3-bones.gif){.image-inline width="37"
-height="15"}
+rating](/img/3-bones.gif)
 
 
 
 
 
-![](sebaceous-adenitis-sa/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](sebaceous-adenitis-sa/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](sebaceous-adenitis-sa/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](sebaceous-adenitis-sa/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
 
-
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 Support Groups
 --------------
@@ -124,7 +121,7 @@ Support Groups
 [Yahoo Group on
 SA](https://groups.yahoo.com/neo/groups/SA_Addisons/info)  \--
 This support group is for those people who have dogs with Sebaceous
-Adenitis (SA) and/or Addison\'s Disease. Learn how to care for your dog
+Adenitis (SA) and/or Addison's Disease. Learn how to care for your dog
 and help others with their questions.
 
 
@@ -139,37 +136,33 @@ Suggested Links
 [Sebaceous
 adenitis](https://www.ofa.org/diseases/other-diseases/sebaceous-adenitis)
 on the OFA website ![three bones
-rating](/img/3-bones.gif){.image-inline width="37"
-height="15"}
+rating](/img/3-bones.gif)
 
-[](http://www.akita-friends.com/special/SA/story.htm)
+<http://www.akita-friends.com/special/SA/story.htm>
 
 [Photos of an Akita's journey with Sebaceous
 Adenitis](http://www.akita-friends.com/special/SA/story.htm) ![one bone
-rating](/img/bone.gif){.image-inline width="16"
-height="15"}
+rating](/img/1-bone.gif)
 
 [Report about the successful treatment of Sebaceous Adenitis through
 self-invented therapy](http://www.akita-friends.com/special/satreat.htm)
-*By Michael Rampak ![two bones
-rating](/img/2-bones.gif){.image-inline width="27"
-height="15"}*
+*By Michael Rampak* ![two bones
+rating](/img/2-bones.gif)
 
 [Test breedings reveal inheritance mode of SA,
 DMS](http://veterinarynews.dvm360.com/dvm/article/articleDetail.jsp?id=7253)
 By: *Alice Jeromin, DVM, Dipl. ACVD* ![two bones
-rating](/img/2-bones.gif){.image-inline width="27"
-height="15"}
+rating](/img/2-bones.gif)
 
 [Sebaceous
 Adenitis](http://cidd.discoveryspace.ca/disorder/sebaceous-adenitis.html)
 on the Canine Inherited Disorders Database ![three bones
-rating](/img/3-bones.gif/image_preview.png)
+rating](/img/3-bones.gif)
 
 [Canine Sebaceous
 Adenitis](https://www.mspca.org/angell_services/canine-sebaceous-adenitis)
 on the MSPCA Angell website ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
 
 
 
@@ -179,7 +172,7 @@ Forsythe P, Paterson S.  [Ciclosporin 10 years on:  Indications and
 efficacy. ](http://veterinaryrecord.bmj.com/content/vetrec/174/Suppl_2/13.full.pdf)
 Veterinary Record Journal of the British Veterinary Association, March
 2014  ![three bones
-rating](/img/3-bones.gif/image_preview.png)
+rating](/img/3-bones.gif)
 
 
 
@@ -191,17 +184,10 @@ rating](/img/3-bones.gif/image_preview.png)
 
 
 
-![](sebaceous-adenitis-sa/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](sebaceous-adenitis-sa/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](sebaceous-adenitis-sa/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](sebaceous-adenitis-sa/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 
-
-\"Living with a Disorder\" Journal Entries
-------------------------------------------
-
--   [Living With Sebaceous
-    Adenitis](sebaceous-adenitis-sa/living-with-sebaceous-adenitis.html)
--   [An Ocean Of Tears](sebaceous-adenitis-sa/an-ocean-of-tears.html)

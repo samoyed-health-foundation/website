@@ -1,21 +1,18 @@
-Luxating Patella
-================
++++
+title = "Luxating Patella"
++++
+
+> **Note:** We do not currently have a health liaison for this disorder.
+> If you would like to volunteer, please contact
+> [Pam Barbe](mailto:president@samoyedhealthfoundation.org?subject=Questions%20about%20becoming%20a%20Health%20Information%20Liaison%20or%20Reviewer)
+> and she will be happy to answer any of your questions.
+> For a description of the position, please click on
+> [disorder health information liaison](/become-a-health-information-liaison)
+> or
+> [health information reviewer](/become-a-health-information-reviewer).
 
 
-
-
-
-*Note:* We do not currently have a health liaison for this disorder.  If
-you would like to volunteer, please contact [[Pam
-Barbe](mailto:president@samoyedhealthfoundation.org?subject=Questions%20about%20becoming%20a%20Health%20Information%20Liaison%20or%20Reviewer)]{.link-mailto}
-and she will be happy to answer any of your questions.  For a
-description of the position, please click on [disorder health
-information
-liaison.](../help/become-a-health-information-liaison.html "become a health information liaison...")
-
- Thank you to Deb Thompson for putting together this article for SCARF.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Thank you to Deb Thompson for putting together this article for SCARF.
 
 Luxating patella or dislocation of the knee, is a condition where the
 patella or kneecap moves out of its normal location. The patella, or
@@ -43,14 +40,6 @@ the groove the pain is gone and the dog will usually resume normal
 activities. Lameness is often intermittent and may be non-existent in
 some dogs.
 
-
-
-
-
-
-
-Would you like to **[add a Living with this
-Disorder](luxating-patella/addliving_form.html)** journal entry?
 
 Signs and Symptoms
 ------------------
@@ -98,7 +87,7 @@ with most of the weight transferred to the front legs.
 
 **Grade 1** are patella luxations that are found on physical exam by
 looking for them when the dog shows little to no clinical signs \-- the
-patella can be luxated manually but doesn\'t do this much on its own.
+patella can be luxated manually but doesn't do this much on its own.
 Dog may have no symptoms.
 
 **Grade 2** luxations occur when there is occasional spontaneous
@@ -109,8 +98,8 @@ then puts it back down and goes on as if nothing was wrong.
 
 **Grade 3** luxations are usually used to describe dogs that are
 beginning to have a loss of function due to the luxation of the patella.
-They have more frequent \"skipping\" episodes, may not want to jump up
-onto things, they may have pain and the patella doesn\'t always return
+They have more frequent "skipping" episodes, may not want to jump up
+onto things, they may have pain and the patella doesn't always return
 to normal positioning when it is deliberately pushed out of its groove
 during a physical examination.
 
@@ -120,7 +109,7 @@ manually and the dog shows evidence of chronic pain or disability,
 including poor to no ability to jump.
 
 **Grade 5** (or severe grade 4 depending on the grading scheme) is when
-the dog won\'t use the legs or when the gait is stiff legged due to the
+the dog won't use the legs or when the gait is stiff legged due to the
 patella being underdeveloped or permanently dislocated and fixed in
 place outside its normal position.
 
@@ -158,10 +147,10 @@ diagnosis.
 Treatment Guidelines
 --------------------
 
-Note: Treatment of animals should only be performed by a licensed
-veterinarian. Veterinarians should consult the current literature and
-current pharmacological formularies before initiating any treatment
-protocol.
+> **Note:** Treatment of animals should only be performed by a licensed
+> veterinarian. Veterinarians should consult the current literature and
+> current pharmacological formularies before initiating any treatment
+> protocol.
 
 Medical therapy has little corrective ability in this disorder and
 surgery is therefore the treatment of choice. Surgical treatment is not
@@ -174,7 +163,7 @@ on many factors including the degree of lameness, the grade of patellar
 luxation, the age of the animal, and the presence of concurrent problems
 with the knee.
 
-A low grade MLP, which has been present all of the animal\'s life,
+A low grade MLP, which has been present all of the animal's life,
 without a history of lameness, would not indicate surgery is needed.
 Arthritis may develop, whether or not surgery is performed.
 
@@ -205,7 +194,7 @@ Surgery will alter both the affected structures and the movement of the
 patella. The groove at the base of the femur may be surgically deepened
 to better contain the knee cap (called a block osteotomy). The capsule
 of the knee joint is tightened; this tightens the femoropatellar
-ligament. The knee cap itself may be \'tied down\' laterally (on the
+ligament. The knee cap itself may be 'tied down' laterally (on the
 outside) to prevent it from deviating medially (toward the inside). The
 bony protuberance at the site of the attachment of the quadriceps tendon
 on the tibia may be cut off and then re-attached in a more lateral
@@ -277,7 +266,7 @@ recommend passive physical therapy (moving the joint through its range
 of motion manually for 40 to 50 times once or twice a day) as well.
 Swimming is occasionally recommended, after the incision has healed.
 
-There are some patients who simply don\'t respond to surgeries as
+There are some patients who simply don't respond to surgeries as
 expected. Sometimes even when the surgery goes well, the post-operative
 care was good but the surgical outcome was still not optimum. This is
 probably more common in orthopedic surgeries than in other forms of
@@ -317,52 +306,38 @@ Suggested Links
 The Orthopedic Foundation of America will issue registration numbers to
 dogs whose patellar have been examined and manipulated by a vet,
 forwarded to the OFA, and found to be normal. For More Information visit
-the [[Orthopedic Foundation of
-America]{.underline}](http://www.offa.org/pdf/plapp_bw.pdf)
+the [Orthopedic Foundation of
+America](http://www.offa.org/pdf/plapp_bw.pdf)
 
 
 
 [ACVS - Medial Patellar
 Luxations](https://www.acvs.org/small-animal/patellar-luxations)
-[[!\[3
-bones\](/img/3-bones.gif)]{.underline}](http://www.acvs.org/AnimalOwners/HealthConditions/SmallAnimalTopics/MedialPatellarLuxations/ "external-link")
+![3 bones](/img/3-bones.gif)
 
-[[http://www.peteducation.com/article.cfm?cls=2&cat=1569&articleid=457]{.underline}](http://www.peteducation.com/article.cfm?cls=2&cat=1569&articleid=457 "external-link")
-[[!\[2
-bones\](/img/2-bones.gif)]{.underline}](http://www.acvs.org/AnimalOwners/HealthConditions/SmallAnimalTopics/MedialPatellarLuxations/ "external-link")
+[http://www.peteducation.com/article.cfm?cls=2&cat=1569&articleid=457](http://www.peteducation.com/article.cfm?cls=2&cat=1569&articleid=457)
+![2 bones](/img/2-bones.gif)
 
 <http://www.ovrs.com/brochures/patellar-luxation-pamphlet.pdf>
+![2 bones](/img/2-bones.gif)
 
-   !\[2 bones\](/img/2-bones.gif)
+[http://www.offa.org/pl\_overview.html](http://www.offa.org/pl_overview.html)
+![3 bones](/img/3-bones.gif)
 
-[[http://www.offa.org/pl\_overview.html]{.underline}](http://www.offa.org/pl_overview.html)   [[!\[3
-bones\](/img/3-bones.gif)]{.underline}](http://www.acvs.org/AnimalOwners/HealthConditions/SmallAnimalTopics/MedialPatellarLuxations/ "external-link")
-
-<https://cpvh.com/luxating-patella-knee-cap/>  [[!\[2
-bones\](/img/2-bones.gif)]{.underline}](http://www.acvs.org/AnimalOwners/HealthConditions/SmallAnimalTopics/MedialPatellarLuxations/ "external-link")
+<https://cpvh.com/luxating-patella-knee-cap>  ![2
+bones](/img/2-bones.gif)
 
 [Merck Veterinary Manual
 Online](http://www.merckvetmanual.com/mvm/musculoskeletal_system/arthropathies_and_related_disorders_in_small_animals/patellar_luxation_in_small_animals.html)
 - Patellar Luxations ![four bones
-rating](/img/4-bones.gif/image_large.png){.image-inline
-width="46" height="15"}
+rating](/img/4-bones.gif)
 
 
 
-![](luxating-patella/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](luxating-patella/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](luxating-patella/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](luxating-patella/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 
-
-Current Research
-----------------
-
--   [Luxating Patella](luxating-patella/luxating-patella.html)
-
-\"Living with a Disorder\" Journal Entries
-------------------------------------------
-
--   [Oh My Aching Knees](luxating-patella/oh-my-aching-knees.html)

@@ -119,7 +119,7 @@ title = "A to Z Diseases"
 - Patent Ductus Arteriosus (PDA)
 - [Pelger-Huet Anomaly](/diseases/pelger-huet-anomaly) \*
 - Pemphigus Foliaceus
-- Perianal Fistula \*\*
+- [Perianal Fistula](/diseases/perianal-fistulas-anal-furunculosis) \*\*
 - Perianal Gland Adenoma
 - Persistent Pupillary Membranes (PPM, Mesodermal Dysgenesis)
 - [Piebald or Extreme Piebald Gene - Deafness](/diseases/piebald-or-extreme-piebald-gene-2013-deafness) \*

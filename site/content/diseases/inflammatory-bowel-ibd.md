@@ -1,21 +1,19 @@
-Inflammatory Bowel (IBD)
-========================
++++
+title = "Inflammatory Bowel (IBD)"
++++
 
 
-
-*Note:* We do not currently have a health liaison for this disorder.  If
-you would like to volunteer, please contact [[Pam
-Barbe](mailto:president@samoyedhealthfoundation.org?subject=Questions%20about%20becoming%20a%20Health%20Information%20Liaison%20or%20Reviewer)]{.link-mailto}
-and she will be happy to answer any of your questions.  For a
-description of the position, please click on [disorder health
-information
-liaison.](../help/become-a-health-information-liaison.html "become a health information liaison...")
-
- Thank you to Joan Martin for putting together this article for SCARF.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> **Note:** We do not currently have a health liaison for this disorder.
+> If you would like to volunteer, please contact
+> [Pam Barbe](mailto:president@samoyedhealthfoundation.org?subject=Questions%20about%20becoming%20a%20Health%20Information%20Liaison%20or%20Reviewer)
+> and she will be happy to answer any of your questions.
+> For a description of the position, please click on
+> [disorder health information liaison](/become-a-health-information-liaison)
+> or
+> [health information reviewer](/become-a-health-information-reviewer).
 
 
+Thank you to Joan Martin for putting together this article for SCARF.
 
 Broadly defined, Inflammatory Bowel Disease (IBD) refers to a diverse
 group of intestinal disorders involving chronic inflammation in the
@@ -26,15 +24,22 @@ infiltrates that cannot be attributed solely to cancer, allergies,
 bacterial or parasitic infections.
 
 
+<details>
+<summary>*Click here to show/hide more detail*</summary>
 
+IBD is a chronic, abnormal concentration of inflammatory cells in the mucosa or lining of the stomach, small intestine (duodenum, jejunum, ileum) and/or large intestine (colon).   The inflammation cannot be attributed solely to cancer, allergies, bacterial or parasitic infections.
 
+Classification of IBD is based on the type inflammatory cell involved:
 
-[Show more detail](inflammatory-bowel-ibd5a76.html?showlong=1)
+- Lymphocytes and plasmacytes:  lymphoplasmacytic enteritis or IBD.  In this type, plasma proteins may be lost into the gastrointestinal tract (protein-losing-enteropathy (PLE)).  In severe cases nutrient absorption and gut motility can be compromised.
+- Eosinophils:  eosinophilic IBD
+- Neutrophils:  suppurative or neutrophilic IBD
 
+In advanced cases, normal tissue may be replaced by fibrous or granulomatous (scar-like) tissue.  Severity is believed to reflect the degree to which inflammatory cells have infiltrated the gut lining.
 
+**Note:**  Irritable Bowel Syndrome (IBS) is sometimes confused with IBD but is a completely diffferent condition:   stress-related diarrhea.  Treatment is aimed at reducing the stress.
 
-Would you like to **[add a Living with this
-Disorder](inflammatory-bowel-ibd/addliving_form.html)** journal entry?
+</details>
 
 Signs and Symptoms
 ------------------
@@ -106,10 +111,10 @@ intestine) in conjunction with biopsy may be useful.
 Treatment Guidelines
 --------------------
 
-Note: Treatment of animals should only be performed by a licensed
-veterinarian. Veterinarians should consult the current literature and
-current pharmacological formularies before initiating any treatment
-protocol.
+> **Note:** Treatment of animals should only be performed by a licensed
+> veterinarian. Veterinarians should consult the current literature and
+> current pharmacological formularies before initiating any treatment
+> protocol.
 
 IBD is controlled, not cured.  Anti-inflammatory
 therapy/immunosuppressive drugs in conjunction with dietary therapy may
@@ -136,7 +141,7 @@ References
 [Inflammatory Bowel Disease in
 Dogs](http://www.peteducation.com/article.cfm?c=2+2090&aid=305),
 an excellent, concise summary at peteducation.com   ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
 
 
 
@@ -144,42 +149,41 @@ rating](/img/2-bones.gif/image_preview.png)
 Disease](http://www.marvistavet.com/inflammatory-bowel-disease.pml)
 from marvistavet.com.  This article includes a picture of mucosal
 histology/pathology. ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
 
 
 
 [Protein-Losing Enteropathy in
 Dogs](http://www.petplace.com/dogs/protein-losing-enteropathy-in-dogs-ple/page1.aspx)
 at petplace.com.     ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
 
 
 
 [Inflammatory Bowel Disease in the
 Dog](http://www.lowchensaustralia.com/health/boweldisease.htm)
 an inclusive description from lowchensaustralia.com ![one bone
-rating](/img/bone.gif/image_preview.png)
+rating](/img/1-bone.gif)
 
 [Jergens, AE.  Inflammatory Bowel Disease in the Dog and
 Cat.](http://www.vin.com/proceedings/Proceedings.plx?CID=WSAVA2002&PID=2585&Category=414)
 Proceedings of 2002 WSAVA conference.  ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
 
 [Tams TR.  Inflammatory Bowel Disease in
 Dogs](http://www.vin.com/VINDBPub/SearchPB/Proceedings/PR05000/PR00426.htm).
 Atlantic Coast Veterinary Conference 2001.  This article includes  drug
 protocols, dietary management and side effects. ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
 
 
 
-![](inflammatory-bowel-ibd/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](inflammatory-bowel-ibd/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](inflammatory-bowel-ibd/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](inflammatory-bowel-ibd/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
 
-
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 Support Groups
 --------------
@@ -194,7 +198,7 @@ Suggested Links
 [Inflammatory Bowel Disease in Your
 Dog](http://www.2ndchance.info/inflambowel.htm) at
 2ndchance.info  A good article for laypersons ![one bone
-rating](/img/bone.gif/image_preview.png)
+rating](/img/1-bone.gif)
 
 
 
@@ -202,33 +206,21 @@ rating](/img/bone.gif/image_preview.png)
 Cats](http://www.holisticpetinfo.com/conditions/digestive_ibd.htm)
 at holisticpetinfo.com  A holistic approach, much advertising on site
 ![one bone
-rating](/img/bone.gif/image_preview.png)
+rating](/img/1-bone.gif)
 
 
 
 [Inflammatory Bowel
 Disease](http://www.merckvetmanual.com/mvm/digestive_system/diseases_of_the_stomach_and_intestines_in_small_animals/inflammatory_bowel_disease_in_small_animals.html),
 a more technical summary from the Merck Veterinary Manual  ![four bones
-rating](/img/4-bones.gif/image_preview.png)
+rating](/img/4-bones.gif)
 
 
 
-![](inflammatory-bowel-ibd/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](inflammatory-bowel-ibd/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](inflammatory-bowel-ibd/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](inflammatory-bowel-ibd/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
 
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-
-Current Research
-----------------
-
--   [Inflammatory Bowel Disease (IBD)
-    Research](inflammatory-bowel-ibd/inflammatory-bowel-disease-ibd.html)
-
-\"Living with a Disorder\" Journal Entries
-------------------------------------------
-
--   [Inflammatory Bowel Disease
-    (IBD)](inflammatory-bowel-ibd/inflammatory-bowel-disease-ibd-1.html)

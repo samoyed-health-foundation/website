@@ -1,7 +1,10 @@
-Atrial Septal Defect
-====================
++++
+title = "Atrial Septal Defect"
++++
 
-**Liaison:** Jan Young **Email:** <jannermd@yahoo.com>
+**Liaison:** Jan Young
+
+**Email:** <jannermd@yahoo.com>
 
 
 
@@ -11,13 +14,11 @@ heart.
 
 
 
+<details>
+<summary>*Click here to show/hide more detail*</summary>
+The heart of a dog (or person) consists of 4 chambers. The two upper chambers are called atria (singular atrium) and the two lower chambers are called ventricles. During embryonic development the heart begins as a simple tube, which later divides into the four chambers. The two upper chambers are separated into right and left by a septal wall or septum, as are the two lower chambers. During development, there may be failure of the septum to develop correctly, leaving a hole between the two chambers. In the case of the upper chambers, this hole is called an atrial septal defect (ASD). The defect can vary in size from very small to quite large. The size of the defect dictates the seriousness of the condition.  The presence of a hole allows blood to flow directly from the left atrium into the right atrium because the pressure on the left side of the heart is much higher. Depending on the size of the hole, this can result in a significant increase in the work of the right side of the heart.  If the defect is small, only a small amount of blood flows from the left to the right and there is not a significant increase in the work load of the right side of the heart.
+</details>
 
-[Show more detail](atrial-septal-defect-15a76.html?showlong=1)
-
-
-
-Would you like to **[add a Living with this
-Disorder](atrial-septal-defect-1/addliving_form.html)** journal entry?
 
 Signs and Symptoms
 ------------------
@@ -95,23 +96,19 @@ References
 
 
 
-[Atrial Septal
-Defect](http://cidd.discoveryspace.ca/disorder/atrial-septal-defect-asd.html),
+[Atrial Septal Defect](http://cidd.discoveryspace.ca/disorder/atrial-septal-defect-asd.html),
 Canine Inherited Disorders Database, University of Prince Edward
 Island   ![three bones
-rating](/img/3-bones.gif/image_preview.png)
+rating](/img/3-bones.gif)
 
 [Congenital Cardiac Disease and the
-OFA](http://www.offa.org/cardiac_about.html)   ![three
-bones
-rating](/img/3-bones.gif/image_preview.png)
+OFA](http://www.offa.org/cardiac_about.html)   ![three bones rating](/img/3-bones.gif)
 
 
 
 [Cardiovascular System of the
 Dog](http://www.vetmed.wsu.edu/ClientED/anatomy/cardiovascular.aspx),
-Washington State University  ![three bones
-rating](/img/3-bones.gif/image_preview.png)
+Washington State University  ![three bones rating](/img/3-bones.gif)
 
 
 
@@ -119,13 +116,12 @@ rating](/img/3-bones.gif/image_preview.png)
 
 
 
-![](atrial-septal-defect-1/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](atrial-septal-defect-1/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](atrial-septal-defect-1/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](atrial-septal-defect-1/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
 
-
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 Support Groups
 --------------
@@ -146,7 +142,7 @@ Suggested Links
 [Atrial Septal Defect in Dogs,
 aquaticcommunity.com](http://www.aquaticcommunity.com/dog/health/cardio/Atrialseptaldefect.php)
 ![one bone
-rating](/img/bone.gif/image_preview.png)
+rating](/img/1-bone.gif)
 
 
 
@@ -155,23 +151,23 @@ rating](/img/bone.gif/image_preview.png)
 [Atrial Septal Defect image,
 Wikipedia](http://en.wikipedia.org/wiki/File:Atrial_septal_defect-en.png)
 ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
 
 
 
 [Heart Failure in Your Dog,
 2ndchance.info](http://www.2ndchance.info/dogdilcardiomyopathy.htm)
 ![one bone
-rating](/img/bone.gif/image_preview.png)
+rating](/img/1-bone.gif)
 
 
 
 
 
-![](atrial-septal-defect-1/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](atrial-septal-defect-1/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](atrial-septal-defect-1/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](atrial-septal-defect-1/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 

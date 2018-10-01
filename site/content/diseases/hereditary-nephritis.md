@@ -1,6 +1,6 @@
-Hereditary Nephritis (Hereditary Samoyed Glomerulopathy or X-Linked Nephritis)
-==============================================================================
-
++++
+title = "Hereditary Nephritis (Hereditary Samoyed Glomerulopathy or X-Linked Nephritis)"
++++
 
 
 Nephritis literally means inflammation of the nephron, the basic unit of
@@ -16,21 +16,13 @@ occurring by 15 months.   Since females have two X chromosomes (and only
 one is typically affected) their disease is less serious.
 
 
+<details>
+<summary>*Click here to show/hide more detail*</summary>
 
+[Link includes diagrams of the kidney/glomerulus](http://unckidneycenter.org/kidneyhealthlibrary/glomerular-disease/glomerular-disease)
 
-
-
-
-
-
-
-
-[Show more detail](hereditary-nephritis5a76.html?showlong=1)
-
-
-
-Would you like to **[add a Living with this
-Disorder](hereditary-nephritis/addliving_form.html)** journal entry?
+Canine x-linked nephritis, or Hereditary Samoyed Glomerulopathy, was first described in a family of Canadian Samoyeds in 1977.  The specific mutation has been identified - a change in one DNA base pair in the COL4A5 gene results in a 90% reduction in the amount of type IV collagen made in the kidney.  Without enough of this protein, the glomerular basement membrane in the glomerulus of the kidney is abnormal.   This is the same gene that is abnormal in Alport's syndrome, a form of human hereditary nephritis.  Because of this, Canine Hereditary X-linked Nephritis has been used as a model to study potential treatments for Alport's syndrome.
+</details>
 
 Signs and Symptoms
 ------------------
@@ -87,10 +79,10 @@ There is a DNA (genetic) test for this disease that may be obtained from
 Treatment Guidelines
 --------------------
 
-Note: Treatment of animals should only be performed by a licensed
-veterinarian. Veterinarians should consult the current literature and
-current pharmacological formularies before initiating any treatment
-protocol.
+> **Note:** Treatment of animals should only be performed by a licensed
+> veterinarian. Veterinarians should consult the current literature and
+> current pharmacological formularies before initiating any treatment
+> protocol.
 
 There is no curative treatment for hereditary nephritis. Special diets
 (low protein, low salt, low phosphorous) may be prescribed as palliative
@@ -123,38 +115,40 @@ References
 [Glomerular
 Disease](http://www.merckvetmanual.com/mvm/urinary_system/noninfectious_diseases_of_the_urinary_system_in_small_animals/glomerular_disease_in_small_animals.html?qt=glomerular%20disease&alt=sh)
 in:  The Merck Veterinary Manual    ![four bones
-rating](/img/4-bones.gif/image_preview.png)
+rating](/img/4-bones.gif)
+
 [Bernard et al.  1977.  Familial Renal Disease in Samoyed
 Dogs.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1697612/pdf/canvetj00380-0019.pdf)
 Can Vet Journal 18:  181-189.   ![three bones
-rating](/img/3-bones.gif/image_preview.png)
+rating](/img/3-bones.gif)
+
 [Zheng et al.  1994.  Canine X chromosome-linked hereditary nephritis:
 A genetic model for human X-linked hereditary nephritis resulting from a
 single base mutation in the gene encoding the alpha5 chain of collagen
 type
 IV](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC43708/pdf/pnas01131-0521.pdf)
 .  PNAS 91:  3989-3993.    ![three bones
-rating](/img/3-bones.gif/image_preview.png)
+rating](/img/3-bones.gif)
+
 [Glomerulopathies. ](http://books.google.com/books?id=tlAm5etmJU8C&lpg=PA399&ots=zY6A61oBsI&dq=hereditary%20nephritis%20canine&pg=PA376#v=snippet&q=glomerulopathies%20Samoyed&f=false)
 Page 376 in:  Veterinary pediatrics:  dogs and cats from birth to six
 months by JD Hoskins.   Saunders  2001.   ![four bones
-rating](/img/4-bones.gif/image_preview.png)
+rating](/img/4-bones.gif)
 
  [Canine and Murine Hereditary
 Nephritis.](http://books.google.com/books?id=hghs1uI2rg8C&lpg=PA562&ots=sWo5EkF9yy&dq=hereditary%20nephritis%20canine&pg=PA542#v=snippet&q=canine%20and%20murine%20hereditary%20nephritis&f=false)
 Page 542 in: Diseases of the kidney and urinary tract by RW Schrier.
 Lippincott Williams  & Wilkins, 2007.     ![four bones
-rating](/img/4-bones.gif/image_preview.png)
+rating](/img/4-bones.gif)
 
 
 
-![](hereditary-nephritis/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](hereditary-nephritis/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](hereditary-nephritis/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](hereditary-nephritis/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
 
-
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 Support Groups
 --------------
@@ -167,48 +161,50 @@ Suggested Links
 [X-linked recessive
 inheritance](http://en.wikipedia.org/wiki/X-linked_recessive_inheritance)
 at Wikipedia  ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
+
 [Hereditary X-linked
 nephritis](http://www.gopetsamerica.com/dog-health/x_linked_nephritis.aspx)
 at www.gopetsamerica.com  ![two bones
-rating](/img/2-bones.gif/image_preview.png)
-    [Hereditary
+rating](/img/2-bones.gif)
+
+[Hereditary
 Nephritis](http://www.mirage-samoyeds.com/kidney.htm) at
 Mirage Samoyeds    ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
+
 [Samoyed hereditary
 glomerulopathy](http://en.wikipedia.org/wiki/Samoyed_hereditary_glomerulopathy)
 at wikipedia     ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
+
 [Chronic Renal
 Failure](http://www.marvistavet.com/kidney-failure.pml)
 at www.marvistavet.com    ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
+
 [Familial Kidney
 Disease](http://cidd.discoveryspace.ca/disorder/familial-kidney-disease.html)
 at Canine Inherited Disorders Database, University of Prince Edward
 Island    ![three bones
-rating](/img/3-bones.gif/image_preview.png)
+rating](/img/3-bones.gif)
+
 [Kidney Disease in
 Dogs](http://vetprof.com/clientinfo/KidneyDiseaseInDogs/)
 at vetprof.com  ![one bone
-rating](/img/bone.gif/image_preview.png)
+rating](/img/1-bone.gif)
+
 [Juvenile Renal
 Disease](http://www.faqs.org/faqs/dogs-faq/medical-info/JRD/)
 at faqs.org    ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
 
 
 
-![](hereditary-nephritis/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](hereditary-nephritis/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](hereditary-nephritis/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](hereditary-nephritis/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
 
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-
-Current Research
-----------------
-
--   [Scientific Papers ](hereditary-nephritis/scientific-papers.html)

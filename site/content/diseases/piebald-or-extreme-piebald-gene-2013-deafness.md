@@ -1,7 +1,10 @@
-Piebald or Extreme Piebald Gene -- Deafness
-===========================================
++++
+title = "Piebald or Extreme Piebald Gene -- Deafness"
++++
 
-**Liaison:** Hazel Fitzgibbon **Email:** <Smiliesam@hotmail.com>
+**Liaison:** Hazel Fitzgibbon
+
+**Email:** <Smiliesam@hotmail.com>
 
 
 
@@ -26,7 +29,7 @@ in the dog, the stria vascularis degenerates.  As this provides the
 blood supply to the cochlea, damage to this structure occurs and the
 sensory hair cells necessary for hearing die." (quote from:
 [http://www.steynmere.co.uk/DALM\_DEAFNESS2.html](http://steynmere.co.uk/DALM_DEAFNESS2.html))
-!\[2 bones\](/img/2-bones.gif)
+![2 bones](/img/2-bones.gif)
 
 There is as yet no definitive proof that the extreme piebald gene is
 associated with hereditary deafness in Samoyeds.  A lot of very
@@ -34,10 +37,6 @@ persuasive work has been done on deafness in Dalmatians and Border
 Collies, other breeds who carry this gene.
 
 
-
-Would you like to **[add a Living with this
-Disorder](piebald-or-extreme-piebald-gene-2013-deafness/addliving_form.html)**
-journal entry?
 
 Signs and Symptoms
 ------------------
@@ -92,7 +91,7 @@ Diagnostic Tests
 The BAER test is an extremely reliable, objective test used to determine
 if a dog is deaf in one or both ears.  If the deafness is partial, it
 can also measure the extent of hearing loss.  BAER stands for
-\"Brainstem Auditory Evoked Response.\" It is a procedure using
+"Brainstem Auditory Evoked Response." It is a procedure using
 computer-regulated sensors to record the electrical activity of the
 brain in response to sound stimulation. Electrodes are put just under
 the skin, but these do not seem to bother most dogs.
@@ -112,10 +111,10 @@ in Samoyeds.
 Treatment Guidelines
 --------------------
 
-Note: Treatment of animals should only be performed by a licensed
-veterinarian. Veterinarians should consult the current literature and
-current pharmacological formularies before initiating any treatment
-protocol.
+> **Note:** Treatment of animals should only be performed by a licensed
+> veterinarian. Veterinarians should consult the current literature and
+> current pharmacological formularies before initiating any treatment
+> protocol.
 
 With congenital deafness, there is no cure.
 
@@ -147,86 +146,76 @@ References
 ----------
 
 Karlsson, Elinor, et al of the Broad Institute of Harvard and MIT,.
-\"Two-stage association mapping in dogs identifies coat color locus,\"
+"Two-stage association mapping in dogs identifies coat color locus,"
 presented at the Third International Conference on Advances in Canine
-and Feline Genomics, held in Davis, CA, August 2-5, 2006.  !\[2
-bones\](/img/2-bones.gif)
+and Feline Genomics, held in Davis, CA, August 2-5, 2006.  ![2
+bones](/img/2-bones.gif)
 
-[[http://www.lsu.edu/deafness/deaf.htm]{.underline}](http://www.lsu.edu/deafness/deaf.htm)
- !\[3 bones\](/img/3-bones.gif)
-
-
-
-[[http://www.offa.org/deaf\_genetics.html]{.underline}](http://www.offa.org/deaf_genetics.html)
-!\[3 bones\](/img/3-bones.gif)
+[http://www.lsu.edu/deafness/deaf.htm](http://www.lsu.edu/deafness/deaf.htm)
+ ![3 bones](/img/3-bones.gif)
 
 
 
-[[http://www.aht.org.uk/cms-display/sa\_deafness.html]{.underline}](http://www.aht.org.uk/cms-display/sa_deafness.html)
+[http://www.offa.org/deaf\_genetics.html](http://www.offa.org/deaf_genetics.html)
+![3 bones](/img/3-bones.gif)
+
+
+
+[http://www.aht.org.uk/cms-display/sa\_deafness.html](http://www.aht.org.uk/cms-display/sa_deafness.html)
 \--
-
-Explains a lot of the basics of deafness !\[2 bones\](/img/2-bones.gif)
-
+Explains a lot of the basics of deafness ![2 bones](/img/2-bones.gif)
 
 
-[[http://www.lsu.edu/deafness/VetClinNA.htm]{.underline}](http://www.lsu.edu/deafness/VetClinNA.htm)
+
+[http://www.lsu.edu/deafness/VetClinNA.htm](http://www.lsu.edu/deafness/VetClinNA.htm)
 by George Strain\-- Explains how extreme piebald gene may relate to
-other genes to cause deafness !\[2 bones\](/img/2-bones.gif)
+other genes to cause deafness ![2 bones](/img/2-bones.gif)
 
 [Hereditary Deafness in Dogs and Cats: Causes, Prevalence, and Current
 Research](http://www.vin.com/proceedings/Proceedings.plx?CID=TUFTSBG2003&PID=pr05095&O=Generic "external-link")
 by George M. Strain, Comparative Biomedical Sciences, School of
 Veterinary Medicine, Louisiana State University Baton Rouge, LA, USA on
 the vin.com website
-
- !\[2 bones\](/img/2-bones.gif)
+ ![2 bones](/img/2-bones.gif)
 
 
 
 Little, Clarence C.  1967.  The Inheritance of Coat Color in Dogs.
-Howell Book House. !\[2 bones\](/img/2-bones.gif)
+Howell Book House. ![2 bones](/img/2-bones.gif)
 
 
 
 
 
-![](piebald-or-extreme-piebald-gene-2013-deafness/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](piebald-or-extreme-piebald-gene-2013-deafness/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](piebald-or-extreme-piebald-gene-2013-deafness/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](piebald-or-extreme-piebald-gene-2013-deafness/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
 
-
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 Support Groups
 --------------
 
-[[http://www.deafdogs.org]{.underline}](http://www.deafdogs.org/)
+[http://www.deafdogs.org](http://www.deafdogs.org/)
 
 Suggested Links
 ---------------
 
 
 
-[<http://www.lsu.edu/deafness/BiblioDog.htm>]{.underline}  [!\[3
-bones\](/img/3-bones.gif)]{.underline}
-
+<http://www.lsu.edu/deafness/BiblioDog.htm>  ![3
+bones](/img/3-bones.gif)
 A comprehensive list of references for deafness in dogs
 
 
 
 
 
-![](piebald-or-extreme-piebald-gene-2013-deafness/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](piebald-or-extreme-piebald-gene-2013-deafness/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](piebald-or-extreme-piebald-gene-2013-deafness/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](piebald-or-extreme-piebald-gene-2013-deafness/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 
-
-Current Research
-----------------
-
--   [Deafness
-    Research](piebald-or-extreme-piebald-gene-2013-deafness/deafness-research.html)

@@ -1,7 +1,10 @@
-Seizures/Epilepsy
-=================
++++
+title = "Seizures/Epilepsy"
++++
 
-**Liaison:** Jan Young **Email:** <jannermd@yahoo.com>
+**Liaison:** Jan Young
+
+**Email:** <jannermd@yahoo.com>
 
 
 
@@ -22,30 +25,28 @@ stopped by medical intervention.
 
 
 
-Would you like to **[add a Living with this
-Disorder](seizures-epilepsy/addliving_form.html)** journal entry?
 
 Signs and Symptoms
 ------------------
 
 1.  Generalized Seizures:
 
--   Generalized, tonic-clonic (grand mal) seizures are the most common
-    in dogs. These begin with the tonic phase, a contraction of all
-    skeletal muscles and loss of consciousness resulting in the dog
-    typically falling on his side with stiff legs and the head often
-    arched back. There may be involuntary vocalization or twitching,
-    drooling, and loss of bowel/bladder control. This phase is usually
-    brief and is then followed by a clonic phase characterized by
-    rhythmic movements including jaw and legs (paddling motions).
+  -   Generalized, tonic-clonic (grand mal) seizures are the most common
+      in dogs. These begin with the tonic phase, a contraction of all
+      skeletal muscles and loss of consciousness resulting in the dog
+      typically falling on his side with stiff legs and the head often
+      arched back. There may be involuntary vocalization or twitching,
+      drooling, and loss of bowel/bladder control. This phase is usually
+      brief and is then followed by a clonic phase characterized by
+      rhythmic movements including jaw and legs (paddling motions).
 
--   Less commonly generalized seizures can just be tonic or just clonic
-    and rarely tonic-clonic seizures may be mild enough that
-    consciousness is not lost.
+  -   Less commonly generalized seizures can just be tonic or just clonic
+      and rarely tonic-clonic seizures may be mild enough that
+      consciousness is not lost.
 
--   Petit mal seizures are a brief generalized seizure often
-    characterized by simple staring for a brief period and then the dog
-    returns to normal.
+  -   Petit mal seizures are a brief generalized seizure often
+      characterized by simple staring for a brief period and then the dog
+      returns to normal.
 
 2.  Partial (focal) seizures are less common. In this type of seizure
 the abnormal electrical activity does not spread to include the entire
@@ -58,7 +59,7 @@ movement) and characterized by focal twitching or blinking, or complex
 behavior) where consciousness is altered and there may be bizarre
 behavior such as unprovoked aggression or repetitive behavior.
 
- 3.  Status epilepticus is a prolonged seizure or a series of seizures
+3.  Status epilepticus is a prolonged seizure or a series of seizures
 that occur continuously or repeatedly in a 24 hour period and is a
 medical emergency. Untreated, it can lead to brain damage and even
 death.
@@ -110,10 +111,10 @@ studies are normal then a diagnosis of primary epilepsy is made.
 Treatment Guidelines
 --------------------
 
-Note: Treatment of animals should only be performed by a licensed
-veterinarian. Veterinarians should consult the current literature and
-current pharmacological formularies before initiating any treatment
-protocol.
+> **Note:** Treatment of animals should only be performed by a licensed
+> veterinarian. Veterinarians should consult the current literature and
+> current pharmacological formularies before initiating any treatment
+> protocol.
 
 Medications are the treatment of choice for epilepsy however not all
 dogs with epilepsy require medication. This is a choice that is made by
@@ -141,24 +142,24 @@ bred.
 References
 ----------
 
-[Understanding Your Pet\'s
+[Understanding Your Pet's
 Epilepsy](http://www.canine-epilepsy.net/basics/basics_index.html),
 Canine Epilepsy Network   ![three bones
-rating](/img/3-bones.gif/image_preview.png)
+rating](/img/3-bones.gif)
+
 [Canine Seizures - Overview, Causes and
 Treatment](http://www.canine-epilepsy-guardian-angels.com/seizures_overview_cause_treatment.htm)
 at canine-epilepsy-guardian-angels.com ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
 
 
 
-![](seizures-epilepsy/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](seizures-epilepsy/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](seizures-epilepsy/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](seizures-epilepsy/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
 
-
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 Support Groups
 --------------
@@ -173,14 +174,14 @@ Suggested Links
 [AKC Canine Health Foundation symposium on Canine Epilepsy
 1997](http://www.mirage-samoyeds.com/epilepsy.htm)
 ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
 
 
 
 [Emergency Care for Canine
 Seizures](http://www.canine-epilepsy-guardian-angels.com/emergencycare.html)
 at canine-epilepsy-guardian-angels.com   ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
 
 
 
@@ -188,21 +189,21 @@ rating](/img/2-bones.gif/image_preview.png)
 Resources ](http://www.canine-epilepsy.com/Resources.html)
 
 at canine-epilepsy-guardian-angels.com  ![one bone
-rating](/img/bone.gif/image_preview.png)
+rating](/img/1-bone.gif)
 
 
 
 [Seizures and Your
 Dog](http://dogs.about.com/od/caninediseases/p/seizures.htm)
 at about.com  ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
 
 
 
 [Psychomotor
 Seizures](http://www.canine-epilepsy-guardian-angels.com/Psychomotor.htm)
 at canine-epilepsy-guardian-angels.com ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
 
 
 
@@ -210,15 +211,10 @@ rating](/img/2-bones.gif/image_preview.png)
 
 
 
-![](seizures-epilepsy/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](seizures-epilepsy/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](seizures-epilepsy/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](seizures-epilepsy/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 
-
-Current Research
-----------------
-
--   [Seizures/Epilepsy](seizures-epilepsy/seizures-epilepsy.html)

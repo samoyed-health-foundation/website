@@ -1,16 +1,17 @@
-Shyness
-=======
++++
+title = "Shyness"
++++
 
 
 
-*Note:* We do not currently have a health liaison for this disorder.  If
-you would like to volunteer, please contact [[Pam
-Barbe](mailto:president@samoyedhealthfoundation.org?subject=Questions%20about%20becoming%20a%20Health%20Information%20Liaison%20or%20Reviewer)]{.link-mailto}
-and she will be happy to answer any of your questions.  For a
-description of the position, please click on [disorder health
-information
-liaison.](../help/become-a-health-information-liaison.html "become a health information liaison...")
-
+> **Note:** We do not currently have a health liaison for this disorder.
+> If you would like to volunteer, please contact
+> [Pam Barbe](mailto:president@samoyedhealthfoundation.org?subject=Questions%20about%20becoming%20a%20Health%20Information%20Liaison%20or%20Reviewer)
+> and she will be happy to answer any of your questions.
+> For a description of the position, please click on
+> [disorder health information liaison](/become-a-health-information-liaison)
+> or
+> [health information reviewer](/become-a-health-information-reviewer).
 
 
 Note:  We thank Debbie Baird for collecting this information on
@@ -31,7 +32,7 @@ discomfort to panic resulting in a bite. No matter how vehement their
 behavior there are ways of not only managing it, but solving the
 problem. While it takes patience, sensitivity and understanding, most
 dogs can be helped Most experts agree that, in most cases, shyness is
-caused by a combination of the dog\'s genetic predisposition (see
+caused by a combination of the dog's genetic predisposition (see
 "**Current** **Research**") and a lack of socialization during the early
 months of life, with birth to approximately 17 weeks being a critical
 time for proper socialization.
@@ -40,12 +41,21 @@ time for proper socialization.
 
 
 
-[Show more detail](shyness5a76.html?showlong=1)
+<details>
+<summary>*Click here to show/hide more detail*</summary>
+
+The most common types of shyness in dogs are:
+
+1. Sensitivity To Sounds -The dog may be afraid of sudden loud noises such as thunderstorms, fireworks, a pot or pan being dropped in the kitchen, etc.  This type of shy dog may display behaviors such as dropping to a submissive position, dropping flat on the ground, salivating, darting and running, etc.
+
+2. Social Shyness -Social shyness is where the dog is fearful of unfamiliar people or certain kinds of people.  This dog may growl and hide from guests at your home or the dog may cower when he encounters another dog on his daily walk.  A dog like this can sometimes be described as taking a while to warm up, a one person dog or very protective.  Once this dog gets to know a certain person they are usually comfortable.  Some examples are dogs who are afraid of big or bearded men, uncomfortable around children, etc.  This type of dog may also be shy/fearful/nervous around other dogs.
+
+3. Context Fears -This type of dog is afraid of certain situations or places such as the veterinarian’s office, new places or car rides, where they may panic or shake.
+
+"Of temperament problems, aggression is the most frequent, representing 86% of Samoyeds reported with behavior problems.  The remaining 14% represented dogs with overt shyness.  Breeders should recognize that temperament problems have a strong genetic component."<sup>1</sup>
+</details>
 
 
-
-Would you like to **[add a Living with this
-Disorder](shyness/addliving_form.html)** journal entry?
 
 Signs and Symptoms
 ------------------
@@ -93,27 +103,25 @@ your dog to be shy, fearful or nervous include, but are not limited to:
 -   painful spine or neck
 -   eye problems/poor eye sight/vision problems
 -   an autoimmune disease -- numerous
-
-<!-- -->
-
--   thyroid problems ^2^
+-   thyroid problems <sup>2</sup>
 -   deafness
-
-<!-- -->
-
 -   chronic pain
 -   epilepsy
 -   rage syndrome
 -   ear infection
--   rabies ^3^
+-   rabies <sup>3</sup>
 
 **Inadequate (lack of) Socialization** -- (thought to be the number one
 cause) - If dogs are not properly socialized when they are puppies they
 can develop into shy/fearful or nervous dogs.  This can happen with any
-type of breeder, in shelters or pet shops.   **Learned behavior** If the
+type of breeder, in shelters or pet shops.
+
+**Learned behavior** If the
 puppies Dam (Mother) is a shy, fearful, timid or nervous dog she may
 also pass these traits along to her puppies through their imitation of
-her behavior.   **Abuse (rare) or Bad Experience** - especially during
+her behavior.
+
+**Abuse (rare) or Bad Experience** - especially during
 fear stages - Unfortunately, there are humans in this world who have
 found many ways to abuse animals.  Adults can be abusers, and children
 can inflict some of the cruelest abuse on puppies/dogs.  This is
@@ -123,7 +131,9 @@ treat animals and how to respect them.  Sometimes a dog may not have
 been abused by a human, but rather they were intimidated or had a bad
 experience with an older and larger dog. It is a common misconception
 that shyness typically results from abuse In fact, this is only rarely
-the case. **Genetics (Nature versus Nurture)** - Most research has shown
+the case.
+
+**Genetics (Nature versus Nurture)** - Most research has shown
 that genetics are responsible for about half of an animal's or human's
 personality with the other half being defined by environmental factors
 (most likely causes for shyness per experts).  This can be further shown
@@ -144,10 +154,10 @@ Diagnostic Tests
 ----------------
 
 -   Take your dog to your veterinarian to rule out any possible Medical
-    causes for your dog\'s shyness.  Please refer to --"Causes" within
+    causes for your dog's shyness.  Please refer to --"Causes" within
     this section.
 -   Learn as much as possible about other related issues that may be
-    contributing to your dog\'s shyness by speaking with your breeders,
+    contributing to your dog's shyness by speaking with your breeders,
     other breeders/owners, and other veterinarians.  Join email support
     groups/lists, local dog clubs, etc.
 -   Learn what motivates your dog, what distracts your dog, what are
@@ -167,7 +177,7 @@ shyness.
 -   It is very important that you do not give your dog attention for
     whining, barking or running off and hiding when strangers approach
     or when people come over to your home.  Ignore these behaviors;
-    don\'t try and force your dog into a situation it is not comfortable
+    don't try and force your dog into a situation it is not comfortable
     in.
 -   Always praise your dog when it is showing confidence and courage.
     If your dog is acting fearful or shy in certain situations it is
@@ -203,31 +213,27 @@ References
 
 1.  [Jerold S Bell, DVM, Tufts University School of Veterinary Medicine
     "Practical genetics for Samoyed Breeders and
-    Owners"](../aboutus/dr-bell-s-lecture.html "Dr. Bell's Genetics Lecture")-
+    Owners"](/files/dr_bell_genetics_lecture.pdf)-
     from 2002 Samoyed National Specialty talk. ![three bones
-    rating](/img/3-bones.gif){.image-inline width="37"
-    height="15"}
+    rating](/img/3-bones.gif)
 2.  [Thyroid Can Alter
     Behavior](http://www.canine-epilepsy-guardian-angels.com/bizarre_behavior.htm)
     by W. Jean Dodds, DVM ![two bones
-    rating](/img/2-bones.gif){.image-inline width="27"
-    height="15"}
+    rating](/img/2-bones.gif)
 3.  Mod Vet Pract. 1975 Apr;56(4):278-82. Problem behavior in dogs.
     Understanding the shy dog. Campbell WE.
     [Abstract](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=1124074&dopt=Abstract)
     ![two bones
-    rating](/img/2-bones.gif){.image-inline width="27"
-    height="15"}
+    rating](/img/2-bones.gif)
 
 
 
-![](shyness/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](shyness/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](shyness/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](shyness/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
 
-
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 Support Groups
 --------------
@@ -247,11 +253,10 @@ level.
 Suggested Links
 ---------------
 
-[Why doesn\'t my dog like
+[Why doesn't my dog like
 socializing](https://www.pedigree.com/dog-care/training/why-doesnt-my-dog-like-socializing)
 on the Pedigree.com website  ![two bones
-rating](/img/2-bones.gif){.image-inline width="27"
-height="15"}
+rating](/img/2-bones.gif)
 
 
 
@@ -262,8 +267,7 @@ Brief Description:  Training Tips
 [Dog Tip: Help for the Shy and Fearful
 Dog](http://www.paw-rescue.org/PAW/PETTIPS/DogTip_Shy.php) on the
 Partnership for Animal Welfare website ![two bones
-rating](/img/2-bones.gif){.image-inline width="27"
-height="15"}
+rating](/img/2-bones.gif)
 
 
 
@@ -279,8 +283,7 @@ Correction, Training
 
 [Shy Dogs FAQ](http://kimmurphy.net/shy-k9s-faq.html)
 from the Shy-k9s Mailing List ![two bones
-rating](/img/2-bones.gif){.image-inline width="27"
-height="15"}
+rating](/img/2-bones.gif)
 
 
 
@@ -291,8 +294,7 @@ Brief Description:  Frequently Asked Questions about the shy dog
 [Behavioral Genetics and Animal
 Science](http://www.grandin.com/references/genetics.html) by Temple
 Grandin and Mark J. Dessing  ![three bones
-rating](/img/3-bones.gif){.image-inline width="37"
-height="15"}
+rating](/img/3-bones.gif)
 
 
 
@@ -303,8 +305,7 @@ Brief Description:  Genetics and Behavior
 [Socialization Of Your Shy (or puppy mill)
 Dog](http://www.bichonfriseusa.com/articles/socializationshy.htm) on the
 Bichon Frise Information Station website ![two bones
-rating](/img/2-bones.gif){.image-inline width="27"
-height="15"}
+rating](/img/2-bones.gif)
 
 
 
@@ -315,16 +316,13 @@ Brief Description:  Socialization of the shy dog (Bichon)
 [Pet Information Sheet on Shy
 Dogs](http://www.mendocinohumane.org/html/shy.html) from the Mendocino
 Coast Humane Society website ![two bones
-rating](/img/2-bones.gif){.image-inline width="27"
-height="15"}
+rating](/img/2-bones.gif)
 
 Brief Description:  Pet Information Sheet
 
 
 
-**Books**
-
-:
+**Books:**
 
 The books listed below can be purchased at Amazon (www.amazon.com) or
 Dogwise (www.dogwise.com)
@@ -336,7 +334,7 @@ pet; by, Deborah Wood The Cautious Canine - by, Patricia B. McConnell
 
 
 
-  and, [CD\'s](http://216.119.127.16/store/)
+  and, [CD's](http://216.119.127.16/store/)
 
 with noises for behavior modification/training\...on the Legacy  Canine
 Behavior and Training website
@@ -349,22 +347,10 @@ Behavior and Training website
 
 
 
-![](shyness/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](shyness/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](shyness/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](shyness/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 
-
-Current Research
-----------------
-
--   [articles and abstracts on
-    shyness](shyness/articles-and-abstracts-on-shyness.html)
-
-\"Living with a Disorder\" Journal Entries
-------------------------------------------
-
--   [The Shy Show Puppy](shyness/the-shy-show-puppy.html)
--   [The Shy, Shelter Samoyed](shyness/the-shy-shelter-samoyed.html)

@@ -1,7 +1,10 @@
-Muscular Dystrophy (X-Linked)
-=============================
++++
+title = "Muscular Dystrophy (X-Linked)"
++++
 
-**Liaison:** Jan Young **Email:** <jannermd@yahoo.com>
+**Liaison:** Jan Young
+
+**Email:** <jannermd@yahoo.com>
 
 
 
@@ -15,10 +18,6 @@ only one is typically affected) they may be carriers, but show little or
 no signs of disease.
 
 
-
-Would you like to **[add a Living with this
-Disorder](x-linked-muscular-dystrophy/addliving_form.html)** journal
-entry?
 
 Signs and Symptoms
 ------------------
@@ -85,10 +84,10 @@ progressive myopathies, including XLMD.
 Treatment Guidelines
 --------------------
 
-Note: Treatment of animals should only be performed by a licensed
-veterinarian. Veterinarians should consult the current literature and
-current pharmacological formularies before initiating any treatment
-protocol.
+> **Note:** Treatment of animals should only be performed by a licensed
+> veterinarian. Veterinarians should consult the current literature and
+> current pharmacological formularies before initiating any treatment
+> protocol.
 
 There is no cure and no specific treatment for XLMD. Steroid treatment
 (prednisone) and/or growth factors may help slow the progression but
@@ -106,29 +105,28 @@ References
 [Dystrophy-like
 myopathies](http://www.merckvetmanual.com/mvm/musculoskeletal_system/congenital_and_inherited_anomalies_of_the_musculoskeletal_system/congenital_and_inherited_anomalies_of_the_musculoskeletal_system_in_multiple_species.html)
 in the Merck Veterinary Manual ![four bones
-rating](/img/4-bones.gif/image_preview.png)
+rating](/img/4-bones.gif)
 
 X-linked muscular dystrophies.  In:  The Merck Veterinary Manual 10th
 Edition. Ed Kahn, Cynthia M. Pub Merck and Co, Inc. pp 950, 1128.
 ![four bones
-rating](/img/4-bones.gif/image_preview.png)
+rating](/img/4-bones.gif)
 
 
 
 [Canine X-linked Muscular
 Dystrophy](http://www.gopetsamerica.com/dog-health/canine_x_linked_muscular_dystrophy.aspx)
 at www.gopetsamerica.com    ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
 
 
 
-![](x-linked-muscular-dystrophy/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](x-linked-muscular-dystrophy/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](x-linked-muscular-dystrophy/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](x-linked-muscular-dystrophy/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
 
-
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 Support Groups
 --------------
@@ -143,13 +141,13 @@ Suggested Links
 [X-linked recessive
 inheritance](http://en.wikipedia.org/wiki/x-linked_recessive_inheritance)
 - Wikipedia.     ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
 
 [Valentine BA et al 1988.  Canine X-linked muscular dystrophy.  An
 animal model of Duchenne muscular dystrophy:  clinical
 studies](http://www.ncbi.nlm.nih.gov/pubmed/3225630).
 Journal of the Neurological Sciences, 88:69-81.     ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
 
 
 
@@ -157,28 +155,22 @@ rating](/img/2-bones.gif/image_preview.png)
 Dystrophy](http://www.embracepetinsurance.com/Health/muscular-dystrophy.aspx)
 by P. Khuly VMD from the Pet Health Center at
 www.embracepetinsurance.com     ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
 
   [G. Diane Shelton.    Muscular Dystrophies.  p. 446 in:  Veterinary
 pediatrics:  dogs and cats from birth to six
 months.](http://books.google.com/books?id=tlAm5etmJU8C&pg=PA446&lpg=PA446&dq=x+linked+muscular+dystrophy+samoyed&source=bl&ots=zY6Ac2qFuO&sig=_Px7Eq-Omun4UdCJ3PXYK-6lTLE&hl=en&ei=J2AiTqz2NISWsgOchNxf&sa=X&oi=book_result&ct=result&resnum=7&ved=0CEUQ6AEwBg%20-%20v=onepage&q=x%20linked%20muscular%20dystrophy%20samoyed&f=false)
 Elsevier Health Sciences.  Ed:  JD Hoskins.  2001    ![four bones
-rating](/img/4-bones.gif/image_preview.png)
+rating](/img/4-bones.gif)
 
 
 
 
 
-![](x-linked-muscular-dystrophy/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](x-linked-muscular-dystrophy/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](x-linked-muscular-dystrophy/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](x-linked-muscular-dystrophy/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 
-
-Current Research
-----------------
-
--   [X-Linked Muscular
-    Dystrophy](x-linked-muscular-dystrophy/x-linked-muscular-dystrophy.html)

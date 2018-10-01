@@ -1,11 +1,12 @@
-Corneal Dystrophy
-=================
++++
+title = "Corneal Dystrophy"
++++
 
 
 
 Corneal dystrophy is an opacity in the cornea (clear covering of the
 eye).  In Samoyeds it is typically in both eyes with lipid deposits in
-the \"stromal\" layer of the cornea. It is suspected to be an inherited
+the "stromal" layer of the cornea. It is suspected to be an inherited
 disorder.  Corneal dystrophies may also occur in the epithelial or
 endothelial layers of the cornea.
 
@@ -18,11 +19,6 @@ disorder, corneal degeneration. This also is an opacity in the cornea,
 but is not inherited, may only be in one eye, and may be accompanied by
 inflammation. The opacity is caused by deposits of lipid, cholesterol or
 calcium.
-
-
-
-Would you like to **[add a Living with this
-Disorder](corneal-dystrophy/addliving_form.html)** journal entry?
 
 Signs and Symptoms
 ------------------
@@ -64,10 +60,10 @@ and look bright green.
 Treatment Guidelines
 --------------------
 
-Note: Treatment of animals should only be performed by a licensed
-veterinarian. Veterinarians should consult the current literature and
-current pharmacological formularies before initiating any treatment
-protocol.
+> **Note:** Treatment of animals should only be performed by a licensed
+> veterinarian. Veterinarians should consult the current literature and
+> current pharmacological formularies before initiating any treatment
+> protocol.
 
 Most stromal dystrophies, the type typically seen in Samoyeds, do not
 cause discomfort or interfere with vision; treatment is usually not
@@ -107,35 +103,24 @@ References
 ----------
 
 Fundamentals of Veterinary Ophthalmology 3rd edition, 2001, by Douglas
-H. Slatter pp 296-299.   ![four bones
-rating](/img/4-bones.gif/image_preview.png)
+H. Slatter pp 296-299.
+![four bones rating](/img/4-bones.gif)
+
+
+[Corneal Dystrophy, University of Prince Edward Island Canine Inherited Disorders Database](http://discoveryspace.upei.ca/cidd/disorder/corneal-dystrophy)
+![three bones rating](/img/3-bones.gif)
+
+
+[Degeneration of the Cornea in Dogs PetMD](http://www.petmd.com/dog/conditions/eyes/c_multi_corneal_degenerations_infiltrations)
+![two bones rating](/img/2-bones.gif)
 
 
 
-[  Corneal Dystrophy, University of Prince Edward Island Canine
-Inherited Disorders
-Database](http://discoveryspace.upei.ca/cidd/disorder/corneal-dystrophy)
-![three bones
-rating](/img/3-bones.gif/image_preview.png)
-
-
-
-[Degeneration of the Cornea in Dogs
-PetMD](http://www.petmd.com/dog/conditions/eyes/c_multi_corneal_degenerations_infiltrations)
-![two bones
-rating](/img/2-bones.gif/image_preview.png)
-
-
-
-
-
-![](corneal-dystrophy/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](corneal-dystrophy/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](corneal-dystrophy/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](corneal-dystrophy/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
-
-
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 Support Groups
 --------------
@@ -148,30 +133,22 @@ Suggested Links
 [Sapienza, John S. Corneal Diseases of Dogs and Cats. WSAVA 2002
 Congress.](http://www.vin.com/proceedings/Proceedings.plx?CID=WSAVA2002&PID=2647)
 ![two bones
-rating](/img/2-bones.gif/image_preview.png)
-
-
-
+rating](/img/2-bones.gif)
 
 
 [OFA Eye Certification Registry
 Overview](http://www.offa.org/eye_overview.html)
 ![three bones
-rating](/img/3-bones.gif/image_preview.png)
+rating](/img/3-bones.gif)
 
 
 
 
 
-![](corneal-dystrophy/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](corneal-dystrophy/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](corneal-dystrophy/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](corneal-dystrophy/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
 
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-
-\"Living with a Disorder\" Journal Entries
-------------------------------------------
-
--   [Corneal Dystrophy](corneal-dystrophy/corneal-dystrophy.html)

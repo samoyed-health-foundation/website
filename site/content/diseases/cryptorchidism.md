@@ -1,12 +1,13 @@
-Cryptorchidism
-==============
++++
+title = "Cryptorchidism"
++++
 
-**Liaison:** Hazel Fitzgibbon **Email:** <Smiliesam@hotmail.com>
+**Liaison:** Hazel Fitzgibbon
 
-
+**Email:** <Smiliesam@hotmail.com>
 
 At birth, the testicles of a male puppy are still within its abdomen. As
-the animal develops, the testicles slowly \"descend\" into the scrotum.
+the animal develops, the testicles slowly "descend" into the scrotum.
 The scrotum provides a cooler environment for sperm development, which
 does not occur correctly at the higher temperatures found within the
 mammalian body.
@@ -18,10 +19,6 @@ abdominal region.  A bilateral cryptorchid has no visible testicles;
 both are retained. Unilateral cryptorchids are often called monorchids,
 mistakenly. A monorchid literally has only one testicle.
 
-
-
-Would you like to **[add a Living with this
-Disorder](cryptorchidism/addliving_form.html)** journal entry?
 
 Signs and Symptoms
 ------------------
@@ -41,9 +38,9 @@ Samoyeds.
 Risk Factors
 ------------
 
--   Related dogs with cryptorchidism
--   Sires and dams who have produced cryptorchids
--   Dams from litters where a male sibling had cryptorchidism
+- Related dogs with cryptorchidism
+- Sires and dams who have produced cryptorchids
+- Dams from litters where a male sibling had cryptorchidism
 
 Diagnostic Tests
 ----------------
@@ -62,10 +59,10 @@ months, the path by which they descend is normally closed off.
 Treatment Guidelines
 --------------------
 
-Note: Treatment of animals should only be performed by a licensed
-veterinarian. Veterinarians should consult the current literature and
-current pharmacological formularies before initiating any treatment
-protocol.
+> **Note:** Treatment of animals should only be performed by a licensed
+> veterinarian. Veterinarians should consult the current literature and
+> current pharmacological formularies before initiating any treatment
+> protocol.
 
 Hormone injections have been reported to bring down a testicle, but this
 has not been proven in well-controlled research\*.  The general
@@ -80,10 +77,10 @@ the kidney in the abdomen to the muscle near the groin.
 
 ------------------------------------------------------------------------
 
-\* Note from the AKC secretary:  \"If it was found that a dog had a
+\* *Note from the AKC secretary:  "If it was found that a dog had a
 testicle lowered through a chemical treatment, the dog would be
 disqualified, with all awards received after the treatment rescinded,and
-the owner would be subject to disciplinary action.\"
+the owner would be subject to disciplinary action."*
 
 Management
 ----------
@@ -109,25 +106,18 @@ being castrated but these seem to be the exception rather than the rule.
 References
 ----------
 
-1.  
-
-    Memon M and Tibary A.  2001.  Canine and Feline Cryptorchidism.  In
-    Recent Advances in Small Animal Reproduction.  International
-    Veterinary Information Service.
-    [[http://www.ivis.org/advances/Concannon/memon/ivis.pdf]{.underline}](http://www.ivis.org/advances/Concannon/memon/ivis.pdf)
-    !\[3 bones\](/img/3-bones.gif)
-
-    
+Memon M and Tibary A.  2001.  Canine and Feline Cryptorchidism.  In
+Recent Advances in Small Animal Reproduction.  International
+Veterinary Information Service.
+[http://www.ivis.org/advances/Concannon/memon/ivis.pdf](http://www.ivis.org/advances/Concannon/memon/ivis.pdf)
+![3 bones](/img/3-bones.gif)
 
 
-
-![](cryptorchidism/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](cryptorchidism/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](cryptorchidism/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](cryptorchidism/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
-
-
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 Support Groups
 --------------
@@ -140,36 +130,17 @@ Suggested Links
 ---------------
 
 <http://cidd.discoveryspace.ca/disorder/cryptorchidism-retained-testicle.html>
-
-  [!\[3 bones\](/img/3-bones.gif)]{.underline}
-
-
-
-
-
+![3 bones](/img/3-bones.gif)
 
 
 <http://siriusdog.com/cyptorchidism-congenital-testicle-dog.htm>
-
-  (Wonderful description by Fred Lanting.) !\[2
-bones\](/img/2-bones.gif)
-
+(Wonderful description by Fred Lanting.)
+![2 bones](/img/2-bones.gif)
 
 
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-
-
-
-![](cryptorchidism/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](cryptorchidism/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](cryptorchidism/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](cryptorchidism/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
-
-
-
-Current Research
-----------------
-
--   [Cryptorchidism
-    Research](cryptorchidism/cryptorchidism-research.html)

@@ -1,7 +1,10 @@
-Cataracts - Posterior Lenticonus
-================================
++++
+title = "Cataracts - Posterior Lenticonus"
++++
 
-**Liaison:** Anngharaad \"Annie\" Reid **Email:** <annie.reid@cox.net>
+**Liaison:** Anngharaad "Annie" Reid
+
+**Email:** <annie.reid@cox.net>
 
 
 
@@ -11,21 +14,38 @@ affects both male and female Samoyeds normally between 1 and 3 years of
 age.
 
 
+<details>
+<summary>*Click here to show/hide more detail*</summary>
+**What is Posterior Lenticonus?** Posterior Lenticonus is an inherited, congenital lens abnormality which may result in cataract formation in **both** eyes. This type of “cataract” affects both male and female Samoyeds normally between 1 and 3 years of age.
 
+**What is a Cataract?** A cataract is a clouding, or opacity, of the normally clear lens of the eye. Cataracts are classified based on:
 
+- Age of onset (e.g., juvenile)
+- Stage of maturation:
+  - Incipient (<15% of lens involved)
+  - Immature (still see some tapetal reflection through lens)
+  - Mature (obscure tapetal reflection)
+  - Intumescent (imbibed water and is swollen)
+  - Hypermature (liquefaction of lens cortex occurs)
+  - Morgagnian (complete liquefaction of lens cortex, leaking of lens protein leaving nucleus ventrally within a shrunken capsule)
+- Location within the lens (e.g., anterior/posterior cortical areas of the lens)
+- Etiology (e.g, hereditary)
+- Associated with other ocular abnormalities (e.g., Posterior lenticonus)
+- Retinal Disease (N/A to this discussion)
+- Senile (N/A to this discussion)
+- Trauma (N/A to this discussion)
+- Nutritional (N/A to this discussion)
+- Electric shock (N/A to this discussion)
+- Radiation (N/A to this discussion)
 
-[Show more detail](cataracts-posterior-lenticonus5a76.html?showlong=1)
+**The Anatomy of the Lens:** The lens is a transparent, bioconvex structure that is enclosed within a clear sac (the “lens capsule”). The lens capsule consists of anterior and posterior parts that meet in the middle. The lens epithelium is located beneath the anterior lens capsule. Lens cortex apposes the lens epithelium anteriorly (“anterior cortex”) and the lens capsule posteriorly (“posterior cortex”). The nucleus represents the largest component of the lens and is centrally located. Lens sutures represent junctions between the tips of the lens fibers that make up the lens cortex.
+</details>
 
-
-
-Would you like to **[add a Living with this
-Disorder](cataracts-posterior-lenticonus/addliving_form.html)** journal
-entry?
 
 Signs and Symptoms
 ------------------
 
-[]{#OLE_LINK1}Decreased/impaired vision. Also, the pupils, which
+Decreased/impaired vision. Also, the pupils, which
 normally appear black, may undergo noticeable color changes and appear
 to be blue or white.
 
@@ -44,8 +64,7 @@ Causes
 This lens abnormality is hereditary.
 
 **Pattern of Inheritance.** In the Michigan State University research
-study ([AKC Grant No.
-1637](../research/completed-studies.html "completed studies..."){.internal-link})
+study ([AKC Grant No. 1637](/research/current-studies/akcchf-grant-01637))
 the data points to an autosomal recessive pattern of inheritance,
 indicating that affected dogs must receive a gene from each parent.
 
@@ -53,10 +72,10 @@ Dr. Vilma Yuzbasiyan-Gurkan, Michigan State University) has stated her
 belief that the pattern of inheritance is  **autosomal** (non
 sex-linked) **recessive**.
 
-*(Please note:  For purposes of the following discussion, the term
-\"dog\" refers to both males and females.)*
+*(Please note: For purposes of the following discussion, the term
+"dog" refers to both males and females.)*
 
-**Genetics in General: ** The information from which all life develops
+**Genetics in General:** The information from which all life develops
 is in the form of DNA (deoxyribonucleic acid). A gene is a portion of a
 DNA molecule, carried on a chromosome. Chromosomes occur in pairs (a
 pair from each parent).
@@ -76,7 +95,7 @@ a carrier for that trait -- clinically unaffected but able to pass the
 harmful allele to the offspring. The homozygote will be clinically
 affected.*
 
-**Autosomal Recessive: ** Autosomal recessive is the most common mode of
+**Autosomal Recessive:** Autosomal recessive is the most common mode of
 inheritance for genetic conditions in dogs. To be affected, the animal
 must inherit 2 copies of the gene, 1 from each parent. Dogs that are
 genotypically normal or dogs that are carriers for a trait will
@@ -86,7 +105,7 @@ normal animals, the offspring will be unaffected but some will remain
 carriers. If 2 carriers are mated, approximately 25% will be affected,
 50% will be carriers and 25% will be normal.
 
-![table](cataracts-posterior-lenticonus/cataracts%20table.jpg/image_large.html)
+![cataracts_table](/img/cataracts_table.jpg)
 
 **AA** = normal
 
@@ -124,41 +143,28 @@ Ophthalmic examination
 Treatment Guidelines
 --------------------
 
-Note: Treatment of animals should only be performed by a licensed
-veterinarian. Veterinarians should consult the current literature and
-current pharmacological formularies before initiating any treatment
-protocol.
+> **Note:** Treatment of animals should only be performed by a licensed
+> veterinarian. Veterinarians should consult the current literature and
+> current pharmacological formularies before initiating any treatment
+> protocol.
 
-**Treatment: ** The only treatment if cataract development causes vision
+**Treatment:** The only treatment if cataract development causes vision
 loss is surgical removal of the lenses. Eye ointments, pills, special
 diets, vitamins or eye exercises will not dissolve or reduce a cataract.
 
-**Candidate Selection: ** Any major health problems and ophthalmic
+**Candidate Selection:** Any major health problems and ophthalmic
 abnormalities should be addressed before cataract surgery is considered.
 
--   ::: {style="text-align: justify;"}
-    A complete physical examination will be performed by your
-    veterinarian, which may include the following preoperative tests:
-    :::
+- A complete physical examination will be performed by your veterinarian, which may include the following preoperative tests:
+  - **Blood and urine analysis**;
+  - **Chest X-rays**; and
+  - **EKG**
 
-     **Blood and urine analysis**;
-
-     **Chest X-rays**; and
-
-     **EKG**
-
--   ::: {style="text-align: justify;"}
-    A complete ophthalmic examination should always be performed:
-    :::
-
-     **Schirmer tear test** (to test for tear production);
-
-     **Tonometry** (to check for glaucoma);
-
-     **Electroretinography** (to check retinal function); and
-
-     **Ocular ultrasound** (to detect any evidence of retinal
-detachment).
+- A complete ophthalmic examination should always be performed:
+  - **Schirmer tear test** (to test for tear production);
+  - **Tonometry** (to check for glaucoma);
+  - **Electroretinography** (to check retinal function); and
+  - **Ocular ultrasound** (to detect any evidence of retinal detachment).
 
 Depending upon the state of cataract maturation, the experienced
 ophthalmologist may still be able to view the fundus; however, an
@@ -214,12 +220,12 @@ the lens capsule. Sometimes a small hole in the posterior lens capsule
 is made when cataract surgery is performed, so that the posterior
 capsule cannot become cloudy.
 
-**Preoperative Care: ** It is recommended that you train your dog to
+**Preoperative Care:** It is recommended that you train your dog to
 wear an E-collar and become used to confinement. Anti-inflammatory and
 antibiotic drops are used daily for several weeks before surgery. A few
 days before surgery, the drops may be increased.
 
-**Postoperative Care**:  Exercise and barking must be restricted for at
+**Postoperative Care:** Exercise and barking must be restricted for at
 least 3-4 weeks after surgery (excessive activity and barking increase
 the risk for postoperative retinal detachment and suture breaks). Oral
 medications (antibiotics and anti-inflammatory medications) are
@@ -236,14 +242,14 @@ return for periodic re-examinations or if your dog will not accept
 limited activity or permit you to apply the eye medications, then
 surgery is not recommended.
 
-**Success Rates: ** 85 to 90% of patients who undergo cataract surgery
+**Success Rates:** 85 to 90% of patients who undergo cataract surgery
 regain useful vision. The success rates are better when cataracts are
 removed in non-inflamed eyes or in eyes in the early stages of cataract
 formation and if you follow all the pre-and postoperative medication
 instructions and treatments and return for postoperative
 re-examinations.
 
-**Cost**:  The cost is expensive, varies by hospital and may not be
+**Cost**: The cost is expensive, varies by hospital and may not be
 covered by insurance.
 
 Management
@@ -257,60 +263,32 @@ References
 ----------
 
 <http://www.eyevet.com/cataract_surgery1.htm>  ![two bones
-rating](/img/2-bones.gif/image_large.png)
+rating](/img/2-bones.gif)
 
 [Glaucoma and Cataracts - Can We Eliminate
 Them](http://www.akcchf.org/educational-resources/library/articles/articles/Glaucoma-and-Cataracts-Can-We-Eliminate-Them-07-1997.pdf)?
 by Kirk N. Gelatt, VMD, University of Florida  ![two bones
-rating](/img/2-bones.gif/image_large.png)
+rating](/img/2-bones.gif)
+
 [Diseases of the Lens and Cataract
-Surgery](http://www.vin.com/VINDBPub/SearchPB/Proceedings/PR05000/PR00517.htm "external-link")
+Surgery](http://www.vin.com/VINDBPub/SearchPB/Proceedings/PR05000/PR00517.htm)
 Mark P. Nasisse, DVM, Diplomate, ACVO  ![three bones
-rating](/img/3-bones.gif/image_large.png)
+rating](/img/3-bones.gif)
 
-------------------------------------------------------------------------
-
-Conversations with Dr. Vilma Yuzbasiyan-Gurkan at Michigan State
-University
+Conversations with Dr. Vilma Yuzbasiyan-Gurkan at Michigan State University
 
 
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-![](cataracts-posterior-lenticonus/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](cataracts-posterior-lenticonus/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](cataracts-posterior-lenticonus/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](cataracts-posterior-lenticonus/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
-
-
-
-Support Groups
---------------
 
 Suggested Links
 ---------------
 
-[[]{.underline}](http://www.eyevet.com/cataract_surgery1.htm)
+<http://www.eyevet.com/cataract_surgery1.htm>
 
 See references above.
 
-
-
-![](cataracts-posterior-lenticonus/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](cataracts-posterior-lenticonus/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](cataracts-posterior-lenticonus/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](cataracts-posterior-lenticonus/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
-
-
-
-Current Research
-----------------
-
--   [Cataracts
-    Research](cataracts-posterior-lenticonus/cataracts-research.html)
-
-\"Living with a Disorder\" Journal Entries
-------------------------------------------
-
--   [A Sight for Sore
-    Eyes](cataracts-posterior-lenticonus/a-sight-for-sore-eyes.html)

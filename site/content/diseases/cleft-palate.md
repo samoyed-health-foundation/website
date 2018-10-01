@@ -1,7 +1,10 @@
-Cleft Palate
-============
++++
+title = "Cleft Palate"
++++
 
-**Liaison:** Hazel Fitzgibbon **Email:** <Smiliesam@hotmail.com>
+**Liaison:** Hazel Fitzgibbon
+
+**Email:** <Smiliesam@hotmail.com>
 
 
 
@@ -12,12 +15,6 @@ mouth that communicates with the nasal cavity. The opening can be in the
 forward part of the mouth (hard palate) or at the very back (soft
 palate).
 
-
-
-
-
-Would you like to **[add a Living with this
-Disorder](cleft-palate/addliving_form.html)** journal entry?
 
 Signs and Symptoms
 ------------------
@@ -83,10 +80,10 @@ one.
 Treatment Guidelines
 --------------------
 
-Note: Treatment of animals should only be performed by a licensed
-veterinarian. Veterinarians should consult the current literature and
-current pharmacological formularies before initiating any treatment
-protocol.
+> **Note:** Treatment of animals should only be performed by a licensed
+> veterinarian. Veterinarians should consult the current literature and
+> current pharmacological formularies before initiating any treatment
+> protocol.
 
 In the interests of the puppy, the owner should consider euthanization.
 Although euthanizing costs money, it is unfair to let such puppies
@@ -115,36 +112,33 @@ such puppies on.
 References
 ----------
 
-[]{.underline} Photos and Descriptions of [Cleft
+Photos and Descriptions of [Cleft
 Palate](https://www.acvs.org/small-animal/cleft-palate)
-on the American College of Veterinary Surgeons website   !\[3
-bones\](/img/3-bones.gif)
+on the American College of Veterinary Surgeons website
+![3 bones](/img/3-bones.gif)
 
 
 
 Elwood JM, Colquhoun TA. [Observations on the prevention of cleft palate
 in dogs by folic acid and potential relevance to
-humans](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=16032001&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum "external-link").
-N Z Vet J. 1997 Dec;45(6):254-6.  !\[3 bones\](/img/3-bones.gif)
+humans](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=16032001&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum).
+N Z Vet J. 1997 Dec;45(6):254-6.
+![3 bones](/img/3-bones.gif)
 
 A description with anatomical terms:
-[[http://www.provet.co.uk/health/diseases/cleftpalate.htm]{.underline}](http://www.provet.co.uk/health/diseases/cleftpalate.htm)
-
-
-
-!\[2 bones\](/img/2-bones.gif)
+[http://www.provet.co.uk/health/diseases/cleftpalate.htm](http://www.provet.co.uk/health/diseases/cleftpalate.htm)
+![2 bones](/img/2-bones.gif)
 
 
 
 
 
-![](cleft-palate/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](cleft-palate/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](cleft-palate/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](cleft-palate/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
 
-
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 Support Groups
 --------------
@@ -157,38 +151,17 @@ Suggested Links
 ---------------
 
 Extensive article on this topic:
-[[http://www.lowchensaustralia.com/health/cleftpalate.htm]{.underline}](http://www.lowchensaustralia.com/health/cleftpalate.htm)  ![one
-bone
-rating](/img/bone.gif/image_large.png){.image-inline
-width="16" height="15"}
+[http://www.lowchensaustralia.com/health/cleftpalate.htm](http://www.lowchensaustralia.com/health/cleftpalate.htm)
+![one bone rating](/img/1-bone.gif)
 
 Although corrective surgery is not generally recommended by the
 veterinarian community, this site gives you some graphics and an idea on
 costs:
-[[http://www.dogbreedinfo.com/cleft.htm]{.underline}](http://www.dogbreedinfo.com/cleft.htm)
- ![one bone
-rating](/img/bone.gif/image_large.png){.image-inline
-width="16" height="15"}
+[http://www.dogbreedinfo.com/cleft.htm](http://www.dogbreedinfo.com/cleft.htm)
+![one bone rating](/img/1-bone.gif)
 
-
-
-
-
-![](cleft-palate/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](cleft-palate/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](cleft-palate/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](cleft-palate/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
-
-
-
-Current Research
-----------------
-
--   [Research Topics](cleft-palate/research-topics.html)
-
-\"Living with a Disorder\" Journal Entries
-------------------------------------------
-
--   [Litters with Cleft
-    Palates](cleft-palate/litters-with-cleft-palates.html)
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)

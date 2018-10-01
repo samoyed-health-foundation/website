@@ -1,20 +1,19 @@
-Subaortic Stenosis
-==================
++++
+title = "Subaortic Stenosis"
++++
 
 
 
-*Note:* We do not currently have a health liaison for this disorder.  If
-you would like to volunteer, please contact [[Pam
-Barbe](mailto:president@samoyedhealthfoundation.org?subject=Questions%20about%20becoming%20a%20Health%20Information%20Liaison%20or%20Reviewer)]{.link-mailto}
-and she will be happy to answer any of your questions.  For a
-description of the position, please click on [disorder health
-information
-liaison.](../help/become-a-health-information-liaison.html "become a health information liaison...")
+> **Note:** We do not currently have a health liaison for this disorder.
+> If you would like to volunteer, please contact
+> [Pam Barbe](mailto:president@samoyedhealthfoundation.org?subject=Questions%20about%20becoming%20a%20Health%20Information%20Liaison%20or%20Reviewer)
+> and she will be happy to answer any of your questions.
+> For a description of the position, please click on
+> [disorder health information liaison](/become-a-health-information-liaison)
+> or
+> [health information reviewer](/become-a-health-information-reviewer).
 
- Thank you to Joy Ritter for putting together this article for SCARF.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
+Thank you to Joy Ritter for putting together this article for SCARF.
 
 
 The left ventricle (chamber) of the heart pumps oxygenated blood through
@@ -31,8 +30,6 @@ anatomy](http://www.vetmed.wsu.edu/ClientED/anatomy/cardiovascular.aspx)
 
 
 
-Would you like to **[add a Living with this
-Disorder](subaortic-stenosis/addliving_form.html)** journal entry?
 
 Signs and Symptoms
 ------------------
@@ -93,10 +90,10 @@ the late onset of some of the murmurs associated with the SAS.
 Treatment Guidelines
 --------------------
 
-Note: Treatment of animals should only be performed by a licensed
-veterinarian. Veterinarians should consult the current literature and
-current pharmacological formularies before initiating any treatment
-protocol.
+> **Note:** Treatment of animals should only be performed by a licensed
+> veterinarian. Veterinarians should consult the current literature and
+> current pharmacological formularies before initiating any treatment
+> protocol.
 
 Prognosis and long term management depend on the severity of the
 stenosis and how much change has occurred in the heart.  With mild SAS,
@@ -117,7 +114,7 @@ success.
 Management
 ----------
 
-These tips are from an owner\'s perspective:
+These tips are from an owner's perspective:
 
 Basically, special care should be given to preventing infections; even a
 mild skin infection can be very serious with any dog with a heart
@@ -140,69 +137,65 @@ References
 Aortic Stenosis -- Canine Inherited Disorders Database
 
 <http://cidd.discoveryspace.ca/disorder/aortic-stenosis-0.html>
-
-  !\[3 bones\](/img/3-bones.gif)
+![3 bones](/img/3-bones.gif)
 
 Bussardori, C. 1998. Breed related echocardiographic prognostic
 indicators in pulmonic and subaortic stenosis. ACVIM-Proceedings of the
-16th Annual Veterinary Medical Forum: 140-142.  !\[2
-bones\](/img/2-bones.gif)
+16th Annual Veterinary Medical Forum: 140-142.  ![2
+bones](/img/2-bones.gif)
 
 Bonagura, J.D. and Darke, P.G.G. 1995.  Congenital heart disease. *In*
 S.J. Ettinger and E.C. Feldman (eds.)Textbook of Veterinary Internal
 Medicine, p. 892-943. W.B. Saunders, Toronto.  ![four bones
-rating](/img/4-bones.gif/image_large.png){.image-inline
-width="46" height="15"}
+rating](/img/4-bones.gif)
 
 Patterson, D.F.  1996. The genetics of canine congenital heart disease.
 ACVIM-Proceedings of the 14th Annual Veterinary Medical Forum:
-225-226.   !\[2 bones\](/img/2-bones.gif) *Includes information for
+225-226.   ![2 bones](/img/2-bones.gif) *Includes information for
 breeders and veterinarians on screening and genetic counseling for
-congenital heart defects * ****
+congenital heart defects*
 
 
 
-![](subaortic-stenosis/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](subaortic-stenosis/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](subaortic-stenosis/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](subaortic-stenosis/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
 
-
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 Support Groups
 --------------
 
-[**[dogheart]{.underline}**](https://groups.yahoo.com/neo/groups/dogheart/info)
-yahoo group- \"This list is for pet owners whose canine companions
+**[dogheart](https://groups.yahoo.com/neo/groups/dogheart/info)**
+yahoo group- "This list is for pet owners whose canine companions
 suffer from congestive heart failure, cardiomyopathy or other cardiac or
-cardiopulmonary disease. It\'s a place to share experiences, ask for
+cardiopulmonary disease. It's a place to share experiences, ask for
 advice from other owners, grieve and enjoy our companions in spite of
 their health problems. The list owner is NOT a veterinarian, just a
 guardian of a sick dog who would like to connect with others in the same
-situation.\"
+situation."
 
 Suggested Links
 ---------------
 
 PDF file of the [Cardiac
-Lecture](files/Heart%20Disease%20in%20the%20Samoyed.html "2006 Cardiac Lecture"){.internal-link}
+Lecture](files/Heart%20Disease%20in%20the%20Samoyed.html "2006 Cardiac Lecture")
 given by Allison Heaney, DVM, Diplomate ACVIM (Cardiology) at the 2006
-SCA National Specialty held in Post Falls, ID.  !\[3
-bones\](/img/3-bones.gif)
+SCA National Specialty held in Post Falls, ID.  ![3
+bones](/img/3-bones.gif)
 
 <http://www.offa.org/cardiac_about.html>[ ](http://www.offa.org/cardiac_about.html)
-!\[3 bones\](/img/3-bones.gif)
+![3 bones](/img/3-bones.gif)
 
 <http://devinefarm.net/health/ofaheart.htm>  ![one bone
-rating](/img/bone.gif/image_large.png){.image-inline
-width="16" height="15"}
+rating](/img/1-bone.gif)
 
-<http://www.mirage-samoyeds.com/heart.htm>  !\[2
-bones\](/img/2-bones.gif)
+<http://www.mirage-samoyeds.com/heart.htm>  ![2
+bones](/img/2-bones.gif)
 
-<http://www.mirage-samoyeds.com/heartofa.htm>  !\[2
-bones\](/img/2-bones.gif)
+<http://www.mirage-samoyeds.com/heartofa.htm>  ![2
+bones](/img/2-bones.gif)
 
 [Search for an ACVIM
 Cardiologist](http://find.vetspecialists.com/) in your
@@ -210,21 +203,10 @@ area
 
 
 
-![](subaortic-stenosis/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](subaortic-stenosis/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](subaortic-stenosis/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](subaortic-stenosis/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 
-
-Current Research
-----------------
-
--   [Current Canine Heart
-    Research](subaortic-stenosis/current-canine-heart-research.html)
-
-\"Living with a Disorder\" Journal Entries
-------------------------------------------
-
--   [A Change of Heart](subaortic-stenosis/a-change-of-heart.html)

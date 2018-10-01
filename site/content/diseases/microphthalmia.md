@@ -1,7 +1,10 @@
-Microphthalmia
-==============
++++
+title = "Microphthalmia"
++++
 
-**Liaison:** Hazel Fitzgibbon **Email:** <Smiliesam@hotmail.com>
+**Liaison:** Hazel Fitzgibbon
+
+**Email:** <Smiliesam@hotmail.com>
 
 
 
@@ -25,8 +28,6 @@ partial to total blindness.
 
 
 
-Would you like to **[add a Living with this
-Disorder](microphthalmia/addliving_form.html)** journal entry?
 
 Signs and Symptoms
 ------------------
@@ -63,7 +64,7 @@ Diagnostic Tests
 
 It is visible to the naked eye. The third eyelid (the white bit in the
 corner) often looks larger than normal.  Examination by a veterinary
-ophthalmologist, who will also examine your dog\'s eyes thoroughly for
+ophthalmologist, who will also examine your dog's eyes thoroughly for
 other abnormalities, will give a definitive diagnosis.  The examination
 is non-invasive, using light and magnifying lenses to examine and look
 inside the eye.
@@ -71,10 +72,10 @@ inside the eye.
 Treatment Guidelines
 --------------------
 
-Note: Treatment of animals should only be performed by a licensed
-veterinarian. Veterinarians should consult the current literature and
-current pharmacological formularies before initiating any treatment
-protocol.
+> **Note:** Treatment of animals should only be performed by a licensed
+> veterinarian. Veterinarians should consult the current literature and
+> current pharmacological formularies before initiating any treatment
+> protocol.
 
 The basic defect can't be treated.  Associated complications, such as
 glaucoma, are treated as required.
@@ -109,36 +110,30 @@ References
 ----------
 
 Canine Inherited Disorders Database gives an overview on
-
 <http://cidd.discoveryspace.ca/disorder/microphthalmia-ocular-dysgenesis.html>
-
-!\[3 bones\](/img/3-bones.gif)
+![3 bones](/img/3-bones.gif)
 
 
 
 National Center for Biotechnology Information description of MITF gene:
-
- <http://omim.org/entry/156845>  !\[3 bones\](/img/3-bones.gif)
+ <http://omim.org/entry/156845>  ![3 bones](/img/3-bones.gif)
 
 
 
 Rothschild MF, Van Cleave PS, Glenn KL, Carlstrom LP, Ellinwood NM.
   Association of MITF with white spotting in Beagle crosses and
 Newfoundland dogs.   Anim Genet. 2006 Dec;37(6):606-7.
-
 <http://onlinelibrary.wiley.com/wol1/doi/10.1111/j.1365-2052.2006.01534.x/full>
-
-!\[2 bones\](/img/2-bones.gif)
-
+![2 bones](/img/2-bones.gif)
 
 
-![](microphthalmia/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](microphthalmia/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](microphthalmia/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](microphthalmia/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
 
 
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 Support Groups
 --------------
@@ -156,8 +151,8 @@ Suggested Links
 There are many of web sites for other breeds, but none specifically for
 Samoyeds. A number of these sites associate microphthalmia with merling
 and coat colours. Some also associate deafness with merling and
-microphthalmia.   Merling has not been associated with Samoyeds.  !\[3
-bones\](/img/3-bones.gif)
+microphthalmia.   Merling has not been associated with Samoyeds.  ![3
+bones](/img/3-bones.gif)
 
 
 
@@ -165,17 +160,16 @@ OFA is the US overseer for heritable eye disease in dogs and has the US
 database.
 
 [http://www.offa.org/eye\_overview.html ](http://www.offa.org/eye_overview.html)
-!\[3 bones\](/img/3-bones.gif)
+![3 bones](/img/3-bones.gif)
 
 <https://www.ofa.org/diseases/eye-certification/eye-faqs>
-
   ![three bones
-rating](/img/3-bones.gif/image_preview.png)
+rating](/img/3-bones.gif)
 
 The BVA is the overseer in the UK.  Please note Samoyeds are not
 routinely eye tested in the UK.
-[[http://www.thekennelclub.org.uk/health/health-information-and-resources/health-schemes-and-programmes/bvakc-health-schemes/bvakcisds-eye-scheme/]{.underline}](http://www.thekennelclub.org.uk/health/health-information-and-resources/health-schemes-and-programmes/bvakc-health-schemes/bvakcisds-eye-scheme/)
-!\[3 bones\](/img/3-bones.gif)
+[[http://www.thekennelclub.org.uk/health/health-information-and-resources/health-schemes-and-programmes/bvakc-health-schemes/bvakcisds-eye-scheme/]](http://www.thekennelclub.org.uk/health/health-information-and-resources/health-schemes-and-programmes/bvakc-health-schemes/bvakcisds-eye-scheme/)
+![3 bones](/img/3-bones.gif)
 
 
 
@@ -183,21 +177,10 @@ routinely eye tested in the UK.
 
 
 
-![](microphthalmia/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](microphthalmia/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](microphthalmia/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](microphthalmia/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 
-
-Current Research
-----------------
-
--   [Microphthalmia
-    Research](microphthalmia/microphthalmia-research.html)
-
-\"Living with a Disorder\" Journal Entries
-------------------------------------------
-
--   [The Eyes Have It](microphthalmia/the-eyes-have-it.html)

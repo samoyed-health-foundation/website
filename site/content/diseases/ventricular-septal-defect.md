@@ -1,7 +1,10 @@
-Ventricular Septal Defect
-=========================
++++
+title = "Ventricular Septal Defect"
++++
 
-**Liaison:** Jan Young **Email:** <jannermd@yahoo.com>
+**Liaison:** Jan Young
+
+**Email:** <jannermd@yahoo.com>
 
 
 
@@ -9,16 +12,12 @@ A ventricular septal defect is a hole between the lower two chambers of
 the heart.
 
 
+<details>
+<summary>*Click here to show/hide more detail*</summary>
+The heart of a dog (or person) consists of 4 chambers. The two upper chambers are called atria (singular atrium) and the two lower chambers are called ventricles. During embryonic development the heart begins as a simple tube, which later divides into the four chambers. The two upper chambers are separated into right and left by a septal wall or septum, as are the two ventricular or lower chambers. During development, there may be failure of the septum to develop correctly, leaving a hole between the two chambers. In the case of the lower chambers, this hole is called a ventricular septal defect (VSD). The defect can vary in size from very small to quite large. The size of the defect dictates the seriousness of the condition.  The presence of a hole allows blood to flow directly from the left ventricle into the right ventricle because the pressure on the left side of the heart is much higher. Depending on the size of the hole, this can result in a significant increase in the work of the right side of the heart and an overload of blood to the lungs.  If the defect is small, only a small amount of blood flows from the left to the right and there is not a significant increase in the work load of the right side of the heart.
+</details>
 
 
-
-[Show more detail](ventricular-septal-defect5a76.html?showlong=1)
-
-
-
-Would you like to **[add a Living with this
-Disorder](ventricular-septal-defect/addliving_form.html)** journal
-entry?
 
 Signs and Symptoms
 ------------------
@@ -63,10 +62,10 @@ side of the heart and thereby the severity of the disease progression.
 Treatment Guidelines
 --------------------
 
-Note: Treatment of animals should only be performed by a licensed
-veterinarian. Veterinarians should consult the current literature and
-current pharmacological formularies before initiating any treatment
-protocol.
+> **Note:** Treatment of animals should only be performed by a licensed
+> veterinarian. Veterinarians should consult the current literature and
+> current pharmacological formularies before initiating any treatment
+> protocol.
 
 There is no specific treatment for the VSD itself. Surgery options are
 expensive but may be effective. Pulmonary artery banding (to decrease
@@ -95,26 +94,25 @@ References
 [Defect of the Ventricular Septum in Dogs,
 petmd](http://www.petmd.com/dog/conditions/cardiovascular/c_dg_septal_defect)
 ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
 
 
 
  [Congenital Cardiac Disease and the
 OFA](http://www.offa.org/cardiac_about.html)  ![three
 bones
-rating](/img/3-bones.gif/image_preview.png)
+rating](/img/3-bones.gif)
 
 
 
 
 
-![](ventricular-septal-defect/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](ventricular-septal-defect/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](ventricular-septal-defect/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](ventricular-septal-defect/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
 
-
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 Support Groups
 --------------
@@ -133,28 +131,28 @@ Suggested Links
 [Ventricular Septal Defect in
 Dogs](http://www.aquaticcommunity.com/dog/health/cardio/Ventricularseptaldefect.php),
 aquaticcommunity.com ![one bone
-rating](/img/bone.gif/image_preview.png)
+rating](/img/1-bone.gif)
 
 
 
 [Ventricular Septal Defect (VSA):  A Congenital Heart Disorder in
 Puppies](http://www.peteducation.com/article.cfm?c=2+2096&aid=886),
 Foster and Smith peteducation.com ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
 
 
 
 [Cardiovascular system of the
 Dog](http://www.vetmed.wsu.edu/ClientED/anatomy/cardiovascular.aspx),
 Washington State University College of Veterinary Medicine ![three bones
-rating](/img/3-bones.gif/image_preview.png)
+rating](/img/3-bones.gif)
 
 
 
 [Septal
 Defects](http://www.pediatriccardiacinquest.mb.ca/ch02/septaldefects.html),
 Manitoba Pediatric Cardiac Surgery Inquest ![two bones
-rating](/img/2-bones.gif/image_preview.png)
+rating](/img/2-bones.gif)
 
 
 
@@ -162,14 +160,14 @@ rating](/img/2-bones.gif/image_preview.png)
 Defect](http://cidd.discoveryspace.ca/disorder/ventricular-septal-defect-vsd.html)
 - Canine Inherited Disorders Database, Univ. of Prince Edward Island
 ![three bones
-rating](/img/3-bones.gif/image_preview.png)
+rating](/img/3-bones.gif)
 
 
 
-![](ventricular-septal-defect/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](ventricular-septal-defect/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](ventricular-septal-defect/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](ventricular-septal-defect/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 

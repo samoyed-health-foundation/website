@@ -1,22 +1,25 @@
-Panosteitis
-===========
++++
+title = "Panosteitis"
++++
 
 
 
-Note: We do not currently have a health liaison for this disorder.  If
-you would like to volunteer, please contact [Pam
-Barbe](mailto:president@samoyedhealthfoundation.org?subject=Questions%20about%20becoming%20a%20Health%20Information%20Liaison%20or%20Reviewer)
-or and she will be happy to answer any of your questions.  For a
-description of the position, please click on [disorder health
-information
-liaison.](../help/become-a-health-information-liaison.html "become a health information liaison...")
+> **Note:** We do not currently have a health liaison for this disorder.
+> If you would like to volunteer, please contact
+> [Pam Barbe](mailto:president@samoyedhealthfoundation.org?subject=Questions%20about%20becoming%20a%20Health%20Information%20Liaison%20or%20Reviewer)
+> and she will be happy to answer any of your questions.
+> For a description of the position, please click on
+> [disorder health information liaison](/become-a-health-information-liaison)
+> or
+> [health information reviewer](/become-a-health-information-reviewer).
+
 Thank you to Darlu Littledeer for putting together this article for
 SCARF.
 
 
 ------------------------------------------------------------------------
 
-Panosteitis literally means \"inflammation of all bones\".  It is a
+Panosteitis literally means "inflammation of all bones".  It is a
 disease of the fatty bone marrow which causes secondary changes to the
 long bones.  Affected dogs exhibit intermittent lameness in one or more
 legs, either simultaneously or sequentially.  Lameness in one leg may
@@ -36,8 +39,6 @@ eosinophilic panosteitis.
 
 
 
-Would you like to **[add a Living with this
-Disorder](panosteitis/addliving_form.html)** journal entry?
 
 Signs and Symptoms
 ------------------
@@ -80,10 +81,10 @@ shaft of the affected bones is pressed firmly.
 Treatment Guidelines
 --------------------
 
-Note: Treatment of animals should only be performed by a licensed
-veterinarian. Veterinarians should consult the current literature and
-current pharmacological formularies before initiating any treatment
-protocol.
+> **Note:** Treatment of animals should only be performed by a licensed
+> veterinarian. Veterinarians should consult the current literature and
+> current pharmacological formularies before initiating any treatment
+> protocol.
 
 **Conventional Treatments**:  Pain killers or non-steroidal
 anti-inflammatory drugs are used to relieve the pain.  If these are not
@@ -106,29 +107,26 @@ References
 
 1.  Timothy M. Lenehan, David C. VanSickle, and Darryl N. Biery.
     [Chapter 49, Canine
-    Panosteitis](http://cal.vet.upenn.edu/projects/saortho/chapter_49/49mast.htm "external-link"),
+    Panosteitis](http://cal.vet.upenn.edu/projects/saortho/chapter_49/49mast.htm),
     in Textbook of Small Animal Orthopaedics. University of
     Pennsylvania.  ![four bones
-    rating](/img/4-bones.gif/image_large.png){.image-inline
-    width="46" height="15"}
+    rating](/img/4-bones.gif)
 2.  [Panosteitis](http://www.merckvetmanual.com/mvm/musculoskeletal_system/osteopathies_in_small_animals/developmental_osteopathies_in_small_animals.html),
     in The Merck Veterinary Manual, Developmental Osteopathies in Small
     Animals.  ![four bones
-    rating](/img/4-bones.gif/image_large.png){.image-inline
-    width="46" height="15"}
+    rating](/img/4-bones.gif)
 3.  Panosteitis, in Provet Pet Health Information
-    [[http://www.provet.co.uk/health/diseases/Panosteitis.htm]{.underline}](http://www.provet.co.uk/health/diseases/Panosteitis.htm)
-      !\[2 bones\](/img/2-bones.gif)
+    [http://www.provet.co.uk/health/diseases/Panosteitis.htm](http://www.provet.co.uk/health/diseases/Panosteitis.htm)
+      ![2 bones](/img/2-bones.gif)
 
 
 
-![](panosteitis/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](panosteitis/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](panosteitis/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](panosteitis/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
 
-
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 Support Groups
 --------------
@@ -142,25 +140,20 @@ panosteitis.
 Suggested Links
 ---------------
 
-[]{.underline}<http://www.vetinfo.com/dencyclopedia/depano.html>  !\[2
-bones\](/img/2-bones.gif)
+<http://www.vetinfo.com/dencyclopedia/depano.html>  ![2
+bones](/img/2-bones.gif)
 
-[[http://www.vetinfo4dogs.com/dpano.html]{.underline}](http://www.vetinfo4dogs.com/dpano.html)    !\[2
-bones\](/img/2-bones.gif)
-
-
+[http://www.vetinfo4dogs.com/dpano.html](http://www.vetinfo4dogs.com/dpano.html)    ![2
+bones](/img/2-bones.gif)
 
 
 
-![](panosteitis/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](panosteitis/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](panosteitis/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](panosteitis/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
 
 
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-Current Research
-----------------
 
--   [Research Links](panosteitis/research-links.html)

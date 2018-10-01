@@ -1,7 +1,10 @@
-Fading Puppy Syndrome
-=====================
++++
+title = "Fading Puppy Syndrome"
++++
 
-**Liaison:** Gail Spieker **Email:** <tahogail@gmail.com>
+**Liaison:** Gail Spieker
+
+**Email:** <tahogail@gmail.com>
 
 
 
@@ -11,14 +14,8 @@ causes or infectious agents.  It is used to describe a puppy that
 appears normal at birth, but "fades" - fails to grow and thrive during
 the first weeks of life.  Sometimes it affects entire litters.
 
-![mom and
-pups](fading-puppy-syndrome/mom%20and%20pups.jpg/image_large.jpg){.image-inline
-width="302" height="268"}
+![mom and pups](/img/mom_and_pups.jpg)
 
-
-
-Would you like to **[add a Living with this
-Disorder](fading-puppy-syndrome/addliving_form.html)** journal entry?
 
 Signs and Symptoms
 ------------------
@@ -109,10 +106,10 @@ Risk Factors
 Treatment Guidelines
 --------------------
 
-Note: Treatment of animals should only be performed by a licensed
-veterinarian. Veterinarians should consult the current literature and
-current pharmacological formularies before initiating any treatment
-protocol.
+> **Note:** Treatment of animals should only be performed by a licensed
+> veterinarian. Veterinarians should consult the current literature and
+> current pharmacological formularies before initiating any treatment
+> protocol.
 
 Call your vet immediately if you suspect a puppy is fading.  Specific
 treatment will depend on what your vet feels may be causing the
@@ -126,31 +123,26 @@ juice.
 References
 ----------
 
-[Fading puppy and kitten syndrome:  Do you know the
-signs](http://files.dvm360.com/alfresco_images/DVM360/2013/11/18/48492ec0-72f6-4cf6-b5be-e8077aa0688a/article-197291.pdf)?
+[Fading puppy and kitten syndrome:  Do you know the signs?](http://files.dvm360.com/alfresco_images/DVM360/2013/11/18/48492ec0-72f6-4cf6-b5be-e8077aa0688a/article-197291.pdf)
 by Joni L. Freshman, DVM, MS, DACVIM.  Veterinary Medicine, November
-2005  !\[3 bones\](/img/3-bones.gif)
+2005
+![3 bones](/img/3-bones.gif)
 
-[[http://www.marvistavet.com/herpes-infection-canine.pml]{.underline}](http://www.marvistavet.com/herpes-infection-canine.pml)
-!\[2 bones\](/img/2-bones.gif)
+[http://www.marvistavet.com/herpes-infection-canine.pml](http://www.marvistavet.com/herpes-infection-canine.pml)
+![2 bones](/img/2-bones.gif)
 
 [http://www.heirlair.com/parvo.htm](https://web.archive.org/web/20060427034534/http://www.heirlair.com/parvo.htm)
- [![one bone
-rating](/img/bone.gif/image_large.png){.image-inline
-width="16"
-height="15"}](http://www.vetmedpub.com/vetmed/data/articlestandard//vetmed/462005/197291/article.pdf "external-link") -
-Information on canine parvovirus 1 (currently available only through
-internet \"wayback machine\"
+![1 bone](/img/1-bone.gif) - Information on canine parvovirus 1 (currently available only through
+internet "wayback machine"
 
 
 
-![](fading-puppy-syndrome/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](fading-puppy-syndrome/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](fading-puppy-syndrome/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](fading-puppy-syndrome/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
 
-
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 Support Groups
 --------------
@@ -167,60 +159,38 @@ suggested links to be better prepared should it appear with the next
 litter.  If a puppy dies, an autopsy to understand the cause can help
 define preventive steps for future litters.
 
+<http://www.lowchensaustralia.com/breeding/fadingpups.htm>
+![1 bone](/img/1-bone.gif)
 
 
-
-
-[<http://www.lowchensaustralia.com/breeding/fadingpups.htm>]{.underline}
-
- ![one bone
-rating](/img/bone.gif/image_large.png){.image-inline
-width="16" height="15"}
-
-
-
-[[http://searsvet.50megs.com/Herpes1.html]{.underline}](http://searsvet.50megs.com/Herpes1.html)  ![one
-bone
-rating](/img/bone.gif/image_large.png){.image-inline
-width="16" height="15"}
-
+[http://searsvet.50megs.com/Herpes1.html](http://searsvet.50megs.com/Herpes1.html)
+![1 bone](/img/1-bone.gif)
 
 
 <http://showdogsupersite.com/kenlclub/breedvet/fading.html>
+![2 bones](/img/2-bones.gif)
 
- !\[2 bones\](/img/2-bones.gif)
-
-[[http://www.peteducation.com/article.cfm?cls=2&articleid=443]{.underline}](http://www.peteducation.com/article.cfm?cls=2&articleid=443)
-!\[2 bones\](/img/2-bones.gif)
-
+[http://www.peteducation.com/article.cfm?cls=2&articleid=443](http://www.peteducation.com/article.cfm?cls=2&articleid=443)
+![2 bones](/img/2-bones.gif)
 
 
-[[http://www.2ndchance.info/herpesvirusdog.htm]{.underline}](http://www.2ndchance.info/herpesvirusdog.htm)  ![one
-bone
-rating](/img/bone.gif/image_large.png){.image-inline
-width="16" height="15"}
+[http://www.2ndchance.info/herpesvirusdog.htm](http://www.2ndchance.info/herpesvirusdog.htm)
+![1 bone](/img/1-bone.gif)
 
 
+[http://www.vetinfo4dogs.com/dherpes.html](http://www.vetinfo4dogs.com/dherpes.html)
+![2 bones](/img/2-bones.gif)
 
-[[http://www.vetinfo4dogs.com/dherpes.html]{.underline}](http://www.vetinfo4dogs.com/dherpes.html) !\[2
-bones\](/img/2-bones.gif)
-
-<http://www.provet.co.uk/health/diseases/parvovirus.htm>  !\[2
-bones\](/img/2-bones.gif) - information on parvovirus 1 and how it
+<http://www.provet.co.uk/health/diseases/parvovirus.htm>
+![2 bones](/img/2-bones.gif) - information on parvovirus 1 and how it
 relates to fading puppies
 
 
 
-![](fading-puppy-syndrome/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](fading-puppy-syndrome/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](fading-puppy-syndrome/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](fading-puppy-syndrome/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
 
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-
-Current Research
-----------------
-
--   [Canine Parvovirus 1
-    ](fading-puppy-syndrome/canine-parvovirus-1.html)
