@@ -4,7 +4,7 @@ title = "How you can help"
 
 # Donating
 
-Please contact our Treasurer at [treasurer@samoyedhealthfoundation.org](mailto:treasurer@samoyedhealthfoundation.org?subject=Donating)
+Please contact our Treasurer at [treasurer@samoyedhealthfoundation.org](mailto:treasurer@samoyedhealthfoundation.org?subject=Donating) for instructions on how you can donate.
 
 # Volunteering
 
