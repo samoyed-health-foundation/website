@@ -210,3 +210,8 @@ area
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 
+
+"Living with a Disorder" Journal Entries
+----------------------------------------
+
+- [A Change of Heart](/diseases/subaortic-stenosis-a-change-of-heart)

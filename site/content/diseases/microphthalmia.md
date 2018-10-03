@@ -184,3 +184,8 @@ routinely eye tested in the UK.
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 
+
+"Living with a Disorder" Journal Entries
+----------------------------------------
+
+- [The Eyes Have It](/diseases/microphthalmia-the-eyes-have-it)

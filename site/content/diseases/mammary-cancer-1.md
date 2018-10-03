@@ -258,13 +258,7 @@ rating](/img/1-bone.gif)
 [(full description of ratings)](ratings-what-do-they-mean.html)
 
 
-
-Current Research
-----------------
-
--   [Mammary Cancer Research](mammary-cancer-1/mammary-cancer.html)
-
 "Living with a Disorder" Journal Entries
-------------------------------------------
+----------------------------------------
 
--   [Mammary tumors](mammary-cancer-1/mammary-tumors.html)
+- [Mammary tumors](/diseases/mammary-cancer-1-mammary-tumors)

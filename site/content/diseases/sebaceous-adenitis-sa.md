@@ -191,3 +191,9 @@ rating](/img/3-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 
+
+"Living with a Disorder" Journal Entries
+----------------------------------------
+
+- [An Ocean Of Tears](/diseases/sebaceous-adenitis-sa-an-ocean-of-tears)
+- [Living With Sebaceous Adenitis](/diseases/sebaceous-adenitis-sa-living-with)

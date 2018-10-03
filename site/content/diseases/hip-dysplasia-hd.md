@@ -152,3 +152,7 @@ Research article in the Veterinary Journal for anyone interested in the genetic 
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
+"Living with a Disorder" Journal Entries
+----------------------------------------
+
+- [Living With Hip Dysplasia](/diseases/hip-dysplasia-hd-living-with)

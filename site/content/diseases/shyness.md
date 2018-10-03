@@ -354,3 +354,9 @@ Behavior and Training website
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 
+
+"Living with a Disorder" Journal Entries
+----------------------------------------
+
+- [The Shy, Shelter Samoyed](/diseases/shyness-the-shy-shelter-samoyed)
+- [The Shy Show Puppy](/diseases/shyness-the-shy-show-puppy)

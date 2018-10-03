@@ -181,6 +181,6 @@ is a godsend to the Diabetic pet caretaker.
 
 # "Living with a Disorder" Journal Entries
 
-- [a labor of love](http://www.samoyedhealthfoundation.org/diseases/diabetes-mellitus/a-labor-of-love)
+- [A Labor of Love](/diseases/diabetes-mellitus-a-labor-of-love)
 
-- [Murray Dog May](http://www.samoyedhealthfoundation.org/diseases/diabetes-mellitus/livingwithadisorder.2009-06-08.8784254313)
+- [Murray Dog May](/diseases/diabetes-mellitus-murray-dog-may)

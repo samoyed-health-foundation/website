@@ -341,3 +341,8 @@ rating](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 
+
+"Living with a Disorder" Journal Entries
+----------------------------------------
+
+- [Oh my aching knees](/diseases/luxating-patella-oh-my-aching-knees)

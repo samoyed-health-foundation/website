@@ -178,3 +178,8 @@ rating](/img/1-bone.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
+"Living with a Disorder" Journal Entries
+----------------------------------------
+
+- [Hemangiosarcoma 1](/diseases/hemangiosarcoma-hemangiosarcoma-1)
+- [Hemangiosarcoma 2](/diseases/hemangiosarcoma-hemangiosarcoma-2)

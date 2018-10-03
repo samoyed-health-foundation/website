@@ -292,3 +292,7 @@ Suggested Links
 
 See references above.
 
+"Living with a Disorder" Journal Entries
+----------------------------------------
+
+- [A Sight for Sore Eyes](/diseases/cataracts-posterior-lenticonus-a-sight-for-sore-eyes)

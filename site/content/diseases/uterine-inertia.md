@@ -218,3 +218,8 @@ rating](/img/1-bone.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 
+
+"Living with a Disorder" Journal Entries
+----------------------------------------
+
+- [Inertia Experiences](/diseases/uterine-inertia-inertia-experiences)

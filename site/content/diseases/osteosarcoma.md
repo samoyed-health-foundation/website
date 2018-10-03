@@ -274,3 +274,8 @@ rating](/img/1-bone.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 
+
+"Living with a Disorder" Journal Entries
+----------------------------------------
+
+- [Bone cancer and grief](/diseases/osteosarcoma-bone-cancer-and-grief)

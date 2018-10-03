@@ -165,3 +165,8 @@ costs:
 > ![3 bones](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
+
+"Living with a Disorder" Journal Entries
+----------------------------------------
+
+- [Litters with Cleft Palates](/diseases/cleft-palate-litters-with-cleft-palates)

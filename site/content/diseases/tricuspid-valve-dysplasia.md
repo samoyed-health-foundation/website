@@ -191,3 +191,8 @@ by Lori Siemens, DVM, DACVIM ![2 bones](/img/2-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 
+
+"Living with a Disorder" Journal Entries
+----------------------------------------
+
+- [Tricuspid Valve Dysplasia - 2 case reports](/diseases/tricuspid-valve-dysplasia-2-case-reports)

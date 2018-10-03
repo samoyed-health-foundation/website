@@ -162,3 +162,8 @@ rating](/img/1-bone.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 
+
+"Living with a Disorder" Journal Entries
+----------------------------------------
+
+- [Living with UDS (VKH)](/diseases/uveodermatologic-syndrome-uds-living-with)

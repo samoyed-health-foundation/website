@@ -211,3 +211,8 @@ rating](/img/2-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 
+
+"Living with a Disorder" Journal Entries
+----------------------------------------
+
+- [Not enough time](/diseases/lymphosarcoma-lymphoma-not-enough-time)

@@ -232,3 +232,8 @@ bones](/img/2-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
+
+"Living with a Disorder" Journal Entries
+----------------------------------------
+
+- [In the blink of an eye](/diseases/keratoconjunctivitis-sicca-kcs-or-dry-eye-in-the-blink-of-an-eye)

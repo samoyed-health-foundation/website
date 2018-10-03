@@ -152,3 +152,8 @@ rating](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
+
+"Living with a Disorder" Journal Entries
+----------------------------------------
+
+- [Corneal Dystrophy](/diseases/corneal-dystrophy-corneal-dystrophy)
