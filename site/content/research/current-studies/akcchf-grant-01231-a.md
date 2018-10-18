@@ -8,7 +8,7 @@ Dogs
 **Edward B Breitschwerdt, DVM, North Carolina State University**
 
 [**Final
-Report**](http://www.samoyedhealthfoundation.com/research/current-research-studies/1231-A%20EY1%20FINAL%20Summary.pdf)
+Report**](/files/1231-A EY1 FINAL Summary.pdf)
 
 **Publication:**
 

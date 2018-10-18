@@ -8,7 +8,7 @@ for the Treatment of Persistent Canine Renal Proteinuria**
 **Dr. Amanda E. Coleman, Uviversity of Georgia**
 
 [**Update November
-2017**](http://www.samoyedhealthfoundation.com/research/current-research-studies/d15ca-307-nov-2017-update)
+2017**](/files/D15CA-307 Nov 2017 update.pdf)
 
 *Description:*  Researchers will investigate the efficacy of a new
 treatment for dogs with abnormally high urinary protein levels

@@ -5,7 +5,7 @@ title = "AKCCHF Grant #02146-A (closed)"
 **Heather Chandler, PhD, Ohio State University**
 
 **Update!  [Final Summary
-Report](http://www.samoyedhealthfoundation.com/research/current-research-studies/akcchf-2146-a-final-summary)**
+Report](/files/AKCCHF 02146-A FINAL Summary.pdf)**
 
 **Abstract from AKCCHF.org website:  **\
 Cataracts are the most common cause of treatable blindness in dogs.

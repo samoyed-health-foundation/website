@@ -5,10 +5,10 @@ title = "AKCCHF Grant #02128-A (Closed)"
 **Jason Stull, VMD, PhD, Ohio State University, Principal Investigator**
 
 ***Update:  [Final Report
-10/31/2016](http://www.samoyedhealthfoundation.com/research/current-research-studies/akcchf-02128-a-final-report)***
+10/31/2016](/files/AKCCHF grant 02128A MY2 Summary.pdf)***
 
 ***Update:  [Research Progress Report Summary Mid-Year 2,
-2/28/2016](http://www.samoyedhealthfoundation.com/research/current-research-studies/akcchf-grant-02128-a-my2-summary)***
+2/28/2016](/files/AKCCHF 02128-A EY2 FINAL Summary.pdf)***
 
 **Abstract from AKCCHF.org website:**\
 Collaborative Project with the Orthopedic Foundation for Animals The AKC

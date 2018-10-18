@@ -7,8 +7,7 @@ Canine Cancer**
 
 **Robert K Wayne, PhD, University of California Los Angeles**
 
-**Update!  [*[Final
-Report]{.underline}*](http://www.samoyedhealthfoundation.com/research/current-research-studies/akcchf-grant-1822-final-report)**
+**Update! [Final Report](/files/AKCCHF grant 1822 FINAL Summary.pdf)**
 
 ***Project Summary from the AKCCHF.org website:***
 

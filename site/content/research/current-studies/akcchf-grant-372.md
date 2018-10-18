@@ -126,7 +126,7 @@ study.
 Dog owners must pay the fees associated with the physical exam and
 sample collection procedures which are reimbursable up to \$100 by
 SCARF-
-click [here](http://www.samoyedhealthfoundation.com/research/current-research-studies/help-with-expenses)**.**
+click [here](/research/how-scarf-can-help-defray-the-cost)**.**
 
 Dr. Davies will pay for shipping the samples collected by your
 veterinarian to her laboratory for analysis.

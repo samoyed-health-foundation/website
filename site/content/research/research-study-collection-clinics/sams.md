@@ -6,7 +6,7 @@ title = "SAMS"
 # SAMS Collection Clinic
 
 
-On August 28th, blood was collected by the members of SAMS and sent to the [Dr Hess grant studying diabetes](/research/current-research-studies/akcchf-grant-610), funded by the SCA Research Foundation.
+On August 28th, blood was collected by the members of SAMS and sent to the [Dr Hess grant studying diabetes](/research/current-studies/akcchf-grant-610), funded by the SCA Research Foundation.
 
 Barbara B. Gage and the members of SAMS were able to donate samples from 9 normal Samoyed, 7 years of age or older.
 

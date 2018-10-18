@@ -4,7 +4,7 @@ title = "Morris Grant D09CA-082 (discontinued)"
 
 **This study has been discontinued by the researcher due to undesirable
 effects on the patient.  SCARF has redirected the funding to
-study [D09CA-029](http://www.samoyedhealthfoundation.com/research/current-research-studies/morris-grant-d09ca0029).**
+study [D09CA-029](/research/current-studies/morris-grant-d09ca-029).**
 
 Lymphoma is one of the most common and fatal cancers in dogs. Most dogs
 treated with chemotherapy go into remission, but the cancer quickly

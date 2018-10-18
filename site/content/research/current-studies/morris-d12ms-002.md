@@ -20,7 +20,7 @@ mammary stem cells and their role in cancer development in an effort to
 better understand how different genes affect mammary tumors.
 
 [Study Update
-Report](http://www.samoyedhealthfoundation.com/research/current-research-studies/d12ms-002-update)
+Report](/files/D12MS-002 update.pdf)
 
 [Final
-Report](http://www.samoyedhealthfoundation.com/research/current-research-studies/d12ms-002-final-report)
+Report](/files/D12MS-002 Final Report.pdf)

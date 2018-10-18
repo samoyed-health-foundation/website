@@ -7,10 +7,10 @@ title = "AKCCHF grant #01782 (open)"
 **Gina Bertocci, PhD, University of Louisville**
 
 ***Update:  [Research Progress Report Summary Mid-Year 2,
-6/30/2014](http://www.samoyedhealthfoundation.com/research/current-research-studies/akcchf-grant-01782)***
+6/30/2014](/files/AKCCHF 01782 MY2 Summary.pdf)***
 
 ***Update:  [Final summary Report
-6/30/2015](http://www.samoyedhealthfoundation.com/research/current-research-studies/akcchf-01782-final-summary)***
+6/30/2015](/files/AKCCHF grant 01782 FINAL Summary.pdf)***
 
 ***Project Summary from the AKCCHF.org website:***
 

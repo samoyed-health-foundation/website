@@ -10,7 +10,7 @@ and Bloat**
  
 
 [Study Update
-Report](http://www.samoyedhealthfoundation.com/research/current-research-studies/d09ca-502)
+Report](/files/D09CA-502 update.pdf)
 
 [Final
-Report](http://www.samoyedhealthfoundation.com/research/current-research-studies/dc09ca-502-final-report)
+Report](/files/D09CA-502 Final report.pdf)

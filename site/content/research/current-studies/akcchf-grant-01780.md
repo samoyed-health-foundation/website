@@ -8,13 +8,13 @@ Prevent Disease Transmission.**
 **Emma Natalie Ivy Weeks, PhD, University of Florida**
 
 ***Update:  Progress Report 01/13/2017*** [click
-here](http://www.samoyedhealthfoundation.com/research/current-research-studies/akcchf-01780-ey4-update)
+here](/files/AKCCHF 01780 EY4 Summary.pdf)
 
 ***Update:  Progress Report 2016 ***[click
-here](http://www.samoyedhealthfoundation.com/research/current-research-studies/akcchf-01780-my4-summary)
+here](/files/AKCCHF 1780 MY4 Summary.pdf)
 
 ***Update:  Progress Report October 2014*** [click
-here](http://www.samoyedhealthfoundation.com/research/current-research-studies/akcchf-grant-1780-progress-report)
+here](/files/AKCCHF grant 1780 MY2 Progress Report.pdf)
 
 ***Project Summary from the AKCCHF.org website:***
 

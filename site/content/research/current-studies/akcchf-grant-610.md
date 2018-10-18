@@ -48,4 +48,4 @@ region could be more thoroughly explored, particularly in collaboration
 with Dr. Lorna Kennedy, who is studying this region in depth."
 
 For more information on diabetes, [click
-here](http://www.samoyedhealthfoundation.com/research/current-research-studies/diseases/diabetes-mellitus).
+here](/diseases/diabetes-mellitus).

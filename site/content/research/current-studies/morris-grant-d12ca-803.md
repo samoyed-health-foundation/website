@@ -23,4 +23,4 @@ therapeutically in dogs and as a novel tool for studying canine
 inherited diseases.
 
 [Final
-Report](http://www.samoyedhealthfoundation.com/research/current-research-studies/d12ca-803-final-report)
+Report](/files/D12CA-803 Final Report.pdf)

@@ -8,7 +8,7 @@ Osteosarcoma**
 **Dr. Jaime F. Modiano, University of Minnesota**
 
 [**2016
-update**](http://www.samoyedhealthfoundation.com/research/current-research-studies/morris-grant-d15ca-047-2016-update)
+update**](/files/D15CA-047 Oct 2016 update.pdf)
 
 *Summary:*  Researchers will investigate how osteosarcoma  spreads, in
 the hopes of finding new treatment targets.
