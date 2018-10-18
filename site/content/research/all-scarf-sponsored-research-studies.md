@@ -458,7 +458,7 @@ Immune-Mediated Thyroiditis and Immune-Mediated Hemolytic Anemia.  Wayne
 Potts, PhD, University of Utah. \[Additional funding $1250\]
 
 - [AKCCHF Grant \#00372
-(closed):](/research/current-studies/ackchf-grant-372)
+(closed):](/research/current-studies/akcchf-grant-372)
 The Establishment of Breed-Specific Reference Intervals for Thyroid
 Hormones.  Rebecca L Davies, PhD; Sheila Torres, DVM MS PhD DACVD.
 \[Additional funding $7348\]
@@ -492,7 +492,7 @@ Canine Mammary Tumors.  Monique Dore, DVM PhD, University of Montreal.
 2011](http://vet.sagepub.com/content/48/1/254.long)\]
 
 - [AKCCHF Grant \#00372
-(closed):](/research/current-studies/ackchf-grant-372)
+(closed):](/research/current-studies/akcchf-grant-372)
 The Establishment of Breed-Specific Reference Intervals for Thyroid
 Hormones.  Rebecca L Davies, PhD; Sheila Torres, DVM MS PhD DACVD.
 \[$7348\]
