@@ -5,7 +5,7 @@ title = "AKCCHF grant #01139 (closed)"
 **Nicola J Mason, BVetMed, PhD, University of Pennsylvania**
 
 This is an AKCCHF success story:  [Using Technology to Target
-Tumors ](http://www.akcchf.org/research/success-stories/using-technology-to-target.html)
+Tumors ](http://www.akcchf.org/research/research-portfolio/1139.html)
 
 ***Project Summary from AKCCHF.org website:***
 

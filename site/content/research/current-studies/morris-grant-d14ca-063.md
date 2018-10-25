@@ -34,4 +34,4 @@ providing ophthalmologists a new method of restoring and maintaining
 excellent vision in dogs that have been blinded by cataracts. 
 
 [AKCCHF.org
-02146-A](http://www.akcchf.org/research/funded-research/2146.html)
+02146-A](http://www.akcchf.org/research/research-portfolio/2146.html)

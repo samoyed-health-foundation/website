@@ -6,7 +6,7 @@ title = "AKCCHF grant #00985-A (closed)"
 
 This is an AKCCHF Success Story!  [Looking for a New Treatment for
 Refractive Corneal
-Ulcers](http://www.akcchf.org/research/success-stories/looking-for-a-new-treatment.html)
+Ulcers](http://www.akcchf.org/research/research-portfolio/0985.html)
 
 ***Project Summary from AKCCHF.org website:***
 

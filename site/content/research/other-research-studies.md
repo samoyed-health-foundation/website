@@ -15,7 +15,7 @@ across breeds...
 
 ---
 
-**[Canine Birth Defects Study](http://www.vgl.ucdavis.edu/cghg/projects.php)** -
+**[Canine Birth Defects Study](https://www.ucdavis.edu/news/cleft-palate-discovery-dogs-aid-understanding-human-birth-defect)** -
 Researchers in the Bannasch Laboratory at the School of Veterinary Medicine, University
 of California-Davis are initiating a long term study on canine birth
 defects (CBD).
@@ -24,7 +24,7 @@ cleft palate.
 
 ---
 
-**[Cancer Research at the Canine Hereditary Cancer Consortium](https://www.tgen.org/research/canine-health-performance/canine-hereditary-cancer-consortium.aspx#.U54CrmfjhaR)** -
+**[Cancer Research at the Canine Hereditary Cancer Consortium](https://www.tgen.org/patients/canine/)** -
 The Canine Hereditary Cancer Consortium includes researchers from a
 number of universities, research institutes and companies.
 The Consortium received a Federally funded grant through the National

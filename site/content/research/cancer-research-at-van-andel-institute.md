@@ -22,4 +22,4 @@ For more information, contact:
 
 [dogdna@tgen.org](mailto:dogdna@tgen.org)
 
-[F.A.Q.](https://www.tgen.org/research/canine-health-performance/canine-hereditary-cancer-consortium/faq.aspx#.U54EM2fjhaQ)
+[F.A.Q.](https://www.tgen.org/patients/canine/)

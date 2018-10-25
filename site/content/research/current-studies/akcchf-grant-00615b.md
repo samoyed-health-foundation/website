@@ -5,7 +5,7 @@ title = "AKCCHF grant #00615B (closed)"
 **Jaime F Modiano, VMD PhD, \[\$2500 from AKCCHF Donor Advised fund\]**
 
 This is an AKCCHF Success Story! [Sniffing Out Lymphoma
-Genes](http://www.akcchf.org/research/success-stories/sniffing-out-lymphoma-genes.html)
+Genes](http://www.akcchf.org/research/research-portfolio/0706.html)
 
 ***Project Summary from AKCCHF.org website:***
 

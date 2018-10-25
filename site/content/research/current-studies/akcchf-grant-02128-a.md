@@ -4,13 +4,12 @@ title = "AKCCHF Grant #02128-A (Closed)"
 
 **Jason Stull, VMD, PhD, Ohio State University, Principal Investigator**
 
-***Update:  [Final Report
-10/31/2016](/files/AKCCHF grant 02128A MY2 Summary.pdf)***
+**Update:** [Final Report 10/31/2016](/files/AKCCHF grant 02128A MY2 Summary.pdf)
 
-***Update:  [Research Progress Report Summary Mid-Year 2,
-2/28/2016](/files/AKCCHF 02128-A EY2 FINAL Summary.pdf)***
+**Update:** [Research Progress Report Summary Mid-Year 2, 2/28/2016](/files/AKCCHF 02128-A EY2 FINAL Summary.pdf)
 
-**Abstract from AKCCHF.org website:**\
+**Abstract from AKCCHF.org website:**
+
 Collaborative Project with the Orthopedic Foundation for Animals The AKC
 Canine Health Foundation and the Orthopedic Foundation for Animals have
 a long standing commitment to supporting research that aims to prevent,
@@ -43,9 +42,10 @@ dog owners and organizers of canine events and facilities. Finally, the
 researchers hope to create an open-access website that will be an
 interactive, living document, helping all those involved with dogs
 reduce the risk and spread of infectious disease where dogs meet and
-compete. 
+compete.
 
-**Research Team:**  \
+**Research Team:**
+
 Jason W. Stull, VMD, MPVM, PhD, DACVPM (Public Health, Epidemiology),
 Principal Investigator Armando Hoet, DVM, PhD, DACVPM (Public Health,
 Epidemiology) Jeanette O'Quin, DVM, MPH (Public Health, Epidemiology)
@@ -53,5 +53,4 @@ Mary Jo Burkhard, DVM, PhD, DACVP (Immunology/Infectious Disease,
 Clinical Pathology) Michelle Evason, DVM, DACVIM (Internal Medicine) J.
 Scott Weese, DVM, DVSc, DACVIM (Infectious Disease, Internal Medicine)
 
-[AKCCHF.org
-02128-A](http://www.akcchf.org/research/funded-research/2128.html)
+[AKCCHF.org 02128-A](http://www.akcchf.org/research/research-portfolio/2128.html)

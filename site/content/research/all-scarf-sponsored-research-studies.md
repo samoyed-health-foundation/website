@@ -306,7 +306,7 @@ Heritable and Sporadic Genetic Lesions in Canine Lymphoma.  Jaime F
 Modiano, VMD PhD  \[$2500 from AKCCHF Donor Advised fund\]
 \[[publication](http://informahealthcare.com/doi/abs/10.3109/10428194.2011.559802)\]
 \[[AKCCHF Success
-Story](http://www.akcchf.org/research/success-stories/sniffing-out-lymphoma-genes.html)\]
+Story](http://www.akcchf.org/research/research-portfolio/0706.html)\]
 
 - [AKCCHF grant \#01130 (closed):](/research/current-studies/akcchf-grant-01130)  Measurement
 of Minimal Residual Disease Using Real Time PCR in Canine Lymphoma.
@@ -319,7 +319,7 @@ Antibody Approach.  Nicola J Mason, BVetMed, PhD, University of
 Pennsylvania \[$2500\]
 \[[publication](http://www.ncbi.nlm.nih.gov/pubmed/20817275)\] \[[AKCCHF
 Success
-Story](http://www.akcchf.org/research/success-stories/using-technology-to-target.html)\]
+Story](http://www.akcchf.org/research/research-portfolio/1139.html)\]
 
 - [AKCCHF grant \#01227-A
 (closed):](/research/current-studies/akcchf-grant-1227-a)  Specificity
@@ -328,7 +328,7 @@ Test for the Diagnosis of Canine Pancreatitis.  Stanley L Marks, BVSc,
 PhD, University of California Davis \[$1000\]
 \[[publication](http://www.ncbi.nlm.nih.gov/pubmed/22092611)\] \[[AKCCHF
 Success
-Story](http://www.akcchf.org/research/success-stories/diagnosing-pancreatitis.html)\]
+Story](http://www.akcchf.org/research/research-portfolio/1227.html)\]
 
 - [AKCCHF grant \#01231-A
 (closed): ](/research/current-studies/akcchf-grant-01231-a) Prevalence
@@ -402,7 +402,7 @@ vivo Effects of Tetracycline on Canine Refractory Ulcers.  Heather
 Chandler, PhD, Ohio State University \[$1000\]
 \[[publication](http://www.ncbi.nlm.nih.gov/pubmed/20707747)\]
 \[[AKCCHF Success
-Story](http://www.akcchf.org/research/success-stories/looking-for-a-new-treatment.html)\]
+Story](http://www.akcchf.org/research/research-portfolio/0985.html)\]
 
 - [AKCCHF grant \#00997-A (closed):](/research/current-studies/akcchf-grant-00997-a) Virological
 Survey of Dogs with Idiopathic Conjunctivitis.  Eric Ledbetter, DVM,
