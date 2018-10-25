@@ -12,8 +12,6 @@ title = "Dog Food Recall Information"
 
 [http://www.thepetfoodlist.com/](http://www.thepetfoodlist.com/) List of foods that have been recalled as well as those who have not, with links to the various manufacturers.
 
-[FDA Pet Food Recalls Product List](http://www.accessdata.fda.gov/scripts/newpetfoodrecalls/)
-
 
 # News Articles
 

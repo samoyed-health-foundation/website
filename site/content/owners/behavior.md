@@ -20,26 +20,24 @@ title = "Behavior"
 
 - [Dog Behavior Information and Advice](http://www.ddfl.org/tips.htm#dog)
 
-- [My Smart Puppy Library of Articles](http://www.mysmartpuppy.com/ask-us/articles.html)
+- [My Smart Puppy Library of Articles](https://mysmartpuppy.com/)
 
 - a seasonal nightmare - females in season/male behavior
 
-- [Nature vs. Nurture: The Genetics of Behavior](http://www.akcchf.org/pdfs/whitepapers/abcnurture.pdf) by Jacquie Neilson, DVM, DACVB
+- [Nature vs. Nurture: The Genetics of Behavior](http://www.akcchf.org/educational-resources/library/articles/articles/Nature-vs-Nurture-The-Genetics-of-Behavior-07-1997.pdf) by Jacquie Neilson, DVM, DACVB
 
-- [The Dominant Dog](http://www.akcchf.org/pdfs/whitepapers/abcdominent.pdf) by Jacquie Neilson, DVM, DACVB
+- [The Dominant Dog](http://www.akcchf.org/educational-resources/library/articles/articles/The-Dominant-Dog-07-1997.pdf) by Jacquie Neilson, DVM, DACVB
 
-- [The Interaction of Illness and Behavior](http://www.mmilani.com/canine-illness-behavior.html) by Myrna Milani, BS, DVM
-
-- [Illness Related Anxiety](http://www.jojoreader.com/reader/anx.html) - very interesting article on how behavioral changes may indicate a medical problem in your dog
+- [The Interaction of Illness and Behavior](http://www.mmilani.com/writing/articles/dogs/canine-illness-behavior/) by Myrna Milani, BS, DVM
 
 
 # Microchipping
 
 
-- [Be Prepared](http://www.breedingbetterdogs.com/prepared.html) by Dr. Carmen L. Battaglia
+- [A different way to register during disaster through AKC](http://www.akcreunite.org/)
 
 - [AKC Companion Animal Recovery](http://www.akccar.org/)
 
-- [AVID microchip](http://www.avidmicrochip.com/answer.htm)
+- [AVID microchip](https://avidid.com/)
 
-- [Home Again Pet Recovery Service](http://www.homeagainid.com/)
+- [Home Again Pet Recovery Service](https://www.homeagain.com/)

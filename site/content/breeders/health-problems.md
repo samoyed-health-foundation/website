@@ -20,25 +20,23 @@ title = "Health Problems"
 
 - [Differentiating Sulfur Compounds](http://www.itmonline.org/arts/sulfa.htm) - Sulfa Drugs, Glucosamine Sulfate, Sulfur, and Sulfiting Agents by Subhuti Dharmananda, Ph.D., Director, Institute for Traditional Medicine, Portland, Oregon
 
-- [Animal Pharmacy Center](http://www.marvistavet.com/html/pharmacy_center.html) on the Mar Vista Animal Medical Center website
+- [Animal Pharmacy Center](http://www.marvistavet.com/pharmacy-center.pml) on the Mar Vista Animal Medical Center website
 
-- [FDA Approved Animal Drug Products On Line Database](http://dil.vetmed.vt.edu/)
+- [Freedom Of Information (FOI)](https://www.fda.gov/AnimalVeterinary/SafetyHealth/ReportaProblem/ucm055305.htm) summaries
 
-- [Freedom Of Information (FOI)](http://www.fda.gov/cvm/FOI/efoi.html) summaries
-
-- [How to Report An Adverse Drug Experience](http://www.fda.gov/cvm/adetoc.htm) on the [FDA's Center For Veterinary Medicine](http://www.fda.gov/AnimalVeterinary/default.htm) website
+- [How to Report An Adverse Drug Experience](https://www.fda.gov/AnimalVeterinary/default.htm) on the [FDA's Center For Veterinary Medicine](http://www.fda.gov/AnimalVeterinary/default.htm) website
 
 - [Drug dosages](http://www.ahc.umn.edu/rar/umnuser/formulary.html) on the Veterinary Formulary page of Research Animal Resources, University of Minnesota webpages - how to read that prescription bottle
 
 - [The Virtual Pharmacy Center](http://www.martindalecenter.com/Pharmacy.html) - Martindale's Health Science Guide 2000 with a section on [The Virtual Veterinary Center](http://www.martindalecenter.com/Pharmacy_3_Phaco.html#PHARMC-VET)
 
-- [Common Drugs and Nutraceuticals for Dogs and Cats](http://www.peteducation.com/category_summary.cfm?Cat=1303) from Drs. Foster & Smith
+- [Common Drugs and Nutraceuticals for Dogs and Cats](https://www.petcoach.co/article/common-drugs-nutraceuticals/) from Drs. Foster & Smith
 
 - [The Pet Pharmacy](http://www.veterinarypartner.com/Content.plx?P=SRC&S=1&SourceID=52) by Wendy C. Brooks, DVM, DipABVP on VeterinaryPartner.com
 
 - [Drugs and Medications](http://www.lowchensaustralia.com/health/drugs.htm) on the Chinaroad Lowchens of Australia website
 
-- [Antifungal Medications](http://www.peteducation.com/category_summary.cfm?cat=1453)
+- [Antifungal Medications](https://www.petcoach.co/article/antifungal-medications/)
 
 - [Corticosterioids in Veterinary Medicine](http://www.newmanveterinary.com/steroids.html) and [Regulation of Corticosteroids](http://www.newmanveterinary.com/regulati.html) by Chick Newman PhD, DVM
 
@@ -46,20 +44,11 @@ title = "Health Problems"
 
 - [Understanding Deramaxx® - Smart Drug or Clever Marketing?](http://www.vetnsaids.com/)
 
-- [Deramaxx®: A Comprehensive Documentation of Problems](http://doberman.cc/DeramaxxComprehensive.pdf)
-
-- [All about NSAIDS](http://www.thepetguardian.com/html/body_nsaids.html) - a huge
-collection of links on the thepetquardian.com website
-
-- **[Brochure on how to use NSAIDS (pain relief medications) safely](http://www.fda.gov/downloads/AnimalVeterinary/NewsEvents/CVMUpdates/UCM054572.pdf) - this could save your dog's life.**
+- **[Advice to Dog Owners Whose Pets Take NSAIDs](https://www.fda.gov/AnimalVeterinary/ResourcesforYou/AnimalHealthLiteracy/ucm419032.htm) - this could save your dog's life.**
 
 
 
 # Laboratory
 
 
-- [What do those lab tests mean?](http://www.vetmed.wsu.edu/ClientED/lab.asp)
-
-- [How to Read Laboratory Tests](http://home.gci.net/~divs/disease/lab_tests.html)
-
-- [General explanations of Specific Laboratory Findings](http://broadwayveterinaryhospital.evetsites.net/site/view/83223_LaboratoryAssessmentDescriptions.pml)
+- [What do those lab tests mean?](https://www.vetmed.wsu.edu/outreach/Pet-Health-Topics/categories/miscellaneous-health-care-topics/what-do-those-lab-tests-mean)
