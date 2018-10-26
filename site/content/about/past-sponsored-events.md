@@ -50,7 +50,7 @@ title = "Past Sponsored Events"
 
 ## 2005
 
-- *"New Vaccine Protocols: A Review of the Literature"* a lecture by Bob Rogers, DVM at the SCA National specialty. http://www.newvaccinationprotocols.com/
+- *"New Vaccine Protocols: A Review of the Literature"* a lecture by Bob Rogers, DVM at the SCA National specialty.
 
 ## 2004
 

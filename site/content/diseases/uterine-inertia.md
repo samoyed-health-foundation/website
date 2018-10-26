@@ -18,7 +18,7 @@ fails to have contractions, but the cervix dilates and the placentas can
 detach from the uterine wall.
 
 ![mom and
-pups2](uterine-inertia/mom%20and%20pups2.jpg/image_preview.jpg)
+pups2](/img/mom_and_pups.jpg)
 
 '**Inertia,**' or 'secondary inertia,' is when the bitch stops
 contractions part way through a whelping, and is one of the most
@@ -136,13 +136,8 @@ other bitch.
 References
 ----------
 
-1.  S. R[omagnoli], F. F. [de]
-    S[ouza], A. R[ota], I.
-    V[annozzi] (2004) [Prolonged interval between
-    parturition of normal live pups in a
-    bitch.](http://onlinelibrary.wiley.com/doi/10.1111/j.1748-5827.2004.tb00231.x/abstract)
-    Journal of Small Animal Practice 45 (5), 249--253. !\[3
-    bones\](/img/3-bones.gif)
+1.  S. Romagnoli, F. F. de Souza, A. Rota, I. Vannozzi (2004) [Prolonged interval between parturition of normal live pups in a bitch.](http://onlinelibrary.wiley.com/doi/10.1111/j.1748-5827.2004.tb00231.x/abstract)
+    Journal of Small Animal Practice 45 (5), 249--253. ![3 bones](/img/3-bones.gif)
 2.  [Dystocia in small
     animals](http://www.merckvetmanual.com/mvm/reproductive_system/reproductive_diseases_of_the_female_small_animal/dystocia_in_small_animals.html).
     In the online Merck Veterinary Manual. ![four bones
@@ -151,8 +146,8 @@ References
     Seminar](http://www.veterinarypartner.com/Content.plx?P=A&A=1224 "external-link")
     with Dr. Robert Van Hutchison. Tuesday, January 08, 2002 from the
     veterinarypartner.com website \-- Lots of good information relating
-    to whelping and pregnancy in this online seminar !\[2
-    bones\](/img/2-bones.gif)
+    to whelping and pregnancy in this online seminar ![2
+    bones](/img/2-bones.gif)
 4.  [Handbook of Veterinary
     Obstetrics](http://www.sciencedirect.com/science/book/9780702027406),
     2nd edition, 2004 By Peter G. G. Jackson Textabook  ![four bones

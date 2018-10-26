@@ -150,7 +150,7 @@ self-invented therapy](http://www.akita-friends.com/special/satreat.htm)
 rating](/img/2-bones.gif)
 
 [Test breedings reveal inheritance mode of SA,
-DMS](http://veterinarynews.dvm360.com/dvm/article/articleDetail.jsp?id=7253)
+DMS](http://veterinarynews.dvm360.com/test-breedings-reveal-inheritance-mode-sa-dms)
 By: *Alice Jeromin, DVM, Dipl. ACVD* ![two bones
 rating](/img/2-bones.gif)
 

@@ -18,6 +18,6 @@ title = "Selecting A Samoyed Puppy"
 
 - [Samoyed Rescue Alliance](http://www.samoyedrescue.com/)
 
-- [National Samoyed Rescue](http://www.samoyedrescue.org/)
+- [National Samoyed Rescue](https://samoyedrescue.org/)
 
 - [AKC Registration](http://www.akc.org/reg/index.cfm?nav_area=registration)

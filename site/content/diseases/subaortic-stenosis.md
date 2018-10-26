@@ -179,8 +179,7 @@ situation."
 Suggested Links
 ---------------
 
-PDF file of the [Cardiac
-Lecture](files/Heart%20Disease%20in%20the%20Samoyed.html "2006 Cardiac Lecture")
+PDF file of the [Cardiac Lecture](/files/2006 Cardiac Lecture-abridged version.pdf)
 given by Allison Heaney, DVM, Diplomate ACVIM (Cardiology) at the 2006
 SCA National Specialty held in Post Falls, ID.  ![3
 bones](/img/3-bones.gif)

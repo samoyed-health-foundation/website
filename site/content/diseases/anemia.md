@@ -112,7 +112,7 @@ Suggested Links
 
 
 
-[Blood Cells and Complete Blood Counts (CBC) in Animals](http://www.peteducation.com/article.cfm?c=2+2144&aid=987) at PetEducation.com
+[Blood Cells and Complete Blood Counts (CBC) in Animals](https://www.petcoach.co/article/blood-cells-complete-blood-counts-cbc-in-animals/)
 ![2 bones](/img/2-bones.gif)
 
 [Dog Anemia](http://www.dog-health-guide.org/doganemia.html) at dog-health-guide.org
