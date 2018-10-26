@@ -10,27 +10,27 @@ title = "Behavior"
 
 - [Puppy socialization](http://www.canismajor.com/dog/socializ.html)
 
-- [Developing High Achievers](http://www.breedingbetterdogs.com/achiever.html) - Originally published as "Early Neurological Stimulation" by Carmen L. Battaglia
+- [Developing High Achievers](https://breedingbetterdogs.com/seminars/breeding-better-dogs) - Originally published as "Early Neurological Stimulation" by Carmen L. Battaglia
 
 
 # Training And Behavior
 
 
-- [Living with Your Samoyed](http://www.samoyed.org/SCA/documents/scalivingwithyoursamoyed.pdf) - a Samoyed Club of America publication
+- [The Samoyed](https://www.samoyedclubofamerica.org/the-samoyed/) - a Samoyed Club of America publication
 
 - [Puppy training](http://www.clickersolutions.com/articles/#puppy) including mouthing
 
 - [Crate training](http://samoyed.cc/cratetraining.html)
 
-- [Calming Signals](http://www.k9events.com/calmingsignals.htm) - a large collection of links on how to read your dog's body language
+- [Calming Signals](https://www.k9ofmine.com/dog-calming-signals/) - a large collection of links on how to read your dog's body language
 
 - [Aberrant behavior](http://www.clickersolutions.com/articles/#problem) including aggression, separation anxiety
 
 - [Misconceptions about pack dominance](http://www.clickersolutions.com/articles/2001/dominance.htm)
 
-- [Dog Behavior Information and Advice](http://www.ddfl.org/tips.htm#dog)
+- [Dog Behavior Information and Advice](https://www.k9ofmine.com/dog-behavior/)
 
-- [My Smart Puppy Library of Articles](https://mysmartpuppy.com/)
+- [My Smart Puppy Blog](https://mysmartpuppy.com/category/puppy-training/)
 
 - a seasonal nightmare - females in season/male behavior
 
@@ -43,8 +43,6 @@ title = "Behavior"
 
 # Microchipping
 
-
-- [Be Prepared](http://www.breedingbetterdogs.com/prepared.html) by Dr. Carmen L. Battaglia
 
 - [AKC Companion Animal Recovery](http://www.akccar.org/)
 

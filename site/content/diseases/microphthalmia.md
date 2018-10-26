@@ -159,7 +159,7 @@ bones](/img/3-bones.gif)
 OFA is the US overseer for heritable eye disease in dogs and has the US
 database.
 
-[http://www.offa.org/eye\_overview.html ](http://www.offa.org/eye_overview.html)
+[https://www.ofa.org/?s=eye+overview](https://www.ofa.org/?s=eye+overview)
 ![3 bones](/img/3-bones.gif)
 
 <https://www.ofa.org/diseases/eye-certification/eye-faqs>

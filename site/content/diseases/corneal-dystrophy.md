@@ -93,7 +93,7 @@ bred either. Samoyeds used for breeding should be examined each year by
 a board certified Veterinary ophthalmologist. If free from heritable eye
 disease they may be certified by the OFA  Eye Certification Registry.
 The
-[certification](http://www.offa.org/eye_regproc.html) is
+[certification](https://www.ofa.org/diseases/eye-certification) is
 only valid for 12 months, then the dog must be reexamined to be
 recertified.
 
@@ -137,7 +137,7 @@ rating](/img/2-bones.gif)
 
 
 [OFA Eye Certification Registry
-Overview](http://www.offa.org/eye_overview.html)
+Overview](https://www.ofa.org/?s=eye+overview)
 ![three bones
 rating](/img/3-bones.gif)
 

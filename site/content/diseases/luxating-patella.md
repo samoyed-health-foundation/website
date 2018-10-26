@@ -307,7 +307,7 @@ The Orthopedic Foundation of America will issue registration numbers to
 dogs whose patellar have been examined and manipulated by a vet,
 forwarded to the OFA, and found to be normal. For More Information visit
 the [Orthopedic Foundation of
-America](http://www.offa.org/pdf/plapp_bw.pdf)
+America](http://www.ofa.org/pdf/plapp_bw.pdf)
 
 
 
@@ -321,7 +321,7 @@ Luxations](https://www.acvs.org/small-animal/patellar-luxations)
 <http://www.ovrs.com/brochures/patellar-luxation-pamphlet.pdf>
 ![2 bones](/img/2-bones.gif)
 
-[http://www.offa.org/pl\_overview.html](http://www.offa.org/pl_overview.html)
+[https://www.ofa.org/diseases/other-diseases/patellar-luxation](https://www.ofa.org/diseases/other-diseases/patellar-luxation)
 ![3 bones](/img/3-bones.gif)
 
 <https://cpvh.com/luxating-patella-knee-cap>  ![2

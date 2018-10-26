@@ -12,9 +12,7 @@ title = "Genetics"
   - Now OFA is a semi-closed registry. All normal results are still released, but abnormal results will only be released to the public with owner consent.
 - Open registries would provide information on normals, affected and carriers.
 
-- [OFA](http://www.offa.org/) (hip, thyroid, pra, heart, sebaceous adentitis, etc.)
-
-- [CERF](http://www.vmdb.org/cerf.html)
+- [OFA](https://www.ofa.org/) (hip, thyroid, pra, heart, sebaceous adentitis, etc.)
 
 - [PennHIP](http://www.pennhip.org/)
 
@@ -50,11 +48,9 @@ CHIC liaison is [Cheri Hollenback](mailto:SammyMom@aol.com?subject=CHIC)
 
 - [Genetics And Breeding Strategies: Essays For The Dog Breeder](http://www.pawpeds.com/pawacademy/genetics/breedingstrategies/) by Dr. Susan Thorpe-Vargas
 
-- [Canine Inherited Disorders Database](http://www.upei.ca/~cidd/intro.htm)
+- [Canine Inherited Disorders Database](http://cidd.discoveryspace.ca/)
 
-- [Dog Genome Project](http://mendel.berkeley.edu/dog.html)
-
-- [Genetics and Diversity](http://www.canine-genetics.com/Genetics.htm) on the canine-genetics.com website
+- [Understanding canine genetics](https://www.thekennelclub.org.uk/health/for-breeders/understanding-canine-genetics/)
 
 - [Breeding for Health](http://www.malamutehealth.org/articles/breeding.htm) on the malamutehealth.org website
 

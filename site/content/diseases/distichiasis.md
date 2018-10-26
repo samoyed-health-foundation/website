@@ -101,7 +101,7 @@ Veterinarian* [By Kirk N. Gelatt and Janice Peterson Gelatt, Published 2001. Els
 ![4 bones](/img/4-bones.gif)
 
 
-[Distichiasis](http://www.peteducation.com/article.cfm?cls=2&cat=1607&articleid=420)
+[Distichiasis](https://www.petcoach.co/article/distichiasis-eyelashes-irritating-the-eye-in-dogs/)
 by Race Foster, DVM and Marty Smith, DVM on the peteducation.com
 website
 ![2 bones](/img/2-bones.gif)
@@ -129,7 +129,7 @@ Suggested Links
 ---------------
 
 [OFA Eye Certification
-Registry](http://www.offa.org/eye_overview.html)  is the
+Registry](https://www.ofa.org/?s=eye+overview)  is the
 US registry for eye disease in dogs
 ![3 bones](/img/3-bones.gif)
 
@@ -143,8 +143,6 @@ routinely eye tested in the UK.
 [Distichiasis](http://www.merckvetmanual.com/mvm/eye_and_ear/ophthalmology/eyelids.html?qt=distichiasis&alt=sh)
 from the Merck Veterinary Manual Online - scroll down the page for a photograph
 ![4 bones](/img/4-bones.gif)
-
-<http://www.vmdb.org/cerf.html>
 
 
 > ![1 bone](/img/1-bone.gif)

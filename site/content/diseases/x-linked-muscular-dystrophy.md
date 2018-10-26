@@ -132,7 +132,7 @@ Support Groups
 --------------
 
 [Canine Muscular Dystrophy
-Awareness](https://www.facebook.com/pages/Canine-Muscular-Dystrophy-Awareness-Page/156263201073112?sk=info)
+Awareness](https://www.facebook.com/Canine-Hemophilia-Support-Group-133078033429365/)
 on Facebook.
 
 Suggested Links

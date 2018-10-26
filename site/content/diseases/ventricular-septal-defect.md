@@ -99,7 +99,7 @@ rating](/img/2-bones.gif)
 
 
  [Congenital Cardiac Disease and the
-OFA](http://www.offa.org/cardiac_about.html)  ![three
+OFA](https://www.ofa.org/diseases/other-diseases/cardiac-disease)  ![three
 bones
 rating](/img/3-bones.gif)
 

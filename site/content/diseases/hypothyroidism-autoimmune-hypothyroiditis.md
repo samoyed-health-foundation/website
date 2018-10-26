@@ -237,7 +237,7 @@ Detailed information from a company that does diagnostic testing:
 
 Information from the OFA on how they interpret test results:
 
--   (8) [http://www.offa.org/thygrade.html](http://www.offa.org/thy_class.html)  ![3
+-   (8) [https://www.ofa.org/diseases/other-diseases/hypothyroidism/thyroid-labs](https://www.ofa.org/diseases/other-diseases/hypothyroidism/thyroid-labs)  ![3
     bones](/img/3-bones.gif)
 
 **References - Other:**
@@ -274,7 +274,7 @@ of registering with that organization:
 [OFA Website](https://www.ofa.org/diseases/other-diseases/hypothyroidism)
 ![3 bones](/img/3-bones.gif)
 
-[OFA Thyroid Application](http://www.offa.org/pdf/thyapp_bw.pdf)
+[OFA Thyroid Application](http://www.ofa.org/pdf/thyapp_bw.pdf)
 
 
 

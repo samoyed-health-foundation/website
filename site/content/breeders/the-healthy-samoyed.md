@@ -4,8 +4,6 @@ title = "The Healthy Samoyed"
 
 - [The Healthy Dog](https://www.akc.org/expert-advice/health/) from the American Kennel Club
 
-- [Puppy Guide](http://www.shadow-woodsams.com/puppyguide.html) by Patti Rasmussen
-
 - [The Senior Dogs Project](http://srdogs.com/)
 
 - [Temperature Adaptation in Northern Dogs](http://www.samoyed.org/heat.html) by Ted Greenlee -
@@ -19,15 +17,15 @@ including the reasons you do not want to shave your Samoyed's coat
 
 - [Complementary, Alternative, and Holistic Veterinary Medicine](http://www.altvetmed.org/)
 
-- [International Veterinary Acupuncture Society](http://www.ivas.org/) and [How to Locate a Practitioner](https://www.ivas.org/)
+- [International Veterinary Acupuncture Society](http://www.ivas.org/) and [How to Locate a Practitioner](https://www.ivas.org/members-only-section/ivas-partners/)
 
-- [American Veterinary Chiropractic Association](http://www.avcadoctors.com/) and [How to Locate a Practitioner](http://www.avcadoctors.com/)
+- [American Veterinary Chiropractic Association](http://www.avcadoctors.com/) and [How to Locate a Practitioner](http://animalchiropractic.org/avca-doctor-search.htm)
 
 
 # Vaccination Information
 
 
-- [2006 AAHA Canine Vaccine Guidelines](https://www.aaha.org/pet_owner/aaha_guidelines/aahas_canine_vaccination_guidelines.aspx)
+- [2017 AAHA Canine Vaccine Guidelines](https://www.aaha.org/pet_owner/aaha_guidelines/aahas_canine_vaccination_guidelines.aspx)
 
 - [New Vaccine Protocols](http://www.newvaccinationprotocols.com/) by Dr. Bob Rogers, DVM
 

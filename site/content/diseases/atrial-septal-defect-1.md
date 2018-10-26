@@ -102,7 +102,7 @@ Island   ![three bones
 rating](/img/3-bones.gif)
 
 [Congenital Cardiac Disease and the
-OFA](http://www.offa.org/cardiac_about.html)   ![three bones rating](/img/3-bones.gif)
+OFA](https://www.ofa.org/diseases/other-diseases/cardiac-disease)   ![three bones rating](/img/3-bones.gif)
 
 
 

@@ -48,7 +48,7 @@ title = "Health Problems"
 
 - [Differentiating Sulfur Compounds](http://www.itmonline.org/arts/sulfa.htm) - Sulfa Drugs, Glucosamine Sulfate, Sulfur, and Sulfiting Agents by Subhuti Dharmananda, Ph.D., Director, Institute for Traditional Medicine, Portland, Oregon
 
-- [Animal Pharmacy Center](http://www.marvistavet.com/pharmacy-center.pml) on the Mar Vista Animal Medical Center website
+- [Animal Pharmacy Center](https://marvista.vetsfirstchoice.com/) on the Mar Vista Animal Medical Center website
 
 - [Freedom Of Information (FOI)](https://www.fda.gov/AnimalVeterinary/SafetyHealth/ReportaProblem/ucm055305.htm) summaries
 
@@ -72,7 +72,7 @@ title = "Health Problems"
 
 - [Understanding Deramaxx® - Smart Drug or Clever Marketing?](http://www.vetnsaids.com/)
 
-- **[Brochure on how to use NSAIDS (pain relief medications) safely](http://www.fda.gov/downloads/AnimalVeterinary/NewsEvents/CVMUpdates/UCM054572.pdf) - this could save your dog's life.**
+- **[Advice to Dog Owners Whose Pets Take NSAIDs](https://www.fda.gov/AnimalVeterinary/ResourcesforYou/AnimalHealthLiteracy/ucm419032.htm) - this could save your dog's life.**
 
 
 

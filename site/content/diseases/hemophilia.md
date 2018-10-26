@@ -170,7 +170,7 @@ Support Groups
 --------------
 
 [Canine
-Hemophilia](http://www.facebook.com/pages/Canine-Hemophilia-Support-Group/133078033429365)
+Hemophilia](https://www.facebook.com/Canine-Hemophilia-Support-Group-133078033429365/)
 There is a Canine Hemophilia Support Group on Facebook.
 
 

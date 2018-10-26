@@ -63,7 +63,7 @@ undesirable, X-rays are frequently used to screen dogs prior to
 breeding.  The X-rays can be sent to an organization that provides an
 independent evaluation of the dog's elbows.  In the United States the
 Orthopedic Foundation for Animals
-([OFA](http://www.offa.org/)) provides this service;
+([OFA](https://www.ofa.org/)) provides this service;
 they issue an OFA elbow registry number if the elbows are normal.  If
 not, the degree of dysplasia is rated as Grade I, II or III.  There are
 similar organizations in other countries.  Each organization evaluates
@@ -111,9 +111,7 @@ minimal risk.  The following OFA article discusses how to use available
 information, including a "vertical pedigree," to help make breeding
 decisions.
 
-[Collecting and utilizing phenotypic data to minimize disease:  A
-breeder's practical
-guide](http://www.offa.org/pdf/hovanart.pdf)  ![three
+[Collecting and utilizing phenotypic data to minimize disease:  A breeder's practical guide](https://www.ofa.org/pdf/hovanart.pdf)  ![three
 bones
 rating](/img/3-bones.gif)
 
@@ -124,7 +122,7 @@ rating](/img/3-bones.gif)
 References
 ----------
 
-[Elbow Dysplasia](http://www.offa.org/ed_types.html) at
+[Elbow Dysplasia](https://www.ofa.org/diseases/elbow-dysplasia) at
 the Orthopedic Foundation for Animals  ![three bones
 rating](/img/3-bones.gif)
 

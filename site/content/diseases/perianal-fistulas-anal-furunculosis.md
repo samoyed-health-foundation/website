@@ -149,7 +149,7 @@ This website has personal accounts of dogs with perianal fistulas ![one
 bone
 rating](/img/1-bone.gif)
 
-[http://www.peteducation.com/article.cfm?c=2+2111&aid=2921](http://www.peteducation.com/article.cfm?c=2+2111&aid=2921) ![two
+[https://www.petcoach.co/article/perianal-fistulas-in-dogs/](https://www.petcoach.co/article/perianal-fistulas-in-dogs/) ![two
 bones
 rating](/img/2-bones.gif)
 

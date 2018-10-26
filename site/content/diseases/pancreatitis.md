@@ -164,7 +164,7 @@ Suggested Links
 ---------------
 
 [Pancreatitis (Inflammation) in
-Dogs](http://www.peteducation.com/article.cfm?c=2+2103&aid=335)
+Dogs](https://www.petcoach.co/article/pancreatitis-inflammation-in-dogs/)
 at www.peteducation.com  ![two bones
 rating](/img/2-bones.gif)
 

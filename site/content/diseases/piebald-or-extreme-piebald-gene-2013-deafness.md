@@ -156,7 +156,7 @@ bones](/img/2-bones.gif)
 
 
 
-[http://www.offa.org/deaf\_genetics.html](http://www.offa.org/deaf_genetics.html)
+[https://www.ofa.org/diseases/other-diseases/congenital-deafness](https://www.ofa.org/diseases/other-diseases/congenital-deafness)
 ![3 bones](/img/3-bones.gif)
 
 

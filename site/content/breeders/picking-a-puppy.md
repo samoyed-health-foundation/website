@@ -57,8 +57,6 @@ It has been suggested, somewhat seriously, that a new dog breed should be invent
 
 [Complete List of Dog-Related Email Lists](http://www.k9web.com/dog-faqs/lists/email-list.html)
 
-[CataList, the official catalog of LISTSERV lists](http://www.lsoft.com/lists/listrefhtml)
-
 [Welcome to Dogpile, the Friendly Multi-Engine](http://www.dogpile.com/)
 
 **Recommended Books and Training sites:**
@@ -66,10 +64,6 @@ It has been suggested, somewhat seriously, that a new dog breed should be invent
 [Don't Shoot the Dog by Karen Pryor](http://www.amazon.co.uk/exec/obidos/ASIN/1860542387/thedogscene)
 
 [The Culture Clash by Jean Donaldson](http://www.amazon.co.uk/exec/obidos/ASIN/1888047054/thedogscene)
-
-[Dr. P's Dog Training Library - Behav. Probs.](http://www.uwsp.edu/psych/dog/lib-prob.htm)
-
-[The Use of Operant Conditioning in Dog Training](http://mmg2.im.med.umich.edu/~kleung/training.html)
 
 -----
 

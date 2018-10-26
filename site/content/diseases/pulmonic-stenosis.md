@@ -153,7 +153,7 @@ Suggested Links
     Search for 'pulmonic stenosis'.  This site has a wealth of
     information on it, as well as slide presentations.  ![three bones
     rating](/img/3-bones.gif)
-2.  <http://www.offa.org/cardiac_about.html> \-- This link has good
+2.  <https://www.ofa.org/diseases/other-diseases/cardiac-disease> \-- This link has good
     descriptions of the cardiac physical and ultrasound exams.  ![three
     bones
     rating](/img/3-bones.gif)

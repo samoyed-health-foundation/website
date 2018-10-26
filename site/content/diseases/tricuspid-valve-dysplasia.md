@@ -163,7 +163,7 @@ situation."
 Suggested Links
 ---------------
 
-[http://www.offa.org/cardiac\_about.html](http://www.offa.org/cardiac_about.html)
+[https://www.ofa.org/diseases/other-diseases/cardiac-disease](https://www.ofa.org/diseases/other-diseases/cardiac-disease)
 \-- Congenital Cardiac Disease from the Orthopedic Foundation for
 Animals (OFA)  ![3 bones](/img/3-bones.gif)
 [http://www.mirage-samoyeds.com/heart.htm](http://www.mirage-samoyeds.com/heart.htm) \--
@@ -177,10 +177,6 @@ bones](/img/2-bones.gif)
 Retriever](http://www.labbies.com/tvd.htm "external-link") by Pamela A.
 Davol - with drawings of the canine heart ![one bone
 rating](/img/1-bone.gif)
-
-[Tricuspid Dysplasia: A Cardiologist's
-Perspective](http://www.reocities.com/ccrhearts/TVD2.html)
-by Lori Siemens, DVM, DACVIM ![2 bones](/img/2-bones.gif)
 
 
 

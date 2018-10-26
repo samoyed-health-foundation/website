@@ -185,7 +185,7 @@ given by Allison Heaney, DVM, Diplomate ACVIM (Cardiology) at the 2006
 SCA National Specialty held in Post Falls, ID.  ![3
 bones](/img/3-bones.gif)
 
-<http://www.offa.org/cardiac_about.html>[ ](http://www.offa.org/cardiac_about.html)
+<https://www.ofa.org/diseases/other-diseases/cardiac-disease>
 ![3 bones](/img/3-bones.gif)
 
 <http://devinefarm.net/health/ofaheart.htm>  ![one bone

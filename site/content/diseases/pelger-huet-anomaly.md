@@ -106,34 +106,22 @@ on the advisability of using the stock in future breedings.
 References
 ----------
 
-1.  [Dictionary definition of
-    Pelger-Huët](http://www.mercksource.com/pp/us/cns/cns_hl_dorlands.jspzQzpgzEzzSzppdocszSzuszSzcommonzSzdorlandszSzdorlandzSzdmd_a_43zPzhtm#12137960)
-    from www.Mercksource.com  ![four bones
-    rating](/img/4-bones.gif)
-
-2.  Aroch I, Ofri R, Aizenberg I.  [Haematological, ocular and skeletal
+1.  Aroch I, Ofri R, Aizenberg I.  [Haematological, ocular and skeletal
     abnormalities in a samoyed
     family](http://www.ncbi.nlm.nih.gov/sites/entrez?cmd=Retrieve&db=PubMed&list_uids=8840254&dopt=Citation).
     J Small Anim Pract. 1996 Jul;37(7):333-9.
 
-3.  [Pelger-Huët Anomaly in
-    Dogs](http://www.vet.uga.edu/VPP/CLERK/lorilogan/index.php); L.
-    Allison Logan, DVM; Kenneth S. Latimer, DVM, PhD; Holly A. Moore,
-    DVMClass of 2006 (Logan) and Department of Pathology (Latimer,
-    Moore), College of Veterinary Medicine, University of Georgia,
-    Athens, GA 30602-7388. Clerkship Paper   ![3
-    bones](/img/3-bones.gif)
-4.  [http://library.med.utah.edu/WebPath/HEMEHTML/HEME014.html](http://library.med.utah.edu/WebPath/HEMEHTML/HEME014.html)
+2.  [http://library.med.utah.edu/WebPath/HEMEHTML/HEME014.html](http://library.med.utah.edu/WebPath/HEMEHTML/HEME014.html)
     \-- picture of anomaly in a stained blood smear  ![3
     bones](/img/3-bones.gif)
-5.  [http://academic.sun.ac.za/haema/dept/wbc.htm](http://academic.sun.ac.za/haema/dept/wbc.htm)  \--
+3.  [https://vet.uga.edu/images/uploads/pathology/sevpac/46-Holicky.pdf](https://vet.uga.edu/images/uploads/pathology/sevpac/46-Holicky.pdf)  \--
     photographs of stained blood smears (scroll down the page for Pseudo
     Pelger Hüet Anomaly   ![3 bones](/img/3-bones.gif)
-6.  [http://www.ashgi.org/articles/fact\_pha.htm ](http://www.ashgi.org/articles/fact_pha.htm%20) \--
+4.  [http://www.ashgi.org/home-page/genetics-info/heart-and-blood/pelger-huet-anomaly](http://www.ashgi.org/home-page/genetics-info/heart-and-blood/pelger-huet-anomaly) \--
     Aussie Genetics Fact Sheet: Pelger-Huet Anomaly (PHA) by C.A. Sharp
     from the Australian Shepherd Health & Genetics Institute  ![2
     bones](/img/2-bones.gif)
-7.  Vikramjit S Kanwar, Andrew L Sherman.    [Pelger-Huet
+5.  Vikramjit S Kanwar, Andrew L Sherman.    [Pelger-Huet
     Anomaly](http://www.emedicine.com/ped/topic1753.htm).
     eMedicine from webMD, September 2007 \-- Excellent up-to-date paper
     on PHA in human beings  ![3 bones](/img/3-bones.gif)
@@ -164,7 +152,7 @@ review of PHA  ![3 bones](/img/3-bones.gif)
 
 Dusse LM, Morais E Silva RM, Freitas VM, Medeiros de Paula GM, Vieira
 LM, Carvalho MG.  [Pseudo-Pelger-Huët in kidney-transplanted
-patients](http://content.karger.com/ProdukteDB/produkte.asp?Aktion=ShowPDF&ArtikelNr=95879&ProduktNr=223829&filename=95879.pdf).
+patients](https://www.karger.com/Article/Abstract/95879).
 Acta Haematol. 2006;116(4):272-4.   \--  Excellent paper on pseudo PHA
 (changes in blood cells that are similar to changes seen in inherited
 PHA) in Kidney transplant patients. Good frontispiece descriptions of

@@ -44,12 +44,8 @@ The focus of this group is to influence legislation.
 [www.activistcash.com](http://www.activistcash.com/)
 - What are the pending laws in your state?
 [http://cqrcengage.com/naiatrust/home?2](http://cqrcengage.com/naiatrust/home?2)
-- legislation by state
-[American Dog Owners Association](http://www.adoa.org/index.php?option=com_content&task=section&id=5&Itemid=33)
 - Pending legislation by state updated monthly
 [Monthly National Legislation Report](http://mnlreport.typepad.com/the_monthly_national_legi/)
-- What government legislators are learning about animal rights?
-[http://agriculture.house.gov/testimony/110/h70508/Stenholm.DOC](http://agriculture.house.gov/testimony/110/h70508/Stenholm.DOC)
 - Pass the word
 
 > "Friends don't let friends donate to HSUS, PETA or ASPCA." - Walt Hutchens, Timbreblue Whippets
@@ -57,7 +53,6 @@ The focus of this group is to influence legislation.
 ## TAKE ACTION!
 
 - Who is supporting the pro pet lobby?
-  - [www.petPAC.net](http://www.petpac.net/)
   - [www.naiatrust.org](http://www.naiatrust.org/)\
 - American Dog Owners Association - good sample letters
 [www.adoa.org](http://www.adoa.org/)
@@ -79,8 +74,7 @@ The focus of this group is to influence legislation.
 [http://www.americanssupportinganimalownership.com/aco.pdf](http://www.americanssupportinganimalownership.com/aco.pdf)
 - Spread the word - brochures and handouts:
   - [http://www.naiaonline.org/resources/brochures.htm](http://www.naiaonline.org/resources/brochures.htm)
-  - [http://www.akc.org/canine\_legislation/brochures.cfm](http://www.akc.org/canine_legislation/brochures.cfm)
   - [http://saova.org/download.html](http://saova.org/download.html)
-  - [http://www.ncraoa.com/download.html](http://www.ncraoa.com/download.html)
+- AKC Government Relations Department [https://www.akc.org/clubs-delegates/government-relations/](https://www.akc.org/clubs-delegates/government-relations/)
 - 7 things you did not know about [HSUS](http://www.consumerfreedom.com/downloads/reference/docs/200810_CCF_7Things_HSUS.pdf) and [Peta](http://www.consumerfreedom.com/downloads/reference/docs/200810_CCF_7Things_PETA.pdf) from the Center for Consumer Freedom
 - [The Truth About Animal Rights brochure](/files/The_Truth_About_Animal_Rights.pdf) (pdf)

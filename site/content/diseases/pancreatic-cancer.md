@@ -133,7 +133,7 @@ in The Merck Veterinary Manual.   ![four bones
 rating](/img/4-bones.gif)
 
 [Canine
-Insulinoma](http://vetspecialists.co.uk/factsheets/Oncology_facts/Canine_Insulinoma.html)
+Insulinoma](https://vetspecialists.co.uk/fact-sheets-post/canine-insulinoma-fact-sheet/)
 from Davies Veterinary Specialists.  ![two bones
 rating](/img/2-bones.gif)
 

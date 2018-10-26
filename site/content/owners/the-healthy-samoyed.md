@@ -4,8 +4,6 @@ title = "The Healthy Samoyed"
 
 - [The Healthy Dog](https://www.akc.org/expert-advice/health/) from the American Kennel Club
 
-- [Puppy Guide](http://www.shadow-woodsams.com/puppyguide.html) by Patti Rasmussen
-
 - [The Senior Dogs Project](http://srdogs.com/)
 
 - [Temperature Adaptation in Northern Dogs](http://www.samoyed.org/heat.html) by Ted Greenlee -
@@ -19,15 +17,15 @@ including the reasons you do not want to shave your Samoyed's coat
 
 - [Complementary, Alternative, and Holistic Veterinary Medicine](http://www.altvetmed.org/)
 
-- [International Veterinary Acupuncture Society](http://www.ivas.org/) and [How to Locate a Practitioner](https://www.ivas.org/)
+- [International Veterinary Acupuncture Society](http://www.ivas.org/) and [How to Locate a Practitioner](https://www.ivas.org/members-only-section/ivas-partners/)
 
-- [American Veterinary Chiropractic Association](http://www.avcadoctors.com/) and [How to Locate a Practitioner](http://www.avcadoctors.com/)
+- [American Veterinary Chiropractic Association](http://www.avcadoctors.com/) and [How to Locate a Practitioner](http://animalchiropractic.org/avca-doctor-search.htm)
 
 
 # Vaccination Information
 
 
-- [2006 AAHA Canine Vaccine Guidelines](https://www.aaha.org/pet_owner/aaha_guidelines/aahas_canine_vaccination_guidelines.aspx)
+- [2017 AAHA Canine Vaccine Guidelines](https://www.aaha.org/pet_owner/aaha_guidelines/aahas_canine_vaccination_guidelines.aspx)
 
 - [New Vaccine Protocols](http://www.newvaccinationprotocols.com/) by Dr. Bob Rogers, DVM
 
@@ -45,6 +43,12 @@ including the reasons you do not want to shave your Samoyed's coat
 
 - [Information on Prescription Diets](http://www.prescriptiondiets.com/)
 
+- [https://www.dogfoodadvisor.com/](https://www.dogfoodadvisor.com/)
+
+- [https://www.consumeraffairs.com/pets/pet-food/#](https://www.consumeraffairs.com/pets/pet-food/#)
+
+- [https://www.fidosavvy.com/dog-food-comparison.html](https://www.fidosavvy.com/dog-food-comparison.html)
+
 - [Pet Food Recall Information ](/dog-food-recall-information)
 
 
@@ -55,8 +59,12 @@ including the reasons you do not want to shave your Samoyed's coat
 the Cornell website where you can search these pages by the plant's
 common name or scientific name or by plant category.
 
-- [ASPCA Poison Control](http://www.aspca.org/site/PageServer?pagename=pro_apcc) 1-888-426-4435.
+- [ASPCA Poison Control](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants) 1-888-426-4435.
 A $60 consultation fee may be applied to your credit card.
 
 - [Kansas State Poison Control hotline](http://www.mediarelations.k-state.edu/newsreleases/pethealth/poisonhotline121107.html) - 785-532-5679
 (free)
+
+- [UC Davis - Plants Reported to be Poisonous to Animals](https://wric.ucdavis.edu/PDFs/plants%20reported%20to%20be%20poisonous%20to%20animals.pdf)
+
+- [Books on toxic plants](http://guides.library.illinois.edu/c.php?g=348314&p=2351054)

@@ -169,7 +169,7 @@ Suggested Links
 ---------------
 
 [OFA Eye
-Evaluation](http://www.offa.org/eye_evaluation.html)
+Evaluation](https://www.ofa.org/?s=eye+evaluation)
 ![three bones rating](/img/3-bones.gif)
 
 [Merck Veterinary

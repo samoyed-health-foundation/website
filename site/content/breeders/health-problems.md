@@ -20,11 +20,13 @@ title = "Health Problems"
 
 - [Differentiating Sulfur Compounds](http://www.itmonline.org/arts/sulfa.htm) - Sulfa Drugs, Glucosamine Sulfate, Sulfur, and Sulfiting Agents by Subhuti Dharmananda, Ph.D., Director, Institute for Traditional Medicine, Portland, Oregon
 
-- [Animal Pharmacy Center](http://www.marvistavet.com/pharmacy-center.pml) on the Mar Vista Animal Medical Center website
+- [Animal Pharmacy Center](https://marvista.vetsfirstchoice.com/) on the Mar Vista Animal Medical Center website
 
-- [Freedom Of Information (FOI)](https://www.fda.gov/AnimalVeterinary/SafetyHealth/ReportaProblem/ucm055305.htm) summaries
+- [Freedom Of Information (FOI)](https://www.fda.gov/RegulatoryInformation/FOI/ucm390370.htm) summaries
 
-- [How to Report An Adverse Drug Experience](https://www.fda.gov/AnimalVeterinary/default.htm) on the [FDA's Center For Veterinary Medicine](http://www.fda.gov/AnimalVeterinary/default.htm) website
+- [How to Report An Adverse Drug Experience](https://www.fda.gov/AnimalVeterinary/SafetyHealth/ReportaProblem/ucm055305.htm) on the [FDA's Center For Veterinary Medicine](http://www.fda.gov/AnimalVeterinary/default.htm) website
+
+- [Approved Animal Drug Products](https://www.fda.gov/AnimalVeterinary/Products/ApprovedAnimalDrugProducts/default.htm)
 
 - [Drug dosages](http://www.ahc.umn.edu/rar/umnuser/formulary.html) on the Veterinary Formulary page of Research Animal Resources, University of Minnesota webpages - how to read that prescription bottle
 
