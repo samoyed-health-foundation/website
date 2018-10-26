@@ -6,7 +6,7 @@ title = "Health Problems"
 # General
 
 
-- [Samoyed specific health disorders/diseases](/diseases/disorders-syndromes-and-conditions)
+- [Samoyed specific health disorders/diseases](/diseases)
 
 - [Samoyed health links](http://www.mirage-samoyeds.com/healthlinks1.htm)
 

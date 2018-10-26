@@ -136,8 +136,8 @@ rating](/img/1-bone.gif)
 
 
 [Ventricular Septal Defect (VSA):  A Congenital Heart Disorder in
-Puppies](http://www.peteducation.com/article.cfm?c=2+2096&aid=886),
-Foster and Smith peteducation.com ![two bones
+Puppies](https://www.petcoach.co/article/ventricular-septal-defect-vsa-a-congenital-heart-disorder-i/),
+Foster and Smith ![two bones
 rating](/img/2-bones.gif)
 
 

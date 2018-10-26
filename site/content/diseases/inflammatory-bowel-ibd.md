@@ -139,8 +139,8 @@ References
 ----------
 
 [Inflammatory Bowel Disease in
-Dogs](http://www.peteducation.com/article.cfm?c=2+2090&aid=305),
-an excellent, concise summary at peteducation.com   ![two bones
+Dogs](https://www.petcoach.co/article/inflammatory-bowel-disease-ibd-in-dogs/),
+an excellent, concise summary   ![two bones
 rating](/img/2-bones.gif)
 
 

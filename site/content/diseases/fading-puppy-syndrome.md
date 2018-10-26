@@ -170,7 +170,7 @@ define preventive steps for future litters.
 <http://showdogsupersite.com/kenlclub/breedvet/fading.html>
 ![2 bones](/img/2-bones.gif)
 
-[http://www.peteducation.com/article.cfm?cls=2&articleid=443](http://www.peteducation.com/article.cfm?cls=2&articleid=443)
+[https://www.petcoach.co/article/herpes-virus-infection-in-dogs-a-cause-of-puppy-death/](https://www.petcoach.co/article/herpes-virus-infection-in-dogs-a-cause-of-puppy-death/)
 ![2 bones](/img/2-bones.gif)
 
 

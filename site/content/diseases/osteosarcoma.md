@@ -246,7 +246,7 @@ PH Sugarbaker.  Kluwer Academic Publishers
 rating](/img/4-bones.gif)
 
 [Canine Osteosarcoma: Amputation and Life
-Quality](http://www.dogcancerblog.com/canine-osteosarcoma-amputation-and-life-quality/)
+Quality](https://www.dogcancerblog.com/video/amputation-for-dogs-with-osteosarcoma-cancer/)
 at www.dogcancerblog.com    ![two bones
 rating](/img/2-bones.gif)
 

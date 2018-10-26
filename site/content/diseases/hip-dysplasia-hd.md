@@ -113,7 +113,7 @@ References
 [Orthopedic Foundation for Animals](https://www.ofa.org/diseases/hip-dysplasia)
 ![three bones rating](/img/3-bones.gif)
 
-[PennHIP](http://info.antechimagingservices.com/pennhip/navigation/general/what-is-PennHIP.html)
+[PennHIP](https://info.antechimagingservices.com/pennhip/what-pennhip)
 ![three bones rating](/img/3-bones.gif)
 
 

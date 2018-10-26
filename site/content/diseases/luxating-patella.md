@@ -315,7 +315,7 @@ America](http://www.ofa.org/pdf/plapp_bw.pdf)
 Luxations](https://www.acvs.org/small-animal/patellar-luxations)
 ![3 bones](/img/3-bones.gif)
 
-[http://www.peteducation.com/article.cfm?cls=2&cat=1569&articleid=457](http://www.peteducation.com/article.cfm?cls=2&cat=1569&articleid=457)
+[https://www.petcoach.co/article/luxating-patella/](https://www.petcoach.co/article/luxating-patella/)
 ![2 bones](/img/2-bones.gif)
 
 <http://www.ovrs.com/brochures/patellar-luxation-pamphlet.pdf>
@@ -324,7 +324,7 @@ Luxations](https://www.acvs.org/small-animal/patellar-luxations)
 [https://www.ofa.org/diseases/other-diseases/patellar-luxation](https://www.ofa.org/diseases/other-diseases/patellar-luxation)
 ![3 bones](/img/3-bones.gif)
 
-<https://cpvh.com/luxating-patella-knee-cap>  ![2
+<https://www.lifelearn-cliented.com/iframe.php?action=view&clinic=3094&rid=836&c=22682-20181026154945-ac9f9074ee8d439619deed84d7e06cdd&print=1>  ![2
 bones](/img/2-bones.gif)
 
 [Merck Veterinary Manual

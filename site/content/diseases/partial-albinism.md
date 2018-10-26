@@ -133,8 +133,7 @@ By Jeff Sampson  and Anatoly Ruvinsky.  2001 CABI Publishing.  Page
 
 
 
-**[Albinism in
-Dogs](http://links.jstor.org/sici?sici=0006-3444%28192912%2921%3A1%2F4%3C144%3AAID%3E2.0.CO%3B2-G&size=LARGE&origin=JSTOR-enlargePage "external-link").**
+**[Albinism in Dogs](https://www.jstor.org/stable/2332555?seq=1#page_scan_tab_contents).**
 Karl Pearson, C. H. Usher.  *Biometrika*, Vol. 21, No. 1 of 4 (Dec., 1929), pp. 144-163 doi:10.2307 of 2332555  ![2 bones](/img/2-bones.gif)
 
 Fascinating reading about colour breeding after the first World War.

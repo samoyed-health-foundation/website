@@ -136,7 +136,7 @@ Support Groups
 
 
 
-<http://pets.groups.yahoo.com/group/dogheart/>
+<https://groups.yahoo.com/neo/groups/dogheart/info>
 
 dogheart yahoo group- "This list is for pet owners whose canine
 companions suffer from congestive heart failure, cardiomyopathy or other

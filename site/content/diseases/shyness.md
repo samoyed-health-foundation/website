@@ -264,22 +264,6 @@ Brief Description:  Training Tips
 
 
 
-[Dog Tip: Help for the Shy and Fearful
-Dog](http://www.paw-rescue.org/PAW/PETTIPS/DogTip_Shy.php) on the
-Partnership for Animal Welfare website ![two bones
-rating](/img/2-bones.gif)
-
-
-
-Brief Description:  Ways to help your shy or fearful dog in varying
-situations
-
-
-
-Brief Description:  What to Do, What Not to Do, Socializing Your Dog,
-Correction, Training
-
-
 
 [Shy Dogs FAQ](http://kimmurphy.net/shy-k9s-faq.html)
 from the Shy-k9s Mailing List ![two bones
@@ -311,14 +295,6 @@ rating](/img/2-bones.gif)
 
 Brief Description:  Socialization of the shy dog (Bichon)
 
-
-
-[Pet Information Sheet on Shy
-Dogs](http://www.mendocinohumane.org/html/shy.html) from the Mendocino
-Coast Humane Society website ![two bones
-rating](/img/2-bones.gif)
-
-Brief Description:  Pet Information Sheet
 
 
 
