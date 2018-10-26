@@ -4,6 +4,8 @@ title = "The Healthy Samoyed"
 
 - [The Healthy Dog](https://www.akc.org/expert-advice/health/) from the American Kennel Club
 
+- [How to Keep Your Dog Healthy](https://www.akc.org/expert-advice/health/how-to-keep-your-dog-healthy/) from the American Kennel Club
+
 - [The Senior Dogs Project](http://srdogs.com/)
 
 - [Temperature Adaptation in Northern Dogs](http://www.samoyed.org/heat.html) by Ted Greenlee -

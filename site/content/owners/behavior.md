@@ -28,6 +28,8 @@ title = "Behavior"
 
 - [The Dominant Dog](http://www.akcchf.org/educational-resources/library/articles/articles/The-Dominant-Dog-07-1997.pdf) by Jacquie Neilson, DVM, DACVB
 
+- [Anxiety Disorders in Dogs](https://www.petmd.com/dog/slideshows/anxiety-disorders-dogs-symptoms-diagnosis-and-treatment)
+
 - [The Interaction of Illness and Behavior](http://www.mmilani.com/writing/articles/dogs/canine-illness-behavior/) by Myrna Milani, BS, DVM
 
 
