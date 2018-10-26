@@ -15,7 +15,7 @@ the ancestral gene pool".
 
 - Historians of the Samoyed breed claim that the breed was
 derived from as few as 12 dogs.
-A [*National Geographic* news article](http://news.nationalgeographic.com/news/2002/12/1210_021210_doggenome.html) states
+A [*National Geographic* news article](https://news.nationalgeographic.com/news/2011/08/110819-dogs-wolves-russia-domestication-animals-science-evolution/) states
 that the Samoyed is one of 5 breeds considered "somewhat rare"
 and having "small breeding populations. There is not a lot of
 genetic diversity in these breeds, making sequencing easier, say

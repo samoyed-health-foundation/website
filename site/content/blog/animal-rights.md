@@ -17,21 +17,19 @@ The AR agenda is a serious threat to our right to own and control the care for o
 ## BECOME AWARE!
 
 - Learn about what AR really means:
-[http://www.naiatrust.org/opposition.htm](http://www.naiatrust.org/opposition.htm)
+[http://www.naiatrust.org/what-is-animal-law-available-for-download/](http://www.naiatrust.org/what-is-animal-law-available-for-download/)
 - Do you know the difference between Animal Rights and Animal Welfare?
-[http://www.ncraoa.com/AR\_VS\_AW.html](http://www.ncraoa.com/AR_VS_AW.html)
+[http://protecttheharvest.com/2016/12/06/animal-rights-animal-welfare-know-difference/](http://protecttheharvest.com/2016/12/06/animal-rights-animal-welfare-know-difference/)
 - Animal Rights as a world problem -
 [http://www.naiaonline.org/body/articles/archives/animalrights.htm](http://www.naiaonline.org/body/articles/archives/animalrights.htm)
 - The Animal Rights goals for ending the use of animals.
 [http://www.naiaonline.org/articles/archives/aragenda.htm](http://www.naiaonline.org/articles/archives/aragenda.htm)
-- True animal welfare experts (article)
-[http://www.hpj.com/archives/2007/jun07/jun11/Trueanimalwelfareexperts.cfm](http://www.hpj.com/archives/2007/jun07/jun11/Trueanimalwelfareexperts.cfm)
 - The Future of Dogs
 [www.pet-law.com](http://www.pet-law.com/future/intro.html)
 
 ## STAY INFORMED!
 
-[http://www.naiatrust.org/index.htm](http://www.naiatrust.org/index.htm)
+[http://www.naiaonline.org/about-us/mission-statements/](http://www.naiaonline.org/about-us/mission-statements/)
 
 > The NAIA Trust is a nonprofit 501 (c) 4 organization established
 > under the Internal Revenue Code to promote responsible animal care and
@@ -41,11 +39,11 @@ The AR agenda is a serious threat to our right to own and control the care for o
 The focus of this group is to influence legislation.
 
 - AKC Canine Legislation
-[http://www.akc.org/canine\_legislation/index.cfm](http://www.akc.org/canine_legislation/index.cfm)
+[https://www.akc.org/clubs-delegates/government-relations/donations/](https://www.akc.org/clubs-delegates/government-relations/donations/)
 - Who are the Animal Rights organizations? or Follow the Money!
 [www.activistcash.com](http://www.activistcash.com/)
 - What are the pending laws in your state?
-[http://www.naiatrust.org/gov/leg\_by\_state.html](http://www.naiatrust.org/gov/leg_by_state.html)
+[http://cqrcengage.com/naiatrust/home?2](http://cqrcengage.com/naiatrust/home?2)
 - legislation by state
 [American Dog Owners Association](http://www.adoa.org/index.php?option=com_content&task=section&id=5&Itemid=33)
 - Pending legislation by state updated monthly

@@ -2,9 +2,9 @@
 title = "All SCARF sponsored studies"
 +++
 
-You can read about how AKCCHF approves grant proposals at http://www.akcchf.org/research/application-process/.
+You can read about how AKCCHF approves grant proposals at [http://www.akcchf.org/research/application-process/](http://www.akcchf.org/research/application-process/).
 
-You can read about how MAF approves grant proposals at http://www.morrisanimalfoundation.org/for-grant-seekers/.
+You can read about how MAF approves grant proposals at [https://www.morrisanimalfoundation.org/dogs](https://www.morrisanimalfoundation.org/dogs)
 
 
 # Samples requested
@@ -299,7 +299,7 @@ Inc.
 # Funded Research Grants (2009)
 
 
-- [Rabies Challenge Fund](http://www.rabieschallengefund.org/) [\[Summary\]](http://www.rabieschallengefund.org/latest/summary-of-the-rabies-challenge-fund-duration-of-immunity-study)
+- [Rabies Challenge Fund](http://www.rabieschallengefund.org/) [\[Summary\]](https://www.rabieschallengefund.org/)
 
 - [AKCCHF grant \#00615-B (closed):](/research/current-studies/akcchf-grant-00615b)
 Heritable and Sporadic Genetic Lesions in Canine Lymphoma.  Jaime F
@@ -425,7 +425,7 @@ report](/files/1064-A MY2 FINAL Summary.pdf)\]
 2011](http://cancerres.aacrjournals.org/content/72/1/249.long)\]
 
   - This work is also applicable to Osteosarcoma - see the [AKCCHF Success
-Story](http://www.akcchf.org/research/success-stories/survivin-canine-osteosarcoma.html)
+Story](http://www.akcchf.org/research/impact-stories/survivin-canine-osteosarcoma.html)
 
 
 

@@ -24,7 +24,7 @@ cleft palate.
 
 ---
 
-**[Cancer Research at the Canine Hereditary Cancer Consortium](https://www.tgen.org/patients/canine/)** -
+**[Cancer Research at the Canine Hereditary Cancer Consortium](https://www.veterinarypracticenews.com/canine-hereditary-cancer-consortium-seeks-participants-for-new-study/)** -
 The Canine Hereditary Cancer Consortium includes researchers from a
 number of universities, research institutes and companies.
 The Consortium received a Federally funded grant through the National

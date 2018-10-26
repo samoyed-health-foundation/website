@@ -2,12 +2,10 @@
 title = "AKCCHF grant #01064-A"
 +++
 
-**Investigator:**  Douglas H Thamm, VMD, Colorado State University
+**Investigator:** Douglas H Thamm, VMD, Colorado State University
 
-*Note:* Some of this work on Survivin is also applicable to
-Osteosarcoma, as described in this AKCCHF Success Story: [ Survivin'
-Canine
-Osteosarcoma](http://www.akcchf.org/research/success-stories/survivin-canine-osteosarcoma.html)
+*Note:* Some of this work on Survivin is also applicable to
+Osteosarcoma, as described in this AKCCHF Success Story: [Survivin' Canine Osteosarcoma](http://www.akcchf.org/research/impact-stories/survivin-canine-osteosarcoma.html)
 
 ***Project Summary from AKCCHF.org website:***
 

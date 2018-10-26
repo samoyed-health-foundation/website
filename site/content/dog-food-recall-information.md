@@ -10,8 +10,9 @@ title = "Dog Food Recall Information"
 
 [http://www.itchmo.com/](http://www.itchmo.com/) - The most current information. You can sign up to receive email notifications of any recalls as they are happening.
 
-[http://www.thepetfoodlist.com/](http://www.thepetfoodlist.com/) List of foods that have been recalled as well as those who have not, with links to the various manufacturers.
+[https://www.petful.com/recall-lists/dog-food-recalls/](https://www.petful.com/recall-lists/dog-food-recalls/) List of foods that have been recalled as well as those who have not, with links to the various manufacturers.
 
+[https://www.fda.gov/AnimalVeterinary/SafetyHealth/RecallsWithdrawals/default.htm](https://www.fda.gov/AnimalVeterinary/SafetyHealth/RecallsWithdrawals/default.htm) - FDA Recalls.
 
 # News Articles
 
