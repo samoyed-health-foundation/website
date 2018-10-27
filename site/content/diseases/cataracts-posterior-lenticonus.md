@@ -270,11 +270,6 @@ Them](http://www.akcchf.org/educational-resources/library/articles/articles/Glau
 by Kirk N. Gelatt, VMD, University of Florida  ![two bones
 rating](/img/2-bones.gif)
 
-[Diseases of the Lens and Cataract
-Surgery](http://www.vin.com/VINDBPub/SearchPB/Proceedings/PR05000/PR00517.htm)
-Mark P. Nasisse, DVM, Diplomate, ACVO  ![three bones
-rating](/img/3-bones.gif)
-
 Conversations with Dr. Vilma Yuzbasiyan-Gurkan at Michigan State University
 
 

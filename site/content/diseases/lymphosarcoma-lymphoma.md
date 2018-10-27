@@ -147,17 +147,6 @@ rating](/img/4-bones.gif)
 ![three bones
 rating](/img/3-bones.gif)
 
-[http://www.vin.com/proceedings/Proceedings.plx?CID=WSAVA2003&PID=6569&O=Generic](http://www.vin.com/proceedings/Proceedings.plx?CID=WSAVA2003&PID=6569&O=Generic) ![two
-bones
-rating](/img/2-bones.gif)
-
-[http://www.vin.com/proceedings/Proceedings.plx?CID=WSAVA2004&PID=8710&O=Generic](http://www.vin.com/proceedings/Proceedings.plx?CID=WSAVA2004&PID=8710&O=Generic)
-![two bones
-rating](/img/2-bones.gif)
-
-[http://www.vin.com/proceedings/Proceedings.plx?CID=WSAVA2006&PID=15873&O=Generic](http://www.vin.com/proceedings/Proceedings.plx?CID=WSAVA2006&PID=15873&O=Generic)
-![two bones
-rating](/img/2-bones.gif)
 
 
 
@@ -196,9 +185,6 @@ rating](/img/2-bones.gif)
 bones
 rating](/img/2-bones.gif)
 
-[http://www.vin.com/VINDBPub/SearchPB/Proceedings/PR05000/PR00171.htm](http://www.vin.com/VINDBPub/SearchPB/Proceedings/PR05000/PR00171.htm)
-![two bones
-rating](/img/2-bones.gif)
 
 
 

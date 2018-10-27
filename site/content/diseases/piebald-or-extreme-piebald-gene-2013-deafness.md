@@ -171,12 +171,6 @@ Explains a lot of the basics of deafness ![2 bones](/img/2-bones.gif)
 by George Strain\-- Explains how extreme piebald gene may relate to
 other genes to cause deafness ![2 bones](/img/2-bones.gif)
 
-[Hereditary Deafness in Dogs and Cats: Causes, Prevalence, and Current
-Research](http://www.vin.com/proceedings/Proceedings.plx?CID=TUFTSBG2003&PID=pr05095&O=Generic "external-link")
-by George M. Strain, Comparative Biomedical Sciences, School of
-Veterinary Medicine, Louisiana State University Baton Rouge, LA, USA on
-the vin.com website
- ![2 bones](/img/2-bones.gif)
 
 
 

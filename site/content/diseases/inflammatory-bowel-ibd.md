@@ -165,18 +165,6 @@ Dog](http://www.lowchensaustralia.com/health/boweldisease.htm)
 an inclusive description from lowchensaustralia.com ![one bone
 rating](/img/1-bone.gif)
 
-[Jergens, AE.  Inflammatory Bowel Disease in the Dog and
-Cat.](http://www.vin.com/proceedings/Proceedings.plx?CID=WSAVA2002&PID=2585&Category=414)
-Proceedings of 2002 WSAVA conference.  ![two bones
-rating](/img/2-bones.gif)
-
-[Tams TR.  Inflammatory Bowel Disease in
-Dogs](http://www.vin.com/VINDBPub/SearchPB/Proceedings/PR05000/PR00426.htm).
-Atlantic Coast Veterinary Conference 2001.  This article includes  drug
-protocols, dietary management and side effects. ![two bones
-rating](/img/2-bones.gif)
-
-
 
 
 > ![1 bone](/img/1-bone.gif)

@@ -50,10 +50,7 @@ Dogs with DI present with polyuria (excessive urination) and polydipsia
 is, the need to drink large quantities of water is caused by the loss of
 water in urine.  Generally speaking, polyuria is defined as urine
 production greater than 50ml/kg/day and polydipsia as water consumption
-greater than 100ml/kg/day
-<http://www.vin.com/proceedings/Proceedings.plx?CID=WSAVA2002&PID=2556>
-![3 bones](/img/3-bones.gif).
-If the water lost in the urine is not
+greater than 100ml/kg/day.  If the water lost in the urine is not
 replaced through increased consumption, dehydration can result.  Severe
 dehydration can lead to coma and death.
 
@@ -87,10 +84,7 @@ Diagnostic Tests
 
 The combination of polyuria/polydipsia can be an indication of a number
 of disease states, and much has been written on making a differential
-diagnosis when presented with this scenario \[8, 9\] and
-
-<http://www.vin.com/proceedings/Proceedings.plx?CID=WSAVA2002&PID=2556>
-![3 bones](/img/3-bones.gif)
+diagnosis when presented with this scenario \[8, 9\].
 Once other potential diagnoses, such as
 diabetes mellitus, Cushing's disease, chronic renal failure or pyometra
 have been ruled out, then tests for DI can be undertaken.  The first
@@ -206,9 +200,6 @@ Suggested Links
 
 <http://mirage-samoyeds.com/diabetes2.htm>
 ![2 bones](/img/2-bones.gif)
-
-<http://www.vin.com/proceedings/Proceedings.plx?CID=WSAVA2002&PID=2556>
-![3 bones](/img/3-bones.gif)
 
 <http://www.vetinfo.com/dencyclopedia/dedibetinsp.html>
 ![2 bones](/img/2-bones.gif)

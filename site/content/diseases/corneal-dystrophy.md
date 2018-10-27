@@ -130,12 +130,6 @@ None found.
 Suggested Links
 ---------------
 
-[Sapienza, John S. Corneal Diseases of Dogs and Cats. WSAVA 2002
-Congress.](http://www.vin.com/proceedings/Proceedings.plx?CID=WSAVA2002&PID=2647)
-![two bones
-rating](/img/2-bones.gif)
-
-
 [OFA Eye Certification Registry
 Overview](https://www.ofa.org/?s=eye+overview)
 ![three bones
