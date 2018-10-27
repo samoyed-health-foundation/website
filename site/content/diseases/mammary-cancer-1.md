@@ -2,18 +2,46 @@
 title = "Mammary Cancer"
 +++
 
-
-
 Cancerous Tumors that originate along the mammary chain. It is the
 canine equivalent of human breast cancer.
 
 
+<details>
+<summary>*Click here to show/hide more detail*</summary>
 
+In 50% of cases mammary lumps are benign (not cancer). The remaining 50%
+are malignant tumors that are classified based on the embryonic origin
+of the cancerous cells they contain, determined by microscopic analysis
+of the tumor biopsy.
 
+**Benign tumors**
 
-[Show more detail](mammary-cancer-15a76.html?showlong=1)
+-   Adenoma (glandular)
 
+-   Benign mixed tumor
 
+-   Duct papilloma
+
+-   Lipoma
+
+**Malignant tumors**
+
+-   Carcinomas (including: Non infiltrating, Simple and Complex,
+    Tubulopapillary, Anaplastic (dedifferentiated), Spindle cell,
+    Squamous cell, Mucinous, and Lipid-rich)
+
+-   Sarcoma
+
+-   Carcinosarcoma
+
+-   Adenocarcinoma
+
+-   Malignant mixed tumor
+
+Tumors can be mixed, having cells from different origins, and different
+tumors in the same animal can be different types.
+
+</details>
 
 
 Signs and Symptoms
@@ -32,9 +60,7 @@ division and differentiation.
 Risk Factors
 ------------
 
--    Bitches intact after the first or second estrus cycle.
-
-<!-- -->
+-   Bitches intact after the first or second estrus cycle.
 
 -   Possibly obesity at 9-12 mo. of age but studies conflict.
 
@@ -46,11 +72,8 @@ foci.
 Diagnostic Tests
 ----------------
 
--    Palpation of the area along the mammary chain and associated lymph
+-   Palpation of the area along the mammary chain and associated lymph
     nodes.
-
-<!-- -->
-
 -   Biopsy, sizing and histologic (microscopic) analysis of all lumps.
 -   Staging of malignancy; i.e. chest X rays & abdominal ultrasound to
     look for spread to lungs and lymph nodes.
@@ -225,11 +248,11 @@ rating](/img/1-bone.gif)
 
 
 
-![](mammary-cancer-1/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](mammary-cancer-1/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](mammary-cancer-1/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](mammary-cancer-1/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 
 
@@ -249,13 +272,12 @@ rating](/img/1-bone.gif)
 
 
 
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-
-![](mammary-cancer-1/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](mammary-cancer-1/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](mammary-cancer-1/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](mammary-cancer-1/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
 
 
 "Living with a Disorder" Journal Entries

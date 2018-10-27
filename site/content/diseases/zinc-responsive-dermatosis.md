@@ -170,8 +170,7 @@ No relevant support groups have been found to be available at this time.
 Suggested Links
 ---------------
 
-[Zinc Deficiency in the Siberian
-Husky](http://www.siberianhuskyhealthfoundation.com/Health.html)
+[Zinc Deficiency in the Siberian Husky](http://www.siberianhuskyhealthfoundation.com/Health.html)
 from the Siberian Husky Health Foundation  ![3
 bones](/img/3-bones.gif)
 

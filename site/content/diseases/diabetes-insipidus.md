@@ -15,15 +15,32 @@ circulation.  Symptoms include polyuria (excessive urination) and
 polydipsia (excessive thirst).
 
 
+<details>
+<summary>*Click here to show/hide more detail*</summary>
+
+*Diabetes insipidus* has been described in dogs as early as 1951
+\[1\]. *Diabetes insipidus* is a disease of the endocrine system
+characterized by a deficiency in antidiuretic hormone (ADH) activity.
+This hormone, also referred to as vasopressin or arginine vasopressin
+(AVP), is synthesized by neurons in the hypothalamus and stored in the
+posterior pituitary gland. Antidiuretic hormone acts on the kidney to
+promote concentration of urine by removing water from the glomerular
+filtrate back into circulation. This is accomplished through the
+binding of the hormone to the tubular cells of the kidney, resulting in
+the insertion of a specific protein (aquaporin 2) into the cell
+membrane. This protein then functions as a water channel, permitting
+concentration of urine and conservation of bodily water. Antidiuretic
+hormone is secreted in response to changes plasma osmolality and blood
+volume. A deficiency of ADH activity can result from either
+
+1. a deficiency of ADH (called central diabetes insipidus (CDI)), or
+2. an inability of the kidney to respond to ADH (called nephrogenic diabetes insipidus (NDI))
+
+Dogs have been reported to have both forms \[2, 3\].
+
+</details>
 
 
-
-[Show more detail](diabetes-insipidus5a76.html?showlong=1)
-
-
-
-Would you like to **[add a Living with this
-Disorder](diabetes-insipidus/addliving_form.html)** journal entry?
 
 Signs and Symptoms
 ------------------
@@ -34,8 +51,9 @@ is, the need to drink large quantities of water is caused by the loss of
 water in urine.  Generally speaking, polyuria is defined as urine
 production greater than 50ml/kg/day and polydipsia as water consumption
 greater than 100ml/kg/day
-<http://www.vin.com/proceedings/Proceedings.plx?CID=WSAVA2002&PID=2556> !\[3
-bones\](/img/3-bones.gif)).  If the water lost in the urine is not
+<http://www.vin.com/proceedings/Proceedings.plx?CID=WSAVA2002&PID=2556>
+![3 bones](/img/3-bones.gif).
+If the water lost in the urine is not
 replaced through increased consumption, dehydration can result.  Severe
 dehydration can lead to coma and death.
 
@@ -52,8 +70,8 @@ the hypothalamic-pituitary axis (CDI) or the kidney (NDI) \[5-7\].  An
 excellent summary of the differences between the two forms of DI can be
 accessed at:
 
-<http://www.mirage-samoyeds.com/diabetes2.htm> !\[2
-bones\](/img/2-bones.gif)
+<http://www.mirage-samoyeds.com/diabetes2.htm>
+![2 bones](/img/2-bones.gif)
 
 
 
@@ -71,8 +89,9 @@ The combination of polyuria/polydipsia can be an indication of a number
 of disease states, and much has been written on making a differential
 diagnosis when presented with this scenario \[8, 9\] and
 
-<http://www.vin.com/proceedings/Proceedings.plx?CID=WSAVA2002&PID=2556> !\[3
-bones\](/img/3-bones.gif). Once other potential diagnoses, such as
+<http://www.vin.com/proceedings/Proceedings.plx?CID=WSAVA2002&PID=2556>
+![3 bones](/img/3-bones.gif)
+Once other potential diagnoses, such as
 diabetes mellitus, Cushing's disease, chronic renal failure or pyometra
 have been ruled out, then tests for DI can be undertaken.  The first
 indication of DI in a dog with polyuria/polydipsia is a low urinary
@@ -133,73 +152,71 @@ diabetes insipidus in three dogs, J Am Vet Med Assoc 179 (1981)
 235-238.  (unable to rate)
 
 \[3\] M.F. Harb, R.W. Nelson, E.C. Feldman, J.C. Scott-Moncrieff, S.M.
-Griffey, [Central diabetes insipidus in dogs: 20
-cases](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=8944803&ordinalpos=2&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum "external-link")
-(1986-1995), J Am Vet Med Assoc 209 (1996) 1884-1888.  !\[3
-bones\](/img/3-bones.gif)
+Griffey, [Central diabetes insipidus in dogs: 20 cases](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=8944803&ordinalpos=2&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum)
+(1986-1995), J Am Vet Med Assoc 209 (1996) 1884-1888.
+![3 bones](/img/3-bones.gif)
 
 \[4\] H. Luzius, D.A. Jans, E.G. Grunbaum, A. Moritz, W. Rascher, F.
 Fahrenholz, [A low affinity vasopressin V2-receptor in inherited
 nephrogenic diabetes
-insipidus](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=1387165&ordinalpos=33&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum "external-link"),
-J Recept Res 12 (1992) 351-368.  !\[2 bones\](/img/2-bones.gif)
+insipidus](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=1387165&ordinalpos=33&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum),
+J Recept Res 12 (1992) 351-368.
+![2 bones](/img/2-bones.gif)
 
 \[5\] M.M. Goossens, A. Rijnberk, J.A. Mol, J. Wolfswinkel, G. Voorhout,
 [Central diabetes insipidus in a dog with a
 pro-opiomelanocortin-producing pituitary tumor not causing
-hyperadrenocorticism](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=8531185&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum "external-link"),
-J Vet Intern Med 9 (1995) 361-365.  !\[3 bones\](/img/3-bones.gif)
+hyperadrenocorticism](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=8531185&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum),
+J Vet Intern Med 9 (1995) 361-365.
+![3 bones](/img/3-bones.gif)
 
 \[6\] J.M. Authement, R.J. Boudrieau, P.M. Kaplan, [Transient,
 traumatically induced, central diabetes insipidus in a
-dog](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=2925484&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum "external-link"),
-J Am Vet Med Assoc 194 (1989) 683-685.  !\[3 bones\](/img/3-bones.gif)
+dog](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=2925484&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum),
+J Am Vet Med Assoc 194 (1989) 683-685.
+![3 bones](/img/3-bones.gif)
 
 \[7\] D.J. Davenport, D.J. Chew, G.C. Johnson, [Diabetes insipidus
 associated with metastatic pancreatic carcinoma in a
-dog](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=3017907&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum "external-link"),
-J Am Vet Med Assoc 189 (1986) 204-205.  !\[3 bones\](/img/3-bones.gif)
+dog](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=3017907&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum),
+J Am Vet Med Assoc 189 (1986) 204-205.
+![3 bones](/img/3-bones.gif)
 
 \[8\] R. Nichols, [Polyuria and polydipsia. Problems associated with
 patient
-evaluation](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=2134078&ordinalpos=2&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum "external-link"),
-Probl Vet Med 2 (1990) 610-616.  !\[2 bones\](/img/2-bones.gif)
+evaluation](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=2134078&ordinalpos=2&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum),
+Probl Vet Med 2 (1990) 610-616.
+![2 bones](/img/2-bones.gif)
 
 \[9\] E.C. Feldman, R.W. Nelson, [Diagnostic approach to polydipsia and
-polyuria](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=2648668&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVAbstractPlus "external-link"),
-Vet Clin North Am Small Anim Pract 19 (1989) 327-341.  !\[2
-bones\](/img/2-bones.gif)
+polyuria](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=2648668&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVAbstractPlus),
+Vet Clin North Am Small Anim Pract 19 (1989) 327-341.
+![2 bones](/img/2-bones.gif)
 
 
-
-
-
-![](diabetes-insipidus/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](diabetes-insipidus/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](diabetes-insipidus/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](diabetes-insipidus/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
-
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 
 Suggested Links
 ---------------
 
-<http://mirage-samoyeds.com/diabetes2.htm>   !\[2
-bones\](/img/2-bones.gif)
+<http://mirage-samoyeds.com/diabetes2.htm>
+![2 bones](/img/2-bones.gif)
 
-<http://www.vin.com/proceedings/Proceedings.plx?CID=WSAVA2002&PID=2556>  !\[3
-bones\](/img/3-bones.gif)
+<http://www.vin.com/proceedings/Proceedings.plx?CID=WSAVA2002&PID=2556>
+![3 bones](/img/3-bones.gif)
 
-<http://www.vetinfo.com/dencyclopedia/dedibetinsp.html>   !\[2
-bones\](/img/2-bones.gif)
+<http://www.vetinfo.com/dencyclopedia/dedibetinsp.html>
+![2 bones](/img/2-bones.gif)
 
 
-
-![](diabetes-insipidus/bone.gif "Conclusions supported by anecdotal evidence, an individual breeder’s opinion or experience, and non-affiliated (personal) websites with credible information backed by affirmation of website owners.")
-![](diabetes-insipidus/2-bones.gif "Information based on material published in general dog magazines, breed publications, breed websites or published books about dogs or specific breeds  having a general consensus among reputable breeders and/or veterinarians but lacking supporting scientific research.")
-![](diabetes-insipidus/3-bones.gif "Information based on preliminary peer-reviewed findings but still in a theoretical phase of understanding.")
-![](diabetes-insipidus/4-bones.gif "Information based on an established body of peer-reviewed research in science/veterinary journals and information contained in contemporary veterinary textbooks that reflect a general consensus of the scientific and/or veterinary community.")
-[(full description of ratings)](ratings-what-do-they-mean.html)
-
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
