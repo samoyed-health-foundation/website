@@ -29,7 +29,7 @@ including the reasons you do not want to shave your Samoyed's coat
 
 - [2017 AAHA Canine Vaccine Guidelines](https://www.aaha.org/pet_owner/aaha_guidelines/aahas_canine_vaccination_guidelines.aspx)
 
-- [New Vaccine Protocols](http://www.newvaccinationprotocols.com/) by Dr. Bob Rogers, DVM
+- [New Vaccine Protocols](http://community.dog.com/f/29543/t/80008.aspx) by Dr. Bob Rogers, DVM
 
 - [Vaccinations for the New Puppy](http://www.mirage-samoyeds.com/vaccinations.htm) by Susan Thorpe Vargas Ph.D.
 

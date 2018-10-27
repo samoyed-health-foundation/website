@@ -170,15 +170,15 @@ No relevant support groups have been found to be available at this time.
 Suggested Links
 ---------------
 
-[Zinc Deficiency in the Siberian Husky](http://www.siberianhuskyhealthfoundation.com/Health.html)
+[Zinc Deficiency in the Siberian Husky](https://siberianhusky.com/zinc-deficiency-serious-threat-on-huskies-health/)
 from the Siberian Husky Health Foundation  ![3
 bones](/img/3-bones.gif)
 
 [Canine Zinc-Responsive
 Dermatosis](http://veterinarynews.dvm360.com/canine-zinc-responsive-dermatosis)
 by Carlo Vitale, DVM, Dipl. ACVD on the dvm360.com website.  This
-article contains some photographs.  [![2
-bones](/img/2-bones.gif)](http://www.siberianhuskyhealthfoundation.org/health_zincdeficiency.asp)
+article contains some photographs.  ![2
+bones](/img/2-bones.gif)
 
 
 

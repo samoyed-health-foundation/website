@@ -2,7 +2,7 @@
 title = "Selecting A Samoyed Puppy"
 +++
 
-- [Is a Samoyed the right Pet for You?](http://www.sfsr.org/rightpet.html)
+- [Is a Samoyed the right Pet for You?](http://www.mirage-samoyeds.com/is%20a%20samoyed%20the%20right%20pet%20for%20you.htm)
 
 - [Selecting and Purchasing Your Samoyed](https://www.samoyedclubofamerica.org/the-samoyed/choosing-a-dog/) - a SCA publication
 
