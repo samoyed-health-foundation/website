@@ -37,6 +37,6 @@ although not sponsored by SCARF, these other projects may be of interest to some
 
 
 
-# Researchers/investigators
+# Researchers / investigators
 
 why the Samoyed is the breed of choice for research studies, apply for a grant through the AKC Canine Health Foundation, present proposal idea to SCARF, look for research study participants, items ineligible for funding - [more](/research/researchers-investigators)....
