@@ -22,12 +22,8 @@ title = "Breeding"
 
 - [Artificial Insemination (AI)](https://www.petcoach.co/article/artificial-insemination-ai-in-dogs/) by Race Foster, DVM and Marty Smith, DVM
 
-- [The Care and Feeding of the Breeding Bitch Part One](http://www.akc.org/breeders/resp_breeding/Articles/careandfeeding.cfm) by Kathleen Hefner, DVM from the May 1999 *AKC Gazette*
-
-- [The Care and Feeding of the Breeding Bitch Part Two](http://www.akc.org/breeders/resp_breeding/Articles/careandfeeding2.cfm) by Kathleen Hefner, DVM from the July 1999 *AKC Gazette*
-
-- [The Care and Feeding of the Breeding Bitch Part Three](http://www.akc.org/breeders/resp_breeding/Articles/careandfeeding3.cfm) by Kathleen Hefner, DVM from the October 1999 *AKC Gazette*
+- [AKC's Guide to Responsible Dog Breeding](https://www.akc.org/breeder-programs/breeder-education/akcs-guide-responsible-dog-breeding/)
 
 - [Canine Pregnancy Diagnosis](http://therio.vetmed.lsu.edu/ultrasound.htm) from the LSU School of Veterinary Medicine - including palpation, ultrasound, x-rays and hormone measurement
 
-- [Canine Pregnancy Calendar](http://www.debbiejensen.com/date.html) - Fun tool. Fill in the blanks and let the calendar calculate the rest.
+- [Canine Pregnancy Calendar](https://dogs.lovetoknow.com/wiki/Canine_Pregnancy_Calendar)

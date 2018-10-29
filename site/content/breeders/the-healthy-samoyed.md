@@ -17,9 +17,7 @@ including the reasons you do not want to shave your Samoyed's coat
 
 - [American Holistic Veterinary Medical Association](http://www.ahvma.org/)
 
-- [Complementary, Alternative, and Holistic Veterinary Medicine](http://www.altvetmed.org/)
-
-- [International Veterinary Acupuncture Society](http://www.ivas.org/) and [How to Locate a Practitioner](https://www.ivas.org/members-only-section/ivas-partners/)
+- [International Veterinary Acupuncture Society](http://www.ivas.org/)
 
 - [American Veterinary Chiropractic Association](http://www.avcadoctors.com/) and [How to Locate a Practitioner](http://animalchiropractic.org/avca-doctor-search.htm)
 
@@ -33,8 +31,6 @@ including the reasons you do not want to shave your Samoyed's coat
 
 - [Vaccinations for the New Puppy](http://www.mirage-samoyeds.com/vaccinations.htm) by Susan Thorpe Vargas Ph.D.
 
-- [The Vaccination Website for Dogs and Cats by Richard B. Ford, DVM, MS](http://www.dvmvac.com/)
-
 
 # Nutrition
 
@@ -42,8 +38,6 @@ including the reasons you do not want to shave your Samoyed's coat
 - [Dog Food Analysis](http://www.dogfoodanalysis.com/) - an independent site for dog food information and reviews
 
 - [How to Choose a Food](https://www.whole-dog-journal.com/topics/dog_food.html) by Nancy Kerns on the [Whole Dog Journal](http://www.whole-dog-journal.com/) website
-
-- [Information on Prescription Diets](http://www.prescriptiondiets.com/)
 
 - [Pet Food Recall Information ](/dog-food-recall-information)
 
@@ -57,6 +51,3 @@ common name or scientific name or by plant category.
 
 - [ASPCA Poison Control](http://www.aspca.org/site/PageServer?pagename=pro_apcc) 1-888-426-4435.
 A $60 consultation fee may be applied to your credit card.
-
-- [Kansas State Poison Control hotline](http://www.mediarelations.k-state.edu/newsreleases/pethealth/poisonhotline121107.html) - 785-532-5679
-(free)

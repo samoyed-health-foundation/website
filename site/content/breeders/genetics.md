@@ -34,7 +34,7 @@ CHIC liaison is [Cheri Hollenback](mailto:SammyMom@aol.com?subject=CHIC)
 
 - [DNA test for Hereditary Nephritis - Samoyed Hereditary Glomerulopathy](http://www.vetgen.com/canine-hereditary-nephritis.html) from Vetgen
 
-- [Genetic Testing: A Guide for Breeders](http://www.netpets.com/dogs/reference/genetics/dnatest.html) by Mary Whiteley, Ph.D.
+- [Genetic Testing: A Guide for Breeders](http://siriusdog.com/genetic-testing-breeders-guide/) by Mary Whiteley, Ph.D.
 
 
 # Suggested Reading
@@ -52,7 +52,7 @@ CHIC liaison is [Cheri Hollenback](mailto:SammyMom@aol.com?subject=CHIC)
 
 - [Understanding canine genetics](https://www.thekennelclub.org.uk/health/for-breeders/understanding-canine-genetics/)
 
-- [Breeding for Health](http://www.malamutehealth.org/articles/breeding.htm) on the malamutehealth.org website
+- [Breeding for Health](http://malamute-health.org/index.php/breeding-for-health) on the malamutehealth.org website
 
 - [K9 Genetics Discussion Group](http://groups.yahoo.com/group/K9Genetics/) on yahoo
 

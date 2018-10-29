@@ -51,14 +51,6 @@ It has been suggested, somewhat seriously, that a new dog breed should be invent
 
 -----
 
-**Dogbreed Listservs:**
-
-[Search The List of Lists](http://catalog.com/vivian/interest-group-search.html)
-
-[Complete List of Dog-Related Email Lists](http://www.k9web.com/dog-faqs/lists/email-list.html)
-
-[Welcome to Dogpile, the Friendly Multi-Engine](http://www.dogpile.com/)
-
 **Recommended Books and Training sites:**
 
 [Don't Shoot the Dog by Karen Pryor](http://www.amazon.co.uk/exec/obidos/ASIN/1860542387/thedogscene)
@@ -75,7 +67,7 @@ It has been suggested, somewhat seriously, that a new dog breed should be invent
 4. Stanley Coren, The Intellience of Dogs
 5. Hellmuth Wachtel personal communication September 1998
 6.  John Paul Scott and John L. Fuller in Genetics & the Social Behavior of the Dog pp. 257-258 University of Chicago Press, Chicago 1965
-7.  Donald McCaig personal communication September 1998
+7. Donald McCaig personal communication September 1998
 8. Raymond Coppinger and Lorna Coppinger. 'Differences in the Behavior of Dog Breeds'.In Genetics and the Behavior of the Domestic Animals (Temple Grandin Ph.D., ed) pp 167-202. Academic Press, San Diego 1998
 9. John Paul Scott and John L. Fuller," Dogs, Wolves, and Men" in Genetics & the Social Behavior of the Dog, pp 29-56, University of Chicago Press, Chicago 1965
 10. Morell V, The origin of dogs: running with the wolves. Science 1997 Jun 13;276(5319):1647-8
