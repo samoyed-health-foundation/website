@@ -20,7 +20,8 @@ title = "Genetics"
 Center, also known as CHIC, is a centralized canine health database
 jointly sponsored by the AKC/Canine Health Foundation (AKC/CHF) and the
 Orthopedic Foundation for Animals (OFA)  For more information, the SCA
-CHIC liaison is [Cheri Hollenback](mailto:SammyMom@aol.com?subject=CHIC) 
+CHIC liaison is
+[Carla Barstow](mailto:cb0085@auburn.edu?subject=CHIC)
 
 
 # Gene Tests
