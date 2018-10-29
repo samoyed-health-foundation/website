@@ -33,7 +33,7 @@ including the reasons you do not want to shave your Samoyed's coat
 
 - [Vaccinations for the New Puppy](http://www.mirage-samoyeds.com/vaccinations.htm) by Susan Thorpe Vargas Ph.D.
 
-- [The Vaccination Website for Dogs and Cats by Richard B. Ford, DVM, MS](http://www.dvmvac.com/)
+- [2013 CANINE VACCINATION GUIDELINES - Implementing the Protocol](https://cvm.ncsu.edu/wp-content/uploads/2015/06/Ford_2013CANINEonlyVACCINEMNS.2.pdf) by Richard B. Ford, DVM, MS
 
 
 # Nutrition

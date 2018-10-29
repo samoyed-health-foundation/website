@@ -10,7 +10,7 @@ title = "Behavior"
 
 - [Puppy training](http://www.clickersolutions.com/articles/#puppy) including mouthing
 
-- [Crate training](http://samoyed.cc/cratetraining.html)
+- [Crate training](https://www.paws.org/library/dogs/training/how-to-crate-train-your-dog/)
 
 - [Calming Signals](https://www.k9ofmine.com/dog-calming-signals/) - a large collection of links on how to read your dog's body language
 
@@ -21,8 +21,6 @@ title = "Behavior"
 - [Dog Behavior Information and Advice](https://www.k9ofmine.com/dog-behavior/)
 
 - [My Smart Puppy Blog](https://mysmartpuppy.com/category/puppy-training/)
-
-- a seasonal nightmare - females in season/male behavior
 
 - [Nature vs. Nurture: The Genetics of Behavior](http://www.akcchf.org/educational-resources/library/articles/articles/Nature-vs-Nurture-The-Genetics-of-Behavior-07-1997.pdf) by Jacquie Neilson, DVM, DACVB
 

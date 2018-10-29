@@ -24,9 +24,9 @@ title = "Health Problems"
 
 - [Orphaned Puppies: How to Raise Them](https://www.petcoach.co/article/orphaned-puppies-how-to-raise-them/) by Race Foster, DVM and Jennifer Prince, DVM
 
-- [Care of Orphan Puppies](http://www.petshealth.com/dr_library/orphanpup.html) on the Columbia Veterinary Associates webpage
+- [Care of Orphan Puppies](https://pethelpful.com/dogs/How-to-Care-for-Orphaned-Puppies)
 
-- [Baby Food: Proper Feeding of Orphans](http://www.akc.org/breeders/resp_breeding/Articles/babyfood.cfm) by Lisa Freeman, DVM, Ph.D. from the April 2000 *AKC Gazette*
+- [Orphaned Puppies - Caring, Feeding, Healthcare](https://www.vetwest.com.au/pet-library/orphaned-puppies-caring-feeding-healthcare)
 
 - ["Swimmer Puppies"](http://showdogsupersite.com/kenlclub/breedvet/swimmers.html) by Mary C. Wakeman, D.V.M. in the online journal, *Breeder Vet*
 
@@ -44,7 +44,7 @@ title = "Health Problems"
 
 > Always ask for an "information sheet" on the prescribed medication and read it before administering the medication to your pet.
 
-- [Drugs to be avoided or used with caution in the Samoyed](http://www.samfans.org/drugs.html) on the samfans.org website
+- [Drugs to be avoided or used with caution in the Samoyed](http://mysticicesamoyeds.com/wp-content/uploads/DRUGS-TO-BE-AVOIDED-OR-USED-WITH-CAUTION-IN-THE-SAMOYED.pdf)
 
 - [Differentiating Sulfur Compounds](http://www.itmonline.org/arts/sulfa.htm) - Sulfa Drugs, Glucosamine Sulfate, Sulfur, and Sulfiting Agents by Subhuti Dharmananda, Ph.D., Director, Institute for Traditional Medicine, Portland, Oregon
 
@@ -60,7 +60,7 @@ title = "Health Problems"
 
 - [Common Drugs and Nutraceuticals for Dogs and Cats](https://www.petcoach.co/article/common-drugs-nutraceuticals/) from Drs. Foster & Smith
 
-- [The Pet Pharmacy](http://www.veterinarypartner.com/Content.plx?P=SRC&S=1&SourceID=52) by Wendy C. Brooks, DVM, DipABVP on VeterinaryPartner.com
+- [1800PetMeds - Online Pet Pharmacy](https://www.1800petmeds.com)
 
 - [Drugs and Medications](http://www.lowchensaustralia.com/health/drugs.htm) on the Chinaroad Lowchens of Australia website
 
@@ -70,7 +70,7 @@ title = "Health Problems"
 
 - [Rimadyl: News, Views & Advisories](http://www.srdogs.com/Pages/rimadylfr.html) on The Senior Dogs Project webpage
 
-- [Understanding Deramaxx® - Smart Drug or Clever Marketing?](http://www.vetnsaids.com/)
+- [Deramaxx®: Overview](https://www.drugs.com/pro/deramaxx.html)
 
 - **[Advice to Dog Owners Whose Pets Take NSAIDs](https://www.fda.gov/AnimalVeterinary/ResourcesforYou/AnimalHealthLiteracy/ucm419032.htm) - this could save your dog's life.**
 
