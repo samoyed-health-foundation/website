@@ -74,7 +74,7 @@ NOT associated with the dwarfism. This test is ONLY for the RD
 associated with OSD (dwarfism). To read about the various types of
 Retinal Dysplasia:
 
-[http://www.samoyedhealthfoundation.org/diseases/retinal-dysplasia-folds](http://www.samoyedhealthfoundation.org/diseases/retinal-dysplasia-folds)
+[http://www.samoyedhealthfoundation.org/diseases/retinal-dysplasia-folds](/diseases/retinal-dysplasia-folds)
 
 **Can Optigen use the sample I previously submitted for the XL-PRA test to test for RD/OSD?**
 

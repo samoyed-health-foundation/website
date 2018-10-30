@@ -173,7 +173,7 @@ is a godsend to the Diabetic pet caretaker.
 
 # Current Research
 
-- [SCARF-Sponsored Research](http://www.samoyedhealthfoundation.org/diseases/diabetes-mellitus/akcchf-grant-610)
+- [SCARF-Sponsored Research](/research/current-studies/akcchf-grant-610)
 
 - [Research by Dr. Hess](http://www.samoyedhealthfoundation.org/diseases/diabetes-mellitus/research-by-dr-hess)
 
