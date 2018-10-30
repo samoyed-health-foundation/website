@@ -175,9 +175,9 @@ is a godsend to the Diabetic pet caretaker.
 
 - [SCARF-Sponsored Research](/research/current-studies/akcchf-grant-610)
 
-- [Research by Dr. Hess](http://www.samoyedhealthfoundation.org/diseases/diabetes-mellitus/research-by-dr-hess)
+- [Research by Dr. Hess](/diseases/diabetes-mellitus-research-by-dr-hess)
 
-- [Other research involving Samoyeds](http://www.samoyedhealthfoundation.org/diseases/diabetes-mellitus/other-research-involving-samoyeds)
+- [Other research involving Samoyeds](/diseases/diabetes-mellitus-other-research-involving-samoyeds)
 
 # "Living with a Disorder" Journal Entries
 
