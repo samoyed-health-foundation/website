@@ -127,7 +127,7 @@ bones](/img/2-bones.gif)
 
 
  **[The Genetics of the
-Dog](http://books.google.com/books?id=bgZwjdB4xgEC&pg=PA74&dq=cornaz+albino&sig=XOr0NRAblHF-TOUtUzpjrxrTDgI "external-link")**.
+Dog](http://books.google.com/books?id=bgZwjdB4xgEC&pg=PA74&dq=cornaz+albino&sig=XOr0NRAblHF-TOUtUzpjrxrTDgI)**.
 By Jeff Sampson  and Anatoly Ruvinsky.  2001 CABI Publishing.  Page
 74.  ![3 bones](/img/3-bones.gif)
 

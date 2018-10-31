@@ -146,7 +146,7 @@ rating](/img/1-bone.gif)
 
 Katrin Hoffmann, Karl Sperling, Ada L. Olins and Donald E. Olins. [The
 granulocyte nucleus and lamin B receptor: avoiding the
-ovoid](http://www.bowdoin.edu/faculty/a/aolins/dissemination/2007Chromosoma.pdf).
+ovoid](https://www.ncbi.nlm.nih.gov/pubmed/17245605).
 Chromosoma  Volume 116, Number 3 / June, 2007,  pp227-235.  \--Excellent
 review of PHA  ![3 bones](/img/3-bones.gif)
 

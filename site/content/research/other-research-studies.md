@@ -78,6 +78,6 @@ genetest@optigen.com
 
 ---
 
-**[Genetic diseases](http://www.vetgen.com/research.html#VetGen's_Genetic_Disease_Research_Update)** -
+**[Genetic diseases](https://www.vetgen.com/research-you-help.html)** -
 VetGen is interested in collecting samples from families of dogs in
 which two or more are affected with a genetic disease.

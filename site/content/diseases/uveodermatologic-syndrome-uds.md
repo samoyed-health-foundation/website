@@ -97,26 +97,26 @@ Medicine 673 (1977) 445-455. (unable to rate)
 [2] H.D.D. Herrera, A. G., [Uveodermatological syndrome
 (Vogt-Koyanaga-Harada-like syndrome) with generalized depigmentation in
 a
-Dachshund](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=11397209&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum "external-link"),
+Dachshund](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=11397209&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum),
 Veterinary Ophthalmology 1 (1998) 47-51.  ![2 bones](/img/2-bones.gif)
 
 [3] J.L. Laus, M.G. Sousa, V.P. Cabral, F.V. Mamede, M. Tinucci-Costa,
 [Uveodermatologic syndrome in a Brazilian Fila
-dog](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=15091328&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVAbstractPlus "external-link"),
+dog](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=15091328&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVAbstractPlus),
 Veterinary Ophthalmology 7 (2004) 193-196.    ![2
 bones](/img/2-bones.gif)
 
 [4] W.J. Carter, S.M. Crispin, D.J. Gould, M.J. Day, [An
 immunohistochemical study of uveodermatologic syndrome in two Japanese
 Akita
-dogs](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=15644096&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVAbstractPlus "external-link"),
+dogs](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=15644096&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVAbstractPlus),
 Veterinary Ophthalmology 8 (2005) 17-24.    ![2
 bones](/img/2-bones.gif)
 
 [5] J.M. Angles, T.R. Famula, N.C. Pedersen, [Uveodermatologic
 (VKH-like) syndrome in American Akita dogs is associated with an
 increased frequency of
-DQA1\*00201](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=16305682&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum "external-link"),
+DQA1\*00201](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=16305682&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum),
 Tissue Antigens 66 (2005) 656-665.    ![2 bones](/img/2-bones.gif)
 
 
@@ -148,7 +148,7 @@ bones](/img/2-bones.gif)
 
 
 [Australian Shepherd with Uveodermatological
-Syndrome](http://australianshepherdvkhsyndrome.blogspot.com//) -
+Syndrome](http://australianshepherdvkhsyndrome.blogspot.com/) -
 this is a blog that chonicles, with lots of photos, that chonicles
 Corky's history with the disease ![one bone
 rating](/img/1-bone.gif)

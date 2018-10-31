@@ -143,7 +143,7 @@ References
     In the online Merck Veterinary Manual. ![four bones
     rating](/img/4-bones.gif)
 3.  [Transcript: Canine Reproduction
-    Seminar](http://www.veterinarypartner.com/Content.plx?P=A&A=1224 "external-link")
+    Seminar](http://www.veterinarypartner.com/Content.plx?P=A&A=1224)
     with Dr. Robert Van Hutchison. Tuesday, January 08, 2002 from the
     veterinarypartner.com website \-- Lots of good information relating
     to whelping and pregnancy in this online seminar ![2
@@ -175,24 +175,24 @@ Suggested Links
 
 [Canine Reproduction Part 3. Medical Management of Complications
 Affecting Delivery
-(Whelping)](http://www.labbies.com/reproduction3.htm "external-link") by
+(Whelping)](http://www.labbies.com/reproduction3.htm) by
 Pamela A. Davol \-- Lots of good flow charts to follow ![one bone
 rating](/img/1-bone.gif)
 
 [Canine Pregnancy and Predicting Parturition and Timing Events of
-Gestation](http://lowchensaustralia.com/breeding/timing.htm "external-link")
+Gestation](http://lowchensaustralia.com/breeding/timing.htm)
 by P.W.Concannon, Dept of Biological Sciences, College of Veterinary
 Medicine, Cornell University, Ithaca, New York on the
 lowchensaustralia.com website  ![one bone
 rating](/img/1-bone.gif)
 
 [A WATCHED BITCH NEVER WHELPS (or at least it seems that
-way)](http://www.welshcorgi.com/lists/archive16.html "external-link") by
+way)](http://www.welshcorgi.com/lists/archive16.html) by
 Vicki Sandage, DVM ![one bone
 rating](/img/1-bone.gif)
 
 [The Book of the Bitch; A Complete Guide to Understanding and Caring for
-Bitches](http://www.amazon.com/gp/reader/1860540236/ref=sib_dp_pt/104-4333051-4397564#reader-link "external-link")
+Bitches](https://www.amazon.com/Book-Bitch-Complete-Understanding-Bitches/dp/1860540236/ref=sr_1_1)
 by Jim Evans, Kay White -- 2002.  This book is fully indexed and
 contains a glossary. Chapter 6 details pregnancy and whelping of the
 bitch. !\[2 bones\](/img/2-bones.gif)
@@ -200,7 +200,7 @@ bitch. !\[2 bones\](/img/2-bones.gif)
 
 
 [The use of Oxytocin during the Whelping of a
-litter](http://www.workingdogs.com/doc0023.htm "external-link") by Fred
+litter](http://www.workingdogs.com/doc0023.htm) by Fred
 Lanting on the workingdogs.com website.  ![one bone
 rating](/img/1-bone.gif)
 

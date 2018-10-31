@@ -35,7 +35,7 @@ valve area. With severe stenosis the increased workload on the heart may
 lead to right-side congestive heart failure.
 
 See a
-[diagram](http://www.mirage-samoyeds.com/health/pulmonarystenosis.jpg "external-link")
+[diagram](http://www.mirage-samoyeds.com/health/pulmonarystenosis.jpg)
 of the heart showing the pulmonic stenosis.
 
 
@@ -113,7 +113,7 @@ References
 ----------
 
 1.  [Understanding Canine Pulmonic
-    Stenosis](http://www.vet.upenn.edu/docs/default-source/cardiology-brochures-(ryan)/understanding-pulmonic-stenosis.pdf?sfvrsn=0)
+    Stenosis](http://www.vet.upenn.edu/docs/default-source/cardiology-brochures-\(ryan\)/understanding-pulmonic-stenosis.pdf?sfvrsn=0)
     from the Matthew J. Ryan Veterinary Hospital, University of
     Pennsylvania School of Veterinary Medicine.  ![two bones
     rating](/img/2-bones.gif)

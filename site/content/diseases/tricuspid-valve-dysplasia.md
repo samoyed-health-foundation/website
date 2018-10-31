@@ -131,7 +131,7 @@ References
 ----------
 
 1.  [Understanding Canine Congestive Heart
-    Failure](http://www.vet.upenn.edu/docs/default-source/cardiology-brochures-(ryan)/understanding-heart-failure.pdf?sfvrsn=0)
+    Failure](http://www.vet.upenn.edu/docs/default-source/cardiology-brochures-\(ryan\)/understanding-heart-failure.pdf?sfvrsn=0)
     from the Matthew J. Ryan Veterinary Hospital, University of
     Pennsylvania School of Veterinary Medicine  ![3
     bones](/img/3-bones.gif)
@@ -174,7 +174,7 @@ bones](/img/2-bones.gif)
 ![2 bones](/img/2-bones.gif)
 
 [Tricuspid Valve Dysplasia in the Labrador
-Retriever](http://www.labbies.com/tvd.htm "external-link") by Pamela A.
+Retriever](http://www.labbies.com/tvd.htm) by Pamela A.
 Davol - with drawings of the canine heart ![one bone
 rating](/img/1-bone.gif)
 
