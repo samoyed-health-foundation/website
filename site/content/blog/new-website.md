@@ -1,6 +1,6 @@
 ---
 title: "New website"
-date: 2018-11-01T03:25:00.000Z
+date: 2018-11-01
 author: "Sheila Herrmann"
 description: "The Samoyed Club of America Education and Research Foundation is very excited to finally go live with our long anticipated new Website..."
 banner: "img/banners/new-website.jpg"

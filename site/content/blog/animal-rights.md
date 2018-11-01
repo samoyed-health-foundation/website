@@ -1,6 +1,6 @@
 ---
 title: "Animal Rights and your Samoyed's Health"
-date: 2009-06-07T12:14:00.000Z
+date: 2009-06-07
 author: "Pam Barbe"
 description: "How do those two go together? Simply put, if the Animal Rights activists have their way, you won't have to be concerned about your pet's health because you won't have a pet."
 banner: "img/banners/pexels-lawyer.jpg"
