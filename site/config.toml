@@ -61,10 +61,10 @@ paginate = 10
   weight = 7
 
 # Blog
-# [[menu.main]]
-#   name = "Blog"
-#   url  = "/blog/"
-#   weight = 8
+[[menu.main]]
+  name = "Blog"
+  url  = "/blog/"
+  weight = 8
 
 # Top bar social links menu
 
@@ -171,6 +171,6 @@ paginate = 10
   subtitle = ""
 
 [params.recent_posts]
-  enable = false
+  enable = true
   title = "From our blog"
   subtitle = ""
