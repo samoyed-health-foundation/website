@@ -66,6 +66,14 @@ title = "Past Sponsored Events"
 
 <p></p>
 
+## 2018
+
+- Australia DNA/database collection of bloat affected dogs and their unaffected relatives
+
+## 2013
+
+- Samoyed Club of America National Specialty
+
 ## 2012
 
 - Samoyed Club of Central Arizona
