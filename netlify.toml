@@ -9,3 +9,4 @@
   from = "https://www.samoyedhealthfoundation.com/*"
   to = "https://www.samoyedhealthfoundation.org/:splat"
   status = 301
+  force = true
