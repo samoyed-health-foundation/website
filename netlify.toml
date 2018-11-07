@@ -10,3 +10,9 @@
   to = "https://www.samoyedhealthfoundation.org/:splat"
   status = 301
   force = true
+
+[[redirects]]
+  from = "https://samoyedhealthfoundation.com/*"
+  to = "https://www.samoyedhealthfoundation.org/:splat"
+  status = 301
+  force = true
