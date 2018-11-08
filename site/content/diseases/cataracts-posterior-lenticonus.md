@@ -105,7 +105,7 @@ normal animals, the offspring will be unaffected but some will remain
 carriers. If 2 carriers are mated, approximately 25% will be affected,
 50% will be carriers and 25% will be normal.
 
-![cataracts_table](/img/cataracts_table.jpg)
+<img src="/img/cataracts_table.jpg" alt="Cataracts Table" style="width: 100%; max-width: 447px; height: auto;">
 
 **AA** = normal
 
