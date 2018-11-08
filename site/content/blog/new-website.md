@@ -20,11 +20,11 @@ In addition to the sweeping content corrections and updates, we also updated the
 
 **Before:**
 
-![Before](/img/website-before.png)
+<img src="/img/website-before.png" alt="Before" style="width: 100%; max-width: 1024px; height: auto;">
 
 **After:**
 
-![After](/img/website-after.png)
+<img src="/img/website-after.png" alt="After" style="width: 100%; max-width: 1024px; height: auto;">
 
 We offer a huge Thank You to SCARF Director Matt Odille for the many many volunteer hours it took for him to put so much updated information on the site.
 
