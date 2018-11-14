@@ -13,7 +13,7 @@ The Samoyed Club of America Education and Research Foundation is very excited to
 
 With so many links and so much information there will always be changing or broken links.
 If you find a link that is in need of an update please help everyone who uses the site by contacting us at
-[matt.odille@samoyedhealthfoundation.org](mailto:matt.odille@samoyedhealthfoundation.org)
+[help@samoyedhealthfoundation.org](mailto:help@samoyedhealthfoundation.org)
 and letting us know what you have discovered and where it is located.
 
 In addition to the sweeping content corrections and updates, we also updated the design.
