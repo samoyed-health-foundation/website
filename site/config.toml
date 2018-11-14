@@ -111,7 +111,7 @@ paginate = 10
 
   logo = "img/logo.png"
   address = """<p><strong>SCARF President</strong>
-      <br>Sheila Hermann
+      <br>Sheila Herrmann
       <br><a href="mailto:president@samoyedhealthfoundation.org">president@samoyedhealthfoundation.org</a>
     </p>
     """
