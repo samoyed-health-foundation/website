@@ -111,13 +111,12 @@ paginate = 10
 
   logo = "img/logo.png"
   address = """<p><strong>SCARF President</strong>
-      <br>Pam Barbe
-      <br>16611 Lafone
-      <br>Spring, TX 77379-7508
+      <br>Sheila Hermann
+      <br><a href="mailto:president@samoyedhealthfoundation.org">president@samoyedhealthfoundation.org</a>
     </p>
     """
-  latitude  = "30.0227915"
-  longitude = "-95.5144835"
+  latitude  = "30.4739452"
+  longitude = "-90.1081459"
   zoom = "6"
 
 [Permalinks]

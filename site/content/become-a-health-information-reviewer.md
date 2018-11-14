@@ -28,5 +28,5 @@ The process is simple:
 7. You would be able to review when it is convenient for you.
 
 If you would like to consider helping your breed by becoming a "Health Information Reviewer", please contact
-[Pam Barbe](mailto:president@samoyedhealthfoundation.org?subject=Questions%20about%20becoming%20a%20Health%20Information%20Reviewer)
+[president@samoyedhealthfoundation.org](mailto:president@samoyedhealthfoundation.org?subject=Questions%20about%20becoming%20a%20Health%20Information%20Reviewer)
 and she will be happy to answer any of your questions.

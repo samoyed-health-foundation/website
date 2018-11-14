@@ -50,4 +50,4 @@ Money may only be appropriated for Education, Research and the normal business e
 # If I would like to ask a question whom should I contact?
 
 We would appreciate any comments you would have and would be happy to answer any questions that you have regarding the Foundation.
-Please contact [Pam Barbe](mailto:pbarbe@comcast.net).
+Please contact [president@samoyedhealthfoundation.org](mailto:president@samoyedhealthfoundation.org).
