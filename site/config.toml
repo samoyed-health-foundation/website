@@ -101,7 +101,7 @@ paginate = 10
   # Enable the contact form by entering your Formspree.io email
   email = ""
   # FormSpree no longer allows AJAX requests for free, so use formcarry instead
-  form_carry = "https://formcarry.com/s/yl_CuT5s-fF"
+  # formcarry quickly went over the free limit with spam submissions, so use Netlify forms instead
 
   about_us = "<p>We're an organization devoted to improving the health of the Samoyed breed.</p>"
   copyright = "Copyright &copy; 2018, Samoyed Club of America Education and Research Foundation, Inc."

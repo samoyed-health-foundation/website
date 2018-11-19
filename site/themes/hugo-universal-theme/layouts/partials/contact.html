@@ -15,7 +15,7 @@
 
                 <div id="contact-message"></div>
 
-                <form class="contact-form" method="post" action="{{ .Site.Params.form_carry }}" accept-charset="UTF-8">
+                <form name="contact" data-netlify="true" netlify-honeypot="role" class="contact-form" method="post" accept-charset="UTF-8">
                     <div class="row">
                         <div class="col-sm-6">
                             <div class="form-group">
@@ -35,7 +35,21 @@
                                 <textarea id="message" class="form-control" name="message" required></textarea>
                             </div>
                         </div>
-                        <input type="hidden" name="_gotcha">
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                              <div data-netlify-recaptcha></div>
+                            </div>
+                        </div>
+                        <div data-netlify-recaptcha></div>
+                        <div class="hidden">
+                            <div class="form-group">
+                                <label for="email">{{ i18n "contactMail" }}</label>
+                                <input type="text" class="form-control" name="email" id="email" required>
+
+                                <label for="role">Role</label>
+                                <input type="text" class="form-control" name="role" id="role"/>
+                            </div>
+                        </div>
 
                         <div class="col-sm-12 text-center">
                           <button type="submit" class="btn btn-template-main"><i class="fa fa-envelope-o"></i>{{ i18n "contactSend" }}</button>
