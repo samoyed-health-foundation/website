@@ -9,6 +9,9 @@ publish_mode: editorial_workflow
 media_folder: "site/static/img/uploads" # Location for uploaded media files
 public_folder: "/img/uploads" # What to begin the src attribute for uploaded media with
 
+display_url: "https://www.samoyedhealthfoundation.org"
+logo_url: "https://www.samoyedhealthfoundation.org/img/carousel/scarf-logo.png"
+
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
@@ -16,6 +19,8 @@ collections:
     create: true # Allow users to create new documents in this collection
     extension: "md"
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    editor:
+      preview: false
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
@@ -30,6 +35,8 @@ collections:
     create: true # Allow users to create new documents in this collection
     extension: "md"
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    editor:
+      preview: false
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
