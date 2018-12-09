@@ -1,6 +1,6 @@
-+++
-title = "Diabetes mellitus"
-+++
+---
+title: Diabetes mellitus research
+---
 
 # Other research involving Samoyeds
 
