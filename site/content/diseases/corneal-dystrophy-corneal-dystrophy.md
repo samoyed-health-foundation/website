@@ -1,6 +1,6 @@
-+++
-title = "Corneal Dystrophy"
-+++
+---
+title: Living With Corneal Dystrophy
+---
 
 **Disclaimer:**
 
