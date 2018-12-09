@@ -1,5 +1,5 @@
 ---
-title: Diabetes mellitus research
+title: Other diabetes mellitus research
 ---
 
 # Other research involving Samoyeds
