@@ -3,7 +3,7 @@ title: "Documenting the Ancient Origins of the Samoyed"
 date: 2012-02-03
 
 author: "Pam Barbe"
-banner: "img/banners/pupdigsmall.jpg"
+banner: "/img/banners/pupdigsmall.jpg"
 categories:
   - events
 tags:

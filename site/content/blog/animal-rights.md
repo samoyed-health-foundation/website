@@ -2,7 +2,7 @@
 title: "Animal Rights and your Samoyed's Health"
 date: 2009-06-07
 author: "Pam Barbe"
-banner: "img/banners/pexels-lawyer.jpg"
+banner: "/img/banners/pexels-lawyer.jpg"
 categories:
   - articles
 

@@ -2,7 +2,7 @@
 title: "New website"
 date: 2018-11-01
 author: "Sheila Herrmann"
-banner: "img/banners/new-website.jpg"
+banner: "/img/banners/new-website.jpg"
 categories:
   - articles
 

@@ -2,7 +2,7 @@
 title: "Amazon Smile"
 date: 2018-10-31
 author: "Sheila Herrmann"
-banner: "img/banners/amazon_smile.png"
+banner: "/img/banners/amazon_smile.png"
 categories:
   - articles
 

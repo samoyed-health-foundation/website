@@ -2,7 +2,7 @@
 title: "2018 SCA National Specialty"
 date: 2018-06-27
 author: "Margaret Black"
-banner: "img/banners/2018-nationals.png"
+banner: "/img/banners/2018-nationals.png"
 categories:
   - events
 
