@@ -2,7 +2,6 @@
 title: "Amazon Smile"
 date: 2018-10-31
 author: "Sheila Herrmann"
-description: "Did you know your purchases can make a difference? AmazonSmile donates to Samoyed Club of America Education & Research Foundation Inc when you do your holiday shopping at"
 banner: "img/banners/amazon_smile.png"
 categories:
   - articles

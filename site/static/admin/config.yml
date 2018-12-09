@@ -14,13 +14,22 @@ collections:
     label: "Blog" # Used in the UI
     folder: "site/content/blog" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    extension: "md"
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Type", name: "type", widget: "hidden", default: "blog"}
-      - {label: "Layout", name: "layout", widget: "hidden", default: "single"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Author", name: "author", widget: "string"}
-      - {label: "Description", name: "description", widget: "string"}
       - {label: "Featured Image", name: "banner", widget: "image"}
+      - {label: "Categories", name: "categories", widget: "select", multiple: true, options: ["articles", "events"]}
+      - {label: "Tags", name: "tags", widget: "select", multiple: true, options: ["history", "pdf"]}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "diseases" # Used in routes, e.g., /admin/collections/blog
+    label: "Diseases" # Used in the UI
+    folder: "site/content/diseases" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    extension: "md"
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}

@@ -3,7 +3,6 @@ title: "Documenting the Ancient Origins of the Samoyed"
 date: 2012-02-03
 
 author: "Pam Barbe"
-description: "Archaeological evidence indicates that the Samoyed has an extremely ancient inception, dating back at least to 5500 BCE."
 banner: "img/banners/pupdigsmall.jpg"
 categories:
   - events
