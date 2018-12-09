@@ -38,13 +38,13 @@
   translation: "Toggle Navigation"
 
 - id: categoriesTitle
-  translation: "Categories"
+  translation: "All Categories"
 
 - id: searchTitle
   translation: "Search"
 
 - id: tagsTitle
-  translation: "Tags"
+  translation: "All Tags"
 
 - id: continueReading
   translation: "Continue reading"
