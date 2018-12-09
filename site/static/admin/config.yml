@@ -10,7 +10,7 @@ media_folder: "site/static/img/uploads" # Location for uploaded media files
 public_folder: "/img/uploads" # What to begin the src attribute for uploaded media with
 
 display_url: "https://www.samoyedhealthfoundation.org"
-logo_url: "https://www.samoyedhealthfoundation.org/img/carousel/scarf-logo.png"
+logo_url: "https://www.samoyedhealthfoundation.org/img/logo.png"
 
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
