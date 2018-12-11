@@ -1,12 +1,9 @@
-+++
-title = "Muscular Dystrophy (X-Linked)"
-+++
-
+---
+title: Muscular Dystrophy (X-Linked)
+---
 **Liaison:** Jan Young
 
-**Email:** <jannermd@yahoo.com>
-
-
+**Email:** <mailto:jannermd@yahoo.com>
 
 Muscular dystrophy is an inherited type of muscle disease (myopathy)
 that is progressive and nonregenerative (permanent loss of muscle tissue
@@ -17,10 +14,7 @@ have only one X chromosome. Since females have two X chromosomes (and
 only one is typically affected) they may be carriers, but show little or
 no signs of disease.
 
-
-
-Signs and Symptoms
-------------------
+## Signs and Symptoms
 
 Signs and symptoms begin in early puppy hood and are almost always
 present by six to nine weeks of age. Muscle weakness and exercise
@@ -34,14 +28,11 @@ progresses, and there begins to be obvious muscle wasting (atrophy).
 Dogs are able to chew normally but often drop food when swallowing and
 are not able to drink normally.
 
-
-
 Depending on the severity of the disease, dogs may die very young, or,
 on occasion, live several years. Eventually the muscles of the heart
 become involved and this is often the cause of death.
 
-Causes
-------
+## Causes
 
 X-linked Muscular Dystrophy (XLMD) is caused by a mutation in the
 dystrophin gene on the X chromosome. This gene is responsible for making
@@ -52,16 +43,14 @@ than in others, and the Samoyed is one of the breeds in which it is more
 common. It is very similar to X-linked Duchenne's muscular dystrophy in
 humans.
 
-Risk Factors
-------------
+## Risk Factors
 
 This is a genetically transmitted disease and animals with this defect
 in their line should not be bred. As noted above, male dogs are at much
 greater risk for exhibiting the disorder, but females are at risk for
 being carriers and having affected male offspring.
 
-Diagnostic Tests
-----------------
+## Diagnostic Tests
 
 Muscle biopsy is the definitive diagnostic tool when a myopathy or
 dystrophy is suspected. It is extremely important that an accurate
@@ -81,8 +70,7 @@ when XLMD is present in a line or is otherwise suspected. Creatine
 kinase is a measure of muscle injury or breakdown, as seen in
 progressive myopathies, including XLMD.
 
-Treatment Guidelines
---------------------
+## Treatment Guidelines
 
 > **Note:** Treatment of animals should only be performed by a licensed
 > veterinarian. Veterinarians should consult the current literature and
@@ -99,8 +87,7 @@ therapy research has been very promising. Unfortunately both of these
 potential therapies are still at the experimental stage and not
 available outside the laboratory.
 
-References
-----------
+## References
 
 [Dystrophy-like
 myopathies](http://www.merckvetmanual.com/mvm/musculoskeletal_system/congenital_and_inherited_anomalies_of_the_musculoskeletal_system/congenital_and_inherited_anomalies_of_the_musculoskeletal_system_in_multiple_species.html)
@@ -112,15 +99,10 @@ Edition. Ed Kahn, Cynthia M. Pub Merck and Co, Inc. pp 950, 1128.
 ![four bones
 rating](/img/4-bones.gif)
 
-
-
 [Canine X-linked Muscular
 Dystrophy](http://www.gopetsamerica.com/dog-health/canine_x_linked_muscular_dystrophy.aspx)
 at www.gopetsamerica.com    ![two bones
 rating](/img/2-bones.gif)
-
-
-
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
@@ -128,28 +110,25 @@ rating](/img/2-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-Support Groups
---------------
+## Support Groups
 
 [Canine Muscular Dystrophy
 Awareness](https://www.facebook.com/Canine-Hemophilia-Support-Group-133078033429365/)
 on Facebook.
 
-Suggested Links
----------------
+## Suggested Links
 
 [X-linked recessive
 inheritance](http://en.wikipedia.org/wiki/x-linked_recessive_inheritance)
-- Wikipedia.     ![two bones
-rating](/img/2-bones.gif)
+
+* Wikipedia.     ![two bones
+  rating](/img/2-bones.gif)
 
 [Valentine BA et al 1988.  Canine X-linked muscular dystrophy.  An
 animal model of Duchenne muscular dystrophy:  clinical
 studies](http://www.ncbi.nlm.nih.gov/pubmed/3225630).
 Journal of the Neurological Sciences, 88:69-81.     ![two bones
 rating](/img/2-bones.gif)
-
-
 
 [Muscular
 Dystrophy](http://www.embracepetinsurance.com/Health/muscular-dystrophy.aspx)
@@ -163,14 +142,12 @@ months.](http://books.google.com/books?id=tlAm5etmJU8C&pg=PA446&lpg=PA446&dq=x+l
 Elsevier Health Sciences.  Ed:  JD Hoskins.  2001    ![four bones
 rating](/img/4-bones.gif)
 
+## Current Research
 
-
-
+Gene editing
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
 > ![3 bones](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
-
-
