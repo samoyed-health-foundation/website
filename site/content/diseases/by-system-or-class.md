@@ -51,7 +51,7 @@ title: By System Or Class
 * Corneal Erosion Syndrome
 * [Distichiasis](/diseases/distichiasis) *
 * Entropion
-* [Glaucoma](/diseases/glaucoma)
+* [Glaucoma](/diseases/glaucoma)*
 * [Keratoconjunctivitis Sicca (KCS, dry eye)](/diseases/keratoconjunctivitis-sicca-kcs-or-dry-eye) *
 * Medial Canthal Pocket Syndrome
 * [Microphthalmia](/diseases/microphthalmia) *
@@ -136,7 +136,7 @@ title: By System Or Class
 * [Alopecia X/Growth Hormone/Castration Responsive Dermatosis](/diseases/alopecia-x) *
 * [Partial Albinism (Albinoid Syndrome)](/diseases/partial-albinism) *
 * [Sebaceous Adenitis](/diseases/sebaceous-adenitis-sa) *
-* [Zinc-Responsive Dermatosis](/diseases/zinc-responsive-dermatosis)\*\*
+* [Zinc-Responsive Dermatosis](/diseases/zinc-responsive-dermatosis)
 * Allergies *
 * Post-Clipping Alopecia *
 * Pemphigus Foliaceus
