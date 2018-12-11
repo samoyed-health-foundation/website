@@ -144,7 +144,7 @@ rating](/img/4-bones.gif)
 
 ## Current Research
 
-Gene editing
+Gene editing in canine work may help human treatment:  AmoasiiL et al, 2018.  [Gene editing resotres dystrophin expression in a canine model of Duichenne muscular dystrophy.](https://www.ncbi.nlm.nih.gov/pubmed/30166439)  Science 362:86-91.
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
