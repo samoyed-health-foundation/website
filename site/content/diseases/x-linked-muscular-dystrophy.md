@@ -137,14 +137,18 @@ www.embracepetinsurance.com     ![two bones
 rating](/img/2-bones.gif)
 
   [G. Diane Shelton.    Muscular Dystrophies.  p. 446 in:  Veterinary
-pediatrics:  dogs and cats from birth to six
+pediatrics:  dogs and cats from birth to six](http://books.google.com/books?id=tlAm5etmJU8C&pg=PA446&lpg=PA446&dq=x+linked+muscular+dystrophy+samoyed&source=bl&ots=zY6Ac2qFuO&sig=_Px7Eq-Omun4UdCJ3PXYK-6lTLE&hl=en&ei=J2AiTqz2NISWsgOchNxf&sa=X&oi=book_result&ct=result&resnum=7&ved=0CEUQ6AEwBg%20-%20v=onepage&q=x%20linked%20muscular%20dystrophy%20samoyed&f=false)
+
+![]()
+
+[
 months.](http://books.google.com/books?id=tlAm5etmJU8C&pg=PA446&lpg=PA446&dq=x+linked+muscular+dystrophy+samoyed&source=bl&ots=zY6Ac2qFuO&sig=_Px7Eq-Omun4UdCJ3PXYK-6lTLE&hl=en&ei=J2AiTqz2NISWsgOchNxf&sa=X&oi=book_result&ct=result&resnum=7&ved=0CEUQ6AEwBg%20-%20v=onepage&q=x%20linked%20muscular%20dystrophy%20samoyed&f=false)
 Elsevier Health Sciences.  Ed:  JD Hoskins.  2001    ![four bones
 rating](/img/4-bones.gif)
 
 ## Current Research
 
-Gene editing in canine work may help human treatment:  AmoasiiL et al, 2018.  [Gene editing resotres dystrophin expression in a canine model of Duichenne muscular dystrophy.](https://www.ncbi.nlm.nih.gov/pubmed/30166439)  Science 362:86-91.
+Gene editing in canine work may help human treatment:  AmoasiiL et al, 2018.  [Gene editing restores dystrophin expression in a canine model of Duchenne muscular dystrophy.](https://www.ncbi.nlm.nih.gov/pubmed/30166439)  Science 362:86-91.
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
