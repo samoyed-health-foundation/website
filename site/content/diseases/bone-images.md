@@ -7,11 +7,13 @@ title: Bone images
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-   
+ 
 
+\    ![one
+bone
+rating](/img/1-bone.gif)
 
-
-  ![two bones
+   ![two bones
 rating](/img/2-bones.gif)
 
    ![three bones
