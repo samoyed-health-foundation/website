@@ -9,5 +9,12 @@ title: Bone images
 
 ## 
 
+
+
+
+
    ![three bones
 rating](/img/3-bones.gif)
+
+\    ![four bones
+rating](/img/4-bones.gif)
