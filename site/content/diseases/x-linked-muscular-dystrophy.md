@@ -152,4 +152,4 @@ rating](/img/4-bones.gif)
 
 ## Current Research
 
-[Gene editing in canine research](https://www.samoyedhealthfoundation.org/diseases/gene-editing-in-canine-muscular-dystrophy/) may help human treatment.
+[Gene editing in canine research ](https://www.samoyedhealthfoundation.org/diseases/entries/x-linked-muscular-dystrophy-current-research)may help human treatment.
