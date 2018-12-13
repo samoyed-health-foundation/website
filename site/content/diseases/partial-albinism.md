@@ -1,12 +1,9 @@
-+++
-title = "Partial Albinism"
-+++
-
+---
+title: Partial Albinism
+---
 **Liaison:** Hazel Fitzgibbon
 
-**Email:** <Smiliesam@hotmail.com>
-
-
+**Email:** <mailto:Smiliesam@hotmail.com>
 
 Albinism is a genetic disorder characterized by a complete or partial
 lack of melanin, or pigment, in eyes, skin and hair.   This lack of
@@ -19,18 +16,12 @@ An albino dog with blue eyes is called a Cornaz Albino.  A Samoyed with
 blue eyes isn't necessarily an albino or partial albino if it has skin
 pigmentation.
 
-
-
-
-
-
-Signs and Symptoms
-------------------
+## Signs and Symptoms
 
 An albino Samoyed will be recognized initially because of lack of nose,
-eye rim and lip pigment and then because the eyes look *light*.  Closer
+eye rim and lip pigment and then because the eyes look _light_.  Closer
 examination will usually show a blue or green eye. These can range from
-very pale to quite intense colour. A *pink* eye is the usual albino
+very pale to quite intense colour. A _pink_ eye is the usual albino
 trait in some mammals.
 
 {{< figure src="/img/albino_male.jpg" title="Male" >}}
@@ -50,10 +41,7 @@ through various web sites that canine albinos are more 'delicate'
 generally than normally pigmented dogs, and more prone to bacterial
 infections and skin rashes.
 
-
-
-Causes
-------
+## Causes
 
 There are different levels of albinism, not categorized in dogs, but
 they are all thought to be genetic.  In other mammals, mutations causing
@@ -61,42 +49,30 @@ albinism have been found in two genes.   One is the gene for tyrosinase,
 an enzyme that helps convert the amino acid tyrosine into melanin
 (presumably the "C" coat color gene).  The other is for the "P" gene
 that helps produce the structure within the cell (melanosome) that
-contains melanin.  The genes/mutations for albinism in dogs have not
-been identified
+contains melanin.  The genes/mutations for albinism in some other breeds have
+been identified, but not in Samoyeds.
 
-
-
-
-
-Risk Factors
-------------
+## Risk Factors
 
 Related dogs with the disorder
 
-Diagnostic Tests
-----------------
+## Diagnostic Tests
 
-[There are no genetic tests yet for albinism in dogs.  Diagnosis is
+\[There are no genetic tests yet for albinism in dogs.  Diagnosis is
 typically by observation of the eyes and skin (nose, lips, eye rims,
 footpads, and skin beneath the thick white fur).]
 
-Treatment Guidelines
---------------------
+## Treatment Guidelines
 
 > **Note:** Treatment of animals should only be performed by a licensed
 > veterinarian. Veterinarians should consult the current literature and
 > current pharmacological formularies before initiating any treatment
 > protocol.
 
-Albinism cannot be treated *per se*, but the conditions associated with
+Albinism cannot be treated _per se_, but the conditions associated with
 it can be helped, see Management Tips.
 
-
-
-
-
-Management
-----------
+## Management
 
 Melanin in the skin is a protection from sun radiation, so the absence
 makes the skin highly vulnerable to sunburn. Because of this, in human
@@ -118,23 +94,19 @@ will dry out and generally look frizzled. Albino coats having a total
 lack of pigment, e.g. no biscuit or cream shading, are more at risk. Do
 not keep your dog outside in the sun.
 
-References
-----------
+## References
 
-[http://serendip.brynmawr.edu/biology/b103/f02/web1/bzea.html](http://serendip.brynmawr.edu/biology/b103/f02/web1/bzea.html)  ![2
+<http://serendip.brynmawr.edu/biology/b103/f02/web1/bzea.html>  ![2
 bones](/img/2-bones.gif)
-
-
 
  **[The Genetics of the
 Dog](http://books.google.com/books?id=bgZwjdB4xgEC&pg=PA74&dq=cornaz+albino&sig=XOr0NRAblHF-TOUtUzpjrxrTDgI)**.
 By Jeff Sampson  and Anatoly Ruvinsky.  2001 CABI Publishing.  Page
-74.  ![3 bones](/img/3-bones.gif)
 
-
+74. ![3 bones](/img/3-bones.gif)
 
 **[Albinism in Dogs](https://www.jstor.org/stable/2332555?seq=1#page_scan_tab_contents).**
-Karl Pearson, C. H. Usher.  *Biometrika*, Vol. 21, No. 1 of 4 (Dec., 1929), pp. 144-163 doi:10.2307 of 2332555  ![2 bones](/img/2-bones.gif)
+Karl Pearson, C. H. Usher.  _Biometrika_, Vol. 21, No. 1 of 4 (Dec., 1929), pp. 144-163 doi:10.2307 of 2332555  ![2 bones](/img/2-bones.gif)
 
 Fascinating reading about colour breeding after the first World War.
 Pearson was the first to use the term "Cornaz Albino," in memory of
@@ -145,49 +117,38 @@ contrast to a Dondo Albino, a pure white dog with the same "albinotic
 eyes."  The term is now commonly used to describe a blue-eyed albino
 dog.
 
-
-
-
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
 > ![3 bones](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-Support Groups
---------------
+## Support Groups
 
 No support group for owners of albinos were found.  Individual sites
 exist for Deaf and Blind dogs.
 
-Suggested Links
----------------
+## Suggested Links
 
-[http://bowlingsite.mcf.com/Genetics/ColorGen.html](http://bowlingsite.mcf.com/Genetics/ColorGen.html)  ![one
+<http://bowlingsite.mcf.com/Genetics/ColorGen.html>  ![one
 bone
 rating](/img/1-bone.gif)
 
-
-
-[http://www.kolumbus.fi/sarakontu/link/canlinks.html\#fci5](http://www.kolumbus.fi/sarakontu/link/canlinks.html#fci5)
+<http://www.kolumbus.fi/sarakontu/link/canlinks.html#fci5>
 ![one bone
 rating](/img/1-bone.gif) - Interesting site with links to colour genetics
 for many Spitz breeds
-
-
 
 [http://www.dpca.org/BreedEd/albinohistory.htm](http://dpca.org/albino/albino_about.htm)  ![one
 bone
 rating](/img/1-bone.gif) - From the Doberman Pinscher Club of America
 
-
-
-
-
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
 > ![3 bones](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
+## Current Research
 
+[Mutation causing albinism in several dog breeds](https://www.samoyedhealthfoundation.org/diseases/albinism-current-research/)
