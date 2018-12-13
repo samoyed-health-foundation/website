@@ -173,7 +173,7 @@ Overall, K.L., "Clinical Behavioral Medicine for Small Animals", Mosby, Inc. 199
 > ![3 bones](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
->
-> ## Current Research
->
-> [Managing Canine Aggression in the Home](https://www.samoyedhealthfoundation.org/diseases/aggression-current-research/)
+
+## Current Research
+
+[Managing Canine Aggression in the Home](https://www.ncbi.nlm.nih.gov/pubmed/29429601)
