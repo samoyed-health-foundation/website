@@ -1,12 +1,9 @@
-+++
-title = "Alopecia X"
-+++
-
+---
+title: Alopecia X
+---
 **Liaison:** Elizabeth Wells
 
-**Email:** <solidgoldsams@charter.net>
-
-
+**Email:** <mailto:solidgoldsams@charter.net>
 
 Alopecia X is the name given to a cosmetic condition found primarily in
 Nordic breeds of dogs as well as miniature and toy poodles. The primary
@@ -24,10 +21,7 @@ recently, Adrenal Hyperplasia-Like Syndrome.  Breeders of Alaskan
 Malamutes often refer to it as Coat Funk and Pomeranian breeders call it
 Black Skin Disease.
 
-
-
-Signs and Symptoms
-------------------
+## Signs and Symptoms
 
 The primary symptom is symmetrical coat loss. It often starts on the
 flank and rump near the tail and spreads forward up the sides of the
@@ -47,26 +41,19 @@ again at least for one cycle of the coat.  In some breeds the condition
 is seen more often in males than in females, however we do not have
 enough data to know if there is a difference in Samoyeds.       
 
- 
-
-Causes
-------
-
- 
+## Causes
 
 Alopecia X is a catch-all term that may be describing more than one
 disease with similar types of hair loss.  There is no single known
 cause.  In some cases it may be a hormone imbalance.   Some cases are
 believed to have a genetic link and there is ongoing research to try to
-identify the genes involved.
+identify the genes involved (see [Current Research](https://www.samoyedhealthfoundation.org/diseases/alopecia-x-current-research/)).
 
-Risk Factors
-------------
+## Risk Factors
 
 Related dogs with the condition (family history)
 
-Diagnostic Tests
-----------------
+## Diagnostic Tests
 
 There is no specific diagnostic test for Alopecia X. It is usually a
 matter of ruling out other causes of the symptoms. Your veterinarian
@@ -82,10 +69,7 @@ expensive and not 100% conclusive, therefore it is not recommended by
 many veterinarians - since they consider Alopecia X to be primarily a
 cosmetic condition.   
 
- 
-
-Treatment Guidelines
---------------------
+## Treatment Guidelines
 
 Note: Treatment of animals should only be performed by a licensed
 veterinarian. Veterinarians should consult the current literature and
@@ -119,10 +103,7 @@ effects.
 Spontaneous re-growth sometimes occurs with no known cause. This may
 happen one year or many years later.
 
- 
-
-Management
-----------
+## Management
 
 Dogs with Alopecia X are more susceptible to cold and to sun exposure. 
 Consider putting a t-shirt on your dog if it will be in the sun for any
@@ -136,31 +117,22 @@ infections or changes in the coat, and the stimulation is good for the
 health of the skin.  Dogs with Alopecia X often have more flaking of the
 skin.
 
- 
-
-References
-----------
+## References
 
 Paradis, Manon in Kirk's Current Veterinary Therapy XIII -- Small Animal
 Practice, "Melatonin Therapy for Canine Alopecia" pp546-549
 ![4 bones](/img/4-bones.gif)
 
-[Adrenal steroid hormone concentrations in dogs with hair cycle arrest (Alopecia X) before and during treatment with melatonin and mitotane](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=15500479&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVAbstractPlus) by Linda A. Frank, Keith A Hnilica and Jack Oliver, *Veterinary Dermatology* 2004; 15(5):  278-284
+[Adrenal steroid hormone concentrations in dogs with hair cycle arrest (Alopecia X) before and during treatment with melatonin and mitotane](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=15500479&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVAbstractPlus) by Linda A. Frank, Keith A Hnilica and Jack Oliver, _Veterinary Dermatology_ 2004; 15(5):  278-284
 ![3 bones](/img/3-bones.gif)
 
-[Treatment of canine Alopecia X with trilostane](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=15500480&ordinalpos=2&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum), by Rosario Cerundolo, David H Lloyd, Angelo Persechino, Helen Evans and Andria Cauvin, *Veterinary Dermatology* 2004; 15(5):  285-293
+[Treatment of canine Alopecia X with trilostane](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=15500480&ordinalpos=2&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum), by Rosario Cerundolo, David H Lloyd, Angelo Persechino, Helen Evans and Andria Cauvin, _Veterinary Dermatology_ 2004; 15(5):  285-293
 ![3 bones](/img/3-bones.gif)
 
-Identifying "look alike" endocrine diseases, by Pat White DVM MS diplomat ACVD *DVM* June 2001
+Identifying "look alike" endocrine diseases, by Pat White DVM MS diplomat ACVD _DVM_ June 2001
 ![2 bones](/img/2-bones.gif)
 
- 
-
- 
-
 <http://www.vet.utk.edu/hairloss>
-
-
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
@@ -168,8 +140,7 @@ Identifying "look alike" endocrine diseases, by Pat White DVM MS diplomat ACVD *
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-Suggested Links
----------------
+## Suggested Links
 
 Dr. Linda A. Frank Department of Small Animal Clinical Sciences College
 of Veterinary Medicine The University of Tennessee Knoxville, TN
@@ -177,9 +148,12 @@ of Veterinary Medicine The University of Tennessee Knoxville, TN
 
 Tel: (865) 974-8387 (ET)
 
-Email: [LFrank@utk.edu](mailto:LFrank@utk.edu) Website: [Hair Loss](http://www.vet.utk.edu/hairloss)
+Email: <mailto:LFrank@utk.edu> Website: [Hair Loss](http://www.vet.utk.edu/hairloss)
 ![2 bones](/img/2-bones.gif)
 
 [Mar Vista Animal Center Health Pages](http://www.marvistavet.com/alopecia-x.pml)
 ![2 bones](/img/2-bones.gif)
 
+## Current Research
+
+[Canine hair cycle regulation](https://www.samoyedhealthfoundation.org/diseases/alopecia-x-current-research/)
