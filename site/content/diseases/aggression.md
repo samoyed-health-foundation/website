@@ -176,4 +176,4 @@ Overall, K.L., "Clinical Behavioral Medicine for Small Animals", Mosby, Inc. 199
 
 ## Current Research
 
-[Managing Canine Aggression in the Home](https://www.ncbi.nlm.nih.gov/pubmed/29429601)
+[Managing Aggression](https://www.samoyedhealthfoundation.org/diseases/aggression-current-research/)
