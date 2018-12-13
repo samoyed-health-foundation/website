@@ -1,7 +1,6 @@
-+++
-title = "Aggression"
-+++
-
+---
+title: Aggression
+---
 > **Note:** We do not currently have a health liaison for this disorder.
 > If you would like to volunteer, please contact
 > [president@samoyedhealthfoundation.org](mailto:president@samoyedhealthfoundation.org?subject=Questions%20about%20becoming%20a%20Health%20Information%20Liaison%20or%20Reviewer)
@@ -26,17 +25,16 @@ or other people you must realize there is a problem of aggression.
 Aggression can be divided into a multiple of categories, ranging from 8
 to 13, and a dog may fit a multitude of the categories.
 
-Signs and Symptoms
-------------------
+## Signs and Symptoms
 
-*Remember to look at these in the context of the situation*.
-*And that there may be other subtle signs of reactivity.*
+_Remember to look at these in the context of the situation_.
+_And that there may be other subtle signs of reactivity._
 
 **Vocal:** excessive uncontrolled barking (increased agitation),
 growling, snarls, lip lifting (usually this is silent), and/or snapping
 and biting.
 
-**Physical signals:**  posture of body \--standing rigid, hair up, ears
+**Physical signals:**  posture of body --standing rigid, hair up, ears
 back, walking stiff legged, tail wagging and staring.  Please note that
 a wagging tail only means a dog's willingness to interact!
 
@@ -44,13 +42,12 @@ Guarding of territory, food, possessions, humans, etc.
 
 Grabs people's hands, clothing, legs with teeth
 
-Causes
-------
+## Causes
 
 Abnormal aggressive traits may be a caused by a combination  of
 genetics, environment, the breed and medical causes.
 
-*Medical causes*
+_Medical causes_
 
 Brain chemistry
 
@@ -62,16 +59,15 @@ Hypoglycemia
 
 Hydrocephalus in brachycephalics
 
----Epilepsy
+\---Epilepsy
 
----Brain tumors
+\---Brain tumors
 
 Head trauma
 
 Behavioral Seizures
 
-Diagnostic Tests
-----------------
+## Diagnostic Tests
 
 Medical tests should be done to rule out a medical reason for the
 aggressive behavior. The dog, owner and any individuals that are daily
@@ -84,8 +80,7 @@ of onset of problem, how long has it been occurring, any changes in
 daily patterns, can you predict when the aggression will occur, and how
 does the dog respond to any modifications you the owner does.
 
-Treatment Guidelines
---------------------
+## Treatment Guidelines
 
 Note: Treatment of animals should only be performed by a licensed
 veterinarian. Veterinarians should consult the current literature and
@@ -101,15 +96,14 @@ and the household.
 
 This may include:
 
-- neutering/spaying
-- behavior modifications (dog and human):  relaxation,  gradual change, rewards, reinforce proper behavior
-- modifying the environment:  crates, fencing, number of other animals in the household, incentives
-- Use of head collars, harnesses, appropriate toys, leashes when inside
-- Medications may be prescribed
-- Follow up assessment with the clinician to decide next step of modification
+* neutering/spaying
+* behavior modifications (dog and human):  relaxation,  gradual change, rewards, reinforce proper behavior
+* modifying the environment:  crates, fencing, number of other animals in the household, incentives
+* Use of head collars, harnesses, appropriate toys, leashes when inside
+* Medications may be prescribed
+* Follow up assessment with the clinician to decide next step of modification
 
-Management
-----------
+## Management
 
 Any behavior or environmental modification that one does to get the
 situation manageable will be a LIFE LONG commitment.  There will be
@@ -128,8 +122,7 @@ The dog and the owner must be reeducated and learn the appropriate
 response to situations.  It takes time and committment for any
 modification program to work.
 
-References
-----------
+## References
 
 Overall, K.L., "Clinical Behavioral Medicine for Small Animals", Mosby, Inc. 1997 ![four bones rating](/img/4-bones.gif)
 
@@ -141,8 +134,7 @@ Overall, K.L., "Clinical Behavioral Medicine for Small Animals", Mosby, Inc. 199
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-Support Groups
---------------
+## Support Groups
 
 [Canine aggression](http://groups.yahoo.com/group/canineaggression/)
 
@@ -150,8 +142,7 @@ Support Groups
 
 [k9aggression-support](http://groups.yahoo.com/group/k9aggression-support/)
 
-Suggested Links
----------------
+## Suggested Links
 
 [Animal Health Channel](http://www.healthcommunities.com/canine-aggression/dominance-aggression.shtml)
 ![two bones rating](/img/2-bones.gif)
@@ -182,3 +173,7 @@ Suggested Links
 > ![3 bones](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
+>
+> ## Current Research
+>
+> [Managing Canine Aggression in the Home](https://www.samoyedhealthfoundation.org/diseases/aggression-current-research/)
