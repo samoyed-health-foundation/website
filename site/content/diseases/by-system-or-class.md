@@ -30,7 +30,7 @@ title: By System Or Class
 
 # Digestive/Alimentary Diseases
 
-* Perianal Fistula \*\*
+* [Perianal Fistula](https://www.samoyedhealthfoundation.org/diseases/perianal-fistulas-anal-furunculosis/) \*\*
 * Perianal Gland Adenoma
 * [Gastric Dilatation-Volvulus (Bloat & Gastric Torsion)](/diseases/bloat)*
 * [Inflammatory Bowel (IBD) & Protein Losing Enteropathy(PLE)](/diseases/inflammatory-bowel-ibd)\*\*
@@ -41,7 +41,7 @@ title: By System Or Class
 * Congenital Adrenal Hyperplasia
 * [Hypothyroidism (Autoimmune Thyroiditis)](/diseases/hypothyroidism-autoimmune-hypothyroiditis) *
 * Pancreatitis
-* [Primary Hypoadrenocorticism (Addison's Disease)](/diseases/addison-s-disease)\*\*
+* [Primary Hypoadrenocorticism (Addison's Disease)](/diseases/addison-s-disease)
 * [Hyperadrenocorticism (Cushing's)](/diseases/cushing-s-disease) *
 
 # Eye/Ocular Diseases
