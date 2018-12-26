@@ -34,9 +34,39 @@ collections:
     label: "Index Pages" # Used in the UI
     label_singular: "Index Page"
     files:
+      - name: "breeders-index"
+        label: "Breeders Index"
+        file: "site/content/breeders/_index.md" # The path to the file
+        extension: "md"
+        slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+        editor:
+          preview: false
+        fields: # The fields for each document, usually in front matter
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "databases-index"
+        label: "Databases Index"
+        file: "site/content/databases/_index.md" # The path to the file
+        extension: "md"
+        slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+        editor:
+          preview: false
+        fields: # The fields for each document, usually in front matter
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
       - name: "diseases-index"
         label: "Diseases Index"
         file: "site/content/diseases/_index.md" # The path to the file
+        extension: "md"
+        slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+        editor:
+          preview: false
+        fields: # The fields for each document, usually in front matter
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "owners-index"
+        label: "Owners Index"
+        file: "site/content/owners/_index.md" # The path to the file
         extension: "md"
         slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
         editor:
