@@ -30,7 +30,7 @@ collections:
       - {label: "Tags", name: "tags", widget: "select", multiple: true, options: ["history", "pdf"]}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "diseases" # Used in routes, e.g., /admin/collections/blog
-    label: "Diseases" # Used in the UI
+    label: "Disease" # Used in the UI
     folder: "site/content/diseases" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     extension: "md"
