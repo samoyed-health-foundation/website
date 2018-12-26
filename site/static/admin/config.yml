@@ -14,7 +14,8 @@ logo_url: "https://www.samoyedhealthfoundation.org/img/logo.png"
 
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
-    label: "Blog" # Used in the UI
+    label: "Blog posts" # Used in the UI
+    label_singular: "Blog post"
     folder: "site/content/blog" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     extension: "md"
@@ -29,9 +30,42 @@ collections:
       - {label: "Categories", name: "categories", widget: "select", multiple: true, options: ["articles", "events"]}
       - {label: "Tags", name: "tags", widget: "select", multiple: true, options: ["history", "pdf"]}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "diseases-index" # Used in routes, e.g., /admin/collections/blog
+    label: "Diseases Index" # Used in the UI
+    file: "site/content/diseases/_index.md" # The path to the file
+    extension: "md"
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    editor:
+      preview: false
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "diseases" # Used in routes, e.g., /admin/collections/blog
-    label: "Disease" # Used in the UI
+    label: "Diseases" # Used in the UI
+    label_singular: "Disease"
     folder: "site/content/diseases" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    extension: "md"
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    editor:
+      preview: false
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "research-index" # Used in routes, e.g., /admin/collections/blog
+    label: "Research Index" # Used in the UI
+    file: "site/content/research/_index.md" # The path to the file
+    extension: "md"
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    editor:
+      preview: false
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "current-studies" # Used in routes, e.g., /admin/collections/blog
+    label: "Research Studies" # Used in the UI
+    label_singular: "Research Study"
+    folder: "site/content/research/current-studies" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     extension: "md"
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
