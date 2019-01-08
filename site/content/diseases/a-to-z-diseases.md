@@ -10,7 +10,7 @@ title: A to Z Diseases
 * [Addison's Disease (Primary Hypoadrenocorticism)](/diseases/addison-s-disease) 
 * [Aggression](/diseases/aggression) \*\*
 * [Albinism, Partial (Albinoid Syndrome)](/diseases/partial-albinism) *
-* Allergies *
+* Allergies 
 * [Alopecia X/Growth Hormone/Castration Responsive Dermatosis](/diseases/alopecia-x) *
 * [Anemia](/diseases/anemia) *
 * [Atrial Septal Defect](/diseases/atrial-septal-defect-1) *
@@ -122,8 +122,8 @@ title: A to Z Diseases
 * Perianal Gland Adenoma
 * Persistent Pupillary Membranes (PPM, Mesodermal Dysgenesis)
 * [Piebald or Extreme Piebald Gene - Deafness](/diseases/piebald-or-extreme-piebald-gene-2013-deafness) *
-* Portosystemic Shunt (Extrahepatic)
-* Portosystemic Shunt (Intrahepatic)
+* Portosystemic Shunt (Extrahepatic)*
+* Portosystemic Shunt (Intrahepatic)*
 * Post-Clipping Alopecia \*\*
 * Premature Closure of the Radius (Radial Dysgenesis)
 * [Primary Hypoadrenocorticism (Addison's Disease)](/diseases/addison-s-disease)
@@ -177,4 +177,4 @@ title: A to Z Diseases
 
 # Z
 
-* [Zinc-Responsive Dermatosis](/diseases/zinc-responsive-dermatosis) \*\*
+* [Zinc-Responsive Dermatosis](/diseases/zinc-responsive-dermatosis) *
