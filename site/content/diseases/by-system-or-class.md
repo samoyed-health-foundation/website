@@ -136,8 +136,8 @@ title: By System Or Class
 * [Alopecia X/Growth Hormone/Castration Responsive Dermatosis](/diseases/alopecia-x) *
 * [Partial Albinism (Albinoid Syndrome)](/diseases/partial-albinism) *
 * [Sebaceous Adenitis](/diseases/sebaceous-adenitis-sa) *
-* [Zinc-Responsive Dermatosis](/diseases/zinc-responsive-dermatosis)
-* Allergies *
+* [Zinc-Responsive Dermatosis](/diseases/zinc-responsive-dermatosis)*
+* Allergies 
 * Post-Clipping Alopecia *
 * Pemphigus Foliaceus
 
@@ -148,5 +148,5 @@ title: By System Or Class
 
 # Urinary System Diseases
 
-* Hereditary Nephritis
+* [Hereditary Nephritis](https://www.samoyedhealthfoundation.org/diseases/hereditary-nephritis/)\*\*
 * [Diabetes Insipidus](/diseases/diabetes-insipidus) *
