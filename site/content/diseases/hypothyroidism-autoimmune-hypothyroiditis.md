@@ -8,6 +8,8 @@ title: Hypothyroidism (Autoimmune Hypothyroiditis)
 
 ![hypothyroidism](/img/hypothyroidism.jpeg)
 
+## Summary
+
 Autoimmune  Hypothyroiditis (AH) is the most
 common thyroid disease in dogs covering 90% of hypothyroid cases.
 
