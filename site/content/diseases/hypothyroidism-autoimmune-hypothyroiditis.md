@@ -4,9 +4,11 @@ title: Hypothyroidism (Autoimmune Hypothyroiditis)
 > **Note:** We do not currently have a health liaison for this disorder. If you would like to volunteer, please contact[ president@samoyedhealthfoundation.org](mailto:president@samoyedhealthfoundation.org?subject=Questions%20about%20becoming%20a%20Health%20Information%20Liaison%20or%20Reviewer) and we will be happy to answer any of your questions.
 > For a description of the position, please click on[ disorder health information liaison](/become-a-health-information-liaison).
 >
-> Thank you to Hazel Fitgibbon for providing this disorder information.
+> Thank you to Hazel Fitzgibbon for providing this disorder information.
 
 ![hypothyroidism](/img/hypothyroidism.jpeg)
+
+## Summary
 
 Autoimmune  Hypothyroiditis (AH) is the most
 common thyroid disease in dogs covering 90% of hypothyroid cases.
