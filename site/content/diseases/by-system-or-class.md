@@ -9,12 +9,12 @@ title: By System Or Class
 
 * [Immune-Mediated Thrombocytopenia](/diseases/immune-mediated-thrombocytopenia) *
 * [Immune-Mediated Hemolytic Anemia](/diseases/immune-mediated-hemolytic-anemia) *
-* [Autoimmune Hypothyroiditis (Autoimmune Thyroiditis)](/diseases/hypothyroidism-autoimmune-hypothyroiditis) *
+* [Autoimmune Hypothyroiditis (Autoimmune Thyroiditis)](/diseases/hypothyroidism-autoimmune-hypothyroiditis) \*\*
 
 # Blood and Lymphatic Diseases
 
 * [Hemophilia](/diseases/hemophilia) *
-* [Pelger-Huet Anomaly](/diseases/pelger-huet-anomaly) *
+* [Pelger-Huet Anomaly](/diseases/pelger-huet-anomaly) \*\*
 * [Anemia](/diseases/anemia) *
 
 # Cancer
@@ -39,9 +39,9 @@ title: By System Or Class
 # Endocrine Diseases
 
 * Congenital Adrenal Hyperplasia
-* [Hypothyroidism (Autoimmune Thyroiditis)](/diseases/hypothyroidism-autoimmune-hypothyroiditis) *
+* [Hypothyroidism (Autoimmune Thyroiditis)](/diseases/hypothyroidism-autoimmune-hypothyroiditis) \*\*
 * Pancreatitis
-* [Primary Hypoadrenocorticism (Addison's Disease)](/diseases/addison-s-disease)
+* [Primary Hypoadrenocorticism (Addison's Disease)](/diseases/addison-s-disease)\*\*
 * [Hyperadrenocorticism (Cushing's)](/diseases/cushing-s-disease) *
 
 # Eye/Ocular Diseases
@@ -49,12 +49,12 @@ title: By System Or Class
 * [Cataracts (posterior lenticonus)](/diseases/cataracts-posterior-lenticonus) *
 * [Corneal Dystrophy](/diseases/corneal-dystrophy)\*\*
 * Corneal Erosion Syndrome
-* [Distichiasis](/diseases/distichiasis) *
+* [Distichiasis](/diseases/distichiasis) \*\*
 * Entropion
 * [Glaucoma](/diseases/glaucoma)*
 * [Keratoconjunctivitis Sicca (KCS, dry eye)](/diseases/keratoconjunctivitis-sicca-kcs-or-dry-eye) *
 * Medial Canthal Pocket Syndrome
-* [Microphthalmia](/diseases/microphthalmia) *
+* [Microphthalmia](/diseases/microphthalmia) \*\*
 * Optic Nerve Hypoplasia
 * Persistent Pupillary Membranes (PPM, Mesodermal Dysgenesis)
 * Progressive Retinal Atrophy (PRA)
@@ -65,7 +65,7 @@ title: By System Or Class
 
 # Hearing, Balance
 
-* [Piebald or Extreme Piebald Gene - Deafness](/diseases/piebald-or-extreme-piebald-gene-2013-deafness) *
+* [Piebald or Extreme Piebald Gene - Deafness](/diseases/piebald-or-extreme-piebald-gene-2013-deafness) \*\*
 
 # Heart and Vascular Diseases
 
@@ -98,18 +98,18 @@ title: By System Or Class
 * Hypomyelination
 * [Spinal Dysraphism (Spina Bifida, Syringomyelia)](/diseases/spinal-dysraphism) *
 * Spongiform Degeneration (Spongiform Encephalopathy)
-* [White Shaker Dog Syndrome](/diseases/white-shaker-dog-syndrome) *
+* [White Shaker Dog Syndrome](/diseases/white-shaker-dog-syndrome) \*\*
 * [Seizures/Epilepsy](/diseases/seizures-epilepsy) *
 * Disk Degeneration
-* [Tremors](/diseases/white-shaker-dog-syndrome) *
+* [Tremors](/diseases/white-shaker-dog-syndrome) \*\*
 
 # Reproductive Diseases/Problems
 
-* [Cryptorchidism](/diseases/cryptorchidism) *
+* [Cryptorchidism](/diseases/cryptorchidism) \*\*
 * [Fading Puppy](/diseases/fading-puppy-syndrome) *
 * Swimmers
 * Mastitis
-* [Uterine Inertia](/diseases/uterine-inertia) *
+* [Uterine Inertia](/diseases/uterine-inertia) \*\*
 * Irregular Heat Cycles
 * Prostatitis
 * Chronic False Pregnancies
@@ -119,7 +119,7 @@ title: By System Or Class
 # Skeletal/Orthopedic Diseases
 
 * Calcinosis Circumscripta
-* [Cleft Palate](/diseases/cleft-palate) *
+* [Cleft Palate](/diseases/cleft-palate) \*\*
 * Dwarfism
 * [Hip Dysplasia](/diseases/hip-dysplasia-hd) \*\*
 * [Luxation of the Patella](/diseases/luxating-patella) \*\*
@@ -134,9 +134,9 @@ title: By System Or Class
 
 * Dudley Nose (Nasal Depigmentation)
 * [Alopecia X/Growth Hormone/Castration Responsive Dermatosis](/diseases/alopecia-x) *
-* [Partial Albinism (Albinoid Syndrome)](/diseases/partial-albinism) *
+* [Partial Albinism (Albinoid Syndrome)](/diseases/partial-albinism) \*\*
 * [Sebaceous Adenitis](/diseases/sebaceous-adenitis-sa) *
-* [Zinc-Responsive Dermatosis](/diseases/zinc-responsive-dermatosis)
+* [Zinc-Responsive Dermatosis](/diseases/zinc-responsive-dermatosis)\*\*
 * Allergies *
 * Post-Clipping Alopecia *
 * Pemphigus Foliaceus
