@@ -1,9 +1,11 @@
 ---
 title: Partial Albinism
 ---
-**Liaison:** Hazel Fitzgibbon
+Note:  we do not currently have a health liaison for this disorder.  If you would like to volunteer, please contact president@samoyedhealthfoundation.org and we will be happy to answer any of your questions.  For a description of the position, please click on [disorder health information liaison](https://www.samoyedhealthfoundation.org/become-a-health-information-liaison/).
 
-**Email:** <mailto:Smiliesam@hotmail.com>
+Thank you to Hazel Fitzgibbon for providing this disorder information.
+
+# Summary
 
 Albinism is a genetic disorder characterized by a complete or partial
 lack of melanin, or pigment, in eyes, skin and hair.   This lack of
