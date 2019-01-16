@@ -1,12 +1,12 @@
-+++
-title = "Uterine Inertia"
-+++
+---
+title: Uterine Inertia
+---
+> **Note:** We do not currently have a health liaison for this disorder. If you would like to volunteer, please contact[ president@samoyedhealthfoundation.org](mailto:president@samoyedhealthfoundation.org?subject=Questions%20about%20becoming%20a%20Health%20Information%20Liaison%20or%20Reviewer) and we will be happy to answer any of your questions.
+> For a description of the position, please click on[ disorder health information liaison](/become-a-health-information-liaison).
+>
+> Thank you to Hazel Fitzgibbon for providing this disorder information.
 
-**Liaison:** Hazel Fitzgibbon
-
-**Email:** <Smiliesam@hotmail.com>
-
-
+## Summary
 
 Uterine Inertia is the failure of contractions during whelping. Normally
 the bitch strains and muscles contract pushing puppies into the birth
@@ -17,7 +17,7 @@ occurs in heavily pregnant bitches near their whelping date. The bitch
 fails to have contractions, but the cervix dilates and the placentas can
 detach from the uterine wall.
 
-![mom and
+!\[mom and
 pups2](/img/mom_and_pups.jpg)
 
 '**Inertia,**' or 'secondary inertia,' is when the bitch stops
@@ -26,13 +26,7 @@ frequent causes of Dystocia (abnormal or difficult birth). It can be the
 result of uterine fatigue from a puppy blocking the birth canal which
 the bitch has failed to expel.
 
-
-
-
-
-
-Signs and Symptoms
-------------------
+## Signs and Symptoms
 
 **Primary Inertia** is a difficult condition to detect it you do not
 know to watch for it. Often you will only notice that the bitch is
@@ -49,8 +43,7 @@ incorrect in practice by many breeders with several hours being
 experienced by some, especially if the bitch goes to sleep! This is when
 you need to know if there are more puppies to get out.
 
-Causes
-------
+## Causes
 
 **Primary Inertia** has a couple of causes. The main one is a lack of
 the hormone which starts the contraction process.  A second one is the
@@ -61,18 +54,16 @@ mis-presented puppy can cause a bitch to contract with the result that
 the bitch is too tired to continue. A big litter can leave the bitch
 exhausted and she may need help to continue.
 
-Risk Factors
-------------
+## Risk Factors
 
--   Small, one to two pup, litter size (leading to insufficient hormonal
-    stimulation to initiate labor)
--   Very large litter size (uterus "overstretched')
--   Overweight dam
--   Poor muscle tone in dam due to age or other factors
--   Prior history of uterine inertia
+* Small, one to two pup, litter size (leading to insufficient hormonal
+  stimulation to initiate labor)
+* Very large litter size (uterus "overstretched')
+* Overweight dam
+* Poor muscle tone in dam due to age or other factors
+* Prior history of uterine inertia
 
-Diagnostic Tests
-----------------
+## Diagnostic Tests
 
 A thorough physical exam should be given by the vet. For **primary
 inertia** he will be able to tell if the cervix is dilated and act
@@ -84,8 +75,7 @@ there are more puppies awaiting birth.  Fetal monitoring of the unborn
 puppies heart rates can assist in determining if they are under
 excessive stress.
 
-Treatment Guidelines
---------------------
+## Treatment Guidelines
 
 > **Note:** Treatment of animals should only be performed by a licensed
 > veterinarian. Veterinarians should consult the current literature and
@@ -97,8 +87,6 @@ only way to ensure any puppies survive. The puppies will drown if it is
 performed too late. If a caesarean is not performed in time, the puppies
 will die and the bitch will likely die from the resulting infection.
 
-
-
 For **inertia** after whelping has started, Oxytocin and Calcium
 injections can be tried to restart contractions if the bitch is showing
 no other physical signs, although when to use these is somewhat
@@ -108,8 +96,7 @@ able to manually reposition it and deliver it normally, but the rest of
 the litter could be at risk if normal contractions do not start again.
 More often than not, a Caesarean has to be performed.
 
-Management
-----------
+## Management
 
 The owner should consult with their veterinarian prior to breeding a
 female who has had **primary uterine inertia**, so the owner fully
@@ -118,43 +105,33 @@ Likewise, the owner should consult with their veterinarian about the
 risk factors for more than 2 C-sections on a bitch, due to resultant
 scarring on the uterine horns.
 
-
-
 But "A bitch that has had surgical inseminations is not more prone to
 needing a caesarean section nor having whelping difficulties^1^" so
 there should be no more reason to have **inertia** after AI than for any
 other bitch.
 
-------------------------------------------------------------------------
+- - -
 
-1.  [AKC Vet Outreach news ]  !\[2 bones\](/img/2-bones.gif)
+1. \[AKC Vet Outreach news ]  !\[2 bones](/img/2-bones.gif)
 
+## References
 
-
-
-
-References
-----------
-
-1.  S. Romagnoli, F. F. de Souza, A. Rota, I. Vannozzi (2004) [Prolonged interval between parturition of normal live pups in a bitch.](http://onlinelibrary.wiley.com/doi/10.1111/j.1748-5827.2004.tb00231.x/abstract)
-    Journal of Small Animal Practice 45 (5), 249--253. ![3 bones](/img/3-bones.gif)
-2.  [Dystocia in small
-    animals](http://www.merckvetmanual.com/mvm/reproductive_system/reproductive_diseases_of_the_female_small_animal/dystocia_in_small_animals.html).
-    In the online Merck Veterinary Manual. ![four bones
-    rating](/img/4-bones.gif)
-3.  [Transcript: Canine Reproduction
-    Seminar](http://www.veterinarypartner.com/Content.plx?P=A&A=1224)
-    with Dr. Robert Van Hutchison. Tuesday, January 08, 2002 from the
-    veterinarypartner.com website \-- Lots of good information relating
-    to whelping and pregnancy in this online seminar ![2
-    bones](/img/2-bones.gif)
-4.  [Handbook of Veterinary
-    Obstetrics](http://www.sciencedirect.com/science/book/9780702027406),
-    2nd edition, 2004 By Peter G. G. Jackson Textabook  ![four bones
-    rating](/img/4-bones.gif)
-
-
-
+1. S. Romagnoli, F. F. de Souza, A. Rota, I. Vannozzi (2004) [Prolonged interval between parturition of normal live pups in a bitch.](http://onlinelibrary.wiley.com/doi/10.1111/j.1748-5827.2004.tb00231.x/abstract)
+   Journal of Small Animal Practice 45 (5), 249--253. ![3 bones](/img/3-bones.gif)
+2. [Dystocia in small
+   animals](http://www.merckvetmanual.com/mvm/reproductive_system/reproductive_diseases_of_the_female_small_animal/dystocia_in_small_animals.html).
+   In the online Merck Veterinary Manual. ![four bones
+   rating](/img/4-bones.gif)
+3. [Transcript: Canine Reproduction
+   Seminar](http://www.veterinarypartner.com/Content.plx?P=A&A=1224)
+   with Dr. Robert Van Hutchison. Tuesday, January 08, 2002 from the
+   veterinarypartner.com website -- Lots of good information relating
+   to whelping and pregnancy in this online seminar ![2
+   bones](/img/2-bones.gif)
+4. [Handbook of Veterinary
+   Obstetrics](http://www.sciencedirect.com/science/book/9780702027406),
+   2nd edition, 2004 By Peter G. G. Jackson Textabook  ![four bones
+   rating](/img/4-bones.gif)
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
@@ -162,21 +139,19 @@ References
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-Support Groups
---------------
+## Support Groups
 
-[Pregnancy\_and\_Pups](https://groups.yahoo.com/neo/groups/pregnancy_and_pups/info) -
+[Pregnancy_and_Pups](https://groups.yahoo.com/neo/groups/pregnancy_and_pups/info) -
 Dog Whelping & Puppies is a yahoo group whose stated purpose is "to
 learn about dog pregnancy and raising puppies"  This is a large list
 with a high volume of email.
 
-Suggested Links
----------------
+## Suggested Links
 
 [Canine Reproduction Part 3. Medical Management of Complications
 Affecting Delivery
 (Whelping)](http://www.labbies.com/reproduction3.htm) by
-Pamela A. Davol \-- Lots of good flow charts to follow ![one bone
+Pamela A. Davol -- Lots of good flow charts to follow ![one bone
 rating](/img/1-bone.gif)
 
 [Canine Pregnancy and Predicting Parturition and Timing Events of
@@ -195,16 +170,12 @@ rating](/img/1-bone.gif)
 Bitches](https://www.amazon.com/Book-Bitch-Complete-Understanding-Bitches/dp/1860540236/ref=sr_1_1)
 by Jim Evans, Kay White -- 2002.  This book is fully indexed and
 contains a glossary. Chapter 6 details pregnancy and whelping of the
-bitch. !\[2 bones\](/img/2-bones.gif)
-
-
+bitch. !\[2 bones](/img/2-bones.gif)
 
 [The use of Oxytocin during the Whelping of a
 litter](http://www.workingdogs.com/doc0023.htm) by Fred
 Lanting on the workingdogs.com website.  ![one bone
 rating](/img/1-bone.gif)
-
-
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
@@ -212,9 +183,6 @@ rating](/img/1-bone.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
+## "Living with a Disorder" Journal Entries
 
-
-"Living with a Disorder" Journal Entries
-----------------------------------------
-
-- [Inertia Experiences](/diseases/uterine-inertia-inertia-experiences)
+* [Inertia Experiences](/diseases/uterine-inertia-inertia-experiences)
