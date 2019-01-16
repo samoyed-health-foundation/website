@@ -1,14 +1,14 @@
-+++
-title = "Microphthalmia"
-+++
+---
+title: Microphthalmia
+---
+> **Note:** We do not currently have a health liaison for this disorder. If you would like to volunteer, please contact[ president@samoyedhealthfoundation.org](mailto:president@samoyedhealthfoundation.org?subject=Questions%20about%20becoming%20a%20Health%20Information%20Liaison%20or%20Reviewer) and we will be happy to answer any of your questions.
+> For a description of the position, please click on[ disorder health information liaison](/become-a-health-information-liaison).
+>
+> Thank you to Hazel Fitzgibbon for providing this disorder information.
 
-**Liaison:** Hazel Fitzgibbon
+## Summary
 
-**Email:** <Smiliesam@hotmail.com>
-
-
-
-Usually diagnosed in young puppies, microphthalmia\* literally means
+Usually diagnosed in young puppies, microphthalmia* literally means
 'small eye'.  Due to a defect early in fetal development, the eye does
 not grow at the same rate as the rest of the head and therefore looks
 smaller than it should.  Eyes may look a little sunken.  Third eyelids
@@ -22,22 +22,17 @@ There can also be coloboma, a cleft in a portion of the eye, such as the
 iris.  Cataracts are often associated with microphthalmia and can cause
 partial to total blindness.
 
-------------------------------------------------------------------------
+- - -
 
 \*Microphthalmia is often misspelled as micropthalmia on the internet.
 
-
-
-
-Signs and Symptoms
-------------------
+## Signs and Symptoms
 
 This condition is apparent in pups once their eyes have opened. Affected
 eyes are smaller than normal and appear recessed. The third eyelid may
 be more prominent.  One or both eyes may be affected.
 
-Causes
-------
+## Causes
 
 This is a congenital condition (present at birth), being nondevelopment
 of the eye.   In some breeds, it has been found to be inherited, often
@@ -53,14 +48,12 @@ Microphthalmia might also be inherited in Samoyeds, but this has not
 been determined.  There are also references to pesticides and wormers
 causing the problem.
 
-Risk Factors
-------------
+## Risk Factors
 
 Related dogs with microphthalmia.  In some other breeds, having both
 sire and dam with merle coat coloring is a risk factor.
 
-Diagnostic Tests
-----------------
+## Diagnostic Tests
 
 It is visible to the naked eye. The third eyelid (the white bit in the
 corner) often looks larger than normal.  Examination by a veterinary
@@ -69,8 +62,7 @@ other abnormalities, will give a definitive diagnosis.  The examination
 is non-invasive, using light and magnifying lenses to examine and look
 inside the eye.
 
-Treatment Guidelines
---------------------
+## Treatment Guidelines
 
 > **Note:** Treatment of animals should only be performed by a licensed
 > veterinarian. Veterinarians should consult the current literature and
@@ -80,8 +72,7 @@ Treatment Guidelines
 The basic defect can't be treated.  Associated complications, such as
 glaucoma, are treated as required.
 
-Management
-----------
+## Management
 
 The degree of visual impairment depends on the severity of the defect.
 If the eyeballs fill half of the openings, there is a 50% chance the
@@ -106,19 +97,14 @@ might be inherited, animals with microphthalmia should not be bred. If
 the parents or normal-eyed siblings are breed, it should be with great
 caution, as the genetics of microphthalmia have not been worked out.
 
-References
-----------
+## References
 
 Canine Inherited Disorders Database gives an overview on
 <http://cidd.discoveryspace.ca/disorder/microphthalmia-ocular-dysgenesis.html>
 ![3 bones](/img/3-bones.gif)
 
-
-
 National Center for Biotechnology Information description of MITF gene:
  <http://omim.org/entry/156845>  ![3 bones](/img/3-bones.gif)
-
-
 
 Rothschild MF, Van Cleave PS, Glenn KL, Carlstrom LP, Ellinwood NM.
   Association of MITF with white spotting in Beagle crosses and
@@ -126,17 +112,13 @@ Newfoundland dogs.   Anim Genet. 2006 Dec;37(6):606-7.
 <http://onlinelibrary.wiley.com/wol1/doi/10.1111/j.1365-2052.2006.01534.x/full>
 ![2 bones](/img/2-bones.gif)
 
-
-
-
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
 > ![3 bones](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-Support Groups
---------------
+## Support Groups
 
 This is a well documented problem in humans and there seem to be dozens
 of web sites and help groups for them.
@@ -145,8 +127,7 @@ of web sites and help groups for them.
 
  helps people whose dogs have lost all sight.
 
-Suggested Links
----------------
+## Suggested Links
 
 There are many of web sites for other breeds, but none specifically for
 Samoyeds. A number of these sites associate microphthalmia with merling
@@ -154,12 +135,10 @@ and coat colours. Some also associate deafness with merling and
 microphthalmia.   Merling has not been associated with Samoyeds.  ![3
 bones](/img/3-bones.gif)
 
-
-
 OFA is the US overseer for heritable eye disease in dogs and has the US
 database.
 
-[https://www.ofa.org/?s=eye+overview](https://www.ofa.org/?s=eye+overview)
+<https://www.ofa.org/?s=eye+overview>
 ![3 bones](/img/3-bones.gif)
 
 <https://www.ofa.org/diseases/eye-certification/eye-faqs>
@@ -168,14 +147,8 @@ rating](/img/3-bones.gif)
 
 The BVA is the overseer in the UK.  Please note Samoyeds are not
 routinely eye tested in the UK.
-[[http://www.thekennelclub.org.uk/health/health-information-and-resources/health-schemes-and-programmes/bvakc-health-schemes/bvakcisds-eye-scheme/]](http://www.thekennelclub.org.uk/health/health-information-and-resources/health-schemes-and-programmes/bvakc-health-schemes/bvakcisds-eye-scheme/)
+[\[http://www.thekennelclub.org.uk/health/health-information-and-resources/health-schemes-and-programmes/bvakc-health-schemes/bvakcisds-eye-scheme/]](http://www.thekennelclub.org.uk/health/health-information-and-resources/health-schemes-and-programmes/bvakc-health-schemes/bvakcisds-eye-scheme/)
 ![3 bones](/img/3-bones.gif)
-
-
-
-
-
-
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
@@ -183,9 +156,6 @@ routinely eye tested in the UK.
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
+## "Living with a Disorder" Journal Entries
 
-
-"Living with a Disorder" Journal Entries
-----------------------------------------
-
-- [The Eyes Have It](/diseases/microphthalmia-the-eyes-have-it)
+* [The Eyes Have It](/diseases/microphthalmia-the-eyes-have-it)
