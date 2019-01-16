@@ -1,12 +1,12 @@
-+++
-title = "Cleft Palate"
-+++
+---
+title: Cleft Palate
+---
+> **Note:** We do not currently have a health liaison for this disorder. If you would like to volunteer, please contact[ president@samoyedhealthfoundation.org](mailto:president@samoyedhealthfoundation.org?subject=Questions%20about%20becoming%20a%20Health%20Information%20Liaison%20or%20Reviewer) and we will be happy to answer any of your questions.
+> For a description of the position, please click on[ disorder health information liaison](/become-a-health-information-liaison).
+>
+> Thank you to Hazel Fitzgibbon for providing this disorder information.
 
-**Liaison:** Hazel Fitzgibbon
-
-**Email:** <Smiliesam@hotmail.com>
-
-
+## Summary
 
 Cleft palate is a disorder occasionally seen in newborn puppies.  A
 cleft palate results when the tissues forming the roof of the mouth do
@@ -15,11 +15,7 @@ mouth that communicates with the nasal cavity. The opening can be in the
 forward part of the mouth (hard palate) or at the very back (soft
 palate).
 
-
-Signs and Symptoms
-------------------
-
-
+## Signs and Symptoms
 
 Cleft palate puppies do not thrive. Because the mouth cavity connects
 with the nasal cavity, they cannot develop the suction necessary to
@@ -29,17 +25,10 @@ their noses. They snuffle a lot and sneeze.  They can aspirate milk into
 their lungs, leading to pneumonia.  Because they don't get enough milk,
 they lose weight and become lethargic.
 
-
-
 Upon examination, an opening can be seen or felt in the roof of the
 mouth (see Diagnostic Tests).
 
-
-
-Causes
-------
-
-
+## Causes
 
 Cleft palate may be genetic, or due to something that happened to the
 mother during the early stages of pregnancy, such exposure to toxins,
@@ -47,23 +36,15 @@ drugs (for example, cortisone or hydroxyurea) or some viruses.
 Nutritional factors, either folic acid deficiency or vitamin A excess,
 have also been suggested.
 
-Risk Factors
-------------
-
-
+## Risk Factors
 
 Family history if genetic; exposure to toxins or drugs during
 pregnancy;  nutrition during pregnancy.
 
-
-
 Cleft palate is most common in brachycephalic breeds (those with broad
 heads and very short,  muzzles).
 
-
-
-Diagnostic Tests
-----------------
+## Diagnostic Tests
 
 The palate is examined by visual inspection or by feel.  New born whelps
 should all be examined to see if the roofs of their mouths are complete.
@@ -77,8 +58,7 @@ veterinarian should be able to diagnose the problem. Newly certified
 vets might never have seen a cleft palate, so rely on experience on this
 one.
 
-Treatment Guidelines
---------------------
+## Treatment Guidelines
 
 > **Note:** Treatment of animals should only be performed by a licensed
 > veterinarian. Veterinarians should consult the current literature and
@@ -98,10 +78,7 @@ are more difficult to correct than defects of the soft palate.  The
 puppy would have to be tube fed (round the clock at first) for months
 until surgery could be performed.
 
-
-
-Management
-----------
+## Management
 
 Research has yet to determine the exact cause of cleft palate and
 considering the life threatening aspects and hardship to both owner and
@@ -109,15 +86,12 @@ puppy, it would be ill advised to breed an animal who survived until
 adulthood.  See 'Suggested Links' for stories from breeders who have run
 such puppies on.
 
-References
-----------
+## References
 
 Photos and Descriptions of [Cleft
 Palate](https://www.acvs.org/small-animal/cleft-palate)
 on the American College of Veterinary Surgeons website
 ![3 bones](/img/3-bones.gif)
-
-
 
 Elwood JM, Colquhoun TA. [Observations on the prevention of cleft palate
 in dogs by folic acid and potential relevance to
@@ -126,13 +100,8 @@ N Z Vet J. 1997 Dec;45(6):254-6.
 ![3 bones](/img/3-bones.gif)
 
 A description with anatomical terms:
-[http://www.provet.co.uk/health/diseases/cleftpalate.htm](http://www.provet.co.uk/health/diseases/cleftpalate.htm)
+<http://www.provet.co.uk/health/diseases/cleftpalate.htm>
 ![2 bones](/img/2-bones.gif)
-
-
-
-
-
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
@@ -140,24 +109,22 @@ A description with anatomical terms:
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-Support Groups
---------------
+## Support Groups
 
 No support group currently available. There are some individual accounts
 of raising and losing puppies. Most literature is about the problem in
 humans.
 
-Suggested Links
----------------
+## Suggested Links
 
 Extensive article on this topic:
-[http://www.lowchensaustralia.com/health/cleftpalate.htm](http://www.lowchensaustralia.com/health/cleftpalate.htm)
+<http://www.lowchensaustralia.com/health/cleftpalate.htm>
 ![one bone rating](/img/1-bone.gif)
 
 Although corrective surgery is not generally recommended by the
 veterinarian community, this site gives you some graphics and an idea on
 costs:
-[http://www.dogbreedinfo.com/cleft.htm](http://www.dogbreedinfo.com/cleft.htm)
+<http://www.dogbreedinfo.com/cleft.htm>
 ![one bone rating](/img/1-bone.gif)
 
 > ![1 bone](/img/1-bone.gif)
@@ -166,7 +133,6 @@ costs:
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-"Living with a Disorder" Journal Entries
-----------------------------------------
+## "Living with a Disorder" Journal Entries
 
-- [Litters with Cleft Palates](/diseases/cleft-palate-litters-with-cleft-palates)
+* [Litters with Cleft Palates](/diseases/cleft-palate-litters-with-cleft-palates)
