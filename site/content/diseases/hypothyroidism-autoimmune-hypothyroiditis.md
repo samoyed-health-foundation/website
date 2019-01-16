@@ -1,11 +1,10 @@
-+++
-title = "Hypothyroidism (Autoimmune Hypothyroiditis)"
-+++
-
-**Liaison:** Hazel Fitzgibbon
-
-**Email:** <Smiliesam@Hotmail.com>
-
+---
+title: Hypothyroidism (Autoimmune Hypothyroiditis)
+---
+> **Note:** We do not currently have a health liaison for this disorder. If you would like to volunteer, please contact[ president@samoyedhealthfoundation.org](mailto:president@samoyedhealthfoundation.org?subject=Questions%20about%20becoming%20a%20Health%20Information%20Liaison%20or%20Reviewer) and we will be happy to answer any of your questions.
+> For a description of the position, please click on[ disorder health information liaison](/become-a-health-information-liaison).
+>
+> Thank you to Hazel Fitgibbon for providing this disorder information.
 
 ![hypothyroidism](/img/hypothyroidism.jpeg)
 
@@ -36,9 +35,7 @@ Some clinicians assert that the phrase hypothyroidism should be given to
 the end stages of the disease, as a dog can have AH and not exhibit
 clinical signs for a long time.
 
-
-Signs and Symptoms
-------------------
+## Signs and Symptoms
 
 Actual signs of the disease don't start to appear until more than 75% of
 the Thyroid gland has been destroyed by antibodies. Signs are typically
@@ -54,8 +51,7 @@ exercise. Also slow heart rate and sometimes severe neurological signs
 occur, with ataxia, circling and unusually for Samoyeds, aggression.
 Infertility in males and females may occur.
 
-Causes
-------
+## Causes
 
 Most affected breeds are now thought to have a genetic component.  It
 appears to be polygenic (has a number of different genes involved).
@@ -63,15 +59,13 @@ appears to be polygenic (has a number of different genes involved).
 It has been suggested that nutrition and toxins may trigger a
 genetically susceptible animal.
 
-Risk Factors
-------------
+## Risk Factors
 
 Related dogs with disorder.
 
 Exposure to some toxins in genetically susceptible animal.
 
-Diagnostic Tests
-----------------
+## Diagnostic Tests
 
 If hypothyroidism is suspected, a dog should have a medical history
 taken, a complete physical, and blood tests.
@@ -85,15 +79,15 @@ be the only ones available for diagnosis. It is suggested that any dogs
 that have only had these tests and been declared clear be tested under
 the newer protocols.
 
--   T4 -- The total amount of the main circulating thyroid hormone in
-    serum.
--   Free T4 (FT4) -- T4 that is not bound to serum proteins.  This is
-    the form of T4 that is available to enter cells.
--   TSH  - Thyroid stimulating hormone; this does as it says and pushes
-    the thyroid to produce T3 and T4. If the levels are elevated it
-    means that not enough T3 and T4 are being produced.
--   TgAA - Thyroglobulin Autoantibodies: This last test is particularly
-    revealing as these are the antibodies that destroy the thyroid.
+* T4 -- The total amount of the main circulating thyroid hormone in
+  serum.
+* Free T4 (FT4) -- T4 that is not bound to serum proteins.  This is
+  the form of T4 that is available to enter cells.
+* TSH  - Thyroid stimulating hormone; this does as it says and pushes
+  the thyroid to produce T3 and T4. If the levels are elevated it
+  means that not enough T3 and T4 are being produced.
+* TgAA - Thyroglobulin Autoantibodies: This last test is particularly
+  revealing as these are the antibodies that destroy the thyroid.
 
 The results of the testing depend on the cause and the progression of
 the disease.  For T4, what is considered "normal" can also be
@@ -132,21 +126,20 @@ The T4 alone can be decreased for various reasons; toxins are one, but
 more likely is an adverse effect of medication. The following
 medications all can affect thyroid test results:
 
--   Glucocorticoids: high dosages, chronic therapy: T4 falls, FT4 more
-    resistant, TSH is unchanged or decreased.
--   Sulfonamides: chronic therapy may cause reversible hypothyroidism
-    and low T4
--   Phenobarbital: chronic therapy - mild fall in T4 and FT4; TSH
-    remains normal in most dogs, but rises in a small percentage.
--   Carprofen: mild fall inT4, FT4 normal
--   Clomipramine: mild fall in T4 and FT4; TSH remains normal
+* Glucocorticoids: high dosages, chronic therapy: T4 falls, FT4 more
+  resistant, TSH is unchanged or decreased.
+* Sulfonamides: chronic therapy may cause reversible hypothyroidism
+  and low T4
+* Phenobarbital: chronic therapy - mild fall in T4 and FT4; TSH
+  remains normal in most dogs, but rises in a small percentage.
+* Carprofen: mild fall inT4, FT4 normal
+* Clomipramine: mild fall in T4 and FT4; TSH remains normal
 
 It is important that current medication be taken into consideration when
 any dog is being diagnosed for any disorder, but thyroid levels seem to
 be very prone to deviation.
 
-Treatment Guidelines
---------------------
+## Treatment Guidelines
 
 > **Note:** Treatment of animals should only be performed by a licensed
 > veterinarian. Veterinarians should consult the current literature and
@@ -168,8 +161,7 @@ Where the affected animal has shown clinical obesity on diagnosis,
 weight should start to drop off as a result of medication. He or she
 should be reweighed regularly to make sure you are not overdosing.
 
-Management
-----------
+## Management
 
 According to the OFA and numerous published reports, autoimmune
 hypothyroiditis (AH) is a heritable condition.  The TgAA assay is
@@ -177,87 +169,81 @@ recommended to screen dogs who will be used for breeding because this
 assay can detect the disease before any clinical symptoms occur<sup>4</sup>.  The
 best age for testing for TgAA is between ages 2 and 6.
 
-References
-----------
+## References
 
 **General:**
 
 Dr Jean Dodds has a worldwide reputation on this subject. This is an
 overview:
 
--   (1) **[CANINE AUTOIMMUNE THYROID DISEASE: COMMON PROBLEM OF PUREBRED
-    DOGS](http://www.canine-epilepsy-guardian-angels.com/ThyroidDisease.htm)**
-    **by W. Jean Dodds DVM**
-    ![1 bone](/img/1-bone.gif)
-
--   (2) [Hypothyroidism](http://www.mirage-samoyeds.com/thyroid3.htm) by
-    John Cargill MA, MBA, MS and Susan Thorpe Vargas MS, Ph.D.
-    ![1 bone](/img/1-bone.gif)
-
--   (3) [Canine Inherited Disorders
-    Database](http://cidd.discoveryspace.ca/disorder/hypothyroidism.html)
-    ![3 bones](/img/3-bones.gif)
-
--   (4) [CANINE HYPOTHYROIDISM: PREVALENCE OF POSITIVE TgAA IN 871
-    LABORATORY SAMPLES FROM
-    BOXERS](http://www.americanboxerclub.org/boxerhypothyroidism.html)
-    by RF Nachreiner, M Bowman, KR Refsal, PA Graham, A Provencher
-    Bolliger Animal Health Diagnostic Laboratory, College of Veterinary
-    Medicine, Michigan State University, East Lansing, MI
-    ![2 bones](/img/2-bones.gif)
+* (1) **[CANINE AUTOIMMUNE THYROID DISEASE: COMMON PROBLEM OF PUREBRED
+  DOGS](http://www.canine-epilepsy-guardian-angels.com/ThyroidDisease.htm)**
+  **by W. Jean Dodds DVM**
+  ![1 bone](/img/1-bone.gif)
+* (2) [Hypothyroidism](http://www.mirage-samoyeds.com/thyroid3.htm) by
+  John Cargill MA, MBA, MS and Susan Thorpe Vargas MS, Ph.D.
+  ![1 bone](/img/1-bone.gif)
+* (3) [Canine Inherited Disorders
+  Database](http://cidd.discoveryspace.ca/disorder/hypothyroidism.html)
+  ![3 bones](/img/3-bones.gif)
+* (4) [CANINE HYPOTHYROIDISM: PREVALENCE OF POSITIVE TgAA IN 871
+  LABORATORY SAMPLES FROM
+  BOXERS](http://www.americanboxerclub.org/boxerhypothyroidism.html)
+  by RF Nachreiner, M Bowman, KR Refsal, PA Graham, A Provencher
+  Bolliger Animal Health Diagnostic Laboratory, College of Veterinary
+  Medicine, Michigan State University, East Lansing, MI
+  ![2 bones](/img/2-bones.gif)
 
 **References - Diagnostic Testing and Interpretation:**
 
 This paper explains the difficulties of testing for thyroid problems:
 
--   (5) [M.M. Diaz Espineira, et al.  Assessment of Thyroid Function in Dogs
-    with Low Plasma Thyroxine Concentration.  Journal of Veterinary
-    Internal Medicine 2007 21:1
-    25](http://www3.interscience.wiley.com/journal/120715410/abstract?CRETRY=1&SRETRY=0)  ![2
-    bones](/img/2-bones.gif)
+* (5) [M.M. Diaz Espineira, et al.  Assessment of Thyroid Function in Dogs
+  with Low Plasma Thyroxine Concentration.  Journal of Veterinary
+  Internal Medicine 2007 21:1
+  25](http://www3.interscience.wiley.com/journal/120715410/abstract?CRETRY=1&SRETRY=0)  ![2
+  bones](/img/2-bones.gif)
 
 A bit technical, but this is the best and most useful paper on
 diagnostics (you will have to register and login to access this
 article):
 
--   (6) Ferguson, D.C. **Update on Thyroid Diagnostic Tests for Dogs.** In:
-    ACVP and ASVCP (Eds.), 56th Annual Meeting of the American College
-    of Veterinary Pathologists (ACVP) and 40th Annual Meeting of the
-    American Society for Veterinary Clinical Pathology (ASVCP), 2005 -
-    Boston, MA, USA. Ithaca: International Veterinary Information
-    Service   ![2 bones](/img/2-bones.gif)  (Available at:
-    [www.ivis.org](http://www.ivis.org/)  Document No.
-    P2202.1205.)
+* (6) Ferguson, D.C. **Update on Thyroid Diagnostic Tests for Dogs.** In:
+  ACVP and ASVCP (Eds.), 56th Annual Meeting of the American College
+  of Veterinary Pathologists (ACVP) and 40th Annual Meeting of the
+  American Society for Veterinary Clinical Pathology (ASVCP), 2005 -
+  Boston, MA, USA. Ithaca: International Veterinary Information
+  Service   ![2 bones](/img/2-bones.gif)  (Available at:
+  [www.ivis.org](http://www.ivis.org/)  Document No.
+  P2202.1205.)
 
 Detailed information from a company that does diagnostic testing:
 
--   (7) [Assessing Thyroid
-    Function](http://www.antechdiagnostics.com/Main/ANTECHInsights/3.aspx)
-    from Antech Diagnostics ![2 bones](/img/2-bones.gif)
+* (7) [Assessing Thyroid
+  Function](http://www.antechdiagnostics.com/Main/ANTECHInsights/3.aspx)
+  from Antech Diagnostics ![2 bones](/img/2-bones.gif)
 
 Information from the OFA on how they interpret test results:
 
--   (8) [https://www.ofa.org/diseases/other-diseases/hypothyroidism/thyroid-labs](https://www.ofa.org/diseases/other-diseases/hypothyroidism/thyroid-labs)  ![3
-    bones](/img/3-bones.gif)
+* (8) <https://www.ofa.org/diseases/other-diseases/hypothyroidism/thyroid-labs>  ![3
+  bones](/img/3-bones.gif)
 
 **References - Other:**
 
 **Description of Sick Euthyroid Syndrome:**
 
--   (10) [http://www.provet.co.uk/health/diagnostics/euthyroidsick.htm](http://www.provet.co.uk/health/diagnostics/euthyroidsick.htm)
-    ![2 bones](/img/2-bones.gif)
--   (11) [Kantrowitz LB, Peterson ME, Melián C, Nichols R. Serum total
-    thyroxine, total triiodothyronine, free thyroxine, and thyrotropin
-    concentrations in dogs with nonthyroidal
-    disease](http://www.ncbi.nlm.nih.gov/pubmed/11561650?ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_DefaultReportPanel.Pubmed_RVDocSum).
-    J Am Vet Med Assoc. 2001 Sep 15;219(6):765-9. ![2
-    bones](/img/2-bones.gif)
-
--   (12) [The Enigmatic Nature of Hypothyroidism Makes it Difficult to
-    Distinguish From Other
-    Diseases](http://www.stca.biz/index.php/health/health-library-scottiephile/321-endrocrine-disorders/426-dilemma-the-enigmatic-nature-of-hypothyroidism-makes-it-difficult-to-distinguish-from-other-diseases).
-    By Christine Wilford, DVM ![1 bone](/img/1-bone.gif)
-
+* (10) <http://www.provet.co.uk/health/diagnostics/euthyroidsick.htm>
+  ![2 bones](/img/2-bones.gif)
+* (11) [Kantrowitz LB, Peterson ME, Melián C, Nichols R. Serum total
+  thyroxine, total triiodothyronine, free thyroxine, and thyrotropin
+  concentrations in dogs with nonthyroidal
+  disease](http://www.ncbi.nlm.nih.gov/pubmed/11561650?ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_DefaultReportPanel.Pubmed_RVDocSum).
+  J Am Vet Med Assoc. 2001 Sep 15;219(6):765-9. ![2
+  bones](/img/2-bones.gif)
+* (12) [The Enigmatic Nature of Hypothyroidism Makes it Difficult to
+  Distinguish From Other
+  Diseases](http://www.stca.biz/index.php/health/health-library-scottiephile/321-endrocrine-disorders/426-dilemma-the-enigmatic-nature-of-hypothyroidism-makes-it-difficult-to-distinguish-from-other-diseases).
+  By Christine Wilford, DVM ![1 bone](/img/1-bone.gif)
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
@@ -265,8 +251,7 @@ Information from the OFA on how they interpret test results:
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-Suggested Links
----------------
+## Suggested Links
 
 The OFA registry has general information and contains the requirements
 of registering with that organization:
@@ -276,11 +261,8 @@ of registering with that organization:
 
 [OFA Thyroid Application](http://www.ofa.org/pdf/thyapp_bw.pdf)
 
-
-
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
 > ![3 bones](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
-
