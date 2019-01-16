@@ -1,10 +1,9 @@
 ---
 title: Distichiasis
 ---
-> **Note:** We do not currently have a health liaison for this disorder. If you would like to volunteer, please contact[ president@samoyedhealthfoundation.org](mailto:president@samoyedhealthfoundation.org?subject=Questions%20about%20becoming%20a%20Health%20Information%20Liaison%20or%20Reviewer) and we will be happy to answer any of your questions.
-> For a description of the position, please click on[ disorder health information liaison](/become-a-health-information-liaison).
->
-> Thank you to Hazel Fitzgibbon for providing this disorder information.
+**Liaison:** Hazel Fitzgibbon
+
+**Email:** <mailto:smiliesam@aol.com>
 
 ## Summary
 
