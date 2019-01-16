@@ -6,6 +6,8 @@ title: Zinc Responsive Dermatosis
 **Email:**
 <mailto:Smiliesam@hotmail.com>
 
+## Summary
+
 Zinc Responsive Dermatosis is a skin disorder that responds to treatment
 with zinc.  It is one of the manifestations of zinc deficiency.  The
 deficiency can be dietary, or in some Arctic breeds, Samoyeds being one
