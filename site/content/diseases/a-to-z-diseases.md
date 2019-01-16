@@ -9,12 +9,12 @@ title: A to Z Diseases
 
 * [Addison's Disease (Primary Hypoadrenocorticism)](/diseases/addison-s-disease) 
 * [Aggression](/diseases/aggression) \*\*
-* [Albinism, Partial (Albinoid Syndrome)](/diseases/partial-albinism) *
+* [Albinism, Partial (Albinoid Syndrome)](/diseases/partial-albinism) \*\*
 * Allergies 
 * [Alopecia X/Growth Hormone/Castration Responsive Dermatosis](/diseases/alopecia-x) *
 * [Anemia](/diseases/anemia) *
 * [Atrial Septal Defect](/diseases/atrial-septal-defect-1) *
-* [Autoimmune Hypothyroiditis (Autoimmune Thyroiditis)](/diseases/hypothyroidism-autoimmune-hypothyroiditis) *
+* [Autoimmune Hypothyroiditis (Autoimmune Thyroiditis)](/diseases/hypothyroidism-autoimmune-hypothyroiditis) \*\*
 
 # B
 
@@ -26,22 +26,22 @@ title: A to Z Diseases
 * [Cataracts (posterior lenticonus)](/diseases/cataracts-posterior-lenticonus) *
 * [Cerebellar Degeneration (Cerebellar Abiotrophy, Progressive Neuronal Abiotrophy)](/diseases/cerebellar-degeneration-cerebeller-abiotrophies) *
 * Chronic False Pregnancies
-* [Cleft Palate](/diseases/cleft-palate) *
+* [Cleft Palate](/diseases/cleft-palate) \*\*
 * Congenital Adrenal Hyperplasia
 * Congenital Myasthenia Gravis
 * [Corneal Dystrophy](/diseases/corneal-dystrophy) \*\*
 * Corneal Erosion Syndrome
 * [Cushing's Disease (Hyperadrenocorticism)](/diseases/cushing-s-disease) *
-* [Cryptorchidism](/diseases/cryptorchidism) *
+* [Cryptorchidism](/diseases/cryptorchidism) \*\*
 
 # D
 
-* [Deafness (Piebald or Extreme Piebald Gene)](/diseases/piebald-or-extreme-piebald-gene-2013-deafness) *
+* [Deafness (Piebald or Extreme Piebald Gene)](/diseases/piebald-or-extreme-piebald-gene-2013-deafness) \*\*
 * [Diabetes Insipidus](/diseases/diabetes-insipidus) *
 * [Diabetes Mellitus](/diseases/diabetes-mellitus) \*\*
 * Difficulty Whelping
 * Disk Degeneration
-* [Distichiasis](/diseases/distichiasis) *
+* [Distichiasis](/diseases/distichiasis) \*\*
 * [Dry Eye (Keratoconjunctivitis Sicca-KCS)](/diseases/keratoconjunctivitis-sicca-kcs-or-dry-eye) *
 * Dudley Nose (Nasal Depigmentation)
 * Dwarfism
@@ -71,7 +71,7 @@ title: A to Z Diseases
 * [Hyperadrenocorticism (Cushing's)](/diseases/cushing-s-disease) *
 * [Hypoadrenocorticism, Primary (Addison's Disease)](/diseases/addison-s-disease) \*\*
 * Hypomyelination
-* [Hypothyroidism (Autoimmune Thyroiditis)](/diseases/hypothyroidism-autoimmune-hypothyroiditis) *
+* [Hypothyroidism (Autoimmune Thyroiditis)](/diseases/hypothyroidism-autoimmune-hypothyroiditis) \*\*
 
 # I
 
@@ -97,7 +97,7 @@ title: A to Z Diseases
 * Masticatory Myositis (Atrophic Myositis/ Eosinophilic Myotis)
 * Mastitis
 * Medial Canthal Pocket Syndrome
-* [Microphthalmia](/diseases/microphthalmia) *
+* [Microphthalmia](/diseases/microphthalmia) \*\*
 * Missing Teeth
 * [Muscular Dystrophy (x-linked)](/diseases/x-linked-muscular-dystrophy) *
 * Myotonia
@@ -116,12 +116,12 @@ title: A to Z Diseases
 * [Panosteitis (Enostosis, Eosinophilic Panosteitis)](/diseases/panosteitis) \*\*
 * [Partial Albinism (Albinoid Syndrome)](/diseases/partial-albinism) *
 * Patent Ductus Arteriosus (PDA)
-* [Pelger-Huet Anomaly](/diseases/pelger-huet-anomaly) *
+* [Pelger-Huet Anomaly](/diseases/pelger-huet-anomaly) \*\*
 * Pemphigus Foliaceus
 * [Perianal Fistula](/diseases/perianal-fistulas-anal-furunculosis) \*\*
 * Perianal Gland Adenoma
 * Persistent Pupillary Membranes (PPM, Mesodermal Dysgenesis)
-* [Piebald or Extreme Piebald Gene - Deafness](/diseases/piebald-or-extreme-piebald-gene-2013-deafness) *
+* [Piebald or Extreme Piebald Gene - Deafness](/diseases/piebald-or-extreme-piebald-gene-2013-deafness) \*\*
 * Portosystemic Shunt (Extrahepatic)*
 * Portosystemic Shunt (Intrahepatic)*
 * Post-Clipping Alopecia \*\*
@@ -151,12 +151,12 @@ title: A to Z Diseases
 # T
 
 * Transitional Cell Cancer (Bladder) \*\*
-* [Tremors](/diseases/white-shaker-dog-syndrome) *
+* [Tremors](/diseases/white-shaker-dog-syndrome) \*\*
 * [Tricuspid Valve Dysplasia](/diseases/tricuspid-valve-dysplasia) \*\*
 
 # U
 
-* [Uterine Inertia](/diseases/uterine-inertia) *
+* [Uterine Inertia](/diseases/uterine-inertia) \*\*
 * Uveitis
 * [Uveodermatologic Syndrome (UDS, Vogt-Koyanagi-Harada Syndrome, VKH, VKH-like)](/diseases/uveodermatologic-syndrome-uds) *
 
@@ -168,7 +168,7 @@ title: A to Z Diseases
 # W
 
 * Whelping, Difficulty
-* [White Shaker Dog Syndrome](/diseases/white-shaker-dog-syndrome) *
+* [White Shaker Dog Syndrome](/diseases/white-shaker-dog-syndrome) \*\*
 * Wobbler Syndrome (Cervical Spondylolisthesis, Vertebral Instability)
 
 # X
@@ -177,4 +177,4 @@ title: A to Z Diseases
 
 # Z
 
-* [Zinc-Responsive Dermatosis](/diseases/zinc-responsive-dermatosis) *
+* [Zinc-Responsive Dermatosis](/diseases/zinc-responsive-dermatosis) \*\*
