@@ -1,12 +1,12 @@
-+++
-title = "Piebald or Extreme Piebald Gene -- Deafness"
-+++
+---
+title: Piebald or Extreme Piebald Gene -- Deafness
+---
+> **Note:** We do not currently have a health liaison for this disorder. If you would like to volunteer, please contact[ president@samoyedhealthfoundation.org](mailto:president@samoyedhealthfoundation.org?subject=Questions%20about%20becoming%20a%20Health%20Information%20Liaison%20or%20Reviewer) and we will be happy to answer any of your questions.
+> For a description of the position, please click on[ disorder health information liaison](/become-a-health-information-liaison).
+>
+> Thank you to Hazel Fitzgibbon for providing this disorder information.
 
-**Liaison:** Hazel Fitzgibbon
-
-**Email:** <Smiliesam@hotmail.com>
-
-
+## Summary
 
 Piebald is defined as 'having patches of black and white or of other
 colors; parti-colored' (Dictionary.com).  In piebald animals this
@@ -28,7 +28,7 @@ stria vascularis.  However, in their absence, as is also well documented
 in the dog, the stria vascularis degenerates.  As this provides the
 blood supply to the cochlea, damage to this structure occurs and the
 sensory hair cells necessary for hearing die." (quote from:
-[http://www.steynmere.co.uk/DALM\_DEAFNESS2.html](http://steynmere.co.uk/DALM_DEAFNESS2.html))
+[http://www.steynmere.co.uk/DALM_DEAFNESS2.html](http://steynmere.co.uk/DALM_DEAFNESS2.html))
 ![2 bones](/img/2-bones.gif)
 
 There is as yet no definitive proof that the extreme piebald gene is
@@ -36,26 +36,20 @@ associated with hereditary deafness in Samoyeds.  A lot of very
 persuasive work has been done on deafness in Dalmatians and Border
 Collies, other breeds who carry this gene.
 
-
-
-Signs and Symptoms
-------------------
+## Signs and Symptoms
 
 A deaf baby puppy may exhibit signs including;
 
--   Not following siblings cries when feeding, thus they may not get
-    enough food and may not thrive well.
--   Irritability towards siblings - being unable to hear audible
-    communications.
--   Non reactive to loud noises.
+* Not following siblings cries when feeding, thus they may not get
+  enough food and may not thrive well.
+* Irritability towards siblings - being unable to hear audible
+  communications.
+* Non reactive to loud noises.
 
 An adult may also exhibit fear biting as the result of a deaf dog being
 startled.
 
-
-
-Causes
-------
+## Causes
 
 Deafness associated with piebald coloring is inherited in some breeds,
 but the presence of the gene by itself is not sufficient to cause
@@ -68,25 +62,21 @@ coming to a conclusion that your animal is deaf due to the extreme
 piebald gene.  Deafness in Samoyeds is not common, but may be attributed
 to any of the following, or a combination thereof;
 
-1.  Congenital (present at birth) - Genetic (hereditary)
-2.  Congenital (present at birth) - Acquired (for example, dam exposed
-    to toxic drug)
-3.  Otitis (inflammation) through bacteria or fungal infections in Inner
-    or Outer Ear
-4.  Injury by accident or foreign body invasion
-5.  Old age (Presbycusis)
-6.  Drug Toxicity including General Anaesthesia
-7.  Noise Trauma
+1. Congenital (present at birth) - Genetic (hereditary)
+2. Congenital (present at birth) - Acquired (for example, dam exposed
+   to toxic drug)
+3. Otitis (inflammation) through bacteria or fungal infections in Inner
+   or Outer Ear
+4. Injury by accident or foreign body invasion
+5. Old age (Presbycusis)
+6. Drug Toxicity including General Anaesthesia
+7. Noise Trauma
 
-
-
-Risk Factors
-------------
+## Risk Factors
 
 Deaf relatives
 
-Diagnostic Tests
-----------------
+## Diagnostic Tests
 
 The BAER test is an extremely reliable, objective test used to determine
 if a dog is deaf in one or both ears.  If the deafness is partial, it
@@ -103,13 +93,12 @@ disintegrates about the same time as eyes open.  The BAER test can only
 be performed after this happens, once a puppy is 4-5 weeks old.
 
 The piebald gene in dogs has recently been located on dog chromosome 20
-and identified as "*Mitf*."  Researchers are looking for other genes
+and identified as "_Mitf_."  Researchers are looking for other genes
 associated with deafness in dogs carrying the extreme piebald gene.  At
 the time of writing, there is no genetic test for hereditary deafness
 in Samoyeds.
 
-Treatment Guidelines
---------------------
+## Treatment Guidelines
 
 > **Note:** Treatment of animals should only be performed by a licensed
 > veterinarian. Veterinarians should consult the current literature and
@@ -118,8 +107,7 @@ Treatment Guidelines
 
 With congenital deafness, there is no cure.
 
-Management
-----------
+## Management
 
 While congenital deafness does not cause pain, it is the repercussions
 that are limiting, even dangerous. Deafness poses a problem in that it
@@ -140,10 +128,7 @@ commands.
 Affected dogs should not be bred.  Matings that produce deaf dogs should
 not be repeated.
 
-
-
-References
-----------
+## References
 
 Karlsson, Elinor, et al of the Broad Institute of Harvard and MIT,.
 "Two-stage association mapping in dogs identifies coat color locus,"
@@ -151,36 +136,22 @@ presented at the Third International Conference on Advances in Canine
 and Feline Genomics, held in Davis, CA, August 2-5, 2006.  ![2
 bones](/img/2-bones.gif)
 
-[http://www.lsu.edu/deafness/deaf.htm](http://www.lsu.edu/deafness/deaf.htm)
+<http://www.lsu.edu/deafness/deaf.htm>
  ![3 bones](/img/3-bones.gif)
 
-
-
-[https://www.ofa.org/diseases/other-diseases/congenital-deafness](https://www.ofa.org/diseases/other-diseases/congenital-deafness)
+<https://www.ofa.org/diseases/other-diseases/congenital-deafness>
 ![3 bones](/img/3-bones.gif)
 
-
-
-[http://www.aht.org.uk/cms-display/sa\_deafness.html](http://www.aht.org.uk/cms-display/sa_deafness.html)
-\--
+<http://www.aht.org.uk/cms-display/sa_deafness.html>
+--
 Explains a lot of the basics of deafness ![2 bones](/img/2-bones.gif)
 
-
-
-[http://www.lsu.edu/deafness/VetClinNA.htm](http://www.lsu.edu/deafness/VetClinNA.htm)
-by George Strain\-- Explains how extreme piebald gene may relate to
+<http://www.lsu.edu/deafness/VetClinNA.htm>
+by George Strain-- Explains how extreme piebald gene may relate to
 other genes to cause deafness ![2 bones](/img/2-bones.gif)
-
-
-
 
 Little, Clarence C.  1967.  The Inheritance of Coat Color in Dogs.
 Howell Book House. ![2 bones](/img/2-bones.gif)
-
-
-
-
-
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
@@ -188,28 +159,18 @@ Howell Book House. ![2 bones](/img/2-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-Support Groups
---------------
+## Support Groups
 
 [http://www.deafdogs.org](http://www.deafdogs.org/)
 
-Suggested Links
----------------
-
-
+## Suggested Links
 
 <http://www.lsu.edu/deafness/BiblioDog.htm>  ![3
 bones](/img/3-bones.gif)
 A comprehensive list of references for deafness in dogs
 
-
-
-
-
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
 > ![3 bones](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
-
-
