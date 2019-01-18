@@ -1,15 +1,14 @@
-+++
-title = "AKCCHF grant #01822"
-+++
-
+---
+title: 'AKCCHF grant #01822 (closed)'
+---
 **Beyond the Genome: The Intersection of Genes and the Environment in
 Canine Cancer**
 
 **Robert K Wayne, PhD, University of California Los Angeles**
 
-**Update! [Final Report](/files/AKCCHF grant 1822 FINAL Summary.pdf)**
+**Update! \[Final Report](/files/AKCCHF grant 1822 FINAL Summary.pdf)**
 
-***Project Summary from the AKCCHF.org website:***
+_**Project Summary from the AKCCHF.org website:**_
 
 "Not all genes are active at all times. DNA methylation (the addition of
 methyl groups to DNA) is one of several mechanisms that cells use to
@@ -34,3 +33,7 @@ investigation of disease etiology as well as advancing therapeutic
 approaches. These data will provide a new resource for understanding how
 gene regulation through methylation affects phenotype, disease and
 overall canine health".
+
+Publication:
+
+Thompson MJ, vonHoldt B, Horvath S, Pellegrini M. [An epigenetic aging clock for dogs and wolves](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5391218/). Aging (Albany NY). 2017;9(3):1055-1068.
