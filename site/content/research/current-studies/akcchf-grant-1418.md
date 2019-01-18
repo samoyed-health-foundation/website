@@ -44,4 +44,4 @@ lymphoma post
 chemotherapy](http://www.ncbi.nlm.nih.gov/pubmed/22355761). Sci Rep.
 2012;2:24
 
-O'Connor, C. M., & Wilson-Robles, H. (2014). [Developing T cell cancer immunotherapy in the dog with lymphoma](https://www.ncbi.nlm.nih.gov/pubmed/24936037). ILAR J, 55(1), 169-181. doi:10.1093/ilar/ilu020
+O'Connor, C. M., & Wilson-Robles, H. (2014). [Developing T cell cancer immunotherapy in the dog with lymphoma](https://www.ncbi.nlm.nih.gov/pubmed/24936037). ILAR J, 55(1), 169-181.
