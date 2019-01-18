@@ -1,6 +1,6 @@
-+++
-title = "AKCCHF Grant #01609 Abstract"
-+++
+---
+title: 'AKCCHF Grant #01609 (Closed)'
+---
 
 **Use of Probiotic VSL\# 3 to Reduce the Symptoms of Inflammatory Bowel
 Disease **\
