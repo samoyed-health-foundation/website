@@ -1,14 +1,13 @@
-+++
-title = "AKCCHF Grant #01418 Abstract"
-+++
-
+---
+title: 'AKCCHF Grant #01418 Abstract'
+---
  \
 **1418: PET 2.0: Providing Engineered T-cells (PET): New Genetic and
 Immunotherapy Targeting Canines with Spontaneous B-cell Lymphoma
 (Harnessing a Dog's Own Immune System to Kill Lymphoma Tumor Cells)**
 
 Grant Status: Open\
-Grant Amount: \$150,000.  SCARF contributed \$2500.\
+Grant Amount: $150,000.  SCARF contributed $2500.\
 Dr. Heather M. Wilson, DVM, Texas A&M Research Foundation
 
 Disease(s): Lymphoma
@@ -24,7 +23,7 @@ to attack the most common type of canine lymphoma, B-cell lymphoma. We
 plan to obtain a small number of circulating white blood cells, called T
 cells, from the blood of affected dogs and insert a gene that will cause
 the T cell to express a receptor which recognizes the tumor
-\"fingerprint\". After docking with the lymphoma, the T cell will be
+"fingerprint". After docking with the lymphoma, the T cell will be
 triggered to mount an immune response against the tumor cells with the
 specific fingerprint. This therapy could be used alone or in combination
 with chemotherapy. Our preliminary data demonstrate that we can indeed
@@ -36,7 +35,7 @@ possible for these cells to survive in the dog. These data support our
 plans to develop first-in-dog T-cell therapy targeting a tumor that is
 basically untreatable.
 
-**Publication:**
+**Publications:**
 
 O'Connor CM, Sheppard S, Hartline CA, Huls H, Johnson M, Palla SL,
 Maiti S, Ma W, Davis RE, Craig S, Lee DA, Champlin R, Wilson H, Cooper
@@ -44,3 +43,5 @@ LJ. [Adoptive T-cell therapy improves treatment of canine non-Hodgkin
 lymphoma post
 chemotherapy](http://www.ncbi.nlm.nih.gov/pubmed/22355761). Sci Rep.
 2012;2:24
+
+O'Connor, C. M., & Wilson-Robles, H. (2014). [Developing T cell cancer immunotherapy in the dog with lymphoma](https://www.ncbi.nlm.nih.gov/pubmed/24936037). ILAR J, 55(1), 169-181. doi:10.1093/ilar/ilu020
