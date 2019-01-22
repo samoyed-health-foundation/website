@@ -1,5 +1,4 @@
 +++
-date = "2017-04-15T15:26:28-04:00"
 title = "Optigen DNA test for Retinal Dysplasia/Dwarfism in the Samoyed"
 +++
 
