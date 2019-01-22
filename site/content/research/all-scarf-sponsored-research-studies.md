@@ -82,14 +82,14 @@ You may participate in the
   F Smith, VMD PhD, Auburn University.  \[$2500].  \[[study update
   1](/files/AKCCHF 01806 EY1 Summary.pdf)]  \[[study
   update
-  2]](/files/AKCCHF grant 1806 EY2 Progress Report.pdf) \[[final
-  report]](/files/AKCCHF grant 01806 FINAL Summary.pdf)
+  2](/files/AKCCHF grant 1806 EY2 Progress Report.pdf)] \[[final
+  report](/files/AKCCHF grant 01806 FINAL Summary.pdf)]
 * [AKCCHF Grant
   #01822](/research/current-studies/akcchf-grant-01822) (closed): Beyond
   the Genome: The Intersection of Genes and the Environment in Canine
   Cancer.  Robert K Wayne, PhD, University of California Los Angeles.
   \[$2500].   \[[final
-  report]](/files/AKCCHF grant 1822 FINAL Summary.pdf) [[publication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5391218/)]
+  report](/files/AKCCHF grant 1822 FINAL Summary.pdf)] [[publication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5391218/)]
 
 #### MORRIS ANIMAL FOUNDATION GRANTS
 
@@ -97,7 +97,7 @@ You may participate in the
   a Better Tool for Assessing Bloat Prognosis.  Elizabeth A Rozanski, DVM,
   Tufts University  \[[study
   update](/files/D09CA-502 update.pdf)] \[[final
-  report]](/files/D09CA-502 Final report.pdf)
+  report](/files/D09CA-502 Final report.pdf)]
 * [MAF Grant D12CA-031:](/research/current-studies/morris-grant-d12ca-031) Understanding
   the Genetic Basis for Urinary Stones.  Dr. Ned Patterson, University of
   Minnesota
@@ -162,7 +162,7 @@ You may participate in the
   the Role of Stem Cells and Genes in Mammary Tumor Development; Dr
   Gerlinde R Van de Walle, Ghent University, Belgium (#3000) \[[study
   update](/files/D12MS-002 update.pdf)] \[[final
-  report]](/files/D12MS-002 Final Report.pdf)
+  report](/files/D12MS-002 Final Report.pdf)]
 
 **BLOAT STUDY**
 
