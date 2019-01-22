@@ -166,10 +166,6 @@ You may participate in the
   update](/files/D12MS-002 update.pdf)] \[[final
   report](/files/D12MS-002 Final Report.pdf)]
 
-**BLOAT STUDY**
-
-[DOGenes Inc. Bloat Study](https://www.samoyedhealthfoundation.org/research/current-studies/bloat-study/)
-
 # Funded Research Grants (2011)
 
 * [AKCCHF grant #01670-A (closed):](/research/current-studies/akcchf-grant-01670-a)
@@ -227,7 +223,7 @@ You may participate in the
 #### OTHER GRANTS
 
 * [Bloat Study
-  (open): ](/research/current-studies/bloat-study)   DOGenes,
+  (closed): ](/research/current-studies/bloat-study)   DOGenes,
   Inc.
 
 # Funded Research Grants (2009)
