@@ -45,12 +45,12 @@ You may participate in the
   (open):](/research/current-studies/morris-grant-d15ca-047)  Understanding
   Why and How Canine Osteosarcoma Tumors Spread.  Dr. Jaime F. Modiano,
   University of Minnesota \[[study
-  update](/files/D15CA-047 Oct 2016 update.pdf)]
+  update](/files/D15CA-047 Oct 2016 update.pdf)] [[publication](http://www.jbc.org/content/290/47/28070.full.pdf)]
 * [MAF Grant D15CA-307 (open):](/research/current-studies/morris-grant-d15ca-307)
   Evaluating a New Treatment for Dogs with Kidney Disease.  Dr. Amanda E.
   Coleman, University of Georgia \[[study
   update](/files/D15CA-307 Nov 2017 update.pdf)]
-* [MAF Grant D15CA-802 (open):](/research/current-studies/d15ca-802)
+* [MAF Grant D15CA-802 (closed):](/research/current-studies/d15ca-802)
   Understanding the Transmission Risk of Bacterial Infections between
   Therapy Dogs and Kids with Cancer.  Dr. Allen R. Chen, Johns Hopkins
   University \[[final report](/files/D15CA-802 FinalReport.pdf)]
@@ -153,7 +153,7 @@ You may participate in the
   ($3000)
 * [MAF Grant D10CA-022 (open)](/research/current-studies/morris-10ca-022)
   Studying the Effect of Cranberry Extract on Canine Urinary Tract
-  Infections; Dr Natasha J Olby, North Carolina State University ($3000)
+  Infections; Dr Natasha J Olby, North Carolina State University ($3000)[[publication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5259620/pdf/JVIM-31-60.pdf)]
 * [MAF Grant D12CA-803 (closed)](/research/current-studies/morris-grant-d12ca-803):
   Reprogramming Canine Stem Cells to Develop New Therapies; Dr Deborah
   Guest, Animal Health Trust, United Kingdom. ($3000) \[[final
@@ -212,10 +212,10 @@ You may participate in the
   Risk Factors for Lymphoma.  Dr. Lauren A. Trepanier, University of
   Wisconsin
   * Scarf has re-directed the funds from D09CA-082 to this study.
-* MAF Grant D10CA-016 (open): Investigating a Noninvasive, At-home
+* MAF Grant D10CA-016 (closed): Investigating a Noninvasive, At-home
   Diagnostic Technique for Gastrointestinal Disorders.  Pedro L Boscan,
   DVM PhD, Colorado State University \[$3000] \[[Study
-  update](/files/D10CA-016 update.pdf)]
+  update](/files/D10CA-016 update.pdf)] [[final report](/files/D10CA-016-final.pdf)]
 * [MAF Grant D10CA-060 (closed):](/research/current-studies/morris-grant-d10ca-060)
   Evaluating the Safety and Efficacy of a Drug to Control Epilepsy in
   Dogs.  Dawn Merton Boothe, DVM PhD, Auburn University \[$3000]
