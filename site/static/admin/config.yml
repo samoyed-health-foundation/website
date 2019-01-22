@@ -6,8 +6,8 @@ backend:
 # Adds an interface for drafting, reviewing, and approving posts
 publish_mode: editorial_workflow
 
-media_folder: "site/static/img/uploads" # Location for uploaded media files
-public_folder: "/img/uploads" # What to begin the src attribute for uploaded media with
+media_folder: "site/static/files" # Location for uploaded media files
+public_folder: "/files" # What to begin the src attribute for uploaded media with
 
 display_url: "https://www.samoyedhealthfoundation.org"
 logo_url: "https://www.samoyedhealthfoundation.org/img/logo.png"
