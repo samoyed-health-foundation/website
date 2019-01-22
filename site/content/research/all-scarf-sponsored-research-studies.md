@@ -14,9 +14,9 @@ You may participate in the
 
 #### AKC CANINE HEALTH FOUNDATION OAK GRANTS
 
-* [AKCCHF Grant #01658 (open):](/research/current-studies/akcchf-grant-01658)
+* [AKCCHF Grant #01658 (closed):](/research/current-studies/akcchf-grant-01658)
   Early Detection of Chronic Kidney Disease to Prevent Kidney Damage.
-  Mary B Nabity, DVM, PhD, Texas A&M AgriLife Research. \[$5000]
+  Mary B Nabity, DVM, PhD, Texas A&M AgriLife Research. \[$5000] [[publication](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jvim.13832)]
 * [AKCCHF Grant #01699-A (open):](/research/current-studies/akcchf-grant-01699-a)
   Preventing Inaccurate Diagnosis of Brucellosis.  Christina M Larson,
   DVM, University of Minnesota. \[$5000]
@@ -85,11 +85,11 @@ You may participate in the
   2]](/files/AKCCHF grant 1806 EY2 Progress Report.pdf) \[[final
   report]](/files/AKCCHF grant 01806 FINAL Summary.pdf)
 * [AKCCHF Grant
-  #01822](/research/current-studies/akcchf-grant-01822): Beyond
+  #01822](/research/current-studies/akcchf-grant-01822) (closed): Beyond
   the Genome: The Intersection of Genes and the Environment in Canine
   Cancer.  Robert K Wayne, PhD, University of California Los Angeles.
   \[$2500].   \[[final
-  report]](/files/AKCCHF grant 1822 FINAL Summary.pdf)
+  report]](/files/AKCCHF grant 1822 FINAL Summary.pdf) [[publication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5391218/)]
 
 #### MORRIS ANIMAL FOUNDATION GRANTS
 
@@ -112,7 +112,7 @@ You may participate in the
 * [MAF Grant D13CA-311 (closed):](/research/current-studies/morris-grant-d13ca-311)   Evaluating Preventive Therapy for
   Ligament Disease.  Siao Sia Goh, BVSc, Colorado State University
   \[[study
-  update](/files/D13CA-311 update.pdf)]  [\[final
+  update](/files/D13CA-311 update.pdf)]  \[[final
   report]](/files/Morris-Grant-D13CA-311.pdf)
 * [MAF Grant D13CA-802 (closed):](/research/current-studies/d13ca-802) Assessing
   a Diagnostic Tool for Eye Diseases.  Chris G Pirie DVM, DACVO, Tufts
@@ -128,7 +128,7 @@ You may participate in the
   Providing Engineered T-cells (PET): New Genetic and Immunotherapy
   Targeting Canines with Spontaneous B-cell Lymphoma; Dr Heather M.
   Wilson, DVM, Texas A7M University ($2500)
-  [[publication](http://www.ncbi.nlm.nih.gov/pubmed/22355761)]
+  [[publication](http://www.ncbi.nlm.nih.gov/pubmed/22355761)] [[publication](https://www.ncbi.nlm.nih.gov/pubmed/24936037)]
 * [ AKCCHF Grant #01569 (closed)](/research/current-studies/akcchf-grant-1569)
   Evaluation of GS-9219 in Canine Lymphoma; Dr Douglas H Thamm, VMD;
   Colorado State University ($2500)
@@ -138,7 +138,7 @@ You may participate in the
   Griffon, DVM PhD; Western University of Health Sciences ( $2500)
   \[[Final
   Report](/files/AKCCHF grant 01584 MY4 FINAL Summary.pdf)]
-* [AKCCHF Grant #01609 (open)](/research/current-studies/akcchf-grant-1609)
+* [AKCCHF Grant #01609 (closed)](/research/current-studies/akcchf-grant-1609)
   Probiotic VSL#3 Reduces Enteritis in Dogs with Inflammatory Bowel
   Disease; Dr Albert E Jergens, DVM PhD; Iowa State University ($2500)
   \[[Study Update
@@ -230,7 +230,7 @@ You may participate in the
 
 # Funded Research Grants (2009)
 
-* [Rabies Challenge Fund](http://www.rabieschallengefund.org/) [\[Summary]](https://www.rabieschallengefund.org/)
+* [Rabies Challenge Fund](http://www.rabieschallengefund.org/) \[[Summary]](https://www.rabieschallengefund.org/)
 * [AKCCHF grant #00615-B (closed):](/research/current-studies/akcchf-grant-00615b)
   Heritable and Sporadic Genetic Lesions in Canine Lymphoma.  Jaime F
   Modiano, VMD PhD  \[$2500 from AKCCHF Donor Advised fund]
