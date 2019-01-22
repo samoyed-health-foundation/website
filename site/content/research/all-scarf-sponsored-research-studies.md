@@ -7,6 +7,8 @@ You can read about how MAF approves grant proposals at <https://www.morrisanimal
 
 # Samples requested
 
+[Sub-Aortic Stenosis](https://www.samoyedclubofamerica.org/the-samoyed/health-and-care/studies/)
+
 You may participate in the
 [Samoyed DNA bank/databases](/databases)
 
