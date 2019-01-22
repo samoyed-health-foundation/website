@@ -16,67 +16,15 @@ collections:
   - name: "general" # Used in routes, e.g., /admin/collections/blog
     label: "General Pages" # Used in the UI
     label_singular: "General Page"
-    files:
-      - name: "become-a-health-information-liaison"
-        label: "Become a Liason"
-        file: "site/content/become-a-health-information-liaison.md" # The path to the file
-        extension: "md"
-        slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-        editor:
-          preview: false
-        fields: # The fields for each document, usually in front matter
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
-      - name: "become-a-health-information-reviewer"
-        label: "Become a Reviewer"
-        file: "site/content/become-a-health-information-reviewer.md" # The path to the file
-        extension: "md"
-        slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-        editor:
-          preview: false
-        fields: # The fields for each document, usually in front matter
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
-      - name: "contact"
-        label: "Contact"
-        file: "site/content/contact.md" # The path to the file
-        extension: "md"
-        slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-        editor:
-          preview: false
-        fields: # The fields for each document, usually in front matter
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
-      - name: "dog-food-recall-information"
-        label: "Dog Food Recall Information"
-        file: "site/content/dog-food-recall-information.md" # The path to the file
-        extension: "md"
-        slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-        editor:
-          preview: false
-        fields: # The fields for each document, usually in front matter
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
-      - name: "how-you-can-help"
-        label: "How You Can Help"
-        file: "site/content/how-you-can-help.md" # The path to the file
-        extension: "md"
-        slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-        editor:
-          preview: false
-        fields: # The fields for each document, usually in front matter
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
-      - name: "optigen-dna-test-for-retinal-dysplasia-dwarfism-in-the-samoyed"
-        label: "Optigen DNA test for Retinal Dysplasia/Dwarfism in the Samoyed"
-        file: "site/content/optigen-dna-test-for-retinal-dysplasia-dwarfism-in-the-samoyed.md" # The path to the file
-        extension: "md"
-        slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-        editor:
-          preview: false
-        fields: # The fields for each document, usually in front matter
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+    folder: "site/content" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    extension: "md"
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    editor:
+      preview: false
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "about" # Used in routes, e.g., /admin/collections/blog
     label: "About Pages" # Used in the UI
     label_singular: "About Page"
