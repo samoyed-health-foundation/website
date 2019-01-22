@@ -24,7 +24,7 @@ You may participate in the
   the Mechanism of Bacerial Adherence during Pyometra to Develop an
   Effective, Non-Invasive Treatment for Disease.  Cordula Bartel, PhD.
   University of Veterinary Medicine of Vienna.  \[$5,758.32] \[[final
-  report]](/files/AKCCHF 02118A FINAL Summary.pdf)
+  report](/files/AKCCHF 02118A FINAL Summary.pdf)]
 * [AKCCHF Grant #02128-A (closed):](/research/current-studies/akcchf-grant-02128-a)
   Redefining the Recommendations for Prevention of Infectious Disease at
   Dog Shows and Other Areas Where Dogs Meet and Compete.  Jason Stull,
