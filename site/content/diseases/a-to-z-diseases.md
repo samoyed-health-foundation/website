@@ -122,8 +122,7 @@ title: A to Z Diseases
 * Perianal Gland Adenoma
 * Persistent Pupillary Membranes (PPM, Mesodermal Dysgenesis)
 * [Piebald or Extreme Piebald Gene - Deafness](/diseases/piebald-or-extreme-piebald-gene-2013-deafness) \*\*
-* Portosystemic Shunt (Extrahepatic)*
-* Portosystemic Shunt (Intrahepatic)*
+* [Portosystemic Shunt (Extrahepatic and Intrahepatic)](https://www.samoyedhealthfoundation.org/diseases/portosystemic-shunts-intrahepatic-and-extrahepatic-liver-shunts/)*
 * Post-Clipping Alopecia \*\*
 * Premature Closure of the Radius (Radial Dysgenesis)
 * [Primary Hypoadrenocorticism (Addison's Disease)](/diseases/addison-s-disease)
