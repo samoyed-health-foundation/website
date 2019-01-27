@@ -29,7 +29,7 @@ Complete Blood Count (CBC) and Bile Acid Test.   Common advanced imaging diagnos
 
 ## Treatment Guidelines
 
-__
+
 
 > **Note:** _Treatment of animals should only be performed by a licensed
 > veterinarian. Veterinarians should consult the current literature and
