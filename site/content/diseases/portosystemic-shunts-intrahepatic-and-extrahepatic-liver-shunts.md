@@ -1,13 +1,13 @@
 ---
 title: Portosystemic Shunts - intrahepatic and extrahepatic (liver shunts)
 ---
-## DESCRIPTION
+## Description
 
 Portosystemic Shunts are vascular anomalies that cause portal blood to bypass the liver.   These can be either congenital or acquired.  The congenital shunts are usually a single vessel that can be either Extrahepatic (EHPPS) outside the liver or Intrahepatic (IHPPS) inside the liver.  Acquired shunts are usually multiple and are secondary to an underlying hepatic disease process and the development of portal hypertension.
 
 Extrahepatic shunts (EHPPS) are commonly found in small breeds of dogs.   They are considered a developmental anomaly.  Intrahepatic shunts (IHPPS) are often found in large breeds of dogs.  Intrahapetic shunts are caused by a failure of the vessel that regulates blood flow from the placenta to vital organs like lungs & heart during fetal development to close.  This would usually close within a few days of birth. (1). 
 
-## SIGNS AND SYMPTOMS
+## Signs and Symptoms
 
 Dogs with Congenital Shunts tend to present at a young age though asymptomatic dogs as old as 13 have been seen (2).   There is no gender predisposition.  Clinical signs may increase after eating.  
 
@@ -15,15 +15,15 @@ Signs of Hepatic Encephalopathy (HE)  –  Ataxia, behavioural changes, aggressi
 
 It is thought that this is a semi-lethal gene and likely causes fetal death so not all affected puppies are even seen. (2)
 
-## CAUSES
+## Causes
 
 Congenital portosystemic shunts have been reported in 110 of 201 (55%) breeds of dogs.  It is more common in purebred dogs than cross bred dogs (3) (4) and has been demonstrated to be genetic in many different breeds of dogs (3) (4) (5) (6) though predisposed breeds can vary from country to country (5).    
 
-## DIAGNOSTIC TESTS
+## Diagnostic Tests
 
 Complete Blood Count (CBC) and Bile Acid Test.   Common advanced imaging diagnostic tests include Abdominal Ultrasound, Nuclear Scintigraphy, MRI & Computed tomography (CT).
 
-## TREATMENT GUIDELINES
+## Treatment Guidelines
 
 __
 
@@ -46,7 +46,7 @@ Intrahapetic shunts have been considered more challenging to fix overall often w
 
 Medical vs. Surgical management is a complex subject there have been very few studies published. (8) (9)    One other study has been presented in abstract form at the ACVIM Forum in 2012 by Cornell University. This involves the largest number of dogs so far but it is yet to be published. (10)
 
-## REFERENCES
+## References
 
  (1 )  Doppler ultrasonographic assessment of closure of the ductus venosus in neonatal Irish wolfhounds.   Lamb CR, Burton CA  Vet Rec. 2004 Nov 27; 155(22):699-701.
 
@@ -82,7 +82,17 @@ https://avmajournals.avma.org/doi/abs/10.2460/javma.236.11.1215
 
  (10)  Long-term survival of dogs (n=597) with congenital or acquired portosystemic shunting: 1980-2010.  Center SA, Randolph J, Warner K, et al.  J Vet Intern Med 2012:26:781A ACVIM Forum 2012, New Orleans, LA (abstract)
 
-## SUGGESTED LINKS
+
+
+>  ![one
+> bone
+> rating](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
+
+## Suggested Links
 
 There are many papers on liver shunts PubMed has in excess of 700.  There are also various support groups on facebook the information given in these groups range from excellent to dangerous.  Find a good internal medicine specialist to assist you in managing your dog.
 
@@ -96,4 +106,14 @@ There are many papers on liver shunts PubMed has in excess of 700.  There are al
 
 •	Berent AC, Tobias KM 2009.  Portosystemic Vascular Anomalies.  Vet Clin Small Anim 39: 513-541  https://sonopath.com/sites/default/files/downloads/article_casey_LIVER_Portosystemic_Shunts.pdf
 
-## LIVING WITH
+
+
+>  ![one
+> bone
+> rating](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
+
+## Living With
