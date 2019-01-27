@@ -1,6 +1,12 @@
 ---
 title: Portosystemic Shunts - intrahepatic and extrahepatic (liver shunts)
 ---
+**Liaison:** Rosslyn Rothwell
+
+**Email:** rosslynr@tpg.com.au
+
+
+
 ## Description
 
 Portosystemic Shunts are vascular anomalies that cause portal blood to bypass the liver.   These can be either congenital or acquired.  The congenital shunts are usually a single vessel that can be either Extrahepatic (EHPPS) outside the liver or Intrahepatic (IHPPS) inside the liver.  Acquired shunts are usually multiple and are secondary to an underlying hepatic disease process and the development of portal hypertension.
