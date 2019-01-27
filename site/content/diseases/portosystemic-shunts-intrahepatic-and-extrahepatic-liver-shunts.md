@@ -29,14 +29,14 @@ Complete Blood Count (CBC) and Bile Acid Test.   Common advanced imaging diagnos
 
 ## Treatment Guidelines
 
-__
+
 
 > **Note:** _Treatment of animals should only be performed by a licensed
 > veterinarian. Veterinarians should consult the current literature and
 > current pharmacological formularies before initiating any treatment
 > protocol._
 
-** **
+- - -
 
 **Medical Management**
 
@@ -78,7 +78,7 @@ rating](/img/3-bones.gif)
 (8) [ Comparison of survival after surgical or medical treatment in dogs with a congenital portosystemic shunt](<https://avmajournals.avma.org/doi/abs/10.2460/javma.236.11.1215 >).  Stephen N Greenhalgh et al.  JAVMA Vol 236, No 11 June 1 2010.      ![three bones
 rating](/img/3-bones.gif)
 
-(9)  [Medical Management of congenital portosystemic shunts in 27 dogs:  A retrospective study. ](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1748-5827.1998.tb03595.x)J Small anim Pract 39:62-68 1998    ![three bones
+(9)  [Medical Management of congenital portosystemic shunts in 27 dogs:  A retrospective study. ](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1748-5827.1998.tb03595.x)Watson PJ & Herrtage ME. Small anim Pract 39:62-68 1998    ![three bones
 rating](/img/3-bones.gif)
 
  (10)  Long-term survival of dogs (n=597) with congenital or acquired portosystemic shunting: 1980-2010.  Center SA, Randolph J, Warner K, et al.  J Vet Intern Med 2012:26:781A ACVIM Forum 2012, New Orleans, LA (abstract)    ![two bones
@@ -105,7 +105,7 @@ rating](/img/3-bones.gif)
 •	Berent A & Weisse C.  2007.  [Portosystemic Shunts and Portal Venous Hypoplasia. ](http://vetnetinfo.com/tudasbazis/files/2016/02/Portosystemic-Shunts-and-Portal-Venous-Hypoplasia-2007.pdf) Compendiums Standards of Care Emergency and Critical Care Medicine 9.3: 1-11.     ![three bones
 rating](/img/3-bones.gif)
 
-•	Van Steenbeek FG et al. 2013. [Aberrant Gene Expression in Dogs with Portosystemic Shunts](<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3581512/ >). PLOS One  8:e57662.      <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3581512/>![three bones
+•	Van Steenbeek FG et al. 2013. [Aberrant Gene Expression in Dogs with Portosystemic Shunts](<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3581512/ >). PLOS One  8:e57662.  ![three bones
 rating](/img/3-bones.gif)
 
 •	Berent AC, Tobias KM 2009.  [Portosystemic Vascular Anomalies.  ](https://sonopath.com/sites/default/files/downloads/article_casey_LIVER_Portosystemic_Shunts.pdf)Vet Clin Small Anim 39: 513-541     ![two bones
