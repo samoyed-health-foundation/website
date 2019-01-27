@@ -5,8 +5,6 @@ title: Portosystemic Shunts - intrahepatic and extrahepatic (liver shunts)
 
 **Email:** rosslynr@tpg.com.au
 
-
-
 ## Description
 
 Portosystemic Shunts are vascular anomalies that cause portal blood to bypass the liver.   These can be either congenital or acquired.  The congenital shunts are usually a single vessel that can be either Extrahepatic (EHPPS) outside the liver or Intrahepatic (IHPPS) inside the liver.  Acquired shunts are usually multiple and are secondary to an underlying hepatic disease process and the development of portal hypertension.
@@ -38,7 +36,9 @@ __
 > current pharmacological formularies before initiating any treatment
 > protocol._
 
-**Medical management **
+** **
+
+**Medical Management**
 
 Medical management is used for dogs that cannot have surgery or when surgery is declined and also to stabilize dogs prior to surgery.   Medical management is titrated for each individual depending on severity of symptoms therefore it is best to work with a veterinary specialist.  Medical management can control the signs of HE but will not treat the underlying hepatic atrophy.  For dogs with intrahepatic shunts GI protectants are recommended for life usually Omeprazole .(7)
 
@@ -105,7 +105,7 @@ rating](/img/3-bones.gif)
 •	Berent A & Weisse C.  2007.  [Portosystemic Shunts and Portal Venous Hypoplasia. ](http://vetnetinfo.com/tudasbazis/files/2016/02/Portosystemic-Shunts-and-Portal-Venous-Hypoplasia-2007.pdf) Compendiums Standards of Care Emergency and Critical Care Medicine 9.3: 1-11.     ![three bones
 rating](/img/3-bones.gif)
 
-•	Van Steenbeek FG et al. 2013. Aberrant Gene Expression in Dogs with Portosystemic Shunts. PLOS One  8:e57662.   <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3581512/>    ![three bones
+•	Van Steenbeek FG et al. 2013. [Aberrant Gene Expression in Dogs with Portosystemic Shunts](<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3581512/ >). PLOS One  8:e57662.      <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3581512/>![three bones
 rating](/img/3-bones.gif)
 
 •	Berent AC, Tobias KM 2009.  [Portosystemic Vascular Anomalies.  ](https://sonopath.com/sites/default/files/downloads/article_casey_LIVER_Portosystemic_Shunts.pdf)Vet Clin Small Anim 39: 513-541     ![two bones
