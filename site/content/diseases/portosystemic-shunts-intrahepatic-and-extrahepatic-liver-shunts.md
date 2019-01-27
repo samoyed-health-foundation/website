@@ -51,7 +51,8 @@ Medical vs. Surgical management is a complex subject there have been very few st
  (1 )  [Doppler ultrasonographic assessment of closure of the ductus venosus in neonatal Irish wolfhounds. ](https://veterinaryrecord.bmj.com/content/155/22/699.long)  Lamb CR, Burton CA  Vet Rec. 2004 Nov 27; 155(22):699-701.    ![three bones
 rating](/img/3-bones.gif)
 
-(2)   Portosystemic Vascular Anomalies (PSVA) & Microvascular Dysplasia (MVD) S A Center, DVM, Dipl ACVIM Professor of Internal Medicine, Cornell University, Ithaca, NY
+(2)   Portosystemic Vascular Anomalies (PSVA) & Microvascular Dysplasia (MVD) SA Center, DVM, Dipl ACVIM Professor of Internal Medicine, Cornell University, Ithaca, NY     ![two bones
+rating](/img/2-bones.gif)
 
 (3)  [Association of breed with diagnosis of congenital portosystemic shunts in dogs:  2400 cases ](<https://avmajournals.avma.org/doi/abs/10.2460/javma.2003.223.1636 >)(1980-2002)  Karen M Tobias, DVM, MS DACVS, & Barton W Rohrbach, VMD, MPH, DACVPM – JAVMA , Vol 223, No 11 December 1, 2003.   ![three bones
 rating](/img/3-bones.gif)
@@ -74,7 +75,8 @@ rating](/img/3-bones.gif)
 (9)  [Medical Management of congenital portosystemic shunts in 27 dogs:  A retrospective study. ](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1748-5827.1998.tb03595.x)J Small anim Pract 39:62-68 1998    ![three bones
 rating](/img/3-bones.gif)
 
- (10)  Long-term survival of dogs (n=597) with congenital or acquired portosystemic shunting: 1980-2010.  Center SA, Randolph J, Warner K, et al.  J Vet Intern Med 2012:26:781A ACVIM Forum 2012, New Orleans, LA (abstract)
+ (10)  Long-term survival of dogs (n=597) with congenital or acquired portosystemic shunting: 1980-2010.  Center SA, Randolph J, Warner K, et al.  J Vet Intern Med 2012:26:781A ACVIM Forum 2012, New Orleans, LA (abstract)    ![two bones
+rating](/img/2-bones.gif)
 
 >  ![one
 > bone
@@ -100,7 +102,8 @@ rating](/img/3-bones.gif)
 •	Van Steenbeek FG et al. 2013. Aberrant Gene Expression in Dogs with Portosystemic Shunts. PLOS One  8:e57662.   <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3581512/>    ![three bones
 rating](/img/3-bones.gif)
 
-•	Berent AC, Tobias KM 2009.  [Portosystemic Vascular Anomalies.  ](https://sonopath.com/sites/default/files/downloads/article_casey_LIVER_Portosystemic_Shunts.pdf)Vet Clin Small Anim 39: 513-541  
+•	Berent AC, Tobias KM 2009.  [Portosystemic Vascular Anomalies.  ](https://sonopath.com/sites/default/files/downloads/article_casey_LIVER_Portosystemic_Shunts.pdf)Vet Clin Small Anim 39: 513-541     ![two bones
+rating](/img/2-bones.gif)
 
 >  ![one
 > bone
