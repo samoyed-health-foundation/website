@@ -1,17 +1,9 @@
 ---
 title: Portosystemic Shunts - Living With
 ---
-Amy’s Story  
+**Amy’s Story  **
 
-
-
- 
-
-
-
-
-
-I had bought Amy from another breeder intending to show, do agility and eventually breed from her, she had seemed a perfectly normal puppy, and grew well.  She had always been a good eater, was extremely active, well muscled and so full of energy.  From a young age she did suffer from allergies and eventually ended up on hyposenitization vaccines.   Amy had a strange little quirk of standing in her water bowl after running around.  When she was about 12 months of age she had a high temperature and ended up spending the morning at the vet clinic on a drip, given antibiotics she was back to normal very quickly.  From time to time she would have a re occurrence of these temperatures ranging from mild to high.  She also suffered 3 episodes of bleeding from the mouth/nose over a 12 month period. 
+I had bought Amy from another breeder intending to show, do agility and eventually breed from her, she had seemed a perfectly normal puppy, and grew well.  She had always been a good eater, was extremely active, well muscled and so full of energy.  From a young age she did suffer from allergies and eventually ended up on hyposensitization vaccines.   Amy had a strange little quirk of standing in her water bowl after running around.  When she was about 12 months of age she had a high temperature and ended up spending the morning at the vet clinic on a drip, given antibiotics she was back to normal very quickly.  From time to time she would have a re occurrence of these temperatures ranging from mild to high.  She also suffered 3 episodes of bleeding from the mouth/nose over a 12 month period. 
 
  On the June long weekend in 2015 I took her again to the vet there was something just not right with her but nothing you could really put your finger on, again she had a temperature and a rapid heart rate, the next day the vet started further testing, x-rays showed nothing, but her blood was a little slow to clot.  All blood tests that had been done up to that point in time had not shown much, mainly an elevated white blood count.   Amy did start to become difficult to handle around her mouth at that time, I could no longer give her pills easily she would lock her jaw and then grab my hand in her mouth holding it very hard, the day she had x-rays she bit the vet when he tried to look inside her mouth, this was really uncharacteristic behaviour she was normally such a sweet natured dog.  Amy was sent home with Vit K but we still had no answers I was told to bring her back in a couple of days for more intensive testing, but before that could happen my son found her collapsed in the middle of the night.
 
@@ -35,10 +27,10 @@ Niek had trained in the Netherlands at Utrecht University and worked with liver 
 
 On Wednesday 2nd March 2016 Amy had her surgery almost 9 months since she collapsed.  The surgery went off without a hitch. There was always a chance she would need additional surgery, approximately 17% of dogs do need further coils added.  But she at least had a chance now to live a longer life than she might have with just medical management alone.
 
-Amy’s symptoms the night she collapsed in June I now know were classic symptoms of Hepatic Encephalopathy (HE) she was drooling, appeared to be blind was stagging eventually lapsing into a coma, later as she recovered at ARH she would press her head into the corner of the crate, but up until that time her symptoms were anything but textbook so it is little wonder none of the vets who had seen her previously ever thought of a Liver Shunt.  I now know that the standing in water bowls was done to help cool her down, liver shunt dogs overheat easily.  When she became difficult to handle around her mouth it was probably because she was in pain, people that have Liver Shunts liken HE to having a really bad hangover.  The unexplained fevers are also a sign of Liver Shunts, just not a common symptom.  
+Amy’s symptoms the night she collapsed in June I now know were classic symptoms of Hepatic Encephalopathy (HE) she was drooling, appeared to be blind was staggering eventually lapsing into a coma, later as she recovered at ARH she would press her head into the corner of the crate, but up until that time her symptoms were anything but textbook so it is little wonder none of the vets who had seen her previously ever thought of a Liver Shunt.  I now know that the standing in water bowls was done to help cool her down, liver shunt dogs overheat easily.  When she became difficult to handle around her mouth it was probably because she was in pain, people that have Liver Shunts liken HE to having a really bad hangover.  The unexplained fevers are also a sign of Liver Shunts, just not a common symptom.  
 
 Owners and breeders need to be more aware of this awful disease, it is seen in many breeds of dogs, and in those breeds that are over represented, breeders should be doing bile acid tests on puppies before they are sold, no owner should ever have to sit across the table from a vet and hear that their much loved pet may die or likely live a much shortened life.  This is an awful disease, hard on the dog and hard on the owner. 
 
 _Post Script._
 
-Amy returned to Sydney University for a Laparoscopic Spey 32 months after her shunt surgery and they were able to do another CT scan on her liver, it showed the coils and stents still in place and that the size of the liver had increased and that there was a significant increase in blood flow to the liver.  Amy has no symptoms eats regular dog food (just fed twice a day now) and lives a completely normal life even competing in Agility.  The only medication she needs to take now is her daily Omeprazole.  We are hopeful she will live a normal length of life.
+Amy returned to Sydney University for a Laparoscopic Surgery 32 months after her shunt surgery and they were able to do another CT scan on her liver, it showed the coils and stents still in place and that the size of the liver had increased and that there was a significant increase in blood flow to the liver.  Amy has no symptoms eats regular dog food (just fed twice a day now) and lives a completely normal life even competing in Agility.  The only medication she needs to take now is her daily Omeprazole.  We are hopeful she will live a normal length of life.
