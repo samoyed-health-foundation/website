@@ -114,3 +114,5 @@ rating](/img/2-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 ## Living With
+
+[Amy's Story](https://www.samoyedhealthfoundation.org/diseases/portosystemic-shunts-living-with/)
