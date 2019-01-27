@@ -105,7 +105,7 @@ rating](/img/3-bones.gif)
 •	Berent A & Weisse C.  2007.  [Portosystemic Shunts and Portal Venous Hypoplasia. ](http://vetnetinfo.com/tudasbazis/files/2016/02/Portosystemic-Shunts-and-Portal-Venous-Hypoplasia-2007.pdf) Compendiums Standards of Care Emergency and Critical Care Medicine 9.3: 1-11.     ![three bones
 rating](/img/3-bones.gif)
 
-•	Van Steenbeek FG et al. 2013. [Aberrant Gene Expression in Dogs with Portosystemic Shunts](<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3581512/ >). PLOS One  8:e57662.      <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3581512/>![three bones
+•	Van Steenbeek FG et al. 2013. [Aberrant Gene Expression in Dogs with Portosystemic Shunts](<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3581512/ >). PLOS One  8:e57662.  ![three bones
 rating](/img/3-bones.gif)
 
 •	Berent AC, Tobias KM 2009.  [Portosystemic Vascular Anomalies.  ](https://sonopath.com/sites/default/files/downloads/article_casey_LIVER_Portosystemic_Shunts.pdf)Vet Clin Small Anim 39: 513-541     ![two bones
