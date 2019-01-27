@@ -71,10 +71,10 @@ cosmetic condition.
 
 ## Treatment Guidelines
 
-Note: Treatment of animals should only be performed by a licensed
+_Note: Treatment of animals should only be performed by a licensed
 veterinarian. Veterinarians should consult the current literature and
 current pharmacological formularies before initiating any treatment
-protocol.
+protocol._
 
 There is no treatment that is 100% effective. Castration or spaying is
 the first recommendation for intact dogs. This will often cause the coat
