@@ -79,8 +79,7 @@ title: By System Or Class
 # Liver-Pancreas
 
 * [Diabetes Mellitus](/diseases/diabetes-mellitus) \*\*
-* Portosystemic Shunt (Extrahepatic)*
-* Portosystemic Shunt (Intrahepatic)*
+* [Portosystemic Shunt (Extrahepatic and Intrahepatic)](https://www.samoyedhealthfoundation.org/diseases/portosystemic-shunts-intrahepatic-and-extrahepatic-liver-shunts/)*
 * Pancreatic insufficiency
 * [Pancreatitis](/diseases/pancreatitis)*
 
