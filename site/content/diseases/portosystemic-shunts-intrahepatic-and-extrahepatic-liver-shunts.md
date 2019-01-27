@@ -62,7 +62,8 @@ rating](/img/3-bones.gif)
 (5)  [Effect of breed on anatomy of porto-systemic shunts resulting from congenital disease in dogs and cats: a review of 242 cases. ](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-0813.2004.tb13233.x) GB Hunt Veterinary Cardiovascular Unit, University Veterinary Centre, Faculty of Veterinary Science, University of Sydney, New South Wales.  Australian Veterinary Journal Volumne 82, No 12, December 2004.       ![three bones
 rating](/img/3-bones.gif)
 
-(6)  [Inherited liver shunts in dogs elucidate pathways regulating embryonic development and clinical disorders of the portal vein.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3275728/)  Frank G. van Steenbeek,  Lindsay van den Bossche, Peter A. J. Leegwater, and Jan Rothuizen.  Mamm Genome 23:76-84 (2012).
+(6)  [Inherited liver shunts in dogs elucidate pathways regulating embryonic development and clinical disorders of the portal vein.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3275728/)  Frank G. van Steenbeek,  Lindsay van den Bossche, Peter A. J. Leegwater, and Jan Rothuizen.  Mamm Genome 23:76-84 (2012).   ![three bones
+rating](/img/3-bones.gif)
 
 (7)  [Endovascular evaluation and treatment of intrahepatic portosystemic shunts in dogs](https://avmajournals.avma.org/doi/abs/10.2460/javma.244.1.78)[ 100 cases (2001–2011)](https://avmajournals.avma.org/doi/abs/10.2460/javma.244.1.78) - Chick Weisse, VMD; Allyson C. Berent, DVM; Kimberly Todd; Jeffrey A. Solomon, MD; Constantin Cope, MD  JAVMA January 1, 2014, Vol. 244, No. 1, Pages 78-94         ![three bones
 rating](/img/3-bones.gif)
