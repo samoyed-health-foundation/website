@@ -3,7 +3,7 @@ title: Portosystemic Shunts - Living With
 ---
 ## **Amy’s Story  **
 
-![](/files/amy.jpeg)
+![](/files/amy1.jpg)
 
 I had bought Amy from another breeder intending to show, do agility and eventually breed from her, she had seemed a perfectly normal puppy, and grew well.  She had always been a good eater, was extremely active, well muscled and so full of energy.  From a young age she did suffer from allergies and eventually ended up on hyposensitization vaccines.   Amy had a strange little quirk of standing in her water bowl after running around.  When she was about 12 months of age she had a high temperature and ended up spending the morning at the vet clinic on a drip, given antibiotics she was back to normal very quickly.  From time to time she would have a re occurrence of these temperatures ranging from mild to high.  She also suffered 3 episodes of bleeding from the mouth/nose over a 12 month period. 
 
