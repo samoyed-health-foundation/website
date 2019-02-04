@@ -5,8 +5,7 @@ author: Sheila Herrmann
 banner: /files/heart-of-america.png
 categories:
   - events
-tags:
-  - history
+tags: []
 ---
 The Heart of America Samoyed Club is hosting a DNA collection event on <i class="fa fa-calendar"></i> **Friday March 8** and <i class="fa fa-calendar"></i> **Saturday March 9, 2019** for the Samoyed Club of America Education & Research Foundation (SCARF).
 
