@@ -13,6 +13,6 @@ The SCARF DNA collection will add anonymous, accurate, statistical data that wil
 
 Cheek swabs are **FREE**. _Please bring dog’s registration information and a 3-generation pedigree._
 
-For more information, please contact Paul DeMerath at [icebowl2@charter.net](mailto:icebowl2@charter.net) or `(618) 632-5059`.
+For more information, please contact Paul DeMerath at [icebowl2@charter.net](mailto:icebowl2@charter.net) or [(618) 632-5059](tel:+1-618-632-5059).
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fheartofamericasamoyedclub%2Fposts%2F1167596693416254&width=350&show_text=true&height=672&appId" width="350" height="672" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
