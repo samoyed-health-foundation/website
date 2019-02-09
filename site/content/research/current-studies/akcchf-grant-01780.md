@@ -6,18 +6,18 @@ Prevent Disease Transmission.**
 
 **Emma Natalie Ivy Weeks, PhD, University of Florida**
 
-_**Update: Progress Report 12/24/2018**_ \[click here](/files/akc_chf_1780_ey5_summary.pdf)
+**_Update: Progress Report 12/24/2018_** \[click here](/files/akc chf 1780 ey5 summary.pdf)
 
-_**Update:  Progress Report 01/13/2017**_ \[click
+**_Update:  Progress Report 01/13/2017_** \[click
 here](/files/AKCCHF 01780 EY4 Summary.pdf)
 
-_**Update:  Progress Report 2016**_ \[click
+**_Update:  Progress Report 2016_** \[click
 here](/files/AKCCHF 1780 MY4 Summary.pdf)
 
-_**Update:  Progress Report October 2014**_ \[click
+**_Update:  Progress Report October 2014_** \[click
 here](/files/AKCCHF grant 1780 MY2 Progress Report.pdf)
 
-_**Project Summary from the AKCCHF.org website:**_
+**_Project Summary from the AKCCHF.org website:_**
 
 "The brown dog tick (BDT) is common across the U.S. and is the most
 widely distributed tick in the world. BDT's carry and transmit the
