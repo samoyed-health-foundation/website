@@ -1,22 +1,23 @@
-+++
-title = "AKCCHF grant #01780 (open)"
-+++
-
+---
+title: 'AKCCHF grant #01780 (open)'
+---
 **Defining the Mechanism by Which Ticks Locate Dogs in Order to Better
 Prevent Disease Transmission.**
 
 **Emma Natalie Ivy Weeks, PhD, University of Florida**
 
-***Update:  Progress Report 01/13/2017*** [click
+_**Update: Progress Report 12/24/2018**_ \[click here](/files/akc_chf_1780_ey5_summary.pdf)
+
+_**Update:  Progress Report 01/13/2017**_ \[click
 here](/files/AKCCHF 01780 EY4 Summary.pdf)
 
-***Update:  Progress Report 2016 ***[click
+_**Update:  Progress Report 2016**_ \[click
 here](/files/AKCCHF 1780 MY4 Summary.pdf)
 
-***Update:  Progress Report October 2014*** [click
+_**Update:  Progress Report October 2014**_ \[click
 here](/files/AKCCHF grant 1780 MY2 Progress Report.pdf)
 
-***Project Summary from the AKCCHF.org website:***
+_**Project Summary from the AKCCHF.org website:**_
 
 "The brown dog tick (BDT) is common across the U.S. and is the most
 widely distributed tick in the world. BDT's carry and transmit the
