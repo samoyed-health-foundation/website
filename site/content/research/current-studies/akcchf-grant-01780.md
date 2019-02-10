@@ -6,14 +6,11 @@ Prevent Disease Transmission.**
 
 **Emma Natalie Ivy Weeks, PhD, University of Florida**
 
-_**Update:  Progress Report 01/13/2017**_ \[click
-here](/files/AKCCHF 01780 EY4 Summary.pdf)
+_**Update:  Progress Report 01/13/2017**_ [click here](/files/AKCCHF 01780 EY4 Summary.pdf)
 
-_**Update:  Progress Report 2016**_ \[click
-here](/files/AKCCHF 1780 MY4 Summary.pdf)
+_**Update:  Progress Report 2016**_ [click here](/files/AKCCHF 1780 MY4 Summary.pdf)
 
-_**Update:  Progress Report October 2014**_ \[click
-here](/files/AKCCHF grant 1780 MY2 Progress Report.pdf)
+_**Update:  Progress Report October 2014**_ [click here](/files/AKCCHF grant 1780 MY2 Progress Report.pdf)
 
 _**Project Summary from the AKCCHF.org website:**_
 
