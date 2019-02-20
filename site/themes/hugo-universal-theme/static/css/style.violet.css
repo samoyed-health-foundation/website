@@ -3635,3 +3635,9 @@ a.list-group-item.active > .badge,
   font-weight: bold;
   font-style: normal;
 }
+.algolia-autocomplete .aa-dropdown-menu .branding {
+  padding: 5px 4px;
+}
+.algolia-autocomplete .aa-dropdown-menu .branding img {
+  height: 15px;
+}
