@@ -6,7 +6,7 @@ Prevent Disease Transmission.**
 
 **Emma Natalie Ivy Weeks, PhD, University of Florida**
 
-**Update:  Progress Report 12/24/2018** [click here](files/Akcchf1780-ey5-summary.pdf)
+**Update:  Progress Report 12/24/2018** [click here](/files/Akcchf1780-ey5-summary.pdf)
 
 **Update:  Progress Report 01/13/2017** [click here](/files/AKCCHF 01780 EY4 Summary.pdf)
 
