@@ -32,6 +32,10 @@
                         </div>
                     </div>
 
+                    <div class="col-md-3">
+                      {{ partial "widgets/search.html" . }}
+                    </div>
+
                 </div>
                 <!-- /.row -->
 
@@ -48,6 +52,7 @@
     <!-- /#all -->
 
     {{ partial "scripts.html" . }}
+    {{ partial "algolia.html" . }}
 
   </body>
 </html>

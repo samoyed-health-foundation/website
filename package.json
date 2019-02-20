@@ -10,11 +10,13 @@
     "build-preview": "gulp build-preview",
     "start": "gulp server",
     "start-preview": "gulp server-preview",
-    "lint": "eslint src"
+    "lint": "eslint src",
+    "algolia": "atomic-algolia"
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "atomic-algolia": "^0.3.17",
     "babel-core": "^6.26.0",
     "babel-eslint": "^8.2.3",
     "babel-loader": "^7.1.4",
