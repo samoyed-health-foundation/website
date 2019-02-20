@@ -1,7 +1,6 @@
-+++
-title = "Hip Dysplasia (HD)"
-+++
-
+---
+title: Hip Dysplasia (HD)
+---
 Canine Hip Dysplasia (HD) is the abnormal development of the hip joint
 such that there is not a proper fit between the ball and socket.  The
 hip joint may be loose (laxity), the ball may be partially dislocated
@@ -12,33 +11,25 @@ to the cartilage, loss of joint lubrication and inflammation.  It gets
 worse with age and affected dogs eventually develop osteoarthritis
 (degenerative joint disease) which can be very painful.
 
+## Signs and Symptoms
 
-Signs and Symptoms
-------------------
+* Pain
+* Stiffness
+* Lameness
+* Not wanting to exercise or go up stairs
+* Audible click when walking
 
-- Pain
-- Stiffness
-- Lameness
-- Not wanting to exercise or go up stairs
-- Audible click when walking
-
-
-Causes
-------
+## Causes
 
 HD is polygenic and multifactorial. This means it is genetic and
 controlled by multiple genes, but also influenced by environmental
 factors such as weight and age.
 
-
-Risk Factors
-------------
+## Risk Factors
 
 Related dogs with hip dysplasia.
 
-
-Diagnostic Tests
-----------------
+## Diagnostic Tests
 
 If a dog presents with pain or lameness, a veterinarian may do a
 physical examination, looking for joint laxity or pain, but the
@@ -58,9 +49,7 @@ the dog can be evaluated. X-ray evaluations of young dogs do not always
 accurately predict whether or not a dog will develop CHD later in life.
 Although HD is genetic, a DNA test is not yet available.
 
-
-Treatment Guidelines
---------------------
+## Treatment Guidelines
 
 > **Note:** Treatment of animals should only be performed by a licensed
 > veterinarian. Veterinarians should consult the current literature and
@@ -81,15 +70,10 @@ veterinarian; do NOT give human painkillers). Glucosamine and
 chondroitin sulfate, nutritional supplements, also appear to help
 although this has yet to be proven in stringent scientific studies.
 
-
-
 [This link has good explanations of the surgical options.](http://www.veterinarypartner.com/Content.plx?P=A&S=0&C=0&A=1916)
 ![two bones rating](/img/2-bones.gif)
 
-
-
-Management
-----------
+## Management
 
 Management techniques include ensuring the affected dog is not
 overweight (to reduce stress on hips) and moderate exercise to maintain
@@ -102,13 +86,10 @@ the overall Samoyed gene pool too severely. The following OFA article
 discusses how to use available information, including a "vertical
 pedigree," to help make breeding decisions.
 
+_[OFA: Collecting and utilizing phenotypic data to minimize disease: A breeder's practical guide](http://www.ofa.org/pdf/hovanart.pdf)
+![three bones rating](/img/3-bones.gif)_
 
-
-*[OFA: Collecting and utilizing phenotypic data to minimize disease: A breeder's practical guide](http://www.ofa.org/pdf/hovanart.pdf)
-![three bones rating](/img/3-bones.gif)*
-
-References
-----------
+## References
 
 [Orthopedic Foundation for Animals](https://www.ofa.org/diseases/hip-dysplasia)
 ![three bones rating](/img/3-bones.gif)
@@ -116,21 +97,17 @@ References
 [PennHIP](https://info.antechimagingservices.com/pennhip/what-pennhip)
 ![three bones rating](/img/3-bones.gif)
 
-
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
 > ![3 bones](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-
-Support Groups
---------------
+## Support Groups
 
 [Yahoo Group discussing Canine Hip Dysplasia, its causes, treatment and recovery.](https://groups.yahoo.com/neo/groups/CanineHD/info)
 
-Suggested Links
----------------
+## Suggested Links
 
 [Mirage Samoyeds](http://www.mirage-samoyeds.com/hipofa.htm#links)
 ![two bones rating](/img/2-bones.gif)
@@ -142,9 +119,8 @@ Suggested Links
 ![two bones rating](/img/2-bones.gif)
 
 Research article in the Veterinary Journal for anyone interested in the genetic methods used to evaluate HD:
-[*The long (and winding) road to gene discovery for canine hip dysplasia.*  Zhu et al, Vet J. 2009:  181: 97-110](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2679856/?tool=pubmed)
+[_The long (and winding) road to gene discovery for canine hip dysplasia._  Zhu et al, Vet J. 2009:  181: 97-110](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2679856/?tool=pubmed)
 ![three bones rating](/img/3-bones.gif)
-
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
@@ -152,7 +128,16 @@ Research article in the Veterinary Journal for anyone interested in the genetic 
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-"Living with a Disorder" Journal Entries
-----------------------------------------
+## Current Research
 
-- [Living With Hip Dysplasia](/diseases/hip-dysplasia-hd-living-with)
+Oberbauer AM et al. 2017.  [Long-term genetic selection reduced prevalanece of hip and elbow dysplasia in 60 dog breeds](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5325577/).  PLoS One 12:e0172918.  ![three bones rating](/img/3-bones.gif)
+
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
+
+## "Living with a Disorder" Journal Entries
+
+* [Living With Hip Dysplasia](/diseases/hip-dysplasia-hd-living-with)
