@@ -1,6 +1,6 @@
-+++
-title = "Elbow Dysplasia"
-+++
+---
+title: Elbow Dysplasia
+---
 
 Elbow Dysplasia is the result of abnormal development of the elbow
 joint.  Improper fit leads to excessive wear and tear and inflammation.
@@ -182,3 +182,13 @@ rating](/img/2-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
+
+## Current Research
+
+Oberbauer AM et al. 2017.  [Long-term genetic selection reduced prevalanece of hip and elbow dysplasia in 60 dog breeds](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5325577/).  PLoS One 12:e0172918.  ![three bones rating](/img/3-bones.gif)
+
+> ![1 bone](/img/1-bone.gif)
+> ![2 bones](/img/2-bones.gif)
+> ![3 bones](/img/3-bones.gif)
+> ![4 bones](/img/4-bones.gif)
+> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
