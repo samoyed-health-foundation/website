@@ -127,11 +127,11 @@ You may participate in the
 
 #### AKC CANINE HEALTH FOUNDATION GRANTS
 
-* [AKCCHF Grant #01418 (open)](/research/current-studies/akcchf-grant-1418):
+* [AKCCHF Grant #01418 (closed)](/research/current-studies/akcchf-grant-1418):
   Providing Engineered T-cells (PET): New Genetic and Immunotherapy
   Targeting Canines with Spontaneous B-cell Lymphoma; Dr Heather M.
   Wilson, DVM, Texas A7M University ($2500)
-  [[publication](http://www.ncbi.nlm.nih.gov/pubmed/22355761)] [[publication](https://www.ncbi.nlm.nih.gov/pubmed/24936037)]
+  [[publication](http://www.ncbi.nlm.nih.gov/pubmed/22355761)] [[publication] (https://www.ncbi.nlm.nih.gov/pubmed/24936037)] [final report](/files/akc_chf_1418_final_summary.pdf)
 * [ AKCCHF Grant #01569 (closed)](/research/current-studies/akcchf-grant-1569)
   Evaluation of GS-9219 in Canine Lymphoma; Dr Douglas H Thamm, VMD;
   Colorado State University ($2500)
