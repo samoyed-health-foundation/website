@@ -6,11 +6,13 @@ title: 'AKCCHF Grant #01418 Abstract'
 Immunotherapy Targeting Canines with Spontaneous B-cell Lymphoma
 (Harnessing a Dog's Own Immune System to Kill Lymphoma Tumor Cells)**
 
-Grant Status: Open\
+Grant Status: Closed\
 Grant Amount: $150,000.  SCARF contributed $2500.\
 Dr. Heather M. Wilson, DVM, Texas A&M Research Foundation
 
 Disease(s): Lymphoma
+
+**Update:  Final Report December 2018** [click here](/files/akc_chf_1418_final_summary.pdf)
 
 **Abstract**
 
