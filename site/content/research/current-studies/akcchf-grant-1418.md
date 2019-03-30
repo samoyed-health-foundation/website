@@ -12,7 +12,7 @@ Dr. Heather M. Wilson, DVM, Texas A&M Research Foundation
 
 Disease(s): Lymphoma
 
-**Update:  Final Report 12/2018** [click here](/files/akc_chf_1418_final_summary.pdf)
+**Update:  Final Report December 2018** [click here](/files/akc_chf_1418_final_summary.pdf)
 
 **Abstract**
 
