@@ -13,8 +13,12 @@ import webpackConfig from "./webpack.conf";
 const browserSync = BrowserSync.create();
 
 // Hugo arguments
-const hugoArgsDefault = ["-d", "../dist", "-s", "site", "-v"];
-const hugoArgsPreview = ["--buildDrafts", "--buildFuture"];
+const hugoArgsDefault = process.env.URL
+  ? ["-d", "../dist", "-s", "site", "-v", "-b", process.env.URL]
+  : ["-d", "../dist", "-s", "site", "-v"];
+const hugoArgsPreview = process.env.DEPLOY_PRIME_URL
+  ? ["--buildDrafts", "--buildFuture", "-b", process.env.DEPLOY_PRIME_URL]
+  : ["--buildDrafts", "--buildFuture"];
 
 // Development tasks
 gulp.task("hugo", (cb) => buildSite(cb));
