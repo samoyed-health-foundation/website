@@ -1,7 +1,8 @@
-+++
-title = "Contact"
-id = "contact"
-+++
+---
+title: "Contact"
+id: "contact"
+aliases: [/contact-info]
+---
 
 # We would love to hear from you!
 
