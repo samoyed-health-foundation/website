@@ -23,7 +23,7 @@ Researchers can investigate whether environmental factors have any correlation t
 To participate you will need to set up an account, obtain a unique identification number for each Samoyed and complete the database form to the best of your ability for each Samoyed by September 19, 2019. Detailed information and instructions may be found here:
 
 <a href="/files/scarf-dna-collection-announcement-and-instructions-2019.pdf">
-  <img src="/files/scarf-dna-collection-announcement-and-instructions-2019.png" alt="Instructions" style="width: 100%; max-width: 728px; height: auto;">
+  <img src="/files/scarf-dna-collection-announcement-and-instructions-2019.png" alt="Instructions" style="height: 124px;">
 </a>
 
 
