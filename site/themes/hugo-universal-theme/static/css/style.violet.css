@@ -118,12 +118,12 @@ div.section {
   letter-spacing: 0.06em;
 }
 /* Style external links with font-awesome icon */
-div#content > div.container a[href^="http://"]:after {
+div#content > div.container a[href^="http://"]:not(.img-href):after {
   font-family: "FontAwesome";
   content: "\f08e";
   margin: 0 0 0 5px;
 }
-div#content > div.container a[href^="https://"]:after {
+div#content > div.container a[href^="https://"]:not(.img-href):after {
   font-family: "FontAwesome";
   content: "\f08e";
   margin: 0 0 0 5px;
