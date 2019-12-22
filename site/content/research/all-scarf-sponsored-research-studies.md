@@ -15,9 +15,9 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 
 #### MORRIS ANIMAL FOUNDATION GRANTS
 
-* MAF Grant D18CA-045 (open): Tackling the Canine Microbiome in Chronic Enteropathy:  Characterizing the Functionally Significant Changes that Occur with Remission of Disease.  Caroline S Mansfield BSC, BVMS, MVM, DECVIM University of Melbourne \[$10,000]
-* MAF Grant D19CA-064 (open): Synergizing Radiation-Induced Immunogenic Cell Death and Toll-like Receptor 9 Agonism to Generate Abscopal Effects in Canine Osteosarcoma.  Timothy M Fan DVM, PhD.  University of Illinois \[$10,000]
-* MAF Grant D20CA-312 (open):  Lymphotropic Nanoparticle Enhanced MRI for Diagnosis of Metastatic Disease in Canine Head and Neck Tumors.  Lynn Griffin DVM.  Colorado State University \[$10,000]
+* [MAF Grant D18CA-045 (open):](https://www.samoyedhealthfoundation.org/research/morris-grant-d18ca-045/) Tackling the Canine Microbiome in Chronic Enteropathy:  Characterizing the Functionally Significant Changes that Occur with Remission of Disease.  Caroline S Mansfield BSC, BVMS, MVM, DECVIM University of Melbourne \[$10,000]
+* [MAF Grant D19CA-064 (open):](https://www.samoyedhealthfoundation.org/research/morris-d19ca-064/) Synergizing Radiation-Induced Immunogenic Cell Death and Toll-like Receptor 9 Agonism to Generate Abscopal Effects in Canine Osteosarcoma.  Timothy M Fan DVM, PhD.  University of Illinois \[$10,000]
+* [MAF Grant D20CA-312 (open): ](https://www.samoyedhealthfoundation.org/research/morris-grant-d20ca-312/) Lymphotropic Nanoparticle Enhanced MRI for Diagnosis of Metastatic Disease in Canine Head and Neck Tumors.  Lynn Griffin DVM.  Colorado State University \[$10,000]
 
 # Funded Research Grants (2015)
 
@@ -58,8 +58,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 
 #### AKC CANINE HEALTH FOUNDATION GRANTS
 
-* [AKCCHF Grant #01418 (closed)](/research/current-studies/akcchf-grant-1418): Providing Engineered T-cells (PET): New Genetic and Immunotherapy Targeting Canines with Spontaneous B-cell Lymphoma; Dr Heather M. Wilson, DVM, Texas A7M University ($2500)
-  [[publication](http://www.ncbi.nlm.nih.gov/pubmed/22355761)] [[publication](https://www.ncbi.nlm.nih.gov/pubmed/24936037)] [final report](/files/akc_chf_1418_final_summary.pdf)
+* [AKCCHF Grant #01418 (closed)](/research/current-studies/akcchf-grant-1418): Providing Engineered T-cells (PET): New Genetic and Immunotherapy Targeting Canines with Spontaneous B-cell Lymphoma; Dr Heather M. Wilson, DVM, Texas A7M University ($2500) [[publication](http://www.ncbi.nlm.nih.gov/pubmed/22355761)] [[publication](https://www.ncbi.nlm.nih.gov/pubmed/24936037)] [final report](/files/akc_chf_1418_final_summary.pdf)
 * [ AKCCHF Grant #01569 (closed)](/research/current-studies/akcchf-grant-1569) Evaluation of GS-9219 in Canine Lymphoma; Dr Douglas H Thamm, VMD; Colorado State University ($2500) [[publication](http://clincancerres.aacrjournals.org/content/15/10/3503.long)]
 * [AKCCHF Grant #01584 (closed):](/research/current-studies/akcchf-grant-1584) Conformation of Cranial Cruciate Ligament Deficiency in Dogs; Dr. Dominique J. Griffon, DVM PhD; Western University of Health Sciences ( $2500) \[[Final Report](/files/AKCCHF grant 01584 MY4 FINAL Summary.pdf)]
 * [AKCCHF Grant #01609 (closed)](/research/current-studies/akcchf-grant-1609) Probiotic VSL#3 Reduces Enteritis in Dogs with Inflammatory Bowel Disease; Dr Albert E Jergens, DVM PhD; Iowa State University ($2500) \[[Study Update 1](/files/AKCCHF grant 01609 EY4 Summary.pdf)] \[[study update 2](/files/AKCCHF 01609 EY5 Summary.pdf)]
