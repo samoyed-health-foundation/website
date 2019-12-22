@@ -8,7 +8,7 @@ title: Osteosarcoma
 Osteosarcoma (OSA) is a malignant tumor of the bone (bone cancer).  It can develop in any bone, but occurs most often in the limbs, near the shoulder, wrist or knee.
 
 <details>
-<summary>\\*Click here to show/hide more detail\\*</summary>
+<summary>\\\\*Click here to show/hide more detail\\\\*</summary>
 Osteosarcoma (OSA) is the most common malignant bone tumor in dogs, but only accounts for 5% of canine tumors.  It can develop in any bone, but 75-85% of canine osteosarcomas occur in the limbs (appendicular osteosarcoma).   It is most common in large and giant breeds, developing at middle age or beyond, but it can occur at any age.
 
 Osteosarcoma is painful and frequently causes lameness.  It starts within the bone and destroys the bone from the inside out as it grows.  Swelling may also be seen as the tumor grows and replaces normal bone with tumorous bone.  The tumorous bone is weaker than healthy bone and can break easily (pathologic fracture) - this type of break will not heal.
@@ -40,9 +40,7 @@ Pelvis
 
 ## Causes
 
-The exact cause of osteosarcoma is unknown.  The tumors are often found near growth plates, so factors promoting rapid growth rate and bone turnover may be involved.   In animal studies, several viruses
-(polyomavirus, SV-40 virus and type C retroviruses), fluoride, and
-metabolites of the insecticide diflubenzuron, have been linked to
+The exact cause of osteosarcoma is unknown.  The tumors are often found near growth plates, so factors promoting rapid growth rate and bone turnover may be involved.   In animal studies, several viruses (polyomavirus, SV-40 virus and type C retroviruses), fluoride, and metabolites of the insecticide diflubenzuron, have been linked to
 osteosarcoma.
 
 ## Risk Factors
@@ -78,24 +76,19 @@ Other types of cancer and infection must be ruled out.
 
 ## Treatment Guidelines
 
-> **Note:** Treatment of animals should only be performed by a licensed veterinarian. Veterinarians should consult the current literature and current pharmacological formularies before initiating any treatment
-> protocol.
+> **Note:** Treatment of animals should only be performed by a licensed veterinarian. Veterinarians should consult the current literature and current pharmacological formularies before initiating any treatment protocol.
 
 Treatment plans for osteosarcoma may be either curative or palliative (relieve/lessen pain without curing).
 
-If the intent is to attempt a cure, the tumor must be removed either by amputation or, when possible, limb sparing procedures.  Surgery may be followed by chemotherapy to reduce metastases.  Because most tumors have
-already metastasized when diagnosed, cure is difficult.
+If the intent is to attempt a cure, the tumor must be removed either by amputation or, when possible, limb sparing procedures.  Surgery may be followed by chemotherapy to reduce metastases.  Because most tumors have already metastasized when diagnosed, cure is difficult.
 
 Palliative care typically includes radiation and pain medication.
 
-Artemisinin is an herb that has been shown to kill some cancer cells in the laboratory.  Anecdotal reports claim that it can stop the growth of osteosarcoma in dogs, but peer-reviewed scientific research has not yet
-been published.
+Artemisinin is an herb that has been shown to kill some cancer cells in the laboratory.  Anecdotal reports claim that it can stop the growth of osteosarcoma in dogs, but peer-reviewed scientific research has not yet been published.
 
 **Prognosis:**
 
-Prognosis depends on many factors including the dog's age (it is more aggressive in younger dogs), size of tumor, location of tumor, blood levels of alkaline phosphatase, and presence of metastases.  Survival
-times vary greatly.  Median survival times of 3-18 months have been
-reported, depending on the location.
+Prognosis depends on many factors including the dog's age (it is more aggressive in younger dogs), size of tumor, location of tumor, blood levels of alkaline phosphatase, and presence of metastases.  Survival times vary greatly.  Median survival times of 3-18 months have been reported, depending on the location.
 
 ## Management
 
@@ -140,8 +133,7 @@ rating](/img/1-bone.gif)
 [Canine Osteosarcoma: The Most Common Bone Disease](http://www.vetinfo.com/canine-osteosarcoma.html) at www.vetinfo.com    ![two bones
 rating](/img/2-bones.gif)
 
-[Kuntz C.  Appendix B: Canine Osteosarcoma.  In Musculoskeletal Cancer Surgery, Treatment of Sarcomas and Allied Diseases.  Ed. MM Malawer and PH Sugarbaker.  Kluwer Academic Publishers
-2001](http://www.sarcoma.org/publications/mcs/ch38.pdf). ![four bones
+[Kuntz C.  Appendix B: Canine Osteosarcoma.  In Musculoskeletal Cancer Surgery, Treatment of Sarcomas and Allied Diseases.  Ed. MM Malawer and PH Sugarbaker.  Kluwer Academic Publishers 2001](http://www.sarcoma.org/publications/mcs/ch38.pdf). ![four bones
 rating](/img/4-bones.gif)
 
 [Canine Osteosarcoma: Amputation and Life Quality](https://www.dogcancerblog.com/video/amputation-for-dogs-with-osteosarcoma-cancer/) at www.dogcancerblog.com    ![two bones
