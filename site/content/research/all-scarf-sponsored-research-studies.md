@@ -33,7 +33,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 
 * [MAF Grant D14CA-063 (closed):](/research/current-studies/morris-grant-d14ca-063) Understanding how Mammary Cancer Develops.  Dr. Gerlinde R. Van de Walle, Cornell University.  \[[final report](/files/D14CA-063 Final Report.pdf)]
 * [MAF Grant D15CA-047 (open):](/research/current-studies/morris-grant-d15ca-047)  Understanding Why and How Canine Osteosarcoma Tumors Spread.  Dr. Jaime F. Modiano, University of Minnesota \[[study update](/files/D15CA-047 Oct 2016 update.pdf)] [[publication](http://www.jbc.org/content/290/47/28070.full.pdf)]
-* [MAF Grant D15CA-307 (open):](/research/current-studies/morris-grant-d15ca-307) Evaluating a New Treatment for Dogs with Kidney Disease.  Dr. Amanda E. Coleman, University of Georgia \[[study update](/files/D15CA-307 Nov 2017 update.pdf)]
+* [MAF Grant D15CA-307 (closed):](/research/current-studies/morris-grant-d15ca-307) Evaluating a New Treatment for Dogs with Kidney Disease.  Dr. Amanda E. Coleman, University of Georgia \[[study update](/files/D15CA-307 Nov 2017 update.pdf)][[final report](https://www.samoyedhealthfoundation.org/files/d15ca307final.pdf)]
 * [MAF Grant D15CA-802 (closed):](/research/current-studies/d15ca-802) Understanding the Transmission Risk of Bacterial Infections between Therapy Dogs and Kids with Cancer.  Dr. Allen R. Chen, Johns Hopkins University \[[final report](/files/D15CA-802 FinalReport.pdf)]
 
 # Funded Research Grants (2013)
