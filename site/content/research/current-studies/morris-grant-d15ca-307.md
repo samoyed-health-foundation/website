@@ -1,22 +1,17 @@
-+++
-title = "Morris Grant D15CA-307 (open)"
-+++
+---
+title: Morris Grant D15CA-307 (closed)
+---
+**Scientific Title: Short- and Intermediate-term Efficacy of Telmisartan for the Treatment of Persistent Canine Renal Proteinuria**
 
-**Scientific Title: Short- and Intermediate-term Efficacy of Telmisartan
-for the Treatment of Persistent Canine Renal Proteinuria**
+**Dr. Amanda E. Coleman, University of Georgia**
 
-**Dr. Amanda E. Coleman, Uviversity of Georgia**
+[**Update November 2017**](/files/D15CA-307 Nov 2017 update.pdf)
 
-[**Update November
-2017**](/files/D15CA-307 Nov 2017 update.pdf)
+**\[[Update 2020 Final Report]](https://www.samoyedhealthfoundation.org/files/d15ca307final.pdf)**
 
-*Description:*  Researchers will investigate the efficacy of a new
-treatment for dogs with abnormally high urinary protein levels
-associated with kidney disease.
+*Description:*  Researchers will investigate the efficacy of a new treatment for dogs with abnormally high urinary protein levels associated with kidney disease.
 
-*Summary:*  Abnormally high protein levels in the urine, known as
-proteinuria, can be an early indicator and a serious complicating
-condition of kidney disease in dogs.  Currently, use of the
+*Summary:*  Abnormally high protein levels in the urine, known as proteinuria, can be an early indicator and a serious complicating condition of kidney disease in dogs.  Currently, use of the
 standard-of-care drug enalapril can help improve outcomes, but this
 intervention is only partially effective at reducing proteinuria. 
 Researchers will evaluate an alternative drug, telmisartan, and its
