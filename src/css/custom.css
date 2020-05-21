@@ -1,1 +1,58 @@
 /* TODO: fix auto-reload of custom.css in preview mode */
+
+@media (max-width: 767px) {
+  .navbar .yamm-content h3 {
+    font-size: 16px;
+  }
+}
+
+.input-group .btn {
+  font-size: 16px;
+}
+
+.btn-lg {
+  font-size: 16px;
+}
+
+@media (max-width: 991px) {
+  #intro .item .btn {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 991px) {
+  .home-carousel ul,
+  .home-carousel p {
+    font-size: 16px;
+  }
+}
+
+.testimonials .item .testimonial .name-picture h5 {
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.portfolio-project .project-more h4 {
+  font-size: 16px;
+}
+
+.product .text h3 {
+  font-size: 16px;
+}
+
+#footer h4 {
+  font-size: 16px;
+}
+
+body {
+  font-size: 16px;
+}
+
+.dropdown-menu {
+  font-size: 16px;
+}
+
+blockquote {
+  font-size: 16px;
+}
