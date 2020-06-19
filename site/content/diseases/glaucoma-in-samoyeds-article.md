@@ -17,8 +17,6 @@ Closed angle glaucoma occurs when the drainage angle (iridocorneal angle) is too
 
 Goniodysgenesis refers to the malformation of the trabecular mesh (pectinate ligaments) that hold the eye structures in place. This form of glaucoma will also be called closed angle as the iridocorneal angle is usually narrowed. The trabecular network that forms the suspensory ligaments is a solid sheet of tissue that separates into a spread finger-like configuration during fetal development. If this separation is not complete the openings may be smaller or sections may be closed. This reduces the drainage of fluid from the eye, rather as if the kitchen sink is malformed and has very small drain holes. The first illustration shows the components of the canine eye and the second the flow of fluid from the eye.
 
-
-
 Glaucoma from goniodysgenesis is not usually diagnosed in a young dog as there is another contributing factor. The dog’s lens continues to grow and thicken as the dog ages reducing the anterior chamber depth and causing the iris to deform and close off the drainage opening. There is also a narrowing of the opening between the lens and the iris. Fluid passing through narrow areas causes turbulence and this adds to the drainage problem. The most frequent age for diagnosis is between 5 and 8, although it can occasionally occur much younger or older.
 
 
