@@ -60,7 +60,7 @@ title: A to Z Diseases
 # G
 
 * [Gastric Dilatation-Volvulus (Bloat & Gastric Torsion)](/diseases/bloat) *
-* [Glaucoma](/diseases/glaucoma) *
+* [Glaucoma](/diseases/glaucoma) \*\*
 
 # H
 
