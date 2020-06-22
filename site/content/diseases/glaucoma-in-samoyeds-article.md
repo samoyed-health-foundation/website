@@ -3,7 +3,7 @@ title: Glaucoma in Samoyeds article
 ---
 Glaucoma in Samoyeds- What You Need to Know as An Owner and As a Breeder
 
-By Donna Cummings, MLS(ASCP)CM
+By Donna Cummings, MLS(ASCP)<sup>CM</sup>
 
 Most of us are aware that Samoyeds can develop glaucoma. However, since it affects a relatively low number of dogs in the breed, many people may not know much about it. Recognizing the symptoms of an acute attack, knowing it’s an emergency and what to do is critical if you are to save your dog’s eyesight. Additionally, understanding the anatomy of the eye enough to understand the cause of glaucoma is useful to both owners, who may have a dog that develops glaucoma, as well as to breeders as they work to prevent the genetic form of glaucoma. To understand glaucoma, its prognosis, and treatment you need to first know about the three different classifications; open angle; closed angle; and goniodysgenesis. You also need to know if it’s primary (genetic) or secondary (caused by another eye condition or trauma). In cases where the prevalence of a disease is small, data collection is more difficult and may seem less useful. Data collection on glaucoma is not usually separated by cause (primary or secondary), making it difficult to tell the true prevalence of this genetic issue in Samoyeds. Current information on the prevalence in Samoyeds ranges from 1 to 3 percent.
 
