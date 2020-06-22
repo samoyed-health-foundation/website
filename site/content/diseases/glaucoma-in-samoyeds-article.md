@@ -3,7 +3,7 @@ title: Glaucoma in Samoyeds article
 ---
 Glaucoma in Samoyeds- What You Need to Know as An Owner and As a Breeder
 
-By Donna Cummings, MLS(ASCP)CM
+By Donna Cummings, MLS(ASCP)<sup>CM</sup>
 
 Most of us are aware that Samoyeds can develop glaucoma. However, since it affects a relatively low number of dogs in the breed, many people may not know much about it. Recognizing the symptoms of an acute attack, knowing it’s an emergency and what to do is critical if you are to save your dog’s eyesight. Additionally, understanding the anatomy of the eye enough to understand the cause of glaucoma is useful to both owners, who may have a dog that develops glaucoma, as well as to breeders as they work to prevent the genetic form of glaucoma. To understand glaucoma, its prognosis, and treatment you need to first know about the three different classifications; open angle; closed angle; and goniodysgenesis. You also need to know if it’s primary (genetic) or secondary (caused by another eye condition or trauma). In cases where the prevalence of a disease is small, data collection is more difficult and may seem less useful. Data collection on glaucoma is not usually separated by cause (primary or secondary), making it difficult to tell the true prevalence of this genetic issue in Samoyeds. Current information on the prevalence in Samoyeds ranges from 1 to 3 percent.
 
@@ -17,7 +17,17 @@ Closed angle glaucoma occurs when the drainage angle (iridocorneal angle) is too
 
 Goniodysgenesis refers to the malformation of the trabecular mesh (pectinate ligaments) that hold the eye structures in place. This form of glaucoma will also be called closed angle as the iridocorneal angle is usually narrowed. The trabecular network that forms the suspensory ligaments is a solid sheet of tissue that separates into a spread finger-like configuration during fetal development. If this separation is not complete the openings may be smaller or sections may be closed. This reduces the drainage of fluid from the eye, rather as if the kitchen sink is malformed and has very small drain holes. The first illustration shows the components of the canine eye and the second the flow of fluid from the eye.
 
+![Glaucoma1](/files/glaucoma1.jpg "Glaucoma1")
+
+
+
+![Glaucoma2](/files/glaucoma2.jpg "Glaucoma2")
+
 Glaucoma from goniodysgenesis is not usually diagnosed in a young dog as there is another contributing factor. The dog’s lens continues to grow and thicken as the dog ages reducing the anterior chamber depth and causing the iris to deform and close off the drainage opening. There is also a narrowing of the opening between the lens and the iris. Fluid passing through narrow areas causes turbulence and this adds to the drainage problem. The most frequent age for diagnosis is between 5 and 8, although it can occasionally occur much younger or older.
+
+
+
+![Glaucoma3](/files/glaucoma3.jpg "Glaucoma3")
 
 When the internal ocular pressure (IOP) rises there is tremendous pain and the process will cause the development of toxic chemicals that will reach a level that begins to cause destruction of the retinal nerve within 4 hours. This development occurs most often at dusk and so it has been called the “5 o’clock emergency”. The dog will shy away from movement towards their eye, the third eyelid will be closing, and the eye will appear bloodshot. If you are unable to reach a veterinarian that can treat the dog immediately it is possible to give glycerin and withhold all water to change the osmotic pressure in the dog’s body which will reduce the pressure in the eye. If you have a dog that may be predisposed to glaucoma you can ask your vet or vet ophthalmologist what dosage would need to be given and keep glycerin on hand.
 
