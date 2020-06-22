@@ -19,9 +19,11 @@ Goniodysgenesis refers to the malformation of the trabecular mesh (pectinate lig
 
 ![glaucoma diagram}(/files/glaucoma1.jpg "glaucoma")
 
-
+![glaucoma diagram}(/files/glaucoma2.jpg "glaucoma")
 
 Glaucoma from goniodysgenesis is not usually diagnosed in a young dog as there is another contributing factor. The dog’s lens continues to grow and thicken as the dog ages reducing the anterior chamber depth and causing the iris to deform and close off the drainage opening. There is also a narrowing of the opening between the lens and the iris. Fluid passing through narrow areas causes turbulence and this adds to the drainage problem. The most frequent age for diagnosis is between 5 and 8, although it can occasionally occur much younger or older.
+
+![glaucoma diagram}(/files/glaucoma3.jpg "glaucoma")
 
 When the internal ocular pressure (IOP) rises there is tremendous pain and the process will cause the development of toxic chemicals that will reach a level that begins to cause destruction of the retinal nerve within 4 hours. This development occurs most often at dusk and so it has been called the “5 o’clock emergency”. The dog will shy away from movement towards their eye, the third eyelid will be closing, and the eye will appear bloodshot. If you are unable to reach a veterinarian that can treat the dog immediately it is possible to give glycerin and withhold all water to change the osmotic pressure in the dog’s body which will reduce the pressure in the eye. If you have a dog that may be predisposed to glaucoma you can ask your vet or vet ophthalmologist what dosage would need to be given and keep glycerin on hand.
 
