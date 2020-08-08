@@ -7,8 +7,8 @@ title: By System Or Class
 
 # Auto-Immune
 
-* [Immune-Mediated Thrombocytopenia](/diseases/immune-mediated-thrombocytopenia) *
-* [Immune-Mediated Hemolytic Anemia](/diseases/immune-mediated-hemolytic-anemia) *
+* [Immune-Mediated Thrombocytopenia](/diseases/immune-mediated-thrombocytopenia) \*\*
+* [Immune-Mediated Hemolytic Anemia](/diseases/immune-mediated-hemolytic-anemia) \*\*
 * [Autoimmune Hypothyroiditis (Autoimmune Thyroiditis)](/diseases/hypothyroidism-autoimmune-hypothyroiditis) \*\*
 
 # Blood and Lymphatic Diseases
