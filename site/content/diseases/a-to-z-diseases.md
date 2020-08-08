@@ -75,8 +75,8 @@ title: A to Z Diseases
 
 # I
 
-* [Immune-Mediated Hemolytic Anemia](/diseases/immune-mediated-hemolytic-anemia) *
-* [Immune-Mediated Thrombocytopenia](/diseases/immune-mediated-thrombocytopenia) *
+* [Immune-Mediated Hemolytic Anemia](/diseases/immune-mediated-hemolytic-anemia) \*\*
+* [Immune-Mediated Thrombocytopenia](/diseases/immune-mediated-thrombocytopenia) \*\*
 * [Inflammatory Bowel (IBD) & Protein Losing Enteropathy(PLE)](/diseases/inflammatory-bowel-ibd) \*\*
 * Irregular Heat Cycles
 * Irritable Bowel Syndrome (IBD, Colitis)
