@@ -1,8 +1,6 @@
 ---
 title: Immune-Mediated Hemolytic Anemia
 ---
-
-
 > **Note:** We do not currently have a health liaison for this disorder.
 > If you would like to volunteer, please contact
 > [president@samoyedhealthfoundation.org](mailto:president@samoyedhealthfoundation.org?subject=Questions%20about%20becoming%20a%20Health%20Information%20Liaison%20or%20Reviewer)
@@ -12,7 +10,7 @@ title: Immune-Mediated Hemolytic Anemia
 > or
 > [health information reviewer](/become-a-health-information-reviewer).
 
-*Thank you to Patti Emmett, MS, RN, CIC for preparing and updating this information.*
+*Thank you to Patti Emmett, MS, RN, CIC for preparing and updating this article for SCARF.*
 
 Immune-Mediated Hemolytic Anemia is a decreased numbers of red blood cells (RBCs) due to destruction by the
 immune system.
