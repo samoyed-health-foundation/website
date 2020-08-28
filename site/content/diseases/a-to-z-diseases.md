@@ -123,11 +123,11 @@ title: A to Z Diseases
 * Persistent Pupillary Membranes (PPM, Mesodermal Dysgenesis)
 * [Piebald or Extreme Piebald Gene - Deafness](/diseases/piebald-or-extreme-piebald-gene-2013-deafness) \*\*
 * [Portosystemic Shunt (Extrahepatic and Intrahepatic)](https://www.samoyedhealthfoundation.org/diseases/portosystemic-shunts-intrahepatic-and-extrahepatic-liver-shunts/)*
-* Post-Clipping Alopecia \*\*
+* Post-Clipping Alopecia 
 * Premature Closure of the Radius (Radial Dysgenesis)
 * [Primary Hypoadrenocorticism (Addison's Disease)](/diseases/addison-s-disease)
 * Progressive Retinal Atrophy (PRA)
-* Prostate or Testicular Cancer \*\*
+* Prostate or Testicular Cancer 
 * Prostatitis
 * [Pulmonic Stenosis](/diseases/pulmonic-stenosis) \*\*
 * Pyometra
@@ -135,7 +135,7 @@ title: A to Z Diseases
 # R
 
 * [Retinal Dysplasia (Folds)](/diseases/retinal-dysplasia-folds) \*\*
-* Retinal Dysplasia (Geographic Detachment) \*\*
+* Retinal Dysplasia (Geographic Detachment) 
 
 # S
 
@@ -149,7 +149,7 @@ title: A to Z Diseases
 
 # T
 
-* Transitional Cell Cancer (Bladder) \*\*
+* Transitional Cell Cancer (Bladder) 
 * [Tremors](/diseases/white-shaker-dog-syndrome) \*\*
 * [Tricuspid Valve Dysplasia](/diseases/tricuspid-valve-dysplasia) \*\*
 
