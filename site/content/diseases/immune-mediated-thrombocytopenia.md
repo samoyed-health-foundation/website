@@ -47,10 +47,10 @@ platelet destruction include:
 
 Inspection of gums and mouth, whites of the eyes, and abdomen may reveal
 petechiae or ecchymosis.  Blood platelet counts can determine if numbers
-of platelets are normal or too low, or appear abnormal.  Tests are not
-yet available to detect anti-platelet antibodies.  Veterinarian
+of platelets are normal or too low, or appear abnormal.  Veterinarian
 diagnosis on a case-by-case basis, using tests for other diseases
-combined with symptom assessment.
+combined with symptom assessment.  A test is not
+yet commercially available in the United States to detect anti-platelet antibodies in dogs. Tests are available for humans, and for dogs in the UK. 
 
 ## Treatment Guidelines
 
@@ -64,6 +64,8 @@ combined with symptom assessment.
 * Azathioprine if no response to above
 * Transfusion when a crisis occurs
 * Splenectomy
+
+  Plasma exchange has been cited as an emerging treatment.  Improvement of hemorrhages occurred in a small number of dogs in a research report.
 
 ## References
 
