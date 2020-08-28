@@ -20,7 +20,7 @@ title: By System Or Class
 # Cancer
 
 * [Mammary (Breast) Cancer](/diseases/mammary-cancer-1) \*\*
-* Transitional Cell Cancer (Bladder) *
+* Transitional Cell Cancer (Bladder) 
 * Prostate or Testicular Cancer
 * [Hemangiosarcoma](/diseases/hemangiosarcoma) *
 * [Lymphoma/lymphosarcoma](/diseases/lymphosarcoma-lymphoma) \*\*
@@ -136,7 +136,7 @@ title: By System Or Class
 * [Partial Albinism (Albinoid Syndrome)](/diseases/partial-albinism) \*\*
 * [Sebaceous Adenitis](/diseases/sebaceous-adenitis-sa) *
 * [Zinc-Responsive Dermatosis](/diseases/zinc-responsive-dermatosis)\*\*
-* Allergies *
+* Allergies 
 * Post-Clipping Alopecia *
 * Pemphigus Foliaceus
 
