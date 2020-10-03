@@ -1,5 +1,5 @@
 ---
-title: 'AKCCHF Grant #01658 (closed)'
+title: "AKCCHF Grant #01658 (closed)"
 ---
 ### Early Detection of Chronic Kidney Disease to Prevent Kidney Damage
 
@@ -11,4 +11,4 @@ Chronic Kidney Disease (CKD) is a significant source of illness and death in dog
 
 **Publication:**
 
-Hokamp, J. A., Cianciolo, R. E., Boggess, M., Lees, G. E., Benali, S. L., Kovarsky, M., & Nabity, M. B. (2016). [Correlation of Urine and Serum Biomarkers with Renal Damage and Survival in Dogs with Naturally Occurring Proteinuric Chronic Kidney Disease](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jvim.13832). Journal of Veterinary Internal Medicine/ 30:591-601.
+Hokamp, J. A., Cianciolo, R. E., Boggess, M., Lees, G. E., Benali, S. L., Kovarsky, M., & Nabity, M. B. (2016). [Correlation of Urine and Serum Biomarkers with Renal Damage and Survival in Dogs with Naturally Occurring Proteinuric Chronic Kidney Disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4913609/). Journal of Veterinary Internal Medicine/ 30:591-601.
