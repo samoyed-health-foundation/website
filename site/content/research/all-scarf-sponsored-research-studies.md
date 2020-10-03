@@ -11,6 +11,13 @@ You can read about how MAF approves grant proposals at <https://www.morrisanimal
 
 You may participate in the [Samoyed DNA bank/databases](/databases)
 
+# Funded Research Grants (2020)
+
+#### AKC CANINE HEALTH FOUNDATION GRANTS
+
+* AKCCHF Grant #02534 (open): Clinical Trial for Evaluation of Propranolol and Doxorubicin in the Treatment of Canine Hemangiosarcoma. Erin Dickerson PhD, Brian Husbands DVM, University of MN \[$5000]
+* AKCCHF Grant #02553 (open): Targeted next generation sequencing panel for comprehensive testing of vector-borne pathogens. Rebecca Wilkes, DVM. Purdue University \[$2500]
+
 # Funded Research Grants (2019)
 
 #### MORRIS ANIMAL FOUNDATION GRANTS
