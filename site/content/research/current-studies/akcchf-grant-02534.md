@@ -1,5 +1,5 @@
 ---
-title: "AKCCHF Grant # 02534 (open)"
+title: "AKCCHF Grant #02534 (open)"
 ---
 **Grant #02534**: Clinical Trial for Evaluation of Propranolol and Doxorubicin in the Treatment of Canine Hemangiosarcoma
 
