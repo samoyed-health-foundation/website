@@ -11,6 +11,13 @@ You can read about how MAF approves grant proposals at <https://www.morrisanimal
 
 You may participate in the [Samoyed DNA bank/databases](/databases)
 
+# Funded Research Grants (2020)
+
+#### AKC CANINE HEALTH FOUNDATION GRANTS
+
+* [AKCCHF Grant #02534 (open)](https://www.samoyedhealthfoundation.org/research/current-studies/akcchf-grant-02534/): Clinical Trial for Evaluation of Propranolol and Doxorubicin in the Treatment of Canine Hemangiosarcoma. Erin Dickerson PhD, Brian Husbands DVM, University of MN \[$5000]
+* [AKCCHF Grant #02553 (open)](https://www.samoyedhealthfoundation.org/research/current-studies/akcchf-grant-02553/): Targeted next generation sequencing panel for comprehensive testing of vector-borne pathogens. Rebecca Wilkes, DVM. Purdue University \[$2500]
+
 # Funded Research Grants (2019)
 
 #### MORRIS ANIMAL FOUNDATION GRANTS
@@ -23,7 +30,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 
 #### AKC CANINE HEALTH FOUNDATION OAK GRANTS
 
-* [AKCCHF Grant #01658 (closed):](/research/current-studies/akcchf-grant-01658) Early Detection of Chronic Kidney Disease to Prevent Kidney Damage. Mary B Nabity, DVM, PhD, Texas A&M AgriLife Research. \[$5000] [[publication](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jvim.13832)]
+* [AKCCHF Grant #01658 (closed):](/research/current-studies/akcchf-grant-01658) Early Detection of Chronic Kidney Disease to Prevent Kidney Damage. Mary B Nabity, DVM, PhD, Texas A&M AgriLife Research. \[$5000] [[publication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4913609/)]
 * [AKCCHF Grant #01699-A (open):](/research/current-studies/akcchf-grant-01699-a) Preventing Inaccurate Diagnosis of Brucellosis.  Christina M Larson, DVM, University of Minnesota. \[$5000]
 * [AKCCHF Grant #02118-A (closed):](/research/current-studies/akcchf-grant-02118-a) Targeting the Mechanism of Bacerial Adherence during Pyometra to Develop an Effective, Non-Invasive Treatment for Disease.  Cordula Bartel, PhD. University of Veterinary Medicine of Vienna.  \[$5,758.32] \[[final report](/files/AKCCHF 02118A FINAL Summary.pdf)]
 * [AKCCHF Grant #02128-A (closed):](/research/current-studies/akcchf-grant-02128-a) Redefining the Recommendations for Prevention of Infectious Disease at Dog Shows and Other Areas Where Dogs Meet and Compete.  Jason Stull, VMD, PhD, Ohio State University.  \[$5000] \[[Study Update 1](/files/AKCCHF grant 02128A MY2 Summary.pdf)] \[[final report](/files/AKCCHF 02128-A EY2 FINAL Summary.pdf)]
