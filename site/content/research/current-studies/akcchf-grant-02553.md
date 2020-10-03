@@ -1,5 +1,5 @@
 ---
-title: "AKCCHF Grant #02553"
+title: "AKCCHF Grant #02553 (open)"
 ---
 **Grant #02553:** Targeted Next Generation Sequencing Panel for Comprehensive Testing of Vector-Borne Pathogens.
 
