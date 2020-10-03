@@ -147,5 +147,5 @@ title: By System Or Class
 
 # Urinary System Diseases
 
-* Hereditary Nephritis
+* [Hereditary Nephritis](https://www.samoyedhealthfoundation.org/diseases/hereditary-nephritis/)
 * [Diabetes Insipidus](/diseases/diabetes-insipidus) *
