@@ -3,7 +3,7 @@ title: Genetic Disorders
 ---
 # **Genetic Testing Available for Disorders in Samoyeds**
 
-The following disorders are inherited in Samoyeds and genetic testing is available. Links to several laboratories that offer genetic testing are listed. Listing is for information only and is not a SCARF endorsement of their services. Not all laboratory results are eligible for submission to the OFA as part of[ CHIC certification](https://www.ofa.org/about/chic-program).  Laboratory websites include descriptions of the disorder and its inheritance. 
+The following disorders are inherited in Samoyeds and genetic testing is available. Links to several laboratories that offer genetic testing are listed. Listing is for information only and is not a SCARF endorsement of their services. Not all laboratory results are eligible for submission to OFA as part of[ CHIC certification](https://www.ofa.org/about/chic-program).  Laboratory websites include descriptions of the disorder and its inheritance. 
 
 ## **Degenerative Myelopathy**
 
