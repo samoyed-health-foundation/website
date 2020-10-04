@@ -1,11 +1,11 @@
 ---
 title: Genetic Disorders
 ---
-# **Genetic Testing Available for Disorders in Samoyeds**
+## **Genetic Testing Available for Disorders in Samoyeds**
 
 The following disorders are inherited in Samoyeds and genetic testing is available. Links to several laboratories that offer genetic testing are listed. Listing is for information only and is not a SCARF endorsement of their services. Not all laboratory results are eligible for submission to OFA as part of[ CHIC certification](https://www.ofa.org/about/chic-program).  Laboratory websites include descriptions of the disorder and its inheritance. 
 
-## **Degenerative Myelopathy**
+### **Degenerative Myelopathy**
 
 *Gene:* SOD1, point mutation
 
@@ -17,7 +17,7 @@ The following disorders are inherited in Samoyeds and genetic testing is availab
 
 [vetGen Veterinary Genetics Services](https://www.vetgen.com/canine-dm.html)
 
-## **Familial Enamel Hypoplasia**
+### **Familial Enamel Hypoplasia**
 
 *Gene:* SCL24A4
 
@@ -33,9 +33,7 @@ Letter to editor about previous article:
 
 Nicholas FW, Mellersh C, Lewis T. [Letter to the editor regarding an autosomal recessive mutation in SCL24A4 causing enamel hypoplasia in Samoyed and its relationship to breed-wide genetic diversity. ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5930769/)Canine Genet Epidemiol. 2018;5:4.
 
-[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5930769/)
-
-## **Hereditary Nephritis (Samoyed Hereditary Glomerulopathy)**
+### **Hereditary Nephritis (Samoyed Hereditary Glomerulopathy)**
 
 [Additional information](https://www.samoyedhealthfoundation.org/diseases/hereditary-nephritis/) 
 
@@ -49,9 +47,7 @@ Nicholas FW, Mellersh C, Lewis T. [Letter to the editor regarding an autosomal r
 
 [vetGen Veterinary Genetics Services](https://www.vetgen.com/canine-hereditary-nephritis.html)
 
-[](https://www.vetgen.com/canine-hereditary-nephritis.html)
-
-## **Progressive Retinal Atrophy, X-linked**
+### **Progressive Retinal Atrophy, X-linked**
 
 *Gene:* RPGR (deletion)
 
@@ -63,7 +59,7 @@ Nicholas FW, Mellersh C, Lewis T. [Letter to the editor regarding an autosomal r
 
 [Paw Print Genetics](https://www.pawprintgenetics.com/products/tests/details/214/?breed=26)
 
-## **Retinal Dysplasia/Oculoskeletal Dysplasia 1**
+### **Retinal Dysplasia/Oculoskeletal Dysplasia 1**
 
 [Additional information](https://www.samoyedhealthfoundation.org/diseases/retinal-dysplasia-folds/)
 
@@ -76,5 +72,3 @@ Nicholas FW, Mellersh C, Lewis T. [Letter to the editor regarding an autosomal r
 [Wisdom Health (formerly Optigen, LLC)](https://breeder.wisdompanel.com/product/13)
 
 Goldstein O, Guyon R, Kukekova A, et al. [COL9A2 and COL9A3 mutations in canine autosomal recessive oculoskeletal dysplasia.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2954766/) Mamm Genome. 2010;21(7-8):398-408
-
-<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2954766/>
