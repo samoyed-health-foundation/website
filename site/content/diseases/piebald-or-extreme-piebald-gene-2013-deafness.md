@@ -93,7 +93,7 @@ disintegrates about the same time as eyes open.  The BAER test can only
 be performed after this happens, once a puppy is 4-5 weeks old.
 
 The piebald gene in dogs has recently been located on dog chromosome 20
-and identified as "_Mitf_."  Researchers are looking for other genes
+and identified as "*Mitf*."  Researchers are looking for other genes
 associated with deafness in dogs carrying the extreme piebald gene.  At
 the time of writing, there is no genetic test for hereditary deafness
 in Samoyeds.
@@ -141,10 +141,6 @@ bones](/img/2-bones.gif)
 
 <https://www.ofa.org/diseases/other-diseases/congenital-deafness>
 ![3 bones](/img/3-bones.gif)
-
-<http://www.aht.org.uk/cms-display/sa_deafness.html>
---
-Explains a lot of the basics of deafness ![2 bones](/img/2-bones.gif)
 
 <http://www.lsu.edu/deafness/VetClinNA.htm>
 by George Strain-- Explains how extreme piebald gene may relate to
