@@ -99,13 +99,11 @@ not keep your dog outside in the sun.
 
 ## References
 
-<http://serendipstudio.org/exchange/serendipupdate/albinism> <!--StartFragment-->
-
-![one
+<http://serendipstudio.org/exchange/serendipupdate/albinism> ![one
 bone
 rating](https://www.samoyedhealthfoundation.org/img/1-bone.gif)
 
-<!--EndFragment-->
+
 
  **[The Genetics of the
 Dog](http://books.google.com/books?id=bgZwjdB4xgEC&pg=PA74&dq=cornaz+albino&sig=XOr0NRAblHF-TOUtUzpjrxrTDgI)**.
