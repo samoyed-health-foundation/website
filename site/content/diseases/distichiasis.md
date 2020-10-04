@@ -1,9 +1,12 @@
 ---
 title: Distichiasis
 ---
-**Liaison:** Hazel Fitzgibbon
 
-**Email:** <mailto:smiliesam@aol.com>
+
+> **Note:** We do not currently have a health liaison for this disorder. If you would like to volunteer, please contact[ president@samoyedhealthfoundation.org](mailto:president@samoyedhealthfoundation.org?subject=Questions%20about%20becoming%20a%20Health%20Information%20Liaison%20or%20Reviewer) and we will be happy to answer any of your questions.
+> For a description of the position, please click on[ disorder health information liaison](/become-a-health-information-liaison).
+>
+> Thank you to Hazel Fitzgibbon for providing this disorder information.
 
 ## Summary
 
@@ -80,13 +83,12 @@ infection.
 Canine Inherited Disorders Database overview on distichiasis
 ![3 bones](/img/3-bones.gif)
 
-_Small Animal Ophthalmic Surgery: Practical Techniques for the
-Veterinarian_ \[By Kirk N. Gelatt and Janice Peterson Gelatt, Published 2001. Elsevier Health Sciences pp 87-90.]
+*Small Animal Ophthalmic Surgery: Practical Techniques for the
+Veterinarian* \[By Kirk N. Gelatt and Janice Peterson Gelatt, Published 2001. Elsevier Health Sciences pp 87-90.]
 ![4 bones](/img/4-bones.gif)
 
-[Distichiasis](https://www.petcoach.co/article/distichiasis-eyelashes-irritating-the-eye-in-dogs/)
-by Race Foster, DVM and Marty Smith, DVM on the peteducation.com
-website
+[Distichiasis](https://www.petcoach.co/dog/condition/distichia/)
+on the petcoach.ca website
 ![2 bones](/img/2-bones.gif)
 
 Canine Ophthalmology: An Atlas and Text by Jane Sansom, Keith C.
@@ -113,7 +115,7 @@ US registry for eye disease in dogs
 ![3 bones](/img/3-bones.gif)
 
 The [British Veterinary
-Association](https://www.bva.co.uk/Canine-Health-Schemes/Eye-scheme/)
+Association](https://www.bva.co.uk/canine-health-schemes/eye-scheme/)
 (BVA)  is the overseer in the UK.  Please note Samoyeds are not
 routinely eye tested in the UK.
 ![3 bones](/img/3-bones.gif)
