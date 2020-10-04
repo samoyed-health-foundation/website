@@ -65,22 +65,16 @@ Nicholas FW, Mellersh C, Lewis T. [Letter to the editor regarding an autosomal r
 
 ## **Retinal Dysplasia/Oculoskeletal Dysplasia 1**
 
-(link to Retinal Dysplasia, Folds)
+[Additional information](https://www.samoyedhealthfoundation.org/diseases/retinal-dysplasia-folds/)
 
-(update title of disorder, and update link to DNA testing)
+*Gene:* COL9A2, deletion
 
-Gene:COL9A2, deletion
+*Mode of inheritance:* Autosomal recessive with a heterozygous effect
 
-Mode of inheritance: Autosomal recessive with a heterozygous effect
+[AnimaLabs](<http://www.animalabs.com/shop/dogs/retinal-dysplasia-oculoskeletal-dysplasia-samoyed/>)
 
-AnimaLabs
+[Wisdom Health (formerly Optigen, LLC)](<https://breeder.wisdompanel.com/product/13>)
 
-<http://www.animalabs.com/shop/dogs/retinal-dysplasia-oculoskeletal-dysplasia-samoyed/>
-
-Wisdom Health (formerly Optigen, LLC)
-
-<https://breeder.wisdompanel.com/product/13>
-
-Goldstein O, Guyon R, Kukekova A, et al. COL9A2 and COL9A3 mutations in canine autosomal recessive oculoskeletal dysplasia. Mamm Genome. 2010;21(7-8):398-408
+Goldstein O, Guyon R, Kukekova A, et al. [COL9A2 and COL9A3 mutations in canine autosomal recessive oculoskeletal dysplasia.](<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2954766/>) Mamm Genome. 2010;21(7-8):398-408
 
 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2954766/>
