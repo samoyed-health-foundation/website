@@ -1,9 +1,9 @@
 ---
 title: Genetic Disorders
 ---
-# **Genetic Testing Available for Disorders in Samoyeds** 
+# **Genetic Testing Available for Disorders in Samoyeds**
 
-The following disorders are inherited in Samoyeds and genetic testing is available. Links to several laboratories that offer genetic testing are listed. Listing is for information only and is not a SCARF endorsement of their services. Not all laboratory results are eligible for submission to the OFA as part of[ CHIC certification](<https://www.ofa.org/about/chic-program>).  Laboratory websites include descriptions of the disorder and its inheritance. 
+The following disorders are inherited in Samoyeds and genetic testing is available. Links to several laboratories that offer genetic testing are listed. Listing is for information only and is not a SCARF endorsement of their services. Not all laboratory results are eligible for submission to the OFA as part of[ CHIC certification](https://www.ofa.org/about/chic-program).  Laboratory websites include descriptions of the disorder and its inheritance. 
 
 ## **Degenerative Myelopathy**
 
@@ -11,11 +11,11 @@ The following disorders are inherited in Samoyeds and genetic testing is availab
 
 *Mode of inheritance:* Autosomal recessive with incomplete penetrance
 
-[Paw Print Genetics](<https://www.pawprintgenetics.com/products/tests/details/87/?breed=26>)
+[Paw Print Genetics](https://www.pawprintgenetics.com/products/tests/details/87/?breed=26)
 
-[UC Davis Veterinary Genetics Laboratory](<https://vgl.ucdavis.edu/test/degenerative-myelopathy>)
+[UC Davis Veterinary Genetics Laboratory](https://vgl.ucdavis.edu/test/degenerative-myelopathy)
 
-[vetGen Veterinary Genetics Services](<https://www.vetgen.com/canine-dm.html>)
+[vetGen Veterinary Genetics Services](https://www.vetgen.com/canine-dm.html)
 
 ## **Familial Enamel Hypoplasia**
 
@@ -23,65 +23,45 @@ The following disorders are inherited in Samoyeds and genetic testing is availab
 
 *Mode of inheritance:* Autosomal recessive
 
-UC Davis Veterinary Genetics Laboratory
-
-<https://vgl.ucdavis.edu/test/feh-samoyed>
+[UC Davis Veterinary Genetics Laboratory](<https://vgl.ucdavis.edu/test/feh-samoyed>)
 
 Articles describing the genetics:
 
-Pedersen NC, Shope B, Liu H. An autosomal recessive mutation in SCL24A4 causing enamel hypoplasia in Samoyed and its relationship to breed-wide genetic diversity. Canine Genet Epidemiol. 2017;4:11.
-
-<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5699110/>
+Pedersen NC, Shope B, Liu H. [An autosomal recessive mutation in SCL24A4 causing enamel hypoplasia in Samoyed and its relationship to breed-wide genetic diversity.](<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5699110/>) Canine Genet Epidemiol. 2017;4:11.
 
 Letter to editor about previous article:
 
-Nicholas FW, Mellersh C, Lewis T. Letter to the editor regarding an autosomal recessive mutation in SCL24A4 causing enamel hypoplasia in Samoyed and its relationship to breed-wide genetic diversity. Canine Genet Epidemiol. 2018;5:4.
+Nicholas FW, Mellersh C, Lewis T. [Letter to the editor regarding an autosomal recessive mutation in SCL24A4 causing enamel hypoplasia in Samoyed and its relationship to breed-wide genetic diversity. ](<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5930769/>)Canine Genet Epidemiol. 2018;5:4.
 
-<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5930769/>
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5930769/)
 
 ## **Hereditary Nephritis (Samoyed Hereditary Glomerulopathy)**
 
-(link to disorder)
+[Additional information](https://www.samoyedhealthfoundation.org/diseases/hereditary-nephritis/) 
 
-Gene:COL4A5 (point mutation)
+*Gene:* COL4A5 (point mutation)
 
-Mode of inheritance:X-linked Dominant
+*Mode of inheritance:* X-linked Dominant
 
-AnimaLabs
+[AnimaLabs](<http://www.animalabs.com/shop/dogs/samoyed-hereditary-nephritis-glomerulopathy/>)
 
-<http://www.animalabs.com/shop/dogs/samoyed-hereditary-nephritis-glomerulopathy/>
+[Paw Print Genetics](<https://www.pawprintgenetics.com/products/tests/details/76/?breed=26>)
 
-Paw Print Genetics
+[vetGen Veterinary Genetics Services](<https://www.vetgen.com/canine-hereditary-nephritis.html>)
 
-<https://www.pawprintgenetics.com/products/tests/details/76/?breed=26>
-
-vetGen Veterinary Genetics Services
-
-<https://www.vetgen.com/canine-hereditary-nephritis.html>
-
-(RJ - add some pubs to the disorder)
-
-<https://pubmed.ncbi.nlm.nih.gov/?term=samoyed+nephritis>
+[](https://www.vetgen.com/canine-hereditary-nephritis.html)
 
 ## **Progressive Retinal Atrophy, X-linked**
 
-(link to disorder)
+*Gene:* RPGR (deletion)
 
-Gene: RPGR (deletion)
+*Mode of inheritance:* X-linked recessive
 
-Mode of inheritance: X-linked recessive
+[AnimaLabs](<http://www.animalabs.com/shop/dogs/x-linked-progressive-retinal-atrophy-1-xlpra1gres/>)
 
-AnimaLabs
+[Center for Animal Genetics](<https://www.centerforanimalgenetics.com/services/dog-genetic-testing/hereditary-disease-testing-for-dogs/xlpra/>)
 
-<http://www.animalabs.com/shop/dogs/x-linked-progressive-retinal-atrophy-1-xlpra1gres/>
-
-Center for Animal Genetics
-
-<https://www.centerforanimalgenetics.com/services/dog-genetic-testing/hereditary-disease-testing-for-dogs/xlpra/>
-
-Paw Print Genetics
-
-<https://www.pawprintgenetics.com/products/tests/details/214/?breed=26>
+[Paw Print Genetics](<https://www.pawprintgenetics.com/products/tests/details/214/?breed=26>)
 
 ## **Retinal Dysplasia/Oculoskeletal Dysplasia 1**
 
