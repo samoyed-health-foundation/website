@@ -200,10 +200,10 @@ overview:
 
 This paper explains the difficulties of testing for thyroid problems:
 
-* (5) [M.M. Diaz Espineira, et al.  Assessment of Thyroid Function in Dogs
-  with Low Plasma Thyroxine Concentration.  Journal of Veterinary
+* (5) M.M. Diaz Espineira, et al.  [Assessment of Thyroid Function in Dogs
+  with Low Plasma Thyroxine Concentration. ](https://onlinelibrary.wiley.com/doi/10.1111/j.1939-1676.2007.tb02924.x) Journal of Veterinary
   Internal Medicine 2007 21:1
-  25](http://www3.interscience.wiley.com/journal/120715410/abstract?CRETRY=1&SRETRY=0)  ![2
+  25  ![2
   bones](/img/2-bones.gif)
 
 A bit technical, but this is the best and most useful paper on
@@ -219,11 +219,10 @@ article):
   [www.ivis.org](http://www.ivis.org/)  Document No.
   P2202.1205.)
 
-Detailed information from a company that does diagnostic testing:
+Information from a company that does diagnostic testing:
 
-* (7) [Assessing Thyroid
-  Function](http://www.antechdiagnostics.com/Main/ANTECHInsights/3.aspx)
-  from Antech Diagnostics ![2 bones](/img/2-bones.gif)
+* (7) Assessing Thyroid Function 
+  from Antech Diagnostics (link no longer available) ![2 bones](/img/2-bones.gif)
 
 Information from the OFA on how they interpret test results:
 
@@ -242,9 +241,8 @@ Information from the OFA on how they interpret test results:
   disease](http://www.ncbi.nlm.nih.gov/pubmed/11561650?ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_DefaultReportPanel.Pubmed_RVDocSum).
   J Am Vet Med Assoc. 2001 Sep 15;219(6):765-9. ![2
   bones](/img/2-bones.gif)
-* (12) [The Enigmatic Nature of Hypothyroidism Makes it Difficult to
-  Distinguish From Other
-  Diseases](http://www.stca.biz/index.php/health/health-library-scottiephile/321-endrocrine-disorders/426-dilemma-the-enigmatic-nature-of-hypothyroidism-makes-it-difficult-to-distinguish-from-other-diseases).
+* (12) The Enigmatic Nature of Hypothyroidism Makes it Difficult to
+  Distinguish From Other Diseases. (link no longer available)
   By Christine Wilford, DVM ![1 bone](/img/1-bone.gif)
 
 > ![1 bone](/img/1-bone.gif)
