@@ -23,15 +23,15 @@ The following disorders are inherited in Samoyeds and genetic testing is availab
 
 *Mode of inheritance:* Autosomal recessive
 
-[UC Davis Veterinary Genetics Laboratory](<https://vgl.ucdavis.edu/test/feh-samoyed>)
+[UC Davis Veterinary Genetics Laboratory](https://vgl.ucdavis.edu/test/feh-samoyed)
 
-Articles describing the genetics:
+Article describing the genetics:
 
-Pedersen NC, Shope B, Liu H. [An autosomal recessive mutation in SCL24A4 causing enamel hypoplasia in Samoyed and its relationship to breed-wide genetic diversity.](<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5699110/>) Canine Genet Epidemiol. 2017;4:11.
+Pedersen NC, Shope B, Liu H. [An autosomal recessive mutation in SCL24A4 causing enamel hypoplasia in Samoyed and its relationship to breed-wide genetic diversity.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5699110/) Canine Genet Epidemiol. 2017;4:11.
 
 Letter to editor about previous article:
 
-Nicholas FW, Mellersh C, Lewis T. [Letter to the editor regarding an autosomal recessive mutation in SCL24A4 causing enamel hypoplasia in Samoyed and its relationship to breed-wide genetic diversity. ](<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5930769/>)Canine Genet Epidemiol. 2018;5:4.
+Nicholas FW, Mellersh C, Lewis T. [Letter to the editor regarding an autosomal recessive mutation in SCL24A4 causing enamel hypoplasia in Samoyed and its relationship to breed-wide genetic diversity. ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5930769/)Canine Genet Epidemiol. 2018;5:4.
 
 [](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5930769/)
 
@@ -43,11 +43,11 @@ Nicholas FW, Mellersh C, Lewis T. [Letter to the editor regarding an autosomal r
 
 *Mode of inheritance:* X-linked Dominant
 
-[AnimaLabs](<http://www.animalabs.com/shop/dogs/samoyed-hereditary-nephritis-glomerulopathy/>)
+[AnimaLabs](http://www.animalabs.com/shop/dogs/samoyed-hereditary-nephritis-glomerulopathy/)
 
-[Paw Print Genetics](<https://www.pawprintgenetics.com/products/tests/details/76/?breed=26>)
+[Paw Print Genetics](https://www.pawprintgenetics.com/products/tests/details/76/?breed=26)
 
-[vetGen Veterinary Genetics Services](<https://www.vetgen.com/canine-hereditary-nephritis.html>)
+[vetGen Veterinary Genetics Services](https://www.vetgen.com/canine-hereditary-nephritis.html)
 
 [](https://www.vetgen.com/canine-hereditary-nephritis.html)
 
@@ -57,11 +57,11 @@ Nicholas FW, Mellersh C, Lewis T. [Letter to the editor regarding an autosomal r
 
 *Mode of inheritance:* X-linked recessive
 
-[AnimaLabs](<http://www.animalabs.com/shop/dogs/x-linked-progressive-retinal-atrophy-1-xlpra1gres/>)
+[AnimaLabs](http://www.animalabs.com/shop/dogs/x-linked-progressive-retinal-atrophy-1-xlpra1gres/)
 
-[Center for Animal Genetics](<https://www.centerforanimalgenetics.com/services/dog-genetic-testing/hereditary-disease-testing-for-dogs/xlpra/>)
+[Center for Animal Genetics](https://www.centerforanimalgenetics.com/services/dog-genetic-testing/hereditary-disease-testing-for-dogs/xlpra/)
 
-[Paw Print Genetics](<https://www.pawprintgenetics.com/products/tests/details/214/?breed=26>)
+[Paw Print Genetics](https://www.pawprintgenetics.com/products/tests/details/214/?breed=26)
 
 ## **Retinal Dysplasia/Oculoskeletal Dysplasia 1**
 
@@ -71,10 +71,10 @@ Nicholas FW, Mellersh C, Lewis T. [Letter to the editor regarding an autosomal r
 
 *Mode of inheritance:* Autosomal recessive with a heterozygous effect
 
-[AnimaLabs](<http://www.animalabs.com/shop/dogs/retinal-dysplasia-oculoskeletal-dysplasia-samoyed/>)
+[AnimaLabs](http://www.animalabs.com/shop/dogs/retinal-dysplasia-oculoskeletal-dysplasia-samoyed/)
 
-[Wisdom Health (formerly Optigen, LLC)](<https://breeder.wisdompanel.com/product/13>)
+[Wisdom Health (formerly Optigen, LLC)](https://breeder.wisdompanel.com/product/13)
 
-Goldstein O, Guyon R, Kukekova A, et al. [COL9A2 and COL9A3 mutations in canine autosomal recessive oculoskeletal dysplasia.](<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2954766/>) Mamm Genome. 2010;21(7-8):398-408
+Goldstein O, Guyon R, Kukekova A, et al. [COL9A2 and COL9A3 mutations in canine autosomal recessive oculoskeletal dysplasia.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2954766/) Mamm Genome. 2010;21(7-8):398-408
 
 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2954766/>
