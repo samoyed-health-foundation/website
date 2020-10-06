@@ -24,7 +24,7 @@ This section is not intended to diagnose or treat an illness, but rather as a ge
 
 [more](/diseases/by-system-or-class)...
 
-# List - Genetic Disorders
+# List - Genetic testing for disorders
 
 [more](https://www.samoyedhealthfoundation.org/diseases/genetic-disorders/)...
 
