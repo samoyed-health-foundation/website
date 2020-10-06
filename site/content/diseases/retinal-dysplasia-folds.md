@@ -1,5 +1,5 @@
 ---
-title: Retinal Dysplasia (Folds) and Oculoskeletal Dysplasia
+title: Retinal Dysplasia (Folds) and Oculoskeletal Dysplasia 2
 ---
 > **Note:** We do not currently have a health liaison for this disorder.
 > If you would like to volunteer, please contact
@@ -44,7 +44,7 @@ There are 3 types:
    ```
 
    leads to blindness and secondary problems such as glaucoma, has been
-   linked to skeletal defects in the Labrador Retriever and the Samoyed.
+   linked to skeletal defects in the Samoyed (Retinal Dysplasia/Oculoskeletal Dysplasia 2 - RSD/OSD2).
 
 ## Signs and Symptoms
 
@@ -63,9 +63,9 @@ American Cocker Spaniels, Australian Shepherds, Bedlington Terriers,
 Beagles, Dobermans, English Springer Spaniels, Labradors, Rottweilers,
 Old English Sheepdogs, Sealyham Terriers, and Yorkshire Terriers. In
 many breeds ophthalmologists and researchers have not determined exactly
-how retinal dysplasia is passed. In the Labrador retriever and Samoyed
-breeds, a combination of retinal dysplasia and skeletal defects
-(dwarfism) has been described.
+how retinal dysplasia is passed. In the Samoyed 
+a combination of retinal dysplasia and skeletal defects
+(dwarfism) has been described (Retinal Dysplasia/Oculoskeletal Dysplasia 2).
 
 ## Risk Factors
 
