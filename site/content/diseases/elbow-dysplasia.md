@@ -1,57 +1,47 @@
 ---
 title: Elbow Dysplasia
 ---
-
 Elbow Dysplasia is the result of abnormal development of the elbow
 joint.  Improper fit leads to excessive wear and tear and inflammation.
 It gets worse with age and affected dogs eventually develop degenerative
 joint disease (osteoarthritis) which can be very painful.
 
-
 <details>
-<summary>*Click here to show/hide more detail*</summary>
+<summary>\*Click here to show/hide more detail\*</summary>
 
 There are three different abnormalities that may occur singly or together in elbow dysplasia in one or both elbows:
 
-- Fragmentation of the medial coronoid process of the ulna
-- Osteochondritis (or osteochondrosis) of the medial humeral condyle
-- Ununited anconeal process
+* Fragmentation of the medial coronoid process of the ulna
+* Osteochondritis (or osteochondrosis) of the medial humeral condyle
+* Ununited anconeal process
 
 [Description of abnormalities](http://www.merckvetmanual.com/mvm/musculoskeletal_system/arthropathies_and_related_disorders_in_small_animals/elbow_dysplasia_in_small_animals.html) in the Merck Veterinary Manual
 ![4 bones](/img/4-bones.gif)
 
 </details>
 
-Signs and Symptoms
-------------------
+## Signs and Symptoms
 
--   Lameness
-
--   Abnormal gait with inward deviation of paw
-
--   Decreased range of motion of the elbow joint
-
--   Pain
+* Lameness
+* Abnormal gait with inward deviation of paw
+* Decreased range of motion of the elbow joint
+* Pain
 
 Signs can start in dogs as young as 4 months, but a dog can also have
 elbow dysplasia without showing any signs.
 
-Causes
-------
+## Causes
 
 Elbow dysplasia is polygenic and multifactorial.  This means it is
 genetic and controlled by multiple genes, but also influenced by
 environmental factors such as weight and age.
 
-Risk Factors
-------------
+## Risk Factors
 
--   Related dogs with elbow dysplasia
+* Related dogs with elbow dysplasia
+* Rapid growth of a large breed dog
 
--   Rapid growth of a large breed dog
-
-Diagnostic Tests
-----------------
+## Diagnostic Tests
 
 If a dog presents with pain or lameness a veterinarian may do a physical
 examination, looking for joint laxity or pain, but the definitive
@@ -72,8 +62,7 @@ x-rays, how they are evaluated, and at what age the dog can be
 evaluated.  Although elbow dysplasia is genetic, a DNA test is not yet
 available.
 
-Treatment Guidelines
---------------------
+## Treatment Guidelines
 
 > **Note:** Treatment of animals should only be performed by a licensed
 > veterinarian. Veterinarians should consult the current literature and
@@ -89,15 +78,12 @@ painkillers unless directed by a veterinarian).  Glucosamine and
 chondroitin sulfate, nutritional supplements, might help although this
 has yet to be proven in stringent scientific studies.
 
-Management
-----------
+## Management
 
 Dogs with elbow dysplasia should not be allowed to be overweight because
 the extra weight can increase the stress on the elbows.  Light exercise
 can maintain muscle tone but must be done carefully so as to not cause
 pain or further injury to the affected joints.
-
-
 
 Elbow dysplasia should also be managed in a breeding program.  Selecting
 dogs for breeding based on x-ray screening can reduce, but not eliminate
@@ -115,12 +101,7 @@ decisions.
 bones
 rating](/img/3-bones.gif)
 
-
-
-
-
-References
-----------
+## References
 
 [Elbow Dysplasia](https://www.ofa.org/diseases/elbow-dysplasia) at
 the Orthopedic Foundation for Animals  ![three bones
@@ -134,15 +115,13 @@ rating](/img/4-bones.gif)
 Elbow Dysplasia in Dogs  at vetsurgerycentral.com  ![two bones
 rating](/img/2-bones.gif)
 
-
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
 > ![3 bones](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-Support Groups
---------------
+## Support Groups
 
 [Yahoo Group for Canine Elbow
 Dysplasia](https://groups.yahoo.com/neo/groups/k9elbow/info)
@@ -150,8 +129,7 @@ Dysplasia](https://groups.yahoo.com/neo/groups/k9elbow/info)
 [Yahoo Group for dogs with various orthopedic
 issues](https://groups.yahoo.com/neo/groups/orthodogs/info)
 
-Suggested Links
----------------
+## Suggested Links
 
 [Summary of OFA elbow dysplasia
 registry](http://www.mirage-samoyeds.com/elbowofa.htm)
@@ -159,7 +137,7 @@ at www.mirage-samoyeds.com  ![two bones
 rating](/img/2-bones.gif)
 
 [British Veterinary
-Association](https://www.bva.co.uk/uploadedFiles/Content/Canine_Health_Schemes/Elbow_Scheme/CHS-elbow-dyspalsia-feb-2014.pdf)
+Association](https://www.bva.co.uk/canine-health-schemes/elbow-scheme/)
 ![three bones
 rating](/img/3-bones.gif)
 
@@ -173,15 +151,11 @@ lecture](/files/dr_bell_genetics_lecture.pdf)
 ![two bones
 rating](/img/2-bones.gif)
 
-
-
-
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
 > ![3 bones](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
-
 
 ## Current Research
 
