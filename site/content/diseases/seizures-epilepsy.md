@@ -1,12 +1,9 @@
-+++
-title = "Seizures/Epilepsy"
-+++
-
+---
+title: Seizures/Epilepsy
+---
 **Liaison:** Jan Young
 
-**Email:** <jannermd@yahoo.com>
-
-
+**Email:** [jannermd@yahoo.com](mailto:jannermd@yahoo.com)
 
 Epilepsy is a chronic condition characterized by recurrent seizures.
 Seizures are involuntary muscle activity caused by an abnormal
@@ -23,48 +20,39 @@ Seizures can manifest in many ways and can be very brief (seconds) or
 can last for many minutes or, in rare occasions, hours or until they are
 stopped by medical intervention.
 
+## Signs and Symptoms
 
+1. Generalized Seizures:
 
+* Generalized, tonic-clonic (grand mal) seizures are the most common
+  in dogs. These begin with the tonic phase, a contraction of all
+  skeletal muscles and loss of consciousness resulting in the dog
+  typically falling on his side with stiff legs and the head often
+  arched back. There may be involuntary vocalization or twitching,
+  drooling, and loss of bowel/bladder control. This phase is usually
+  brief and is then followed by a clonic phase characterized by
+  rhythmic movements including jaw and legs (paddling motions).
+* Less commonly generalized seizures can just be tonic or just clonic
+  and rarely tonic-clonic seizures may be mild enough that
+  consciousness is not lost.
+* Petit mal seizures are a brief generalized seizure often
+  characterized by simple staring for a brief period and then the dog
+  returns to normal.
 
-Signs and Symptoms
-------------------
-
-1.  Generalized Seizures:
-
-  -   Generalized, tonic-clonic (grand mal) seizures are the most common
-      in dogs. These begin with the tonic phase, a contraction of all
-      skeletal muscles and loss of consciousness resulting in the dog
-      typically falling on his side with stiff legs and the head often
-      arched back. There may be involuntary vocalization or twitching,
-      drooling, and loss of bowel/bladder control. This phase is usually
-      brief and is then followed by a clonic phase characterized by
-      rhythmic movements including jaw and legs (paddling motions).
-
-  -   Less commonly generalized seizures can just be tonic or just clonic
-      and rarely tonic-clonic seizures may be mild enough that
-      consciousness is not lost.
-
-  -   Petit mal seizures are a brief generalized seizure often
-      characterized by simple staring for a brief period and then the dog
-      returns to normal.
-
-2.  Partial (focal) seizures are less common. In this type of seizure
-the abnormal electrical activity does not spread to include the entire
-brain. A seizure may begin as a partial seizure and then spread to
-become generalized (tonic-clonic). Partial seizures are much more likely
-to be secondary, resulting from a specific cause. Partial seizures can
-be either simple (only affect the area of the brain that controls
-movement) and characterized by focal twitching or blinking, or complex
-(psychomotor seizures originating in the part of the brain that controls
-behavior) where consciousness is altered and there may be bizarre
-behavior such as unprovoked aggression or repetitive behavior.
-
-3.  Status epilepticus is a prolonged seizure or a series of seizures
-that occur continuously or repeatedly in a 24 hour period and is a
-medical emergency. Untreated, it can lead to brain damage and even
-death.
-
-
+2. Partial (focal) seizures are less common. In this type of seizure
+   the abnormal electrical activity does not spread to include the entire
+   brain. A seizure may begin as a partial seizure and then spread to
+   become generalized (tonic-clonic). Partial seizures are much more likely
+   to be secondary, resulting from a specific cause. Partial seizures can
+   be either simple (only affect the area of the brain that controls
+   movement) and characterized by focal twitching or blinking, or complex
+   (psychomotor seizures originating in the part of the brain that controls
+   behavior) where consciousness is altered and there may be bizarre
+   behavior such as unprovoked aggression or repetitive behavior.
+3. Status epilepticus is a prolonged seizure or a series of seizures
+   that occur continuously or repeatedly in a 24 hour period and is a
+   medical emergency. Untreated, it can lead to brain damage and even
+   death.
 
 Seizures are typically preceded by a period of abnormal behavior called
 the pre-ictal phase. The dog may show signs of anxiety and apprehension:
@@ -73,18 +61,14 @@ itself is the ictal stage. Most generalized seizures are followed by a
 post-ictal phase which can last from minutes to hours and is
 characterized by stupor, disorientation, and/or blindness.
 
-
-
-Causes
-------
+## Causes
 
 Idiopathic or primary epilepsy is believed to be an inherited condition.
 It is a fairly common disorder in canines but relatively rare in
 Samoyeds compared with some other breeds. Secondary epilepsy or seizures
 are due to specific brain lesions or other medical conditions.
 
-Risk Factors
-------------
+## Risk Factors
 
 First degree relatives with idiopathic epilepsy.
 
@@ -92,8 +76,7 @@ Secondary epilepsy or seizures are due to specific medical conditions
 such as brain trauma or tumor, ingestion of toxins, infection, and
 certain metabolic conditions.
 
-Diagnostic Tests
-----------------
+## Diagnostic Tests
 
 Perhaps the most important information your vet needs is an accurate
 description (or even a video) of the seizure or episode. This, together
@@ -108,8 +91,7 @@ electroencephalogram (EEG), or other laboratory tests.
 Idiopathic epilepsy is a diagnosis of exclusion. If all of the above
 studies are normal then a diagnosis of primary epilepsy is made.
 
-Treatment Guidelines
---------------------
+## Treatment Guidelines
 
 > **Note:** Treatment of animals should only be performed by a licensed
 > veterinarian. Veterinarians should consult the current literature and
@@ -127,8 +109,7 @@ regimen must be customized for each dog.  Other treatments may include
 surgery (for specific brain lesions), vagal nerve stimulation, and
 special diets.
 
-Management
-----------
+## Management
 
 Seizures lasting for more than 5-10 minutes (actual seizure, not
 including pre- and post-ictal stages), or three seizures within a 24
@@ -139,8 +120,7 @@ Because idiopathic epilepsy is believed to be inherited, affected dogs
 or dogs with primary relatives  with this type of epilepsy should not be
 bred.
 
-References
-----------
+## References
 
 [Understanding Your Pet's
 Epilepsy](http://www.canine-epilepsy.net/basics/basics_index.html),
@@ -152,69 +132,44 @@ Treatment](http://www.canine-epilepsy-guardian-angels.com/seizures_overview_caus
 at canine-epilepsy-guardian-angels.com ![two bones
 rating](/img/2-bones.gif)
 
-
-
-
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
 > ![3 bones](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-Support Groups
---------------
+## Support Groups
 
 [EPIL-K9 List](http://www.canine-epilepsy.com/)
 
-
-
-Suggested Links
----------------
+## Suggested Links
 
 [AKC Canine Health Foundation symposium on Canine Epilepsy
 1997](http://www.mirage-samoyeds.com/epilepsy.htm)
 ![two bones
 rating](/img/2-bones.gif)
 
-
-
 [Emergency Care for Canine
 Seizures](http://www.canine-epilepsy-guardian-angels.com/emergencycare.html)
 at canine-epilepsy-guardian-angels.com   ![two bones
 rating](/img/2-bones.gif)
 
-
-
 [Canine Epilepsy
-Resources ](http://www.canine-epilepsy.com/Resources.html)
-
-at canine-epilepsy-guardian-angels.com  ![one bone
+Resources ](http://www.canine-epilepsy.com/)  ![one bone
 rating](/img/1-bone.gif)
-
-
 
 [Seizures and Your
 Dog](http://dogs.about.com/od/caninediseases/p/seizures.htm)
 at about.com  ![two bones
 rating](/img/2-bones.gif)
 
-
-
 [Psychomotor
 Seizures](http://www.canine-epilepsy-guardian-angels.com/Psychomotor.htm)
 at canine-epilepsy-guardian-angels.com ![two bones
 rating](/img/2-bones.gif)
-
-
-
-
-
-
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
 > ![3 bones](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
-
-
