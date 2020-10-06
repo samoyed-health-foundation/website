@@ -1,12 +1,9 @@
-+++
-title = "Fading Puppy Syndrome"
-+++
-
+---
+title: Fading Puppy Syndrome
+---
 **Liaison:** Gail Spieker
 
-**Email:** <tahogail@gmail.com>
-
-
+**Email:** [tahogail@gmail.com](mailto:tahogail@gmail.com)
 
 Fading Puppy Syndrome is not a specific disease or diagnosis, but a
 description of signs that may be due to environmental factors, genetic
@@ -16,17 +13,14 @@ the first weeks of life.  Sometimes it affects entire litters.
 
 ![mom and pups](/img/mom_and_pups.jpg)
 
-
-Signs and Symptoms
-------------------
+## Signs and Symptoms
 
 Fading Puppy Syndrome usually occurs in neonates (newborns) from birth
 to 3 weeks.  Signs include not nursing, crying, and losing weight.  The
 puppy may be limp.  Feces may be soft and yellow green if fading is
 caused by the canine herpes virus.
 
-Causes
-------
+## Causes
 
 Although the signs in Fading Puppy Syndrome appear the same, there are
 many causes that could be involved.  It is essential to seek early
@@ -92,19 +86,13 @@ Finally, **intestinal parasites**, particularly roundworm and hookworms,
 which can cross through the placenta, may be a contributing factor in
 early puppy death.
 
+## Risk Factors
 
+* Dam's exposure to herpes virus prior to whelping
+* Delivery by caesarean section
+* Highly inbred litter
 
-Risk Factors
-------------
-
--   Dam's exposure to herpes virus prior to whelping
--   Delivery by caesarean section
--   Highly inbred litter
-
-
-
-Treatment Guidelines
---------------------
+## Treatment Guidelines
 
 > **Note:** Treatment of animals should only be performed by a licensed
 > veterinarian. Veterinarians should consult the current literature and
@@ -118,25 +106,18 @@ at 85 to 95 degrees Fahrenheit) and preventing dehydration with the use
 of an eye dropper to administer fluids such as Esbilac, water and liver
 juice.
 
+## References
 
+[Causes of fading puppy and kitten syndrome](https://www.dvm360.com/view/causes-fading-puppy-and-kitten-syndrome)
+by Joni L. Freshman, DVM, MS, DACVIM.  dvm360 October
+2005 ![2 bones](https://www.samoyedhealthfoundation.org/img/2-bones.gif)
 
-References
-----------
-
-[Fading puppy and kitten syndrome:  Do you know the signs?](http://files.dvm360.com/alfresco_images/DVM360/2013/11/18/48492ec0-72f6-4cf6-b5be-e8077aa0688a/article-197291.pdf)
-by Joni L. Freshman, DVM, MS, DACVIM.  Veterinary Medicine, November
-2005
-![3 bones](/img/3-bones.gif)
-
-[http://www.marvistavet.com/herpes-infection-canine.pml](http://www.marvistavet.com/herpes-infection-canine.pml)
+<http://www.marvistavet.com/herpes-infection-canine.pml>
 ![2 bones](/img/2-bones.gif)
 
 [http://www.heirlair.com/parvo.htm](https://web.archive.org/web/20060427034534/http://www.heirlair.com/parvo.htm)
 ![1 bone](/img/1-bone.gif) - Information on canine parvovirus 1 (currently available only through
 internet "wayback machine"
-
-
-
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
@@ -144,15 +125,11 @@ internet "wayback machine"
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-Support Groups
---------------
+## Support Groups
 
 <https://groups.yahoo.com/neo/groups/pregnancy_and_pups/info>
 
-
-
-Suggested Links
----------------
+## Suggested Links
 
 If you experience fading puppy syndrome with a litter please see the
 suggested links to be better prepared should it appear with the next
@@ -162,35 +139,27 @@ define preventive steps for future litters.
 <http://www.lowchensaustralia.com/breeding/fadingpups.htm>
 ![1 bone](/img/1-bone.gif)
 
-
-[http://searsvet.50megs.com/Herpes1.html](http://searsvet.50megs.com/Herpes1.html)
+<http://searsvet.50megs.com/Herpes1.html>
 ![1 bone](/img/1-bone.gif)
-
 
 <http://showdogsupersite.com/kenlclub/breedvet/fading.html>
 ![2 bones](/img/2-bones.gif)
 
-[https://www.petcoach.co/article/herpes-virus-infection-in-dogs-a-cause-of-puppy-death/](https://www.petcoach.co/article/herpes-virus-infection-in-dogs-a-cause-of-puppy-death/)
+<https://www.petcoach.co/dog/condition/herpesvirus/>
 ![2 bones](/img/2-bones.gif)
 
-
-[http://www.2ndchance.info/herpesvirusdog.htm](http://www.2ndchance.info/herpesvirusdog.htm)
+<http://www.2ndchance.info/herpesvirusdog.htm>
 ![1 bone](/img/1-bone.gif)
 
-
-[http://www.vetinfo4dogs.com/dherpes.html](http://www.vetinfo4dogs.com/dherpes.html)
+<http://www.vetinfo4dogs.com/dherpes.html>
 ![2 bones](/img/2-bones.gif)
 
 <http://www.provet.co.uk/health/diseases/parvovirus.htm>
 ![2 bones](/img/2-bones.gif) - information on parvovirus 1 and how it
 relates to fading puppies
 
-
-
-
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
 > ![3 bones](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
-
