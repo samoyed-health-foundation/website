@@ -57,8 +57,8 @@ title: By System Or Class
 * [Microphthalmia](/diseases/microphthalmia) \*\*
 * Optic Nerve Hypoplasia
 * Persistent Pupillary Membranes (PPM, Mesodermal Dysgenesis)
-* Progressive Retinal Atrophy (PRA)
-* [Retinal Dysplasia (Folds)](/diseases/retinal-dysplasia-folds) \*\*
+* Progressive Retinal Atrophy (PRA), including X-linked
+* [Retinal Dysplasia/ Oculoskeletal Dysplasia 2](/diseases/retinal-dysplasia-folds) \*\*
 * Retinal Dysplasia (Geographic Detachment)
 * [Uveodermatologic Syndrome (UDS, Vogt-Koyanagi-Harada Syndrome, VKH, VKH-like)](/diseases/uveodermatologic-syndrome-uds) *
 * Uveitis
@@ -147,5 +147,5 @@ title: By System Or Class
 
 # Urinary System Diseases
 
-* [Hereditary Nephritis](https://www.samoyedhealthfoundation.org/diseases/hereditary-nephritis/)
+* [Hereditary Nephritis, X-linked](https://www.samoyedhealthfoundation.org/diseases/hereditary-nephritis/)
 * [Diabetes Insipidus](/diseases/diabetes-insipidus) *
