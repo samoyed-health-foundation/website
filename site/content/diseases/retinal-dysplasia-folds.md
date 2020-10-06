@@ -1,5 +1,5 @@
 ---
-title: Retinal Dysplasia (Folds) and Oculoskeletal Dysplasia 2
+title: Retinal Dysplasia and Oculoskeletal Dysplasia 2
 ---
 > **Note:** We do not currently have a health liaison for this disorder.
 > If you would like to volunteer, please contact
