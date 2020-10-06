@@ -1,8 +1,6 @@
-+++
-title = "Hereditary Nephritis (Hereditary Samoyed Glomerulopathy or X-Linked Nephritis)"
-+++
-
-
+---
+title: Hereditary Nephritis (Hereditary Samoyed Glomerulopathy or X-Linked Nephritis)
+---
 Nephritis literally means inflammation of the nephron, the basic unit of
 the kidney. Hereditary nephritis means the condition is inherited rather
 than caused by environmental factors.  It  is characterized by
@@ -15,42 +13,33 @@ males because they have only one X chromosome, with death typically
 occurring by 15 months.   Since females have two X chromosomes (and only
 one is typically affected) their disease is less serious.
 
-
 <details>
-<summary>*Click here to show/hide more detail*</summary>
+<summary>\*Click here to show/hide more detail\*</summary>
 
 [Link includes diagrams of the kidney/glomerulus](http://unckidneycenter.org/kidneyhealthlibrary/glomerular-disease/glomerular-disease)
 
 Canine x-linked nephritis, or Hereditary Samoyed Glomerulopathy, was first described in a family of Canadian Samoyeds in 1977.  The specific mutation has been identified - a change in one DNA base pair in the COL4A5 gene results in a 90% reduction in the amount of type IV collagen made in the kidney.  Without enough of this protein, the glomerular basement membrane in the glomerulus of the kidney is abnormal.   This is the same gene that is abnormal in Alport's syndrome, a form of human hereditary nephritis.  Because of this, Canine Hereditary X-linked Nephritis has been used as a model to study potential treatments for Alport's syndrome.
+
 </details>
 
-Signs and Symptoms
-------------------
+## Signs and Symptoms
 
 These symptoms start very early in affected male puppies:
 
--   Excessive drinking and urination
-
--   Vomiting, poor appetite and weight loss
-
--   Lethargy, muscle weakness
-
--   Proteinuria (protein in the urine). If severe protein loss is
-    present there can be edema (swelling) of abdomen and paws.
-
--   Hematuria (blood in the urine)
-
--   Anemia from chronic renal failure
-
--   Decrease in kidney function (decreased glomerular filtration rate)
-
--   Progression to renal failure, with males dying by 15 months of age.
+* Excessive drinking and urination
+* Vomiting, poor appetite and weight loss
+* Lethargy, muscle weakness
+* Proteinuria (protein in the urine). If severe protein loss is
+  present there can be edema (swelling) of abdomen and paws.
+* Hematuria (blood in the urine)
+* Anemia from chronic renal failure
+* Decrease in kidney function (decreased glomerular filtration rate)
+* Progression to renal failure, with males dying by 15 months of age.
 
 Carrier females also lose weight and develop proteinuria, but the
 disease progresses much slower and renal failure occurs later in life.
 
-Causes
-------
+## Causes
 
 The cause in Samoyeds is  an X-linked inherited genetic defect. The
 disease is carried on the X-chromosome. Males have only one X chromosome
@@ -58,26 +47,23 @@ disease is carried on the X-chromosome. Males have only one X chromosome
 Because females have two X chromosomes (one from their mother, one from
 their father) the disease is not so serious.
 
-Risk Factors
-------------
+## Risk Factors
 
 History of hereditary nephritis in a family.
 
-Diagnostic Tests
-----------------
+## Diagnostic Tests
 
--   Urinalysis to check for protein and blood
--   CBC and serum biochemistry tests
--   Urine protein/creatinine ratio to determine severity of protein loss
-    in urine (24 hour collection of urine is required to perform this
-    test)
--   Blood pressure measurements
+* Urinalysis to check for protein and blood
+* CBC and serum biochemistry tests
+* Urine protein/creatinine ratio to determine severity of protein loss
+  in urine (24 hour collection of urine is required to perform this
+  test)
+* Blood pressure measurements
 
 There is a DNA (genetic) test for this disease that may be obtained from
 [vetGen](http://www.vetgen.com/canine-hereditary-nephritis.html).
 
-Treatment Guidelines
---------------------
+## Treatment Guidelines
 
 > **Note:** Treatment of animals should only be performed by a licensed
 > veterinarian. Veterinarians should consult the current literature and
@@ -91,8 +77,7 @@ with ACE inhibitors, a type of blood pressure medication, may improve
 the life span a few months, but is not curative. There is also some
 research evidence that dietary modification can slow the process.
 
-Management
-----------
+## Management
 
 This is a genetically transmitted disorder.  Males with this defect
 should not be bred.  Females from a line with this disorder should not
@@ -100,17 +85,10 @@ be bred unless their DNA has been tested and found to be clear of the
 mutation that causes the disorder.  Affected bitches and carriers should
 not be bred.
 
-
-
 [DNA test from
 vetGen](http://www.vetgen.com/canine-hereditary-nephritis.html)
 
-
-
-
-
-References
-----------
+## References
 
 [Glomerular
 Disease](http://www.merckvetmanual.com/mvm/urinary_system/noninfectious_diseases_of_the_urinary_system_in_small_animals/glomerular_disease_in_small_animals.html?qt=glomerular%20disease&alt=sh)
@@ -141,31 +119,21 @@ Page 542 in: Diseases of the kidney and urinary tract by RW Schrier.
 Lippincott Williams  & Wilkins, 2007.     ![four bones
 rating](/img/4-bones.gif)
 
-
-
-
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
 > ![3 bones](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-Support Groups
---------------
+## Support Groups
 
 Unable to find any canine nephritis support groups
 
-Suggested Links
----------------
+## Suggested Links
 
 [X-linked recessive
 inheritance](http://en.wikipedia.org/wiki/X-linked_recessive_inheritance)
 at Wikipedia  ![two bones
-rating](/img/2-bones.gif)
-
-[Hereditary X-linked
-nephritis](http://www.gopetsamerica.com/dog-health/x_linked_nephritis.aspx)
-at www.gopetsamerica.com  ![two bones
 rating](/img/2-bones.gif)
 
 [Hereditary
@@ -189,22 +157,13 @@ at Canine Inherited Disorders Database, University of Prince Edward
 Island    ![three bones
 rating](/img/3-bones.gif)
 
-[Kidney Disease in
-Dogs](http://vetprof.com/clientinfo/KidneyDiseaseInDogs/)
-at vetprof.com  ![one bone
-rating](/img/1-bone.gif)
-
 [Juvenile Renal
 Disease](http://www.faqs.org/faqs/dogs-faq/medical-info/JRD/)
 at faqs.org    ![two bones
 rating](/img/2-bones.gif)
-
-
-
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
 > ![3 bones](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
-
