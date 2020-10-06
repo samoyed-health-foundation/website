@@ -68,7 +68,7 @@ Inspection of gums and mouth, whites of the eyes, and abdomen may reveal petechi
    disorders" in UC Davis School of Vet Med book of dogs.  Siegal, M.
    Ed., p.331-333. Harper Collins, New York. ![three bones
    rating](/img/3-bones.gif)
-2. [http://www.merckvetmanual.com/mvm/circulatory_system/hemostatic_disorders/platelet_disorders.html ](http://www.merckvetmanual.com/mvm/circulatory_system/hemostatic_disorders/platelet_disorders.html)
+2.  <https://www.merckvetmanual.com/circulatory-system/hemostatic-disorders/platelet-disorders-in-animals>
    ![four bones
    rating](/img/4-bones.gif)
 3. Williams,D.A., Maggio-Price, L., 1984. Canine idiopathic
@@ -91,7 +91,7 @@ Inspection of gums and mouth, whites of the eyes, and abdomen may reveal petechi
    abstract](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=14529130&query_hl=5&itool=pubmed_docsum)
    ![four bones
    rating](/img/4-bones.gif)
-7. Shropshire S, Dow S, Lappin M, 2020.  [Detection and dynamics of anti-platelet antibodies in thrombocytopenic dogs with and without idiopathic immune thrombocytopenia.](https://onlinelibrary.wiley.com/doi/full/10.1111/jvim.15737)  J Vet Intern Med; 34(2): 700-709. ![three bones
+7. Shropshire S, Dow S, Lappin M, 2020.  [Detection and dynamics of anti-platelet antibodies in thrombocytopenic dogs with and without idiopathic immune thrombocytopenia. ](https://onlinelibrary.wiley.com/doi/full/10.1111/jvim.15737) J Vet Intern Med; 34(2): 700-709. ![three bones
    rating](https://www.samoyedhealthfoundation.org/img/3-bones.gif)
 8. Kopecny L et al,  2020.  [Application of Therapeutic Plasma Exchange in Dogs with Immune Mediated Thrombocytopenia.](https://onlinelibrary.wiley.com/doi/10.1111/jvim.15836)  J Vet Int Med; er(4):  1576-1581 ![three bones
    rating](https://www.samoyedhealthfoundation.org/img/3-bones.gif)
