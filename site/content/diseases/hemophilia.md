@@ -27,7 +27,7 @@ is unclear, and the disease has not been described in Samoyeds in the
 scientific literature.  It is a relatively rare disease in Samoyeds.
 
 <details>
-<summary>\*Click here to show/hide more detail\*</summary>
+<summary>\\*Click here to show/hide more detail\\*</summary>
 
 There are more than a dozen proteins involved in the clotting mechanism.
 Hemophilia A and B are only two of the bleeding disorders that may be
@@ -133,7 +133,7 @@ affected males should not be bred.
 ## References
 
 [Coagulation protein
-disorders in Animals](https://www.petcoach.co/dog/condition/herpesvirus/).
+disorders in Animals.](https://www.merckvetmanual.com/circulatory-system/hemostatic-disorders/coagulation-protein-disorders-in-animals)
 Merck Veterinary Manual.   ![four bones
 rating](/img/4-bones.gif)
 
