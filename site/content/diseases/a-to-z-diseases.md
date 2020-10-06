@@ -66,7 +66,7 @@ title: A to Z Diseases
 
 * [Hemangiosarcoma](/diseases/hemangiosarcoma) *
 * [Hemophilia](/diseases/hemophilia) *
-* [Hereditary Nephritis (Samoyed Hereditary Glomerulopathy)](/diseases/hereditary-nephritis) \*\*
+* [Hereditary Nephritis X-linked (Samoyed Hereditary Glomerulopathy)](/diseases/hereditary-nephritis) \*\*
 * [Hip Dysplasia](/diseases/hip-dysplasia-hd) \*\*
 * [Hyperadrenocorticism (Cushing's)](/diseases/cushing-s-disease) *
 * [Hypoadrenocorticism, Primary (Addison's Disease)](/diseases/addison-s-disease) \*\*
@@ -126,7 +126,7 @@ title: A to Z Diseases
 * Post-Clipping Alopecia 
 * Premature Closure of the Radius (Radial Dysgenesis)
 * [Primary Hypoadrenocorticism (Addison's Disease)](/diseases/addison-s-disease)
-* Progressive Retinal Atrophy (PRA)
+* Progressive Retinal Atrophy (PRA), including X-linked
 * Prostate or Testicular Cancer 
 * Prostatitis
 * [Pulmonic Stenosis](/diseases/pulmonic-stenosis) \*\*
@@ -134,7 +134,7 @@ title: A to Z Diseases
 
 # R
 
-* [Retinal Dysplasia (Folds)](/diseases/retinal-dysplasia-folds) \*\*
+* [Retinal Dysplasia/Oculoskeletal Dysplasia 2](https://www.samoyedhealthfoundation.org/diseases/retinal-dysplasia-folds/) \*\*
 * Retinal Dysplasia (Geographic Detachment) 
 
 # S
