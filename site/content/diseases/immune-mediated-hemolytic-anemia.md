@@ -78,7 +78,7 @@ This may be temporary and resolve, or persist.
    Ed., p.331-333. Harper Collins, New York. ![three bones
    rating](/img/3-bones.gif)
 2. [Hemolytic
-   Anemia](http://www.merckvetmanual.com/mvm/circulatory_system/anemia/hemolytic_anemia.html?qt=immune%20mediated%20anemia&alt=sh)
+   Anemia](https://www.merckvetmanual.com/circulatory-system/anemia/hemolytic-anemia-in-animals)
    in the Merck Veterinary Manual.  ![four bones
    rating](/img/4-bones.gif)
 3. <http://www.marvistavet.com/imha.pml>
