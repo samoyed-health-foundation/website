@@ -14,7 +14,7 @@ occurring by 15 months.   Since females have two X chromosomes (and only
 one is typically affected) their disease is less serious.
 
 <details>
-<summary>\*Click here to show/hide more detail\*</summary>
+<summary>\\*Click here to show/hide more detail\\*</summary>
 
 [Link includes diagrams of the kidney/glomerulus](http://unckidneycenter.org/kidneyhealthlibrary/glomerular-disease/glomerular-disease)
 
@@ -60,8 +60,8 @@ History of hereditary nephritis in a family.
   test)
 * Blood pressure measurements
 
-There is a DNA (genetic) test for this disease that may be obtained from
-[vetGen](http://www.vetgen.com/canine-hereditary-nephritis.html).
+There is a DNA (genetic) test for this inherited disease that may be obtained from
+[vetGen](http://www.vetgen.com/canine-hereditary-nephritis.html) or [other laboratories.](https://www.samoyedhealthfoundation.org/diseases/genetic-disorders/)
 
 ## Treatment Guidelines
 
