@@ -86,15 +86,15 @@ the overall Samoyed gene pool too severely. The following OFA article
 discusses how to use available information, including a "vertical
 pedigree," to help make breeding decisions.
 
-_[OFA: Collecting and utilizing phenotypic data to minimize disease: A breeder's practical guide](http://www.ofa.org/pdf/hovanart.pdf)
-![three bones rating](/img/3-bones.gif)_
+*[OFA: Collecting and utilizing phenotypic data to minimize disease: A breeder's practical guide](http://www.ofa.org/pdf/hovanart.pdf)
+![three bones rating](/img/3-bones.gif)*
 
 ## References
 
 [Orthopedic Foundation for Animals](https://www.ofa.org/diseases/hip-dysplasia)
 ![three bones rating](/img/3-bones.gif)
 
-[PennHIP](https://info.antechimagingservices.com/pennhip/what-pennhip)
+[PennHIP](https://antechimagingservices.com/antechweb/pennhip)
 ![three bones rating](/img/3-bones.gif)
 
 > ![1 bone](/img/1-bone.gif)
@@ -119,7 +119,7 @@ _[OFA: Collecting and utilizing phenotypic data to minimize disease: A breeder's
 ![two bones rating](/img/2-bones.gif)
 
 Research article in the Veterinary Journal for anyone interested in the genetic methods used to evaluate HD:
-[_The long (and winding) road to gene discovery for canine hip dysplasia._  Zhu et al, Vet J. 2009:  181: 97-110](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2679856/?tool=pubmed)
+[*The long (and winding) road to gene discovery for canine hip dysplasia.*  Zhu et al, Vet J. 2009:  181: 97-110](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2679856/?tool=pubmed)
 ![three bones rating](/img/3-bones.gif)
 
 > ![1 bone](/img/1-bone.gif)
