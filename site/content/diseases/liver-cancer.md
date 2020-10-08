@@ -7,7 +7,7 @@ Tumors in the liver (also known as hepatic neoplasia) may be malignant
 elsewhere in the body (secondary - more common in dogs).
 
 <details>
-<summary>\*Click here to show/hide more detail\*</summary>
+<summary>\\*Click here to show/hide more detail\\*</summary>
 
 Tumors are classified based on the embryonic origin of the cancerous cells they contain, determined by microscopic analysis of the tumor biopsy. The prefix "-hepato" (liver) may be added to give the formal name of the cancer, e.g., hepatocarcinoma.
 
@@ -136,8 +136,6 @@ overview.](https://www.dvm360.com/view/primary-hepatic-and-biliary-tract-tumors-
 Veterinary Medicine (dvm360) 2006.  ![two bones
 rating](https://www.samoyedhealthfoundation.org/img/2-bones.gif)
 
-
-
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
 > ![3 bones](/img/3-bones.gif)
@@ -151,10 +149,6 @@ These support groups are for all types of canine cancer:
 <https://groups.yahoo.com/neo/groups/caninecancer/info>
 
 <http://www.natural-dog-health-remedies.com/dog-cancer-forum.html>
-
-This is a blog dedicated to Canine Liver Disease:
-
-[http://canineliverdiseasefoundation.org](http://canineliverdiseasefoundation.org/?cat=14)
 
 ## Suggested Links
 
@@ -171,17 +165,11 @@ www.vetinfo.com,](http://www.vetinfo.com/canine-liver-cancer.html)
 (see also related links at the bottom vetinfo webpage) ![two bones
 rating](/img/2-bones.gif)
 
-Wypij J, Fan TM, Lorimier, L-P.  [Definitively diagnosing hepatobiliary
-tumors in dogs and
-cats.](http://veterinarymedicine.dvm360.com/primary-hepatic-and-biliary-tract-tumors-dogs-and-cats-overview?id=&sk=&date=&pageID=7)
-Veterinary Medicine  2006.
-![three bones
-rating](/img/3-bones.gif)
-
-[Canine Liver and
-Anatomy](http://canineliverdiseasefoundation.org/?cat=3)
-from the canineliverfoundation.org  ![one bone
-rating](/img/1-bone.gif)
+Wypij J, Fan TM, Lorimier, L-P. [Primary hepatic and biliary tract
+tumors in dogs and cats: An
+overview.](https://www.dvm360.com/view/primary-hepatic-and-biliary-tract-tumors-dogs-and-cats-overview)
+Veterinary Medicine (dvm360) 2006.  ![two bones
+rating](https://www.samoyedhealthfoundation.org/img/2-bones.gif)
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
