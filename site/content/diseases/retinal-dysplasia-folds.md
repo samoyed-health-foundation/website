@@ -84,7 +84,7 @@ recommended 6 months later in order for the ophthalmologist to better
 see the back of the eye is recommended.
 
 7/25/2008 - Wisdom Health (formerly Optigen) has a DNA test available for the gene mutation
-that causes inherited Retinal Dysplasia/OculoSkeletal Dysplasia (RSD/OSD2,
+that causes inherited Retinal Dysplasia/OculoSkeletal Dysplasia (RD/OSD2,
 ie.,dwarfism) in the Samoyed.  For [more
 information](https://www.samoyedhealthfoundation.org/optigen-dna-test-for-retinal-dysplasia-dwarfism-in-the-samoyed/):
 
