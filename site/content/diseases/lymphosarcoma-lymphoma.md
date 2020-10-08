@@ -158,7 +158,9 @@ rating](/img/1-bone.gif)
 ![three bones
 rating](/img/3-bones.gif)
 
-<http://wearethecure.org/learn-more-about-canince-cancer/canine-cancer-library/lymphoma/>
+
+
+<https://wearethecure.org/learn-more-about-canine-cancer/canine-cancer-library/lymphoma/>
 ![two bones
 rating](/img/2-bones.gif)
 
