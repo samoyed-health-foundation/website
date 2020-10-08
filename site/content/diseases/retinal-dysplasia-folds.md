@@ -24,27 +24,12 @@ caused by a prenatal infection (e.g. herpes virus or parvovirus)".
 
 There are 3 types:
 
-1. ```
-     Focal or multifocal retinal dysplasia: folds or small rosettes,
-   ```
-
-   single or multiple, may become less evident with maturity  (vision
-   impairment is unknown, but blinds spots can occur)
-2. ```
-      Geographic retinal dysplasia: irregularly shaped areas of the
-   ```
-
-   retinal tissue that appear similar to a horseshoe in shape.  These
-   lesions can change in appearance with age.  These lesions can co-exist
+1.   Focal or multifocal retinal dysplasia: folds or small rosettes, single or multiple, may become less evident with maturity  (vision impairment is unknown, but blinds spots can occur)
+2.    Geographic retinal dysplasia: irregularly shaped areas of the retinal tissue that appear similar to a horseshoe in shape.  These lesions can change in appearance with age.  These lesions can co-exist
    with folds or rosettes.  As the folds may disappear later when the
    retinas mature, this type of dysplasia will persist.  (some degree of
    visual impairment and possibly blindness)
-3. ```
-      Complete retinal dysplasia with detachment: most severe, often
-   ```
-
-   leads to blindness and secondary problems such as glaucoma, has been
-   linked to skeletal defects in the labrador (Retinal Dysplasia/Oculoskeletal Dysplasia 1 - RD/OSD1) and Samoyed (Retinal Dysplasia/Oculoskeletal Dysplasia 2 - RD/OSD2).
+3.    Complete retinal dysplasia with detachment: most severe, often leads to blindness and secondary problems such as glaucoma, has been linked to skeletal defects in the labrador (Retinal Dysplasia/Oculoskeletal Dysplasia 1 - RD/OSD1) and Samoyed (Retinal Dysplasia/Oculoskeletal Dysplasia 2 - RD/OSD2).
 
 ## Signs and Symptoms
 
