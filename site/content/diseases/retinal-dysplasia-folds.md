@@ -44,7 +44,7 @@ There are 3 types:
    ```
 
    leads to blindness and secondary problems such as glaucoma, has been
-   linked to skeletal defects in the Samoyed (Retinal Dysplasia/Oculoskeletal Dysplasia 2 - RSD/OSD2).
+   linked to skeletal defects in the labrador (Retinal Dysplasia/Oculoskeletal Dysplasia 1 - RD/OSD1) and Samoyed (Retinal Dysplasia/Oculoskeletal Dysplasia 2 - RD/OSD2).
 
 ## Signs and Symptoms
 
@@ -63,9 +63,9 @@ American Cocker Spaniels, Australian Shepherds, Bedlington Terriers,
 Beagles, Dobermans, English Springer Spaniels, Labradors, Rottweilers,
 Old English Sheepdogs, Sealyham Terriers, and Yorkshire Terriers. In
 many breeds ophthalmologists and researchers have not determined exactly
-how retinal dysplasia is passed. In the Samoyed 
+how retinal dysplasia is passed. In the Labrador and samoyed 
 a combination of retinal dysplasia and skeletal defects
-(dwarfism) has been described (Retinal Dysplasia/Oculoskeletal Dysplasia 2).
+(dwarfism) has been described (RD/OSD1 - Labrador; RD/OSD2 - Samoyed).
 
 ## Risk Factors
 
@@ -85,8 +85,8 @@ see the back of the eye is recommended.
 
 7/25/2008 - Wisdom Health (formerly Optigen) has a DNA test available for the gene mutation
 that causes inherited Retinal Dysplasia/OculoSkeletal Dysplasia (RSD/OSD2,
-ie.,dwarfism) in the Samoyed.  For more
-information:
+ie.,dwarfism) in the Samoyed.  For [more
+information](https://www.samoyedhealthfoundation.org/optigen-dna-test-for-retinal-dysplasia-dwarfism-in-the-samoyed/):
 
 [Genetic Testing Available for Disorders in Samoyeds](https://www.samoyedhealthfoundation.org/diseases/genetic-disorders/)
 
