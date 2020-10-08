@@ -61,7 +61,7 @@ Nicholas FW, Mellersh C, Lewis T. [Letter to the editor regarding an autosomal r
 
 [Paw Print Genetics](https://www.pawprintgenetics.com/products/tests/details/214/?breed=26)
 
-### **Retinal Dysplasia/Oculoskeletal Dysplasia 2 (RS/OSD2)**
+### **Retinal Dysplasia/Oculoskeletal Dysplasia 2 (RD/OSD2)**
 
 [Additional information](https://www.samoyedhealthfoundation.org/diseases/retinal-dysplasia-folds/)
 
