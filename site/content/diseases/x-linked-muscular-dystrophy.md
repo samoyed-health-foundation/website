@@ -3,7 +3,7 @@ title: Muscular Dystrophy (X-Linked)
 ---
 **Liaison:** Jan Young
 
-**Email:** <mailto:jannermd@yahoo.com>
+**Email:** [jannermd@yahoo.com](mailto:jannermd@yahoo.com)
 
 Muscular dystrophy is an inherited type of muscle disease (myopathy)
 that is progressive and nonregenerative (permanent loss of muscle tissue
@@ -100,7 +100,7 @@ Edition. Ed Kahn, Cynthia M. Pub Merck and Co, Inc. pp 950, 1128.
 rating](/img/4-bones.gif)
 
 [Canine X-linked Muscular
-Dystrophy](http://www.gopetsamerica.com/dog-health/canine_x_linked_muscular_dystrophy.aspx)
+Dystrophy](https://www.gopetsamerica.com/dog-health/canine_x_linked_muscular_dystrophy.html)
 at www.gopetsamerica.com    ![two bones
 rating](/img/2-bones.gif)
 
