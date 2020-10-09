@@ -1,6 +1,6 @@
-+++
-title = "Pancreatic Cancer"
-+++
+---
+title: Pancreatic Cancer
+---
 
 **Liaison:** Jan Young
 
@@ -162,16 +162,16 @@ Veterinary Society of Surgical Oncology.  ![three bones
 rating](/img/3-bones.gif)
 
   [Pancreatic
-Adenocarcinoma](http://www.vsso.org/index.php/9-education-1/education/369-pancreatic-adc)
+Adenocarcinoma](http://www.vsso.org/pancreatic-adc)
 
   [Pancreatic
-Gastrinoma](http://www.vsso.org/index.php/9-education-1/education/371-pancreatic-gastrinoma)
+Gastrinoma](http://www.vsso.org/pancreatic-gastrinoma)
 
   [Pancreatic
-Glucagonoma](http://www.vsso.org/index.php/9-education-1/education/370-pancreatic-glucagonoma)
+Glucagonoma](http://www.vsso.org/pancreatic-glucagonoma)
 
   [Pancreatic
-Insulinoma](http://www.vsso.org/index.php/9-education-1/education/373-pancreatic-insulinoma)
+Insulinoma](http://www.vsso.org/pancreatic-insulinoma)
 
 
 
