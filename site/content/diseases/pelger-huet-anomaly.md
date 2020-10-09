@@ -1,7 +1,7 @@
 ---
 title: Pelger-Huet Anomaly
 ---
-****
+- - -
 
 > **Note:** We do not currently have a health liaison for this disorder. If you would like to volunteer, please contact[ president@samoyedhealthfoundation.org](mailto:president@samoyedhealthfoundation.org?subject=Questions%20about%20becoming%20a%20Health%20Information%20Liaison%20or%20Reviewer) and we will be happy to answer any of your questions.
 > For a description of the position, please click on[ disorder health information liaison](/become-a-health-information-liaison).
@@ -22,12 +22,12 @@ although in this breed the penetrance of the trait appears incomplete
 (dog may have defective gene without exhibiting the disorder).  It been
 reported in humans, rabbits, mice and domestic short-haired cats.
 
-\[By itself, PHA is no problem. It does not make the affected animal any
+[By itself, PHA is no problem. It does not make the affected animal any
 more prone to infection.  In other species it can be associated with
 additional problems. When homozygous in humans (two copies of defective
 gene) it is associated with skeletal abnormalities. In one family of
 Samoyeds, white cell changes similar to PHA were reported along with
-dwarfism and ocular problems.  ]
+dwarfism and ocular problems.)
 
 ## Signs and Symptoms
 
@@ -98,17 +98,14 @@ on the advisability of using the stock in future breedings.
    abnormalities in a samoyed
    family](http://www.ncbi.nlm.nih.gov/sites/entrez?cmd=Retrieve&db=PubMed&list_uids=8840254&dopt=Citation).
    J Small Anim Pract. 1996 Jul;37(7):333-9.
-2. <http://library.med.utah.edu/WebPath/HEMEHTML/HEME014.html>
+2. <https://webpath.med.utah.edu/HEMEHTML/HEME014.html>
    -- picture of anomaly in a stained blood smear  ![3
    bones](/img/3-bones.gif)
-3. <https://vet.uga.edu/images/uploads/pathology/sevpac/46-Holicky.pdf>  --
-   photographs of stained blood smears (scroll down the page for Pseudo
-   Pelger Hüet Anomaly   ![3 bones](/img/3-bones.gif)
-4. <http://www.ashgi.org/home-page/genetics-info/heart-and-blood/pelger-huet-anomaly> --
+3. <http://www.ashgi.org/home-page/genetics-info/heart-and-blood/pelger-huet-anomaly> --
    Aussie Genetics Fact Sheet: Pelger-Huet Anomaly (PHA) by C.A. Sharp
    from the Australian Shepherd Health & Genetics Institute  ![2
    bones](/img/2-bones.gif)
-5. Vikramjit S Kanwar, Andrew L Sherman.    [Pelger-Huet
+4. Vikramjit S Kanwar, Andrew L Sherman.    [Pelger-Huet
    Anomaly](http://www.emedicine.com/ped/topic1753.htm).
    eMedicine from webMD, September 2007 -- Excellent up-to-date paper
    on PHA in human beings  ![3 bones](/img/3-bones.gif)
