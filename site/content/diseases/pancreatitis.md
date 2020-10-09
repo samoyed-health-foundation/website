@@ -1,12 +1,9 @@
-+++
-title = "Pancreatitis"
-+++
-
+---
+title: Pancreatitis
+---
 **Liaison:** Jan Young
 
-**Email:** <jannermd@yahoo.com>
-
-
+**Email:** [jannermd@yahoo.com](mailto:jannermd@yahoo.com)
 
 The pancreas has two primary functions: an endocrine function
 (production of insulin for the regulation of blood sugar) and a
@@ -14,11 +11,7 @@ digestive function (secretion of digestive enzymes, primarily for the
 digestion and absorption of fats). Pancreatitis refers to an
 inflammation of the pancreas. This can be acute or chronic.
 
-
-
-
-Signs and Symptoms
-------------------
+## Signs and Symptoms
 
 The primary symptoms are loss of appetite, vomiting, diarrhea, fever and
 abdominal pain. These lead to a hunched posture of the dog to help
@@ -33,33 +26,30 @@ sites of  bleeding in the body. The inflamed pancreas, in very severe
 cases, may leak digestive enzymes and result in injury to near-by organs
 through partial digestion of them.
 
-Causes
-------
+## Causes
 
 In most cases the cause is not known (idiopathic)
 
-Risk Factors
-------------
+## Risk Factors
 
 There are a number of possible contributing factors to pancreatitis:
 
--   Certain medications (potassium bromide, some cancer medications,
-    sulfa-containing antibiotics)
--   Infection
--   Certain metabolic disorders: hyperlipidemia (high amount of fat in
-    the blood), hypercalcemia (high amount of calcium in the blood),
-    hypothyroidism, and hyperadrenocorticism.
--   Pancreatic tumor
--   Trauma, including abdominal surgery
--   Obesity and overweight
--   High fat diet
--   Middle age
--   Genetics: Certain breeds (Schnauzers, Yorkshire Terriers). One study
-    found that sled dogs ( Laikis and Malamutes but not Samoyeds were
-    listed specifically) were more prone. (2)
+* Certain medications (potassium bromide, some cancer medications,
+  sulfa-containing antibiotics)
+* Infection
+* Certain metabolic disorders: hyperlipidemia (high amount of fat in
+  the blood), hypercalcemia (high amount of calcium in the blood),
+  hypothyroidism, and hyperadrenocorticism.
+* Pancreatic tumor
+* Trauma, including abdominal surgery
+* Obesity and overweight
+* High fat diet
+* Middle age
+* Genetics: Certain breeds (Schnauzers, Yorkshire Terriers). One study
+  found that sled dogs ( Laikis and Malamutes but not Samoyeds were
+  listed specifically) were more prone. (2)
 
-Diagnostic Tests
-----------------
+## Diagnostic Tests
 
 Diagnosis is suspected because of the clinical findings. Specific tests
 for pancreatic enzymes (amylase and lipase) show elevated levels. Liver
@@ -68,8 +58,7 @@ useful. A recent grant study sponsored by SCARF found that a new test,
 pancreatic lipase immunoreactivity (SPEC cPL) may be useful (4, 5) and
 this is becoming the gold standard test.
 
-Treatment Guidelines
---------------------
+## Treatment Guidelines
 
 > **Note:** Treatment of animals should only be performed by a licensed
 > veterinarian. Veterinarians should consult the current literature and
@@ -101,7 +90,7 @@ more rapid recovery. Pain relievers are used as appropriate.
 
 The  Royal Veterinary College in London has completed a study on the
 [Nutritional Management of Acute Pancreatitis in Dogs and
-Cats](http://onlinelibrary.wiley.com/enhanced/doi/10.1111/vec.12180/). ![three
+Cats. ](https://pubmed.ncbi.nlm.nih.gov/24690138/)![three
 bones
 rating](/img/3-bones.gif)
 
@@ -113,46 +102,42 @@ eating. Treatment for pancreatic insufficiency is life long and
 expensive. Digestive enzymes can be replaced through a product processed
 from the pancreas of hogs and cattle.
 
-References
-----------
+## References
 
-- (1) [Canine
-Pancreatitis](http://www.veterinarypartner.com/Content.plx?P=A&A=2214)
-by Wendy C. Brooks, DVM, DipABVP, at www.veterinarypartner.com ![two
-bones
-rating](/img/2-bones.gif)
-- (2) Papa K et al 2011.  [Occurence, clinical features and outcome of
-canine pancreatitis (80
-cases).](http://www.ncbi.nlm.nih.gov/pubmed/21354940)
-Acta Vet Hung 59(1) 37-52. ![three bones
-rating](/img/3-bones.gif)
-- (3) Mansfield et al 2011.  [A Pilot Study to Assess Tolerability of Early
-Enteral Nutrition via Esophagostomy Tube Feeding in Dogs with Severe
-Acute
-Pancreatitis.](http://www.ncbi.nlm.nih.gov/pubmed/21418318)
-J Vet Int Med 25(3) 419-425 ![three bones
-rating](/img/3-bones.gif)
+* (1) [Canine
+  Pancreatitis](http://www.veterinarypartner.com/Content.plx?P=A&A=2214)
+  by Wendy C. Brooks, DVM, DipABVP, at www.veterinarypartner.com ![two
+  bones
+  rating](/img/2-bones.gif)
+* (2) Papa K et al 2011.  [Occurence, clinical features and outcome of
+  canine pancreatitis (80
+  cases).](http://www.ncbi.nlm.nih.gov/pubmed/21354940)
+  Acta Vet Hung 59(1) 37-52. ![three bones
+  rating](/img/3-bones.gif)
+* (3) Mansfield et al 2011.  [A Pilot Study to Assess Tolerability of Early
+  Enteral Nutrition via Esophagostomy Tube Feeding in Dogs with Severe
+  Acute
+  Pancreatitis.](http://www.ncbi.nlm.nih.gov/pubmed/21418318)
+  J Vet Int Med 25(3) 419-425 ![three bones
+  rating](/img/3-bones.gif)
 
 **SCARF-sponsored research:**
 
-- (4) Report to Grant Sponsor (SCARF) from
-Investigator: [Specificity and Sensitivity of the Pancreatic
-Lipase Immunoreactivity (SPEC cPL) Test for the Diagnosis of canine
-Pancreatitis](/research/current-studies/akcchf-grant-1227-a):
-![two bones
-rating](/img/2-bones.gif)
+* (4) Report to Grant Sponsor (SCARF) from
+  Investigator: [Specificity and Sensitivity of the Pancreatic
+  Lipase Immunoreactivity (SPEC cPL) Test for the Diagnosis of canine
+  Pancreatitis](/research/current-studies/akcchf-grant-1227-a):
+  ![two bones
+  rating](/img/2-bones.gif)
 
 **Published Paper:**
 
-- (5) Trivedi S, Marks SL et al 2011.  [Sensitivity and
-Specificity of Canine Pancreas-Specific Lipase (cPL) and Other Markers
-for Pancreatitis in 70 Dogs with and without Histopathologic Evidence of
-Pancreatitis.](http://onlinelibrary.wiley.com/doi/10.1111/j.1939-1676.2011.00793.x/abstract)
-J Vet Int Med 25(6): 1241-1247.  ![three bones
-rating](/img/3-bones.gif)
-
-
-
+* (5) Trivedi S, Marks SL et al 2011.  [Sensitivity and
+  Specificity of Canine Pancreas-Specific Lipase (cPL) and Other Markers
+  for Pancreatitis in 70 Dogs with and without Histopathologic Evidence of
+  Pancreatitis.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1939-1676.2011.00793.x)
+  J Vet Int Med 25(6): 1241-1247.  ![three bones
+  rating](/img/3-bones.gif)
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
@@ -160,12 +145,11 @@ rating](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-Suggested Links
----------------
+## Suggested Links
 
-[Pancreatitis (Inflammation) in
+[Pancreatitis in
 Dogs](https://www.petcoach.co/article/pancreatitis-inflammation-in-dogs/)
-at www.peteducation.com  ![two bones
+at www.petcoach.co  ![two bones
 rating](/img/2-bones.gif)
 
 [Pancreatitis in Dogs:  Symptoms and
@@ -184,12 +168,8 @@ Pancreatitis](http://shelleycetin.hubpages.com/hub/Canine-Pancreatitis)
 at HubPages ![one bone
 rating](/img/1-bone.gif)
 
-
-
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
 > ![3 bones](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
-
-
