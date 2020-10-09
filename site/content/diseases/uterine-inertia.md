@@ -116,7 +116,7 @@ other bitch.
 
 ## References
 
-1. S. Romagnoli, F. F. de Souza, A. Rota, I. Vannozzi (2004) [Prolonged interval between parturition of normal live pups in a bitch.](http://onlinelibrary.wiley.com/doi/10.1111/j.1748-5827.2004.tb00231.x/abstract)
+1. S. Romagnoli, F. F. de Souza, A. Rota, I. Vannozzi (2004) [Prolonged interval between parturition of normal live pups in a bitch.](https://onlinelibrary.wiley.com/doi/10.1111/j.1748-5827.2004.tb00231.x)
    Journal of Small Animal Practice 45 (5), 249--253. ![3 bones](/img/3-bones.gif)
 2. [Dystocia in small
    animals](http://www.merckvetmanual.com/mvm/reproductive_system/reproductive_diseases_of_the_female_small_animal/dystocia_in_small_animals.html).
