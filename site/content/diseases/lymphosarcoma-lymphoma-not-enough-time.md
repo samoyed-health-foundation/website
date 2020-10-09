@@ -1,13 +1,11 @@
-+++
-title = "Not enough time"
-+++
-
+---
+title: Not enough time
+---
 **Disclaimer:**
 
-*Information presented in the "Living With..." sections of the SCARF website represent the personal viewpoint of the individual who made the journal entry and do not represent the opinions, positions, or viewpoints of SCARF or the veterinary community. [see complete disclaimer at bottom of page]*
+*Information presented in the "Living With..." sections of the SCARF website represent the personal viewpoint of the individual who made the journal entry and do not represent the opinions, positions, or viewpoints of SCARF or the veterinary community. \[see complete disclaimer at bottom of page]*
 
------
-
+- - -
 
 My male Akita had suffered from autoimmune problems his whole life.  He
 had environmental allergies from the time he was a year of age and has
@@ -51,7 +49,7 @@ cancer dogs is very important.  My dog was put on a 3500 kcal/day diet
 which included low carb kibble, canned, and raw foods.
 
 The recuperation from the surgery was eventful.  The incision was
-looking good as he was on cephpodoxineI\* (Simplicef) for one week.
+looking good as he was on cephpodoxineI* (Simplicef) for one week.
 After his last dose, he started to be uncomfortable by pacing and
 panting, as well as being bloated. So much so his back was roached like
 a whippet.  We went back to the clinic and did a PCV and X-rays.  His
@@ -116,7 +114,7 @@ I understood my dog was dying right before me and I could do nothing but
 end his suffering...Which is what we did.  The next day, the consult did
 confirm severe hypovolemic shock.
 
-*NOTE: In reading up on this antibiotic, I had learned from the
+\*NOTE: In reading up on this antibiotic, I had learned from the
 company's website:
 
 *"Blood dyscrasia including neutropenias, may be seen following high
@@ -139,7 +137,7 @@ to hemolytic anemia in dogs:
 Bloom JC, et al.  [Cephalosporin-induced immune cytopenia in the dog:
 Demonstration of erythrocyte-, neutrophil- and platelet-associated IgG
 following treatment with
-cefazedone](http://www3.interscience.wiley.com/cgi-bin/abstract/112699507/ABSTRACT).
+cefazedone.](https://pubmed.ncbi.nlm.nih.gov/3394717/)
 American Journal of Hematology, 28,(2): 71-18, 2006.
 ![three bones rating](/img/3-bones.gif)
 
@@ -148,7 +146,7 @@ anemia I will never know.  However, as a precaution I will not give my
 dog cephalosporins after any surgery where there is a large amount
 of blood loss such as a splenectomy.
 
------
+- - -
 
 **Disclaimer:**
 
