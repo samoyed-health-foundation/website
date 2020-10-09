@@ -147,7 +147,7 @@ from the pancreas of hogs and cattle.
 
 ## Suggested Links
 
-[Pancreatitis (Inflammation) in
+[Pancreatitis in
 Dogs](https://www.petcoach.co/article/pancreatitis-inflammation-in-dogs/)
 at www.petcoach.co  ![two bones
 rating](/img/2-bones.gif)
