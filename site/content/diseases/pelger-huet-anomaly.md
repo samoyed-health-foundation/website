@@ -140,7 +140,7 @@ J C Oosterwijk1, S Mansour, G van Noort, H R Waterham, C M Hall and R C
 M Hennekam. [Congenital abnormalities reported in Pelger-Huët
 homozygosity as compared to Greenberg/HEM dysplasia: highly variable
 expression of allelic
-phenotypes](http://jmg.bmj.com/cgi/content/extract/40/12/937).  Journal
+phenotypes. ](https://jmg.bmj.com/content/40/12/937) Journal
 of Medical Genetics 2003;40:937-941.  -- Includes some of the history
 of research behind this disease. ![3 bones](/img/3-bones.gif)
 
