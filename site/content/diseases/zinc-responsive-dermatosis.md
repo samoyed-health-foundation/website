@@ -141,7 +141,7 @@ from the Siberian Husky Health Foundation  ![3
 bones](/img/3-bones.gif)
 
 [Canine Zinc-Responsive
-Dermatosis](http://veterinarynews.dvm360.com/canine-zinc-responsive-dermatosis)
+Dermatosis](https://www.dvm360.com/view/canine-zinc-responsive-dermatosis)
 by Carlo Vitale, DVM, Dipl. ACVD on the dvm360.com website.  This
 article contains some photographs.  ![2
 bones](/img/2-bones.gif)
