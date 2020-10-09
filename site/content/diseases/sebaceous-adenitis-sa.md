@@ -1,12 +1,9 @@
-+++
-title = "Sebaceous Adenitis (SA)"
-+++
-
+---
+title: Sebaceous Adenitis (SA)
+---
 **Liaison:** Tina Oswald
 
-**Email:** <tkoswald66@gmail.com>
-
-
+**Email:** [tkoswald66@gmail.com](mailto:tkoswald66@gmail.com)
 
 Sebaceous Adenitis or SA, is a skin disease in which the sebaceous
 glands become inflamed and destroyed, leading to progressive hair loss.
@@ -16,13 +13,7 @@ mixed breeds. It is a hereditary disease in Poodles, and is probably a
 hereditary disease in Samoyeds. Severity of this disease varies from dog
 to dog and breed to breed.
 
-
-
-
-Signs and Symptoms
-------------------
-
-
+## Signs and Symptoms
 
 SA is often mistaken for hypothyroidism because the signs are similar.
 Both diseases exhibit a musky odor, itching, scaling, hair loss, and
@@ -31,27 +22,21 @@ who are affected by the disease over their entire bodies.  Some dogs
 with SA will show few signs of this disease or absolutely no signs of
 this disease, which is called a 'subclinical' form of the disease
 
-Causes
-------
+## Causes
 
 There are no definitive known causes for Sebaceous Adenitis
 
-Risk Factors
-------------
+## Risk Factors
 
 Family history.
 
-
-
-Diagnostic Tests
-----------------
+## Diagnostic Tests
 
 Currently the 'gold standard' of diagnosis is by punch biopsy.  Two 6mm
 punch biopsies are taken along the back of the neck between the neck and
 withers, and in any affected areas.
 
-Treatment Guidelines
---------------------
+## Treatment Guidelines
 
 > **Note:** Treatment of animals should only be performed by a licensed
 > veterinarian. Veterinarians should consult the current literature and
@@ -64,28 +49,20 @@ dogs have had successful results with weekly to monthly oil soaks.
 There are a few people who have chosen to try the immune suppressing
 drug Cyclosporine with minimal success.
 
-
-
 Many owners supplement their dogs diets with Vitamin A and Ester C.
 Some owners are trying Melatonin as a supplement.
 
-Management
-----------
-
-
+## Management
 
 Get your dog on an oil soaking regime.  This will help the dog's skin
 get the oils he is no longer producing.
-
-
 
 Look for reddish looking 'dirt' at the base of the hair shaft close to
 the skin.  This is keratin which needs to be removed to keep the hair
 follicles open and reduce the risk of infection.  Keratin is not water
 soluble but is oil soluble.
 
-References
-----------
+## References
 
 [Merck Veterinary Manual
 online](http://www.merckvetmanual.com/mvm/integumentary_system/congenital_and_inherited_anomalies_of_the_integumentary_system/hyperplastic_and_seborrheic_syndromes.html) on
@@ -93,7 +70,7 @@ Hyperplastic and Seborrheic Syndromes ![four bones
 rating](/img/4-bones.gif)
 
 [Merck Veterinary Manual
-online](http://www.merckvetmanual.com/mvm/eye_and_ear/diseases_of_the_pinna/sebaceous_adenitis.html)
+online](https://www.merckvetmanual.com/ear-disorders/diseases-of-the-pinna/sebaceous-adenitis)
 on Sebaceous Adenitis ![four bones
 rating](/img/4-bones.gif)
 
@@ -102,36 +79,25 @@ Adenitis](https://www.ofa.org/diseases/other-diseases/sebaceous-adenitis)
 on the OFA website ![three bones
 rating](/img/3-bones.gif)
 
-
-
-
-
-
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
 > ![3 bones](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-Support Groups
---------------
-
-
+## Support Groups
 
 [Yahoo Group on
-SA](https://groups.yahoo.com/neo/groups/SA_Addisons/info)  \--
+SA](https://groups.yahoo.com/neo/groups/SA_Addisons/info)  --
 This support group is for those people who have dogs with Sebaceous
 Adenitis (SA) and/or Addison's Disease. Learn how to care for your dog
 and help others with their questions.
 
-
-
 [Facebook Group on
 SA](https://www.facebook.com/groups/1037582446280841/)
-\-- Another support group if you use Facebook (closed group)
+-- Another support group if you use Facebook (closed group)
 
-Suggested Links
----------------
+## Suggested Links
 
 [Sebaceous
 adenitis](https://www.ofa.org/diseases/other-diseases/sebaceous-adenitis)
@@ -150,7 +116,7 @@ self-invented therapy](http://www.akita-friends.com/special/satreat.htm)
 rating](/img/2-bones.gif)
 
 [Test breedings reveal inheritance mode of SA,
-DMS](http://veterinarynews.dvm360.com/test-breedings-reveal-inheritance-mode-sa-dms)
+DMS](https://www.dvm360.com/view/test-breedings-reveal-inheritance-mode-sa-dms)
 By: *Alice Jeromin, DVM, Dipl. ACVD* ![two bones
 rating](/img/2-bones.gif)
 
@@ -164,25 +130,11 @@ Adenitis](https://www.mspca.org/angell_services/canine-sebaceous-adenitis)
 on the MSPCA Angell website ![two bones
 rating](/img/2-bones.gif)
 
-
-
-
-
 Forsythe P, Paterson S.  [Ciclosporin 10 years on:  Indications and
-efficacy. ](http://veterinaryrecord.bmj.com/content/vetrec/174/Suppl_2/13.full.pdf)
+efficacy. ](<https://veterinaryrecord.bmj.com/content/vetrec/174/Suppl_2/13.full.pdf >)
 Veterinary Record Journal of the British Veterinary Association, March
 2014  ![three bones
 rating](/img/3-bones.gif)
-
-
-
-
-
-
-
-
-
-
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
@@ -190,10 +142,7 @@ rating](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
+## "Living with a Disorder" Journal Entries
 
-
-"Living with a Disorder" Journal Entries
-----------------------------------------
-
-- [An Ocean Of Tears](/diseases/sebaceous-adenitis-sa-an-ocean-of-tears)
-- [Living With Sebaceous Adenitis](/diseases/sebaceous-adenitis-sa-living-with)
+* [An Ocean Of Tears](/diseases/sebaceous-adenitis-sa-an-ocean-of-tears)
+* [Living With Sebaceous Adenitis](/diseases/sebaceous-adenitis-sa-living-with)
