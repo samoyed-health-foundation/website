@@ -8,7 +8,7 @@ title: Osteosarcoma
 Osteosarcoma (OSA) is a malignant tumor of the bone (bone cancer).  It can develop in any bone, but occurs most often in the limbs, near the shoulder, wrist or knee.
 
 <details>
-<summary>\\\\\*Click here to show/hide more detail\\\\\*</summary>
+<summary>\\\\\\*Click here to show/hide more detail\\\\\\*</summary>
 Osteosarcoma (OSA) is the most common malignant bone tumor in dogs, but only accounts for 5% of canine tumors.  It can develop in any bone, but 75-85% of canine osteosarcomas occur in the limbs (appendicular osteosarcoma).   It is most common in large and giant breeds, developing at middle age or beyond, but it can occur at any age.
 
 Osteosarcoma is painful and frequently causes lameness.  It starts within the bone and destroys the bone from the inside out as it grows.  Swelling may also be seen as the tumor grows and replaces normal bone with tumorous bone.  The tumorous bone is weaker than healthy bone and can break easily (pathologic fracture) - this type of break will not heal.
@@ -144,7 +144,7 @@ rating](/img/2-bones.gif)
 [The Gabriel Institute - Research in Canine Osteosarcoma](http://www.gabrielinstitute.org/) ![one bone
 rating](/img/1-bone.gif)
 
-[Common Cancers - Osteosarcoma](http://caninecancerawareness.org/category/osteosarcoma) at www.caninecancerawareness.org    ![one bone
+[Common Cancers - Osteosarcoma](https://caninecancerawareness.org/canine-cancer-diagnosis/osteosarcoma) at www.caninecancerawareness.org    ![one bone
 rating](/img/1-bone.gif)
 
 ## Current Research
