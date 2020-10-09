@@ -108,9 +108,7 @@ National Center for Biotechnology Information description of MITF gene:
 
 Rothschild MF, Van Cleave PS, Glenn KL, Carlstrom LP, Ellinwood NM.
   Association of MITF with white spotting in Beagle crosses and
-Newfoundland dogs.   Anim Genet. 2006 Dec;37(6):606-7.
-<http://onlinelibrary.wiley.com/wol1/doi/10.1111/j.1365-2052.2006.01534.x/full>
-![2 bones](/img/2-bones.gif)
+Newfoundland dogs.   Anim Genet. 2006 Dec;37(6):606-7.![2 bones](/img/2-bones.gif)
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
@@ -147,7 +145,7 @@ rating](/img/3-bones.gif)
 
 The BVA is the overseer in the UK.  Please note Samoyeds are not
 routinely eye tested in the UK.
-[\[http://www.thekennelclub.org.uk/health/health-information-and-resources/health-schemes-and-programmes/bvakc-health-schemes/bvakcisds-eye-scheme/]](http://www.thekennelclub.org.uk/health/health-information-and-resources/health-schemes-and-programmes/bvakc-health-schemes/bvakcisds-eye-scheme/)
+<https://www.thekennelclub.org.uk/health-and-dog-care/health/getting-started-with-health-testing-and-screening/eye-screening-scheme/>
 ![3 bones](/img/3-bones.gif)
 
 > ![1 bone](/img/1-bone.gif)
