@@ -14,7 +14,7 @@ occurring by 15 months.   Since females have two X chromosomes (and only
 one is typically affected) their disease is less serious.
 
 <details>
-<summary>\\*Click here to show/hide more detail\\*</summary>
+<summary>\\\\*Click here to show/hide more detail\\\\*</summary>
 
 [Link includes diagrams of the kidney/glomerulus](http://unckidneycenter.org/kidneyhealthlibrary/glomerular-disease/glomerular-disease)
 
@@ -160,6 +160,9 @@ rating](/img/3-bones.gif)
 [Juvenile Renal
 Disease](http://www.faqs.org/faqs/dogs-faq/medical-info/JRD/)
 at faqs.org    ![two bones
+rating](/img/2-bones.gif)
+
+[Hereditary Nephritis](https://www.gopetsamerica.com/dog-health/x_linked_nephritis.html) at gopetsamerica.com ![two bones
 rating](/img/2-bones.gif)
 
 > ![1 bone](/img/1-bone.gif)
