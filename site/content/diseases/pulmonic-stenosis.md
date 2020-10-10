@@ -137,7 +137,7 @@ the same situation."
    bones
    rating](/img/3-bones.gif)
 3. [Pulmonic
-   Stenosis](http://ic.upei.ca/cidd/disorder/pulmonic-stenosis)
+   Stenosis](https://cidd.discoveryspace.ca/disorder/pulmonic-stenosis.html)
    from the Canine Inherited Disorders Database  ![three bones
    rating](/img/3-bones.gif)
 4. <http://www.mirage-samoyeds.com/heart.htm> --
