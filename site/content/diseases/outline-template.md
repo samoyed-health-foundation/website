@@ -27,17 +27,12 @@ xxx
 > current pharmacological formularies before initiating any treatment
 > protocol.
 
-![two bones rating](/img/2-bones.gif)
 
 ## Management
 
-
-
 ## References
 
-
 ![three bones rating](/img/3-bones.gif)
-
 
 ![three bones rating](/img/3-bones.gif)
 
@@ -49,23 +44,15 @@ xxx
 
 ## Support Groups
 
-
-
 ## Suggested Links
 
-
 ![two bones rating](/img/2-bones.gif)
-
 
 ![three bones rating](/img/3-bones.gif)
 
-
 ![two bones rating](/img/2-bones.gif)
 
-
 ![three bones rating](/img/3-bones.gif)
-
-
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
