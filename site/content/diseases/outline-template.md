@@ -1,9 +1,10 @@
 ---
 title: Outline Template
 ---
-Liaison:
 
-Email:
+**Liaison:** 
+
+**Email:** [email address](mailto:email address)
 
 
 
