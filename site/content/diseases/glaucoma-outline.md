@@ -11,11 +11,9 @@ Glaucoma is defined as an abnormal rise in intraocular pressure in the eye that 
 
 There are three classifications of primary glaucoma: open-angle, closed-angle, or goniodysgenesis.
 
-Open angle (what most humans have) is due to a genetic mutation which causes the wrong protein to be coded by the gene. This leads to a slow, gradual clogging of the drainage system, rather like the kitchen sink slowly clogging over time.
-
-Closed angle glaucoma occurs when the drainage angle (iridocorneal angle) is too tight and fluid cannot easily drain from the eye. It can occur slowly (chronic) or very suddenly (acute). Acute onset of glaucoma is always an emergency requiring immediate medical attention.
-
-Goniodysgenesis refers to the malformation of the trabecular mesh (pectinate ligaments) that hold the eye structures in place. This form of glaucoma is also called closed angle as the iridocorneal angle is usually narrowed. The trabecular network that forms the suspensory ligaments is a solid sheet of tissue that separates into a spread finger-like configuration during fetal development. If this separation is not complete the openings may be smaller or sections may be closed. This reduces the drainage of fluid from the eye, rather as if the kitchen sink is malformed and has very small drain holes. The first illustration shows the components of the canine eye and the second the flow of fluid from the eye.
+* Open angle (what most humans have) is due to a genetic mutation which causes the wrong protein to be coded by the gene. This leads to a slow, gradual clogging of the drainage system, rather like the kitchen sink slowly clogging over time.
+* Closed angle glaucoma occurs when the drainage angle (iridocorneal angle) is too tight and fluid cannot easily drain from the eye. It can occur slowly (chronic) or very suddenly (acute). Acute onset of glaucoma is always an emergency requiring immediate medical attention.
+* Goniodysgenesis refers to the malformation of the trabecular mesh (pectinate ligaments) that hold the eye structures in place. This form of glaucoma is also called closed angle as the iridocorneal angle is usually narrowed. The trabecular network that forms the suspensory ligaments is a solid sheet of tissue that separates into a spread finger-like configuration during fetal development. If this separation is not complete the openings may be smaller or sections may be closed. This reduces the drainage of fluid from the eye, rather as if the kitchen sink is malformed and has very small drain holes. The first illustration shows the components of the canine eye and the second the flow of fluid from the eye.
 
 First Picture blue inside eyeball
 
