@@ -80,13 +80,9 @@ Ward, DVM, E. (n.d.). [Glaucoma in Dogs](https://vcahospitals.com/know-your-pe
 
 Maggio, F. (2015). Glaucomas. Topics in Companion Animal Medicine, 30(3), 86-96. Accessed at doi:http://dx.doi.org.library.capella.edu/10.1053/j.tcam.2015.07.011 (/img/3-bones.gif)
 
-Graham, K. L., McCowan, C., & White, A. (2016). [Genetic and biochemical biomarkers in canine glaucoma](https://doi.org/10.1177/0300985816666611). Veterinary Pathology, 54(2), 194-203. 
+Graham, K. L., McCowan, C., & White, A. (2016). [Genetic and biochemical biomarkers in canine glaucoma](https://doi.org/10.1177/0300985816666611). Veterinary Pathology, 54(2), 194-203. (/img/3-bones.gif)
 
-BONES?
-
-Kato K, Sasaki N, Matsunaga S, Nishimura R, Ogawa H.  (2006). [Incidence of canine glaucoma with Goniodysplasia in Japan : A retrospective study](https://pdfs.semanticscholar.org/55a3/5a0870cd3674e90f638b30e1d196b694e7f0.pdf). Journal of Veterinary Medical Science, 68(8), 853-858.
-
-BONES?
+Kato K, Sasaki N, Matsunaga S, Nishimura R, Ogawa H.  (2006). [Incidence of canine glaucoma with Goniodysplasia in Japan : A retrospective study](https://pdfs.semanticscholar.org/55a3/5a0870cd3674e90f638b30e1d196b694e7f0.pdf). Journal of Veterinary Medical Science, 68(8), 853-858.  (/img/3-bones.gif)
 
 [Neuroinflammation in advanced canine glaucoma](http://www.molvis.org/molvis/v16/a225/). (2010). Molecular Vision, 16, 2092-2108.  (/img/3-bones.gif)
 
