@@ -81,7 +81,7 @@ Two bones
 Two bones
 
 NOTE: CAN’T ACCESS DON’T LINK
-Maggio, F. (2015). Glaucomas. Topics in Companion Animal Medicine, 30(3), 86-96. doi:http://dx.doi.org.library.capella.edu/10.1053/j.tcam.2015.07.011  Three bones (edu)
+Maggio, F. (2015). Glaucomas. Topics in Companion Animal Medicine, 30(3), 86-96. doi:http://dx.doi.org.library.capella.edu/10.1053/j.tcam.2015.07.011 (/img/3-bones.gif)
 
 Graham, K. L., McCowan, C., & White, A. (2016). [Genetic and biochemical biomarkers in canine glaucoma](https://doi.org/10.1177/0300985816666611). Veterinary Pathology, 54(2), 194-203. 
 
@@ -91,11 +91,10 @@ Kato K, Sasaki N, Matsunaga S, Nishimura R, Ogawa H.  (2006). [Incidence of cani
 
 BONES?
 
-[Neuroinflammation in advanced canine glaucoma](http://www.molvis.org/molvis/v16/a225/). (2010). Molecular Vision, 16, 2092-2108.  
-Three bones
+[Neuroinflammation in advanced canine glaucoma](http://www.molvis.org/molvis/v16/a225/). (2010). Molecular Vision, 16, 2092-2108.  (/img/3-bones.gif)
 
-Park, S. A., Sledge, D., Monahan, C., Bartoe, J. T., & Komáromy, A. M. (2019). [Primary angle-closure glaucoma with goniodysgenesis in a beagle dog](https://doi.org/10.1186/s12917-019-1812-1). BMC Veterinary Research, 15(1). 
-Three bones
+Park, S. A., Sledge, D., Monahan, C., Bartoe, J. T., & Komáromy, A. M. (2019). [Primary angle-closure glaucoma with goniodysgenesis in a beagle dog](https://doi.org/10.1186/s12917-019-1812-1). BMC Veterinary Research, 15(1). (/img/3-bones.gif)
+
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
@@ -112,7 +111,7 @@ http://www.eyecareforanimals.com/conditions/glaucoma/
 Two bones
 
 https://www.vetfolio.com/learn/article/canine-glaucoma-pathophysiology-and-diagnosis
-Three bones
+(/img/3-bones.gif)
 
 http://blog.vetbloom.com/ophthalmology/diagnosis-and-treatment-of-glaucoma/
 Two bones
@@ -128,8 +127,7 @@ Two bones
 Strom AR. Glaucoma diagnosis and management. WSAVA Congress Proceedings 2017. https://www.vin.com/apputil/content/defaultadv1.aspx?pld=20539&id=8506396
 Two bones
 
-https://www.bva.co.uk/canine-health-schemes/eye-scheme/
-Three bones
+https://www.bva.co.uk/canine-health-schemes/eye-scheme/ (/img/3-bones.gif)
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
