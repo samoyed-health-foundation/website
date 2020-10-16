@@ -73,20 +73,20 @@ Glaucoma is a very painful condition and is difficult and expensive to treat and
 
 *(Many thanks to Dr. Gavin Kennard for answering dozens of questions and providing so much information on glaucoma in canines).*
 
-Ward, DVM, E. (n.d.). [Glaucoma in Dogs](https://vcahospitals.com/know-your-pet/glaucoma-in-dogs). Retrieved from https://vcahospitals.com/know-your-pet/ (/img/2-bones.gif)
+Ward, DVM, E. (n.d.). [Glaucoma in Dogs](https://vcahospitals.com/know-your-pet/glaucoma-in-dogs). Retrieved from https://vcahospitals.com/know-your-pet/ ![two bones rating](/img/2-bones.gif)
 
-[Canine (not human) glaucoma](https://vmcli.com/canine-not-human-glaucoma/) by N LaCroix DVM at Veterinary Medical Center of Long Island. (/img/2-bones.gif)
+[Canine (not human) glaucoma](https://vmcli.com/canine-not-human-glaucoma/) by N LaCroix DVM at Veterinary Medical Center of Long Island. ![two bones rating](/img/2-bones.gif)
 
 
-Maggio, F. (2015). Glaucomas. Topics in Companion Animal Medicine, 30(3), 86-96. Accessed at doi:http://dx.doi.org.library.capella.edu/10.1053/j.tcam.2015.07.011 (/img/3-bones.gif)
+Maggio, F. (2015). Glaucomas. Topics in Companion Animal Medicine, 30(3), 86-96. Accessed at doi:http://dx.doi.org.library.capella.edu/10.1053/j.tcam.2015.07.011 ![three bones rating](/img/3-bones.gif)
 
-Graham, K. L., McCowan, C., & White, A. (2016). [Genetic and biochemical biomarkers in canine glaucoma](https://doi.org/10.1177/0300985816666611). Veterinary Pathology, 54(2), 194-203. (/img/3-bones.gif)
+Graham, K. L., McCowan, C., & White, A. (2016). [Genetic and biochemical biomarkers in canine glaucoma](https://doi.org/10.1177/0300985816666611). Veterinary Pathology, 54(2), 194-203. ![three bones rating](/img/3-bones.gif)
 
-Kato K, Sasaki N, Matsunaga S, Nishimura R, Ogawa H.  (2006). [Incidence of canine glaucoma with Goniodysplasia in Japan : A retrospective study](https://pdfs.semanticscholar.org/55a3/5a0870cd3674e90f638b30e1d196b694e7f0.pdf). Journal of Veterinary Medical Science, 68(8), 853-858.  (/img/3-bones.gif)
+Kato K, Sasaki N, Matsunaga S, Nishimura R, Ogawa H.  (2006). [Incidence of canine glaucoma with Goniodysplasia in Japan : A retrospective study](https://pdfs.semanticscholar.org/55a3/5a0870cd3674e90f638b30e1d196b694e7f0.pdf). Journal of Veterinary Medical Science, 68(8), 853-858.  ![three bones rating](/img/3-bones.gif)
 
-[Neuroinflammation in advanced canine glaucoma](http://www.molvis.org/molvis/v16/a225/). (2010). Molecular Vision, 16, 2092-2108.  (/img/3-bones.gif)
+[Neuroinflammation in advanced canine glaucoma](http://www.molvis.org/molvis/v16/a225/). (2010). Molecular Vision, 16, 2092-2108.  ![three bones rating](/img/3-bones.gif)
 
-Park, S. A., Sledge, D., Monahan, C., Bartoe, J. T., & Komáromy, A. M. (2019). [Primary angle-closure glaucoma with goniodysgenesis in a beagle dog](https://doi.org/10.1186/s12917-019-1812-1). BMC Veterinary Research, 15(1). (/img/3-bones.gif)
+Park, S. A., Sledge, D., Monahan, C., Bartoe, J. T., & Komáromy, A. M. (2019). [Primary angle-closure glaucoma with goniodysgenesis in a beagle dog](https://doi.org/10.1186/s12917-019-1812-1). BMC Veterinary Research, 15(1). ![three bones rating](/img/3-bones.gif)
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
@@ -96,25 +96,25 @@ Park, S. A., Sledge, D., Monahan, C., Bartoe, J. T., & Komáromy, A. M. (2019). 
 
 ## Suggested Links
 
-<https://www.sagecenters.com/veterinaryvision/for-veterinarians/clinical-forum/specific-disease-topics/glaucoma-3/>  (/img/2-bones.gif)
+<https://www.sagecenters.com/veterinaryvision/for-veterinarians/clinical-forum/specific-disease-topics/glaucoma-3/>  ![two bones rating](/img/2-bones.gif)
 
-<http://www.eyecareforanimals.com/conditions/glaucoma/>  (/img/2-bones.gif)
+<http://www.eyecareforanimals.com/conditions/glaucoma/>  ![two bones rating](/img/2-bones.gif)
 
 <https://www.vetfolio.com/learn/article/canine-glaucoma-pathophysiology-and-diagnosis>
-(/img/3-bones.gif)
+![three bones rating](/img/3-bones.gif)
 
-<http://blog.vetbloom.com/ophthalmology/diagnosis-and-treatment-of-glaucoma/>  (/img/2-bones.gif)
+<http://blog.vetbloom.com/ophthalmology/diagnosis-and-treatment-of-glaucoma/>  ![two bones rating](/img/2-bones.gif)
 and this group recommends the following two books:
 
  Living with Blind Dogs: A Resource Book and Training Guide for the Owners of Blind and Low-Vision dogs by Caroline D. Levin
 
 Blind Devotion: Enhancing the Lives of Blind and Visually Impaired Dogs by Cathy Symons and Joan Powers
 
-<https://eyedvm.com/animal-eye-care/handout/glaucoma-in-dogs-and-cats/>  (/img/2-bones.gif)
+<https://eyedvm.com/animal-eye-care/handout/glaucoma-in-dogs-and-cats/>  ![two bones rating](/img/2-bones.gif)
 
-Strom AR. Glaucoma diagnosis and management. WSAVA Congress Proceedings 2017. <https://www.vin.com/apputil/content/defaultadv1.aspx?pld=20539&id=8506396>  (/img/2-bones.gif)
+Strom AR. Glaucoma diagnosis and management. WSAVA Congress Proceedings 2017. <https://www.vin.com/apputil/content/defaultadv1.aspx?pld=20539&id=8506396>  ![two bones rating](/img/2-bones.gif)
 
-British Veterinary Association [Eye Scheme](https://www.bva.co.uk/canine-health-schemes/eye-scheme/)  (/img/3-bones.gif)
+British Veterinary Association [Eye Scheme](https://www.bva.co.uk/canine-health-schemes/eye-scheme/)  ![three bones rating](/img/3-bones.gif)
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
