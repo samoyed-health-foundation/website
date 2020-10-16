@@ -73,12 +73,9 @@ Glaucoma is a very painful condition and is difficult and expensive to treat and
 
 *(Many thanks to Dr. Gavin Kennard for answering dozens of questions and providing so much information on glaucoma in canines).*
 
-Ward, DVM, E. (n.d.). [Glaucoma in Dogs](https://vcahospitals.com/know-your-pet/glaucoma-in-dogs). Retrieved from https://vcahospitals.com/know-your-pet/
+Ward, DVM, E. (n.d.). [Glaucoma in Dogs](https://vcahospitals.com/know-your-pet/glaucoma-in-dogs). Retrieved from https://vcahospitals.com/know-your-pet/ (/img/2-bones.gif)
 
-Two bones
-
-[Canine (not human) glaucoma](https://vmcli.com/canine-not-human-glaucoma/) by N LaCroix DVM at Veterinary Medical Center of Long Island. 
-Two bones
+[Canine (not human) glaucoma](https://vmcli.com/canine-not-human-glaucoma/) by N LaCroix DVM at Veterinary Medical Center of Long Island. (/img/2-bones.gif)
 
 NOTE: CAN’T ACCESS DON’T LINK
 Maggio, F. (2015). Glaucomas. Topics in Companion Animal Medicine, 30(3), 86-96. doi:http://dx.doi.org.library.capella.edu/10.1053/j.tcam.2015.07.011 (/img/3-bones.gif)
@@ -104,28 +101,23 @@ Park, S. A., Sledge, D., Monahan, C., Bartoe, J. T., & Komáromy, A. M. (2019). 
 
 ## Suggested Links
 
-https://www.sagecenters.com/veterinaryvision/for-veterinarians/clinical-forum/specific-disease-topics/glaucoma-3/
-Two bones
+https://www.sagecenters.com/veterinaryvision/for-veterinarians/clinical-forum/specific-disease-topics/glaucoma-3/  (/img/2-bones.gif)
 
-http://www.eyecareforanimals.com/conditions/glaucoma/
-Two bones
+http://www.eyecareforanimals.com/conditions/glaucoma/  (/img/2-bones.gif)
 
 https://www.vetfolio.com/learn/article/canine-glaucoma-pathophysiology-and-diagnosis
 (/img/3-bones.gif)
 
-http://blog.vetbloom.com/ophthalmology/diagnosis-and-treatment-of-glaucoma/
-Two bones
+http://blog.vetbloom.com/ophthalmology/diagnosis-and-treatment-of-glaucoma/  (/img/2-bones.gif)
 and this group recommends the following two books:
 
  Living with Blind Dogs: A Resource Book and Training Guide for the Owners of Blind and Low-Vision dogs by Caroline D. Levin
 
 Blind Devotion: Enhancing the Lives of Blind and Visually Impaired Dogs by Cathy Symons and Joan Powers
 
-https://eyedvm.com/animal-eye-care/handout/glaucoma-in-dogs-and-cats/
-Two bones
+https://eyedvm.com/animal-eye-care/handout/glaucoma-in-dogs-and-cats/  (/img/2-bones.gif)
 
-Strom AR. Glaucoma diagnosis and management. WSAVA Congress Proceedings 2017. https://www.vin.com/apputil/content/defaultadv1.aspx?pld=20539&id=8506396
-Two bones
+Strom AR. Glaucoma diagnosis and management. WSAVA Congress Proceedings 2017. https://www.vin.com/apputil/content/defaultadv1.aspx?pld=20539&id=8506396  (/img/2-bones.gif)
 
 https://www.bva.co.uk/canine-health-schemes/eye-scheme/ (/img/3-bones.gif)
 
