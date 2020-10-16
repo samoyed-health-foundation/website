@@ -1,7 +1,7 @@
 ---
 title: Outline Template
 ---
-Put description here
+Put description here, may call it summary
 
 ## Signs and Symptoms
 
@@ -27,12 +27,9 @@ xxx
 > current pharmacological formularies before initiating any treatment
 > protocol.
 
-
 ## Management
 
 ## References
-
-
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
@@ -43,7 +40,6 @@ xxx
 ## Support Groups
 
 ## Suggested Links
-
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
