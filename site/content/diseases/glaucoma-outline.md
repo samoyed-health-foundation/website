@@ -33,13 +33,13 @@ Glaucoma is caused by inadequate drainage of the aqueous fluid in the eye. The c
 
 ## Risk Factors
 
-xxxFamily history is a risk factor for primary glaucoma. Data collection on glaucoma is not usually separated by cause (primary or secondary), making it difficult to tell the true prevalence of this genetic issue in Samoyeds. Current information on the prevalence in Samoyeds ranges from 1 to 3 percent.
+Family history is a risk factor for primary glaucoma. Data collection on glaucoma is not usually separated by cause (primary or secondary), making it difficult to tell the true prevalence of this genetic issue in Samoyeds. Current information on the prevalence in Samoyeds ranges from 1 to 3 percent.
 
 Inflammation, disease or trauma to the eye is a risk factor for secondary glaucoma by causing a rise in internal ocular pressure.
 
 ## Diagnostic Tests
 
-xxxThe only way to diagnose glaucoma is by checking the internal ocular pressure (IOP).
+The only way to diagnose glaucoma is by checking the internal ocular pressure (IOP).
 
 Open glaucoma can be detected if regular eye pressure checks are done because of the slow onset. Since our breed is not prone to open angle glaucoma, pressure checks prior to an acute onset of glaucoma are unlikely to be useful. Most dogs, unlike humans, do not have yearly eye pressure checks.
 
@@ -63,6 +63,7 @@ The use of cannabis for glaucoma in dogs is questionable. Glaucoma in dogs is ve
 
 If there is no sight and the pressure is not stable it may be possible to do ciliary ablation (injection of a drug that is toxic to the ciliary body) to eliminate the production of aqueous humor or the eye can be removed. 
 Surgery may be the next step in treatment when medication is not working. The current surgery frequently done is endolaser cyclophotocoagulation (ECP) laser surgery. A laser beam selectively destroys some of the ciliary body which produces aqueous humor. This is not a cure but a way to slow progression when the drugs fail. ECP will usually also involve removing and replacing the lens. It is very complex and expensive and there is very little information on the success rate as it is a newer treatment. It should not be done if the medications are working as it carries serious risks. Another surgery frequently done is placing a separate drain to aid in removing the fluid from the eye but this frequently clogs within a year or so. The placing of the drain is often done in conjunction with ECP.
+
 A potential treatment that has been done in some human cases but has not yet been used in veterinary medicine is the replacement of the lens with a smaller lens. This would probably only be useful with dogs where there is adequate overall drainage and before an acute attack caused the iridocorneal canal to narrow. There is danger that such a procedure to prevent glaucoma could actually cause it as any inflammation can cause glaucoma. Surgery always runs the risk of the inflammation causing glaucoma. Gavin Kennard, DVM DACVO is a glaucoma specialist and he does not recommend cataract surgery, just to prevent your dog with cataracts from developing glaucoma (yes, cataracts can cause glaucoma). Dr. Kennard also pointed out that all glaucoma in dogs after an acute event with elevated pressure is closed angle  because that closes the angle.
 
 ## Management
@@ -76,7 +77,6 @@ Glaucoma is a very painful condition and is difficult and expensive to treat and
 Ward, DVM, E. (n.d.). [Glaucoma in Dogs](https://vcahospitals.com/know-your-pet/glaucoma-in-dogs). Retrieved from https://vcahospitals.com/know-your-pet/ ![two bones rating](/img/2-bones.gif)
 
 [Canine (not human) glaucoma](https://vmcli.com/canine-not-human-glaucoma/) by N LaCroix DVM at Veterinary Medical Center of Long Island. ![two bones rating](/img/2-bones.gif)
-
 
 Maggio, F. (2015). Glaucomas. Topics in Companion Animal Medicine, 30(3), 86-96. Accessed at doi:http://dx.doi.org.library.capella.edu/10.1053/j.tcam.2015.07.011 ![three bones rating](/img/3-bones.gif)
 
@@ -100,15 +100,13 @@ Park, S. A., Sledge, D., Monahan, C., Bartoe, J. T., & Komáromy, A. M. (2019). 
 
 <http://www.eyecareforanimals.com/conditions/glaucoma/>  ![two bones rating](/img/2-bones.gif)
 
-<https://www.vetfolio.com/learn/article/canine-glaucoma-pathophysiology-and-diagnosis>
-![three bones rating](/img/3-bones.gif)
+<https://www.vetfolio.com/learn/article/canine-glaucoma-pathophysiology-and-diagnosis>![three bones rating](/img/3-bones.gif)
 
 <http://blog.vetbloom.com/ophthalmology/diagnosis-and-treatment-of-glaucoma/>  ![two bones rating](/img/2-bones.gif)
 and this group recommends the following two books:
 
- Living with Blind Dogs: A Resource Book and Training Guide for the Owners of Blind and Low-Vision dogs by Caroline D. Levin
-
-Blind Devotion: Enhancing the Lives of Blind and Visually Impaired Dogs by Cathy Symons and Joan Powers
+*  Living with Blind Dogs: A Resource Book and Training Guide for the Owners of Blind and Low-Vision dogs by Caroline D. Levin
+* Blind Devotion: Enhancing the Lives of Blind and Visually Impaired Dogs by Cathy Symons and Joan Powers
 
 <https://eyedvm.com/animal-eye-care/handout/glaucoma-in-dogs-and-cats/>  ![two bones rating](/img/2-bones.gif)
 
