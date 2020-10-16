@@ -127,7 +127,7 @@ https://www.bva.co.uk/canine-health-schemes/eye-scheme/ (/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-## Current Research
+## Current Research (and/or SCARF sponsored research)
 
 ![1 bone](/img/1-bone.gif)
 ![2 bones](/img/2-bones.gif)
