@@ -1,7 +1,7 @@
 ---
 title: Glaucoma outline
 ---
-**Liaison:** Donna Cummings, MLS(ASCP)CM
+**Liaison:** Donna Cummings, MLS(ASCP)<sup>CM</sup>
 
 **Email:** \[email address](mailto:email address)
 
