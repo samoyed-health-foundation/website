@@ -78,7 +78,8 @@ Ward, DVM, E. (n.d.). [Glaucoma in Dogs](https://vcahospitals.com/know-your-pe
 
 [Canine (not human) glaucoma](https://vmcli.com/canine-not-human-glaucoma/) by N LaCroix DVM at Veterinary Medical Center of Long Island. ![two bones rating](/img/2-bones.gif)
 
-Maggio, F. (2015). Glaucomas. Topics in Companion Animal Medicine, 30(3), 86-96. Accessed at doi:http://dx.doi.org.library.capella.edu/10.1053/j.tcam.2015.07.011 ![three bones rating](/img/3-bones.gif)
+Maggio, F. (2015). Glaucomas. Topics in Companion Animal Medicine, 30(3), 86-96. Accessed at doi:http://dx.doi.org.library.capella.edu/10.1053/j.tcam.2015.07.011 
+![three bones rating](/img/3-bones.gif)
 
 Graham, K. L., McCowan, C., & White, A. (2016). [Genetic and biochemical biomarkers in canine glaucoma](https://doi.org/10.1177/0300985816666611). Veterinary Pathology, 54(2), 194-203. ![three bones rating](/img/3-bones.gif)
 
