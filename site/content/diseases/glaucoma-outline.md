@@ -128,7 +128,3 @@ British Veterinary Association [Eye Scheme](https://www.bva.co.uk/canine-health-
 ![3 bones](/img/3-bones.gif)
 ![4 bones](/img/4-bones.gif)
 [(full description of ratings)](/diseases/ratings-what-do-they-mean)
-
-## "Living with a Disorder" Journal Entries
-
-*
