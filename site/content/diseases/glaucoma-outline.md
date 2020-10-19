@@ -15,13 +15,14 @@ There are three classifications of primary glaucoma: open-angle, closed-angle, o
 * Closed angle glaucoma occurs when the drainage angle (iridocorneal angle) is too tight and fluid cannot easily drain from the eye. It can occur slowly (chronic) or very suddenly (acute). Acute onset of glaucoma is always an emergency requiring immediate medical attention.
 * Goniodysgenesis refers to the malformation of the trabecular mesh (pectinate ligaments) that hold the eye structures in place. This form of glaucoma is also called closed angle as the iridocorneal angle is usually narrowed. The trabecular network that forms the suspensory ligaments is a solid sheet of tissue that separates into a spread finger-like configuration during fetal development. If this separation is not complete the openings may be smaller or sections may be closed. This reduces the drainage of fluid from the eye, rather as if the kitchen sink is malformed and has very small drain holes. The first illustration shows the components of the canine eye and the second the flow of fluid from the eye.
 
-![Glaucoma1](blob:https://www.samoyedhealthfoundation.org/0a0feb15-2ddf-4827-ab4f-cc67d85da2fe "Glaucoma1")
+![Glaucoma1](/files/glaucoma1.jpg "Glaucoma1")
 
-![Glaucoma2](blob:https://www.samoyedhealthfoundation.org/872fd4b9-e385-40f2-92c1-5a47f2bf65ce "Glaucoma2")
+![Glaucoma2](/files/glaucoma2.jpg "Glaucoma2")
 
 Glaucoma from goniodysgenesis is not usually diagnosed in a young dog as there is another contributing factor. The dog’s lens continues to grow and thicken as the dog ages reducing the anterior chamber depth and causing the iris to deform and close off the drainage opening. There is also a narrowing of the opening between the lens and the iris. Fluid passing through narrow areas causes turbulence and this adds to the drainage problem. The most frequent age for diagnosis is between 5 and 8 years, although it can occasionally occur much younger or older.
 
-![Glaucoma3](blob:https://www.samoyedhealthfoundation.org/3ad55bd9-d47c-47de-9d47-9fbc9f6d6874 "Glaucoma3")
+![Glaucoma3](/files/glaucoma3.jpg "Glaucoma3")
+
 
 ## Signs and Symptoms
 
