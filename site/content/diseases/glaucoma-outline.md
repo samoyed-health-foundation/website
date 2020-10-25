@@ -3,7 +3,7 @@ title: Glaucoma outline
 ---
 **Liaison:** Donna Cummings, MLS(ASCP)<sup>CM</sup>
 
-**Email:** \[email address](mailto:email address)
+**Email:** \[wintersongsams@gmail.com](mailto:wintersongsams@gmail.com)
 
 Glaucoma affects a relatively low number of Samoyeds so many people may not know much about it. Recognizing the symptoms of an acute attack, knowing it’s an emergency and what to do is critical if you are to save your dog’s eyesight. Additionally, understanding the anatomy of the eye enough to understand the cause of glaucoma is useful to owners who may have a dog that develops glaucoma, as well as to breeders as they work to prevent the genetic forms of glaucoma.
 
@@ -22,7 +22,6 @@ There are three classifications of primary glaucoma: open-angle, closed-angle, o
 Glaucoma from goniodysgenesis is not usually diagnosed in a young dog as there is another contributing factor. The dog’s lens continues to grow and thicken as the dog ages reducing the anterior chamber depth and causing the iris to deform and close off the drainage opening. There is also a narrowing of the opening between the lens and the iris. Fluid passing through narrow areas causes turbulence and this adds to the drainage problem. The most frequent age for diagnosis is between 5 and 8 years, although it can occasionally occur much younger or older.
 
 ![Glaucoma3](/files/glaucoma3.jpg "Glaucoma3")
-
 
 ## Signs and Symptoms
 
