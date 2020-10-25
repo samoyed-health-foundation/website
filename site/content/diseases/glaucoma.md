@@ -3,7 +3,7 @@ title: Glaucoma
 ---
 **Liaison:** Donna Cummings, MLS(ASCP)<sup>CM</sup>
 
-**Email:** \[wintersongsams@gmail.com](mailto:wintersongsams@gmail.com)
+**Email:** [wintersongsams@gmail.com](mailto:wintersongsams@gmail.com)
 
 Glaucoma affects a relatively low number of Samoyeds so many people may not know much about it. Recognizing the symptoms of an acute attack, knowing it’s an emergency and what to do is critical if you are to save your dog’s eyesight. Additionally, understanding the anatomy of the eye enough to understand the cause of glaucoma is useful to owners who may have a dog that develops glaucoma, as well as to breeders as they work to prevent the genetic forms of glaucoma.
 
