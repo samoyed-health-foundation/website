@@ -11,6 +11,7 @@ title: A to Z Diseases
 * [Albinism, Partial (Albinoid Syndrome)](/diseases/partial-albinism) \*\*
 * [Alopecia X/Growth Hormone/Castration Responsive Dermatosis](/diseases/alopecia-x) *
 * [Anemia](/diseases/anemia) *
+* Aortic Stenosis
 * [Atrial Septal Defect](/diseases/atrial-septal-defect-1) *
 * [Autoimmune Hypothyroiditis (Autoimmune Thyroiditis)](/diseases/hypothyroidism-autoimmune-hypothyroiditis) \*\*
 
@@ -31,6 +32,7 @@ title: A to Z Diseases
 # D
 
 * [Deafness (Piebald or Extreme Piebald Gene)](/diseases/piebald-or-extreme-piebald-gene-2013-deafness) \*\*
+* Degenerative myelopathy
 * [Diabetes Insipidus](/diseases/diabetes-insipidus) *
 * [Diabetes Mellitus](/diseases/diabetes-mellitus) \*\*
 * Disk Degeneration
@@ -47,6 +49,7 @@ title: A to Z Diseases
 # F
 
 * [Fading Puppy](/diseases/fading-puppy-syndrome) *
+* [Familial Enamel Hypoplasia](https://www.samoyedhealthfoundation.org/diseases/genetic-disorders/)
 
 # G
 
@@ -85,6 +88,10 @@ title: A to Z Diseases
 * Masticatory Myositis (Atrophic Myositis/ Eosinophilic Myotis)
 * [Microphthalmia](/diseases/microphthalmia) \*\*
 * [Muscular Dystrophy (x-linked)](/diseases/x-linked-muscular-dystrophy) *
+
+# N
+
+* [Nephritis, Hereditary](https://www.samoyedhealthfoundation.org/diseases/hereditary-nephritis/)
 
 # O
 
