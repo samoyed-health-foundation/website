@@ -71,7 +71,7 @@ title: By System Or Class
 
 * [Diabetes Mellitus](/diseases/diabetes-mellitus) \*\*
 * [Portosystemic Shunt (Extrahepatic and Intrahepatic)](https://www.samoyedhealthfoundation.org/diseases/portosystemic-shunts-intrahepatic-and-extrahepatic-liver-shunts/)*
-* [Pancreatic Cancer](https://www.samoyedhealthfoundation.org/diseases/pancreatic-cancer/)
+* [Pancreatic Cancer](https://www.samoyedhealthfoundation.org/diseases/pancreatic-cancer/)*
 * [Pancreatitis](/diseases/pancreatitis)*
 
 # Muscle Diseases
