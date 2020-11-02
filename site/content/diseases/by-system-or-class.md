@@ -112,5 +112,5 @@ title: By System Or Class
 
 # Urinary System Diseases
 
-* [Hereditary Nephritis, X-linked](https://www.samoyedhealthfoundation.org/diseases/hereditary-nephritis/)
+* [Hereditary Nephritis, X-linked](https://www.samoyedhealthfoundation.org/diseases/hereditary-nephritis/)\*\*
 * [Diabetes Insipidus](/diseases/diabetes-insipidus) *
