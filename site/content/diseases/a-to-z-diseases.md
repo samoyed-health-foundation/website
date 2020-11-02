@@ -23,7 +23,6 @@ title: A to Z Diseases
 
 * [Cataracts (posterior lenticonus)](/diseases/cataracts-posterior-lenticonus) *
 * [Cerebellar Degeneration (Cerebellar Abiotrophy, Progressive Neuronal Abiotrophy)](/diseases/cerebellar-degeneration-cerebeller-abiotrophies) *
-* Chronic False Pregnancies
 * [Cleft Palate](/diseases/cleft-palate) \*\*
 * [Corneal Dystrophy](/diseases/corneal-dystrophy) \*\*
 * [Cushing's Disease (Hyperadrenocorticism)](/diseases/cushing-s-disease) *
@@ -32,7 +31,7 @@ title: A to Z Diseases
 # D
 
 * [Deafness (Piebald or Extreme Piebald Gene)](/diseases/piebald-or-extreme-piebald-gene-2013-deafness) \*\*
-* Degenerative myelopathy
+* [Degenerative myelopathy](https://www.samoyedhealthfoundation.org/diseases/genetic-disorders/)
 * [Diabetes Insipidus](/diseases/diabetes-insipidus) *
 * [Diabetes Mellitus](/diseases/diabetes-mellitus) \*\*
 * Disk Degeneration
