@@ -95,7 +95,7 @@ title: A to Z Diseases
 * [Pancreatic Cancer](/diseases/pancreatic-cancer) *
 * [Pancreatitis](/diseases/pancreatitis) *
 * [Panosteitis (Enostosis, Eosinophilic Panosteitis)](/diseases/panosteitis) \*\*
-* [Partial Albinism (Albinoid Syndrome)](/diseases/partial-albinism) *
+* [Partial Albinism (Albinoid Syndrome)](/diseases/partial-albinism) \*\*
 * Patent Ductus Arteriosus (PDA)
 * [Pelger-Huet Anomaly](/diseases/pelger-huet-anomaly) \*\*
 * [Perianal Fistula](/diseases/perianal-fistulas-anal-furunculosis) \*\*
