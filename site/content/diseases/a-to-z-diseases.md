@@ -90,7 +90,7 @@ title: A to Z Diseases
 
 # N
 
-* [Nephritis, Hereditary](https://www.samoyedhealthfoundation.org/diseases/hereditary-nephritis/)
+* [Nephritis, Hereditary](https://www.samoyedhealthfoundation.org/diseases/hereditary-nephritis/)\*\*
 
 # O
 
