@@ -49,7 +49,7 @@ title: By System Or Class
 * [Keratoconjunctivitis Sicca (KCS, dry eye)](/diseases/keratoconjunctivitis-sicca-kcs-or-dry-eye) *
 * [Microphthalmia](/diseases/microphthalmia) \*\*
 * Persistent Pupillary Membranes (PPM, Mesodermal Dysgenesis)
-* Progressive Retinal Atrophy (PRA), including X-linked
+* Progressive Retinal Atrophy (PRA), [including X-linked](https://www.samoyedhealthfoundation.org/diseases/genetic-disorders/)
 * [Retinal Dysplasia/ Oculoskeletal Dysplasia 2](/diseases/retinal-dysplasia-folds) \*\*
 * [Uveodermatologic Syndrome (UDS, Vogt-Koyanagi-Harada Syndrome, VKH, VKH-like)](/diseases/uveodermatologic-syndrome-uds) *
 * Uveitis
@@ -98,10 +98,11 @@ title: By System Or Class
 
 * [Cleft Palate](/diseases/cleft-palate) \*\*
 * Dwarfism
+* [Elbow Dysplasia](/diseases/elbow-dysplasia) \*\*
+* [Familial Enamel Hypoplasia](https://www.samoyedhealthfoundation.org/diseases/genetic-disorders/)
 * [Hip Dysplasia](/diseases/hip-dysplasia-hd) \*\*
 * [Luxation of the Patella](/diseases/luxating-patella) \*\*
 * [Panosteitis (Enostosis, Eosinophilic Panosteitis)](/diseases/panosteitis)\*\*
-* [Elbow Dysplasia](/diseases/elbow-dysplasia) \*\*
 
 # Skin Diseases
 
