@@ -139,8 +139,6 @@ title: A to Z Diseases
 * [Ventricular Septal Defect](/diseases/ventricular-septal-defect) *
 * [Vogt-Koyanagi-Harada Syndrome, VKH, VKH-like (Uveodermatologic Syndrome -UDS)](/diseases/uveodermatologic-syndrome-uds) *
 
-# W
-
 # X
 
 * [X-linked Myopathy](/diseases/x-linked-myopathy) *
