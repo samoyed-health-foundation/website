@@ -76,6 +76,7 @@ title: By System Or Class
 
 # Muscle Diseases
 
+* [Degenerative myelopathy](https://www.samoyedhealthfoundation.org/diseases/genetic-disorders/)
 * Masticatory Myositis (Atrophic Myositis/ Eosinophilic Myotis)
 * [Muscular Dystrophy (x-linked)](/diseases/x-linked-muscular-dystrophy) *
 * [X-linked Myopathy](/diseases/x-linked-myopathy)*
