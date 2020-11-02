@@ -110,7 +110,7 @@ title: A to Z Diseases
 * [Piebald or Extreme Piebald Gene - Deafness](/diseases/piebald-or-extreme-piebald-gene-2013-deafness) \*\*
 * [Portosystemic Shunt (Extrahepatic and Intrahepatic)](https://www.samoyedhealthfoundation.org/diseases/portosystemic-shunts-intrahepatic-and-extrahepatic-liver-shunts/)*
 * [Primary Hypoadrenocorticism (Addison's Disease)](/diseases/addison-s-disease)
-* Progressive Retinal Atrophy (PRA), including X-linked
+* Progressive Retinal Atrophy (PRA),[ including X-linked](https://www.samoyedhealthfoundation.org/diseases/genetic-disorders/)
 * [Pulmonic Stenosis](/diseases/pulmonic-stenosis) \*\*
 
 # R
