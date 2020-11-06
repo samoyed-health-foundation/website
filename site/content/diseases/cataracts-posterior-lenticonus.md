@@ -1,49 +1,45 @@
-+++
-title = "Cataracts - Posterior Lenticonus"
-+++
-
+---
+title: Cataracts - Posterior Lenticonus
+---
 **Liaison:** Anngharaad "Annie" Reid
 
-**Email:** <annie.reid@cox.net>
-
-
+**Email:** [annie.reid@cox.net](mailto:annie.reid@cox.net)
 
 Posterior Lenticonus is an inherited, congenital lens abnormality which
 may result in cataract formation in both eyes. This type of "cataract"
 affects both male and female Samoyeds normally between 1 and 3 years of
 age.
 
-
 <details>
-<summary>*Click here to show/hide more detail*</summary>
-**What is Posterior Lenticonus?** Posterior Lenticonus is an inherited, congenital lens abnormality which may result in cataract formation in **both** eyes. This type of “cataract” affects both male and female Samoyeds normally between 1 and 3 years of age.
+<summary>\\*Click here to show/hide more detail\\*</summary>
+\\*\\*What is Posterior Lenticonus?\\*\\* Posterior Lenticonus is an inherited, congenital lens abnormality which may result in cataract formation in \\*\\*both\\*\\* eyes. This type of “cataract” affects both male and female Samoyeds normally between 1 and 3 years of age.
 
 **What is a Cataract?** A cataract is a clouding, or opacity, of the normally clear lens of the eye. Cataracts are classified based on:
 
-- Age of onset (e.g., juvenile)
-- Stage of maturation:
-  - Incipient (<15% of lens involved)
-  - Immature (still see some tapetal reflection through lens)
-  - Mature (obscure tapetal reflection)
-  - Intumescent (imbibed water and is swollen)
-  - Hypermature (liquefaction of lens cortex occurs)
-  - Morgagnian (complete liquefaction of lens cortex, leaking of lens protein leaving nucleus ventrally within a shrunken capsule)
-- Location within the lens (e.g., anterior/posterior cortical areas of the lens)
-- Etiology (e.g, hereditary)
-- Associated with other ocular abnormalities (e.g., Posterior lenticonus)
-- Retinal Disease (N/A to this discussion)
-- Senile (N/A to this discussion)
-- Trauma (N/A to this discussion)
-- Nutritional (N/A to this discussion)
-- Electric shock (N/A to this discussion)
-- Radiation (N/A to this discussion)
+* Age of onset (e.g., juvenile)
+* Stage of maturation:
+
+  * Incipient (<15% of lens involved)
+  * Immature (still see some tapetal reflection through lens)
+  * Mature (obscure tapetal reflection)
+  * Intumescent (imbibed water and is swollen)
+  * Hypermature (liquefaction of lens cortex occurs)
+  * Morgagnian (complete liquefaction of lens cortex, leaking of lens protein leaving nucleus ventrally within a shrunken capsule)
+* Location within the lens (e.g., anterior/posterior cortical areas of the lens)
+* Etiology (e.g, hereditary)
+* Associated with other ocular abnormalities (e.g., Posterior lenticonus)
+* Retinal Disease (N/A to this discussion)
+* Senile (N/A to this discussion)
+* Trauma (N/A to this discussion)
+* Nutritional (N/A to this discussion)
+* Electric shock (N/A to this discussion)
+* Radiation (N/A to this discussion)
 
 **The Anatomy of the Lens:** The lens is a transparent, bioconvex structure that is enclosed within a clear sac (the “lens capsule”). The lens capsule consists of anterior and posterior parts that meet in the middle. The lens epithelium is located beneath the anterior lens capsule. Lens cortex apposes the lens epithelium anteriorly (“anterior cortex”) and the lens capsule posteriorly (“posterior cortex”). The nucleus represents the largest component of the lens and is centrally located. Lens sutures represent junctions between the tips of the lens fibers that make up the lens cortex.
+
 </details>
 
-
-Signs and Symptoms
-------------------
+## Signs and Symptoms
 
 Decreased/impaired vision. Also, the pupils, which
 normally appear black, may undergo noticeable color changes and appear
@@ -56,10 +52,7 @@ treated with anti-inflammatory drops. If left untreated, complications
 such as glaucoma, retinal detachment or the development of intraocular
 adhesions will result.*
 
-
-
-Causes
-------
+## Causes
 
 This lens abnormality is hereditary.
 
@@ -128,20 +121,15 @@ dogs and by the conscientious use of this information in breeding
 programs. We must all work together -- for the benefit of this breed --
 if progress is to be achieved.
 
-Risk Factors
-------------
+## Risk Factors
 
 Sire or dam who has posterior lenticonus or carries the gene for it.
 
-
-
-Diagnostic Tests
-----------------
+## Diagnostic Tests
 
 Ophthalmic examination
 
-Treatment Guidelines
---------------------
+## Treatment Guidelines
 
 > **Note:** Treatment of animals should only be performed by a licensed
 > veterinarian. Veterinarians should consult the current literature and
@@ -155,16 +143,17 @@ diets, vitamins or eye exercises will not dissolve or reduce a cataract.
 **Candidate Selection:** Any major health problems and ophthalmic
 abnormalities should be addressed before cataract surgery is considered.
 
-- A complete physical examination will be performed by your veterinarian, which may include the following preoperative tests:
-  - **Blood and urine analysis**;
-  - **Chest X-rays**; and
-  - **EKG**
+* A complete physical examination will be performed by your veterinarian, which may include the following preoperative tests:
 
-- A complete ophthalmic examination should always be performed:
-  - **Schirmer tear test** (to test for tear production);
-  - **Tonometry** (to check for glaucoma);
-  - **Electroretinography** (to check retinal function); and
-  - **Ocular ultrasound** (to detect any evidence of retinal detachment).
+  * **Blood and urine analysis**;
+  * **Chest X-rays**; and
+  * **EKG**
+* A complete ophthalmic examination should always be performed:
+
+  * **Schirmer tear test** (to test for tear production);
+  * **Tonometry** (to check for glaucoma);
+  * **Electroretinography** (to check retinal function); and
+  * **Ocular ultrasound** (to detect any evidence of retinal detachment).
 
 Depending upon the state of cataract maturation, the experienced
 ophthalmologist may still be able to view the fundus; however, an
@@ -252,15 +241,11 @@ re-examinations.
 **Cost**: The cost is expensive, varies by hospital and may not be
 covered by insurance.
 
-Management
-----------
+## Management
 
 See pre- and post-operative care in the treatment section.
 
-
-
-References
-----------
+## References
 
 <http://www.eyevet.com/cataract_surgery1.htm>  ![two bones
 rating](/img/2-bones.gif)
@@ -272,22 +257,30 @@ rating](/img/2-bones.gif)
 
 Conversations with Dr. Vilma Yuzbasiyan-Gurkan at Michigan State University
 
-
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
 > ![3 bones](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-
-Suggested Links
----------------
+## Suggested Links
 
 <http://www.eyevet.com/cataract_surgery1.htm>
 
 See references above.
 
-"Living with a Disorder" Journal Entries
-----------------------------------------
+## SCARF-sponsored research on cataracts:
 
-- [A Sight for Sore Eyes](/diseases/cataracts-posterior-lenticonus-a-sight-for-sore-eyes)
+* [AKCCHF Grant #02146-A:](/research/current-studies/akcchf-grant-02146-a) Development of a Novel Drug Delivery System to Prevent Vision Loss in Canine Cataract Patients.  Heather Chandler, PhD, Ohio State University.
+* [AKCCHF grant #01670-A:](/research/current-studies/akcchf-grant-01670-a) Pinpointing the causal mutation(s) underlying a genome-wide association signal for hereditary cataract in Northern breeds.  Sally L Ricketts, PhD, Animal Health Trust.
+* [AKCCHF grant #00763:](/research/current-studies/akcchf-grant-00763)  Capsular Tension Ring Effect on Canine Lens Epithelial Migration and Post-Operative Lens Capsule Opacification.  David Wilkie, DVM, Ohio State University.
+* [AKCCHF grant #00972:](/research/current-studies/akcchf-grant-972)  Identification of Mutations Associated with Hereditary Cataracts in Northern Breeds. Cathyrn Mellersh, PhD, Animal Health Trust.
+* [AKCCHF Grant #02277: ](/research/current-studies/akcchf-grant-02277) Identification of the Genetic Cause or Causes for Cataracts in Several Breeds.  George J Brewer MD, University of Michigan.
+* [AKCCHF Grant #01637:](/research/current-studies/akcchf-grant-01637) Identification of DNA Marker(s) for Cataracts in Purebred Dogs, with Emphasis on the Breeds Alaskan Malamute, Siberian Husky, and Samoyed.  Vilma Yuzbasiyan-Gurkan, PhD, Michigan State University.
+
+
+
+
+## "Living with a Disorder" Journal Entries
+
+* [A Sight for Sore Eyes](/diseases/cataracts-posterior-lenticonus-a-sight-for-sore-eyes)
