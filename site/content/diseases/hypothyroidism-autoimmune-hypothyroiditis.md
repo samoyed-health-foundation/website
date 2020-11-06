@@ -266,3 +266,10 @@ of registering with that organization:
 > ![3 bones](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
+>
+>
+## Scarf-Sponsored Research
+
+* [AKCCHF Grant #00305:](/research/current-studies/akcchf-grant-305) Histocompatibility Alleles Conferring Susceptibility to Canine Diabetes, Immune-Mediated Thyroiditis and Immune-Mediated Hemolytic Anemia.  Wayne Potts, PhD, University of Utah. 
+* [AKCCHF Grant #00372:](/research/current-studies/akcchf-grant-372) The Establishment of Breed-Specific Reference Intervals for Thyroid Hormones.  Rebecca L Davies, PhD; Sheila Torres, DVM MS PhD DACVD.
+
