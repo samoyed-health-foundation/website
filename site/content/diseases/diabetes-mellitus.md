@@ -159,7 +159,8 @@ is a godsend to the Diabetic pet caretaker.
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 # Current Research 
-Short AD et al.  2014.  Searching for “monogenic diabetes” in dogs using a candidate gene approach.  Canine Genet Epidemiol 1:8.
+- [Short AD et al. Searching for "monogenic diabetes" in dogs using a candidate gene approach. Canine Genet Epidemiol 2014. 1:8.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4579387/)
+
 
 # SCARF-Sponsored Research
 
