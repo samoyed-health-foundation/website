@@ -13,7 +13,7 @@ accompanied by twisting, it is a life threatening emergency.
 
 **SCARF has sponsored research on Bloat:**
 
-MF D09CA-502:  [Identifying Factors that Affect Survival of Dogs with Stomach Rotation](/research/current-studies/morris-grant-d09ca-502) Elizabeth Rozanski, DVM, Tufts University
+MAF Grant D09CA-502:  [Identifying Factors that Affect Survival of Dogs with Stomach Rotation](/research/current-studies/morris-grant-d09ca-502) Elizabeth Rozanski, DVM, Tufts University
 
 DOGenes Inc. [Bloat Study](/research/current-studies/bloat-study)
 
