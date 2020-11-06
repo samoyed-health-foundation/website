@@ -1,7 +1,6 @@
-+++
-title = "Diabetes mellitus"
-+++
-
+---
+title: Diabetes mellitus
+---
 # Summary
 
 Diabetes mellitus (DM) is a disorder where the body is unable to
@@ -13,7 +12,7 @@ throughout the body and helps regulate blood sugar. Insulin plays an
 important role in the body's ability to use and store glucose.
 
 <details>
-<summary>*Click here to show/hide more detail*</summary>
+<summary>\\\*Click here to show/hide more detail\\\*</summary>
 
 The body's cells use glucose (which travels through the blood) as energy. In order for the body to use glucose, glucose must get inside the cell. Insulin attaches to receptors on the cell, which in turn allows glucose to pass from the blood into the cell.
 
@@ -27,15 +26,11 @@ The body eliminates excess blood glucose by filtering it through the kidneys and
 
 The classic signs of diabetes are
 
--   polyuria (PU) - excessive urination
-
--   polydipsia (PD) - excessive thirst
-
--   polyphagia - excessive appetite or eating
-
--   weight loss
-
--   lethargy
+* polyuria (PU) - excessive urination
+* polydipsia (PD) - excessive thirst
+* polyphagia - excessive appetite or eating
+* weight loss
+* lethargy
 
 As the disease progresses, the signs include anorexia (loss of
 appetite), depression, and vomiting.
@@ -46,27 +41,21 @@ that often occurs in diabetic dogs.
 
 # Causes
 
--   genetic
-
--   immune-mediated destruction of the pancreatic beta cells
-
--   infectious viral diseases
-
--   drugs: glucocorticoids (steroids) and progestagens (reproductive
-    hormones)
-
--   predisposing diseases: hyperadrenocorticism, acromegaly
+* genetic
+* immune-mediated destruction of the pancreatic beta cells
+* infectious viral diseases
+* drugs: glucocorticoids (steroids) and progestagens (reproductive
+  hormones)
+* predisposing diseases: hyperadrenocorticism, acromegaly
 
 # Risk Factors
 
--   OBESITY - both obese cats and dogs are at risk for developing type
-    II diabetes. Cats over 15 pounds are at high risk.
-
--   DIESTRUS in the unspayed female dog. The period of sexual inactivity
-    after the female is receptive.
-
--   Breed predisposition: Samoyeds are about 12 times more likely to
-    develop diabetes compared to mixed breed dogs.
+* OBESITY - both obese cats and dogs are at risk for developing type
+  II diabetes. Cats over 15 pounds are at high risk.
+* DIESTRUS in the unspayed female dog. The period of sexual inactivity
+  after the female is receptive.
+* Breed predisposition: Samoyeds are about 12 times more likely to
+  develop diabetes compared to mixed breed dogs.
 
 # Diagnostic Tests
 
@@ -109,9 +98,7 @@ An excellent tool to help in regulating your dog, is to learn to test
 their blood glucose.  Home blood glucose monitoring should be performed
 in consultation with your veterinarian.
 
-
 # Management
-
 
 Diabetes can be controlled and your dog can live a long quality life
 however it does take significant commitment.  The first few months are
@@ -127,7 +114,7 @@ rewarding experience.
 <https://groups.yahoo.com/neo/groups/diabetespet/info>
 
 Rainbow Pets Diabetes list:
-To join send a plain text email to <majordomo@netwrx1.com>.
+To join send a plain text email to [majordomo@netwrx1.com](mailto:majordomo@netwrx1.com).
 Please note it is the number one and not an L at the end of netwrx.
 Leave the subject line blank.
 Write **subscribe rainbowbridge** in the body of the letter.
@@ -171,16 +158,19 @@ is a godsend to the Diabetic pet caretaker.
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-# Current Research
+# Current Research 
+Short AD et al.  2014.  Searching for “monogenic diabetes” in dogs using a candidate gene approach.  Canine Genet Epidemiol 1:8.
 
-- [SCARF-Sponsored Research](/research/current-studies/akcchf-grant-610)
+# SCARF-Sponsored Research
 
-- [Research by Dr. Hess](/diseases/diabetes-mellitus-research-by-dr-hess)
+* [MAF Grant D10CA-801A:](/research/current-studies/morris-grant-d10ca-801a) Evaluating Treatment for Vision Problems in Diabetic Dogs
+* [AKCCHF Grant # 00610:](/research/current-studies/akcchf-grant-610)  Evaluation of Genetic Markers for Diabetes Mellitus in Samoyed and Australian Terrier Dogs.  Rebecka S Hess, DVM DACVIM, University of Pennsylvania School of Veterinary Medicine.
+* [Published Research by Dr. Hess](/diseases/diabetes-mellitus-research-by-dr-hess)
+* [AKCCHF Grant #00305:](/research/current-studies/akcchf-grant-305) Histocompatibility Alleles Conferring Susceptibility to Canine Diabetes, Immune-Mediated Thyroiditis and Immune-Mediated Hemolytic Anemia.  Wayne Potts, PhD, University of Utah.
 
-- [Other research involving Samoyeds](/diseases/diabetes-mellitus-other-research-involving-samoyeds)
+
 
 # "Living with a Disorder" Journal Entries
 
-- [A Labor of Love](/diseases/diabetes-mellitus-a-labor-of-love)
-
-- [Murray Dog May](/diseases/diabetes-mellitus-murray-dog-may)
+* [A Labor of Love](/diseases/diabetes-mellitus-a-labor-of-love)
+* [Murray Dog May](/diseases/diabetes-mellitus-murray-dog-may)
