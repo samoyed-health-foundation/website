@@ -71,10 +71,10 @@ the kidney in the abdomen to the muscle near the groin.
 
 - - -
 
-\* _Note from the AKC secretary:  "If it was found that a dog had a
+\* *Note from the AKC secretary:  "If it was found that a dog had a
 testicle lowered through a chemical treatment, the dog would be
 disqualified, with all awards received after the treatment rescinded,and
-the owner would be subject to disciplinary action."_
+the owner would be subject to disciplinary action."*
 
 ## Management
 
@@ -130,3 +130,7 @@ e.g. obesity, and I can find no support group for Neuters either.
 > ![3 bones](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
+
+## SCARF-Sponsored Research
+
+* AKCCHF grant #01239-A (closed): [SNP Chip Analyses for Canine Cryptorchidism.](https://www.samoyedhealthfoundation.org/research/current-studies/akcchf-grant-1239-a/) Max F Rothschild, PhD, Iowa State University
