@@ -131,5 +131,5 @@ e.g. obesity, and I can find no support group for Neuters either.
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-##SCARF-sponsored research on cryptorchidism
+## SCARF-sponsored research on cryptorchidism
 * AKCCHF grant #01239-A:  SNP Chip Analyses for Canine Cryptorchidism.  Max F Rothschild, PhD, Iowa State University
