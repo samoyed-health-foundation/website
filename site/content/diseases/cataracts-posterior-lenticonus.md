@@ -11,8 +11,8 @@ affects both male and female Samoyeds normally between 1 and 3 years of
 age.
 
 <details>
-<summary>\\*Click here to show/hide more detail\\*</summary>
-\\*\\*What is Posterior Lenticonus?\\*\\* Posterior Lenticonus is an inherited, congenital lens abnormality which may result in cataract formation in \\*\\*both\\*\\* eyes. This type of “cataract” affects both male and female Samoyeds normally between 1 and 3 years of age.
+<summary>\\\*Click here to show/hide more detail\\\*</summary>
+\\\*\\\*What is Posterior Lenticonus?\\\*\\\* Posterior Lenticonus is an inherited, congenital lens abnormality which may result in cataract formation in \\\*\\\*both\\\*\\\* eyes. This type of “cataract” affects both male and female Samoyeds normally between 1 and 3 years of age.
 
 **What is a Cataract?** A cataract is a clouding, or opacity, of the normally clear lens of the eye. Cataracts are classified based on:
 
@@ -269,7 +269,7 @@ Conversations with Dr. Vilma Yuzbasiyan-Gurkan at Michigan State University
 
 See references above.
 
-## SCARF-sponsored research on cataracts:
+## SCARF-Sponsored Research
 
 * [AKCCHF Grant #02146-A:](/research/current-studies/akcchf-grant-02146-a) Development of a Novel Drug Delivery System to Prevent Vision Loss in Canine Cataract Patients.  Heather Chandler, PhD, Ohio State University.
 * [AKCCHF grant #01670-A:](/research/current-studies/akcchf-grant-01670-a) Pinpointing the causal mutation(s) underlying a genome-wide association signal for hereditary cataract in Northern breeds.  Sally L Ricketts, PhD, Animal Health Trust.
@@ -277,9 +277,6 @@ See references above.
 * [AKCCHF grant #00972:](/research/current-studies/akcchf-grant-972)  Identification of Mutations Associated with Hereditary Cataracts in Northern Breeds. Cathyrn Mellersh, PhD, Animal Health Trust.
 * [AKCCHF Grant #02277: ](/research/current-studies/akcchf-grant-02277) Identification of the Genetic Cause or Causes for Cataracts in Several Breeds.  George J Brewer MD, University of Michigan.
 * [AKCCHF Grant #01637:](/research/current-studies/akcchf-grant-01637) Identification of DNA Marker(s) for Cataracts in Purebred Dogs, with Emphasis on the Breeds Alaskan Malamute, Siberian Husky, and Samoyed.  Vilma Yuzbasiyan-Gurkan, PhD, Michigan State University.
-
-
-
 
 ## "Living with a Disorder" Journal Entries
 
