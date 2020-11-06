@@ -173,3 +173,7 @@ rating](/img/2-bones.gif)
 > ![3 bones](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
+
+## SCARF-Sponsored Research
+* [MAF Grant D10CA-060:](/research/current-studies/morris-grant-d10ca-060) Evaluating the Safety and Efficacy of a Drug to Control Epilepsy in Dogs.  Dawn Merton Boothe, DVM PhD, Auburn University
+
