@@ -109,8 +109,6 @@ This may be temporary and resolve, or persist.
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-## Suggested Links
-
 ## SCARF-Sponsored Research:
 
 AKCCHF grant #00305:[Histocompatibility Alleles Conferring
