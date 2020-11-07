@@ -173,3 +173,6 @@ rating](/img/1-bone.gif)
 > ![3 bones](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
+
+## SCARF-Sponsored Research
+* [AKCCHF grant #01227-A:](/research/current-studies/akcchf-grant-1227-a)  Specificity and Sensitivity of the Pancreatic Lipase Immunoreactivity (SPEC cPL) Test for the Diagnosis of Canine Pancreatitis.  Stanley L Marks, BVSc, PhD, University of California Davis
