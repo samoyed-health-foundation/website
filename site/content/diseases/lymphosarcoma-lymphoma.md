@@ -172,7 +172,7 @@ rating](/img/2-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-##SCARF-Sponsored Research
+## SCARF-Sponsored Research
 * [ AKCCHF Grant #01569:](/research/current-studies/akcchf-grant-1569) Evaluation of GS-9219 in Canine Lymphoma; Dr Douglas H Thamm, VMD; Colorado State University
 * [AKCCHF Grant #01418:](/research/current-studies/akcchf-grant-1418): Providing Engineered T-cells (PET): New Genetic and Immunotherapy Targeting Canines with Spontaneous B-cell Lymphoma; Dr Heather M. Wilson, DVM, Texas A7M University
 * [AKCCHF Grant #01494-A:](/research/current-studies/akcchf-grant-01494-a) Comparison of the level of expression of P-glycoprotein in lymph nodes and peripheral blood lymphocytes in canine lymphoma patients. Bonnie L Boudreaux, DVM, Louisiana State University
