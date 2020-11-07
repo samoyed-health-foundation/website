@@ -109,11 +109,9 @@ This may be temporary and resolve, or persist.
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-## Suggested Links
+## SCARF-Sponsored Research:
 
-**SCARF-Sponsored Research:**
-
-AKCCHF grant #00305:  *[Histocompatibility Alleles Conferring
+AKCCHF grant #00305:[Histocompatibility Alleles Conferring
 Susceptibility to Canine Diabetes, Immune-Mediated Thyroiditis and
 Immune-Mediated Hemolytic
-Anemia.](/research/current-studies/akcchf-grant-305)*
+Anemia.](/research/current-studies/akcchf-grant-305)  Wayne Potts, PhD, University of Utah
