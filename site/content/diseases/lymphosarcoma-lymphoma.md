@@ -179,7 +179,9 @@ rating](/img/2-bones.gif)
 * [MAF Grant D09CA-029:](/research/current-studies/morris-grant-d09ca-029) Determining Risk Factors for Lymphoma.  Dr. Lauren A. Trepanier, University of Wisconsin
 * [AKCCHF grant #00615-B:](/research/current-studies/akcchf-grant-00615b) Heritable and Sporadic Genetic Lesions in Canine Lymphoma.  Jaime F Modiano, VMD PhD
 * [AKCCHF grant #01130:](/research/current-studies/akcchf-grant-01130)  Measurement of Minimal Residual Disease Using Real Time PCR in Canine Lymphoma. Susan E Lana, DVM, Colorado State University
-
+* [AKCCHF grant #01232-A:](/research/current-studies/akcchf-grant-01232-a)  Investigation of NF-kB as a Therapeutic Target in Canine Lymphoma.  Nicola J Mason, BVetMed, PhD, University of Pennsylvania
+* [AKCCHF grant #00613:](/research/current-studies/akcchf-grant-00613)  The Prognostic Significance of Chromosome Aneuploidy in Canine Lymphoma. Matthew Breen, PhD, North Carolina State University
+* [AKCCHF grant #01064-A:](/research/current-studies/akcchf-grant-01064-a) Immuno-cytochemical Detection and siRNA-Mediated Knockdown of Survivin in Canine Lymphoma. Douglas H Thamm, VMD, Colorado State University
 
 ## "Living with a Disorder" Journal Entries
 
