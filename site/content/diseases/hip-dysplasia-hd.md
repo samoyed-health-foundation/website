@@ -138,6 +138,9 @@ Oberbauer AM et al. 2017.  [Long-term genetic selection reduced prevalanece of h
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
+## SCARF-Sponsored Research
+* [AKCCHF Grant #01836: ](/research/current-studies/akcchf-grant-01836) Identifying the Genetic Cause of Canine Hip Dysplasia.  George J Brewer MD, University of Michigan.
+
 ## "Living with a Disorder" Journal Entries
 
 * [Living With Hip Dysplasia](/diseases/hip-dysplasia-hd-living-with)
