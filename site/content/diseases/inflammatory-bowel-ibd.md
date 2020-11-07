@@ -183,6 +183,9 @@ rating](/img/4-bones.gif)
 
 ## SCARF-Sponsored Research
 * [MAF Grant D18CA-045:](https://www.samoyedhealthfoundation.org/research/morris-grant-d18ca-045/) Tackling the Canine Microbiome in Chronic Enteropathy:  Characterizing the Functionally Significant Changes that Occur with Remission of Disease.  Caroline S Mansfield BSC, BVMS, MVM, DECVIM University of Melbourne
+* [AKCCHF Grant #01609:](/research/current-studies/akcchf-grant-1609) Probiotic VSL#3 Reduces Enteritis in Dogs with Inflammatory Bowel Disease; Dr Albert E Jergens, DVM PhD; Iowa State University
+* [AKCCHF grant #00945:](/research/current-studies/akcchf-grant-00945) Mucosal Gene Expression Profiles in Canine Inflammatory Bowel Disease. Albert E Jergens, DVM PhD, Iowa State University
+
 
 ## "Living with a Disorder" Journal Entries
 
