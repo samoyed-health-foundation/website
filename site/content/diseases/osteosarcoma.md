@@ -147,9 +147,13 @@ rating](/img/1-bone.gif)
 [Common Cancers - Osteosarcoma](https://caninecancerawareness.org/canine-cancer-diagnosis/osteosarcoma) at www.caninecancerawareness.org    ![one bone
 rating](/img/1-bone.gif)
 
-## Current Research
-
-[Sponsored by SCARF](https://www.samoyedhealthfoundation.org/research/morris-d19ca-064/)
+## SCARF-Sponsored Research
+* [MAF Grant D19CA-064:](https://www.samoyedhealthfoundation.org/research/morris-d19ca-064/) Synergizing Radiation-Induced Immunogenic Cell Death and Toll-like Receptor 9 Agonism to Generate Abscopal Effects in Canine Osteosarcoma.  Timothy M Fan DVM, PhD.  University of Illinois
+* [MAF Grant D15CA-047:](/research/current-studies/morris-grant-d15ca-047)  Understanding Why and How Canine Osteosarcoma Tumors Spread.  Dr. Jaime F. Modiano, University of Minnesota
+* [AKCCHF Grant #01806](/research/current-studies/akcchf-grant-01806): A Novel Virus-Based Anti-Tumor Treatment for Canine Osteosarcoma.  Bruce F Smith, VMD PhD, Auburn University.
+* [AKCCHF grant #00778:](/research/current-studies/akcchf-grant-00778) Role of Regulatory T Cells in Dogs with Osteosarcoma.  Barbara J Biller, DVM, Colorado State University
+* [AKCCHF grant #00982:](/research/current-studies/akcchf-grant-00982) Evaluation of Efficacy of Fasaret in Dogs with Osteosarcoma.  Don Bellgrau, PhD, ApopLogic Pharmaceuticals LLC
+* [AKCCHF grant #01046-A:](/research/current-studies/akcchf-grant-01046-a) The Relevance of Ezrin in the Metastatic Progression of Canine Osteosarcoma.  Sun Hyeok Hong, DVM PhD, National Cancer Institute
 
 ## "Living with a Disorder" Journal Entries
 
