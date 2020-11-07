@@ -111,9 +111,9 @@ This may be temporary and resolve, or persist.
 
 ## Suggested Links
 
-**SCARF-Sponsored Research:**
+## SCARF-Sponsored Research:
 
-AKCCHF grant #00305:  *[Histocompatibility Alleles Conferring
+AKCCHF grant #00305:[Histocompatibility Alleles Conferring
 Susceptibility to Canine Diabetes, Immune-Mediated Thyroiditis and
 Immune-Mediated Hemolytic
-Anemia.](/research/current-studies/akcchf-grant-305)*
+Anemia.](/research/current-studies/akcchf-grant-305)  Wayne Potts, PhD, University of Utah
