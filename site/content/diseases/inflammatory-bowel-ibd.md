@@ -181,6 +181,9 @@ rating](/img/4-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
+## SCARF-Sponsored Research
+* [MAF Grant D18CA-045:](https://www.samoyedhealthfoundation.org/research/morris-grant-d18ca-045/) Tackling the Canine Microbiome in Chronic Enteropathy:  Characterizing the Functionally Significant Changes that Occur with Remission of Disease.  Caroline S Mansfield BSC, BVMS, MVM, DECVIM University of Melbourne
+
 ## "Living with a Disorder" Journal Entries
 
 * [Living with IBD](/diseases/inflammatory-bowel-ibd-living-with)
