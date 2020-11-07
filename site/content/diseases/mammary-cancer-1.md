@@ -224,7 +224,7 @@ rating](/img/1-bone.gif)
 ## SCARF-Sponsored Research
 * [MAF Grant D14CA-063:](/research/current-studies/morris-grant-d14ca-063) Understanding how Mammary Cancer Develops.  Dr. Gerlinde R. Van de Walle, Cornell University.
 * [MAF Grant D12MS-002):](/research/current-studies/morris-d12ms-002) Examining the Role of Stem Cells and Genes in Mammary Tumor Development; Dr Gerlinde R Van de Walle, Ghent University, Belgium
-* [AKCCHF Grant #00366 (closed):](/research/current-studies/akcchf-grant-0366)  Molecular Control of COX-2 Expression and Regulation of Prostaglandin Transport in Canine Mammary Tumors.  Monique Dore, DVM PhD, University of Montreal. 
+* [AKCCHF Grant #00366:](/research/current-studies/akcchf-grant-0366)  Molecular Control of COX-2 Expression and Regulation of Prostaglandin Transport in Canine Mammary Tumors.  Monique Dore, DVM PhD, University of Montreal. 
 
 ## "Living with a Disorder" Journal Entries
 
