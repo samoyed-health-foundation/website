@@ -133,4 +133,4 @@ e.g. obesity, and I can find no support group for Neuters either.
 
 ## SCARF-Sponsored Research
 
-* AKCCHF grant #01239-A (closed): [SNP Chip Analyses for Canine Cryptorchidism.](https://www.samoyedhealthfoundation.org/research/current-studies/akcchf-grant-1239-a/) Max F Rothschild, PhD, Iowa State University
+* AKCCHF grant #01239-A: [SNP Chip Analyses for Canine Cryptorchidism.](https://www.samoyedhealthfoundation.org/research/current-studies/akcchf-grant-1239-a/) Max F Rothschild, PhD, Iowa State University
