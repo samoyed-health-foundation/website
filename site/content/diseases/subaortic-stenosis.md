@@ -15,6 +15,8 @@ title: Subaortic Stenosis
 
 Thank you to Joy Ritter for putting together this article for SCARF.
 
+Summary
+------------------
 
 The left ventricle (chamber) of the heart pumps oxygenated blood through
 the aorta, a large blood vessel, to the rest of the body.   In aortic stenosis there is a narrowing (stenosis) of the aorta.  The most common type in dogs is subaortic stenosis (SAS) where the narrowing is just below
