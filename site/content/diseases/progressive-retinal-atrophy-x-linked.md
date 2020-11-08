@@ -10,13 +10,11 @@ title: Progressive Retinal Atrophy (X-linked)
 > or
 > [health information reviewer](/become-a-health-information-reviewer).
 
-## Summary
-
 ## Suggested Links
 
-Progressive retinal atrophy.  University of Prince Edward Island. CIDD Database.
+Progressive retinal atrophy.  University of Prince Edward Island. CIDD Database.> ![3 bones](/img/3-bones.gif)
 
-Progressive retinal atrophy.  American College of Veterinary Ophthalmologists
+Progressive retinal atrophy.  American College of Veterinary Ophthalmologists> ![3 bones](/img/3-bones.gif)
 
 Genetic Testing Available for Disorders in Samoyeds. SCARF.
 
@@ -28,15 +26,4 @@ Genetic Testing Available for Disorders in Samoyeds. SCARF.
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-   ![one
-bone
-rating](/img/1-bone.gif)
-
-   ![two bones
-rating](/img/2-bones.gif)
-
-   ![three bones
-rating](/img/3-bones.gif)
-
-  ![four bones
-rating](/img/4-bones.gif)
+  
