@@ -12,6 +12,8 @@ title: Disk Degeneration
 
 
 ## Suggested Links
+[Intervertebral Disk Disease in Dogs](https://www.acvim.org/Animal-Owners/Animal-Education/Health-Fact-Sheets/Neurology/Intervertebral-Disk-Disease-in-Dogs). Fact Sheet from American College of Veterinary Internal Medicine.![three bones
+rating](/img/3-bones.gif)
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
@@ -19,15 +21,4 @@ title: Disk Degeneration
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-   ![one
-bone
-rating](/img/1-bone.gif)
-
-   ![two bones
-rating](/img/2-bones.gif)
-
-   ![three bones
-rating](/img/3-bones.gif)
-
-  ![four bones
-rating](/img/4-bones.gif)
+   
