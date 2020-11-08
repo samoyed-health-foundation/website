@@ -14,6 +14,8 @@ title: Progressive Retinal Atrophy (X-linked)
 
 ## Suggested Links
 
+Progressive retinal atrophy.  University of Prince Edward Island. CIDD Database.
+
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
 > ![3 bones](/img/3-bones.gif)
