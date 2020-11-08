@@ -38,7 +38,8 @@ title: A to Z Diseases
 * [Distichiasis](/diseases/distichiasis) \*\*
 * [Dry Eye (Keratoconjunctivitis Sicca-KCS)](/diseases/keratoconjunctivitis-sicca-kcs-or-dry-eye) *
 * Dudley Nose (Nasal Depigmentation)
-* Dwarfism
+* [Dwarfism](https://www.samoyedhealthfoundation.org/diseases/retinal-dysplasia-folds/) \*\*
+
 
 # E
 
