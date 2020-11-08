@@ -23,6 +23,3 @@ rating](/img/2-bones.gif)
 > ![3 bones](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
-
-   ![two bones
-rating](/img/2-bones.gif)
