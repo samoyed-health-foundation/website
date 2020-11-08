@@ -10,7 +10,6 @@ title: Disk Degeneration
 > or
 > [health information reviewer](/become-a-health-information-reviewer).
 
-## Summary
 
 ## Suggested Links
 
