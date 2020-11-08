@@ -13,6 +13,8 @@ title: Uveitis
 ## Summary
 
 ## Suggested Links
+Kuruts S. 2017. [Canine Uveitis and the Veterinary Technician](https://todaysveterinarynurse.com/articles/canine-uveitis-and-the-veterinary-technician/).  Today’s Veterinary Nurse. ![three bones
+rating](/img/3-bones.gif)
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
@@ -27,8 +29,6 @@ rating](/img/1-bone.gif)
    ![two bones
 rating](/img/2-bones.gif)
 
-   ![three bones
-rating](/img/3-bones.gif)
-
+ 
   ![four bones
 rating](/img/4-bones.gif)
