@@ -11,7 +11,7 @@ title: A to Z Diseases
 * [Albinism, Partial (Albinoid Syndrome)](/diseases/partial-albinism) \*\*
 * [Alopecia X/Growth Hormone/Castration Responsive Dermatosis](/diseases/alopecia-x) *
 * [Anemia](/diseases/anemia) *
-* Aortic Stenosis
+* [Aortic Stenosis](/diseases/subaortic-stenosis) \*\*
 * [Atrial Septal Defect](/diseases/atrial-septal-defect-1) *
 * [Autoimmune Hypothyroiditis (Autoimmune Thyroiditis)](/diseases/hypothyroidism-autoimmune-hypothyroiditis) \*\*
 
