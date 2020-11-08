@@ -10,9 +10,8 @@ title: Uveitis
 > or
 > [health information reviewer](/become-a-health-information-reviewer).
 
-## Summary
-
 ## Suggested Links
+
 Kuruts S. 2017. [Canine Uveitis and the Veterinary Technician](https://todaysveterinarynurse.com/articles/canine-uveitis-and-the-veterinary-technician/).  Today’s Veterinary Nurse. ![three bones
 rating](/img/3-bones.gif)
 
@@ -24,6 +23,3 @@ rating](/img/4-bones.gif)
 > ![3 bones](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
-
-  
- 
