@@ -1,7 +1,6 @@
-+++
-title = "Addison's Disease"
-+++
-
+---
+title: Addison's Disease
+---
 > **Note:** We do not currently have a health liaison for this disorder.
 > If you would like to volunteer, please contact
 > [president@samoyedhealthfoundation.org](mailto:president@samoyedhealthfoundation.org?subject=Questions%20about%20becoming%20a%20Health%20Information%20Liaison%20or%20Reviewer)
@@ -16,15 +15,13 @@ title = "Addison's Disease"
 Addison's Disease (Primary Hypoadrenocorticism) is an endocrine
 disorder where there is insufficient production of the hormones cortisol
 (gludcocorticoids) or aldosterone (mineralocorticoids) or both. We do
-not currently have a volunteer for this disorder. Click on "show more
-detail" to see how you can help and to find a collection of links on
-Addison's Disease.
+not currently have a volunteer for this disorder. 
 
------
+- - -
 
 For more information on the topic and a collection of links:
 
-[http://www.mirage-samoyeds.com/Addison.htm](http://www.mirage-samoyeds.com/Addison.htm)
+<http://www.mirage-samoyeds.com/Addison.htm>
 ![one bone rating](/img/1-bone.gif)
 
 > ![1 bone](/img/1-bone.gif)
