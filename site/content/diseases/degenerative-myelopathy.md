@@ -10,9 +10,10 @@ title: Degenerative Myelopathy
 > or
 > [health information reviewer](/become-a-health-information-reviewer).
 
-## Summary
 
 ## Suggested Links
+[Degenerative Myelopathy](https://cidd.discoveryspace.ca/disorder/degenerative-myelopathy.html). University of Prince Edward Island. CIDD Database.![three bones
+rating](/img/3-bones.gif)
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
@@ -20,15 +21,7 @@ title: Degenerative Myelopathy
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-   ![one
-bone
-rating](/img/1-bone.gif)
-
-   ![two bones
-rating](/img/2-bones.gif)
-
-   ![three bones
-rating](/img/3-bones.gif)
-
+  
+   
   ![four bones
 rating](/img/4-bones.gif)
