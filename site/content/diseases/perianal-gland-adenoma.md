@@ -10,9 +10,13 @@ title: Perianal Gland Adenoma
 > or
 > [health information reviewer](/become-a-health-information-reviewer).
 
-## Summary
-
 ## Suggested Links
+
+[Perianal Gland Adenoma](https://www.animalreferencepathology.com/perianal-gland-adenoma.pml). Animal Reference Pathology.![two bones
+rating](/img/2-bones.gif)
+
+Kessler M. [Perianal Tumors](https://www.vin.com/apputil/content/defaultadv1.aspx?pId=12886&catId=57122&id=7054772). WSAVA Proceedings 2014.![two bones
+rating](/img/2-bones.gif)
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
@@ -20,15 +24,5 @@ title: Perianal Gland Adenoma
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-   ![one
-bone
-rating](/img/1-bone.gif)
-
    ![two bones
 rating](/img/2-bones.gif)
-
-   ![three bones
-rating](/img/3-bones.gif)
-
-  ![four bones
-rating](/img/4-bones.gif)
