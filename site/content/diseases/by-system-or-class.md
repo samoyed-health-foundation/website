@@ -1,9 +1,9 @@
 ---
 title: By System Or Class
 ---
-> **Note:** (An \* means there is a health information liaison for that disease.
+> **Note:** An \* means there is a health information liaison for that disease.
 > \** means the article is written, but we still need a health liaison
-> for the topic)
+> for the topic.  If there is no asterisk we do not have a liaison or an article but have provided links to health information.
 
 # Auto-Immune
 
@@ -29,7 +29,7 @@ title: By System Or Class
 # Digestive/Alimentary Diseases
 
 * [Perianal Fistula](https://www.samoyedhealthfoundation.org/diseases/perianal-fistulas-anal-furunculosis/) \*\*
-* Perianal Gland Adenoma
+* [Perianal Gland Adenoma](/diseases/perianal-gland-adenoma)
 * [Gastric Dilatation-Volvulus (Bloat & Gastric Torsion)](/diseases/bloat)*
 * [Inflammatory Bowel (IBD) & Protein Losing Enteropathy(PLE)](/diseases/inflammatory-bowel-ibd)\*\*
 
@@ -48,11 +48,11 @@ title: By System Or Class
 * [Glaucoma](/diseases/glaucoma)*
 * [Keratoconjunctivitis Sicca (KCS, dry eye)](/diseases/keratoconjunctivitis-sicca-kcs-or-dry-eye) *
 * [Microphthalmia](/diseases/microphthalmia) \*\*
-* Persistent Pupillary Membranes (PPM, Mesodermal Dysgenesis)
-* Progressive Retinal Atrophy (PRA), [including X-linked](https://www.samoyedhealthfoundation.org/diseases/genetic-disorders/)
+* [Persistent Pupillary Membranes (PPM, Mesodermal Dysgenesis)](/diseases/persistent-pupillary-membranes)
+* [Progressive Retinal Atrophy (PRA), including X-linked](/diseases/progressive-retinal-atrophy-x-linked)
 * [Retinal Dysplasia/ Oculoskeletal Dysplasia 2](/diseases/retinal-dysplasia-folds) \*\*
 * [Uveodermatologic Syndrome (UDS, Vogt-Koyanagi-Harada Syndrome, VKH, VKH-like)](/diseases/uveodermatologic-syndrome-uds) *
-* Uveitis
+* [Uveitis](/diseases/uveitis)
 
 # Hearing, Balance
 
@@ -60,11 +60,12 @@ title: By System Or Class
 
 # Heart and Vascular Diseases
 
+* [Aortic Stenosis](/diseases/subaortic-stenosis) \*\*
 * [Atrial Septal Defect](/diseases/atrial-septal-defect-1) *
 * [Pulmonic Stenosis](/diseases/pulmonic-stenosis) \*\*
 * [Subaortic Stenosis (SAS)](/diseases/subaortic-stenosis) \*\*
 * [Ventricular Septal Defect](/diseases/ventricular-septal-defect) *
-* Patent Ductus Arteriosus (PDA)
+* [Patent Ductus Arteriosus (PDA)](/diseases/patent-ductus-arteriosus)
 * [Tricuspid Valve Dysplasia](/diseases/tricuspid-valve-dysplasia) \*\*
 
 # Liver-Pancreas
@@ -76,8 +77,8 @@ title: By System Or Class
 
 # Muscle Diseases
 
-* [Degenerative myelopathy](https://www.samoyedhealthfoundation.org/diseases/genetic-disorders/)
-* Masticatory Myositis (Atrophic Myositis/ Eosinophilic Myotis)
+* [Degenerative myelopathy](/diseases/degenerative-myelopathy)
+* [Masticatory Myositis (Atrophic Myositis/ Eosinophilic Myotis)](/diseases/masticatory-myositis)
 * [Muscular Dystrophy (x-linked)](/diseases/x-linked-muscular-dystrophy) *
 * [X-linked Myopathy](/diseases/x-linked-myopathy)*
 
@@ -86,7 +87,7 @@ title: By System Or Class
 * [Cerebellar Degeneration (Cerebellar Abiotrophy, Progressive Neuronal Abiotrophy)](/diseases/cerebellar-degeneration-cerebeller-abiotrophies) *
 * [Spinal Dysraphism (Spina Bifida, Syringomyelia)](/diseases/spinal-dysraphism) *
 * [Seizures/Epilepsy](/diseases/seizures-epilepsy) *
-* Disk Degeneration
+* [Disk Degeneration](/diseases/disk-degeneration)
 
 # Reproductive Diseases/Problems
 
@@ -97,16 +98,16 @@ title: By System Or Class
 # Skeletal/Orthopedic Diseases
 
 * [Cleft Palate](/diseases/cleft-palate) \*\*
-* Dwarfism
+* [Dwarfism](/diseases/retinal-dysplasia-folds) \*\*
 * [Elbow Dysplasia](/diseases/elbow-dysplasia) \*\*
-* [Familial Enamel Hypoplasia](https://www.samoyedhealthfoundation.org/diseases/genetic-disorders/)
+* [Familial Enamel Hypoplasia](/diseases/familial-enamel-hypoplasia)
 * [Hip Dysplasia](/diseases/hip-dysplasia-hd) \*\*
 * [Luxation of the Patella](/diseases/luxating-patella) \*\*
 * [Panosteitis (Enostosis, Eosinophilic Panosteitis)](/diseases/panosteitis)\*\*
 
 # Skin Diseases
 
-* Dudley Nose (Nasal Depigmentation)
+* [Dudley Nose (Nasal Depigmentation)](/diseases/dudley-nose)
 * [Alopecia X/Growth Hormone/Castration Responsive Dermatosis](/diseases/alopecia-x) *
 * [Partial Albinism (Albinoid Syndrome)](/diseases/partial-albinism) \*\*
 * [Sebaceous Adenitis](/diseases/sebaceous-adenitis-sa) *
