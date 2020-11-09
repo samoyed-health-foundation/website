@@ -84,7 +84,7 @@ title: A to Z Diseases
 # M
 
 * [Mammary (Breast) Cancer](/diseases/mammary-cancer-1) \*\*
-* Masticatory Myositis (Atrophic Myositis/ Eosinophilic Myotis)*
+* [Masticatory Myositis (Atrophic Myositis/ Eosinophilic Myotis)](/diseases/masticatory-myositis)*
 * [Microphthalmia](/diseases/microphthalmia) \*\*
 * [Muscular Dystrophy (x-linked)](/diseases/x-linked-muscular-dystrophy) *
 
