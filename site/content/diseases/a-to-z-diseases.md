@@ -3,7 +3,7 @@ title: A to Z Diseases
 ---
 > **Note:** (An \* means there is a health information liaison for that disease.
 > \** means the article is written, but we still need a health liaison
-> for the topic)
+> for the topic.  If there is no asterisk we do not have an article or liaison but have included links to health information)
 
 # A
 
@@ -31,15 +31,14 @@ title: A to Z Diseases
 # D
 
 * [Deafness (Piebald or Extreme Piebald Gene)](/diseases/piebald-or-extreme-piebald-gene-2013-deafness) \*\*
-* [Degenerative myelopathy](https://www.samoyedhealthfoundation.org/diseases/genetic-disorders/)
+* [Degenerative myelopathy](/diseases/degenerative-myelopathy)
 * [Diabetes Insipidus](/diseases/diabetes-insipidus) *
 * [Diabetes Mellitus](/diseases/diabetes-mellitus) \*\*
-* Disk Degeneration
+* [Disk Degeneration](/diseases/disk-degeneration)
 * [Distichiasis](/diseases/distichiasis) \*\*
 * [Dry Eye (Keratoconjunctivitis Sicca-KCS)](/diseases/keratoconjunctivitis-sicca-kcs-or-dry-eye) *
-* Dudley Nose (Nasal Depigmentation)
+* [Dudley Nose (Nasal Depigmentation)](/diseases/dudley-nose)
 * [Dwarfism](https://www.samoyedhealthfoundation.org/diseases/retinal-dysplasia-folds/) \*\*
-
 
 # E
 
@@ -49,7 +48,7 @@ title: A to Z Diseases
 # F
 
 * [Fading Puppy](/diseases/fading-puppy-syndrome) *
-* [Familial Enamel Hypoplasia](https://www.samoyedhealthfoundation.org/diseases/genetic-disorders/)
+* [Familial Enamel Hypoplasia](/diseases/familial-enamel-hypoplasia)
 
 # G
 
@@ -103,15 +102,15 @@ title: A to Z Diseases
 * [Pancreatitis](/diseases/pancreatitis) *
 * [Panosteitis (Enostosis, Eosinophilic Panosteitis)](/diseases/panosteitis) \*\*
 * [Partial Albinism (Albinoid Syndrome)](/diseases/partial-albinism) \*\*
-* Patent Ductus Arteriosus (PDA)
+* [Patent Ductus Arteriosus (PDA)](/diseases/patent-ductus-arteriosus)
 * [Pelger-Huet Anomaly](/diseases/pelger-huet-anomaly) \*\*
 * [Perianal Fistula](/diseases/perianal-fistulas-anal-furunculosis) \*\*
-* Perianal Gland Adenoma
-* Persistent Pupillary Membranes (PPM, Mesodermal Dysgenesis)
+* [Perianal Gland Adenoma](/diseases/perianal-gland-adenoma)
+* [Persistent Pupillary Membranes (PPM, Mesodermal Dysgenesis)](/diseases/persistent-pupillary-membranes)
 * [Piebald or Extreme Piebald Gene - Deafness](/diseases/piebald-or-extreme-piebald-gene-2013-deafness) \*\*
 * [Portosystemic Shunt (Extrahepatic and Intrahepatic)](https://www.samoyedhealthfoundation.org/diseases/portosystemic-shunts-intrahepatic-and-extrahepatic-liver-shunts/)*
 * [Primary Hypoadrenocorticism (Addison's Disease)](/diseases/addison-s-disease)
-* Progressive Retinal Atrophy (PRA),[ including X-linked](https://www.samoyedhealthfoundation.org/diseases/genetic-disorders/)
+* [Progressive Retinal Atrophy (PRA), including X-linked](/diseases/progressive-retinal-atrophy-x-linked)
 * [Pulmonic Stenosis](/diseases/pulmonic-stenosis) \*\*
 
 # R
@@ -132,7 +131,7 @@ title: A to Z Diseases
 # U
 
 * [Uterine Inertia](/diseases/uterine-inertia) \*\*
-* Uveitis
+* [Uveitis](/diseases/uveitis)
 * [Uveodermatologic Syndrome (UDS, Vogt-Koyanagi-Harada Syndrome, VKH, VKH-like)](/diseases/uveodermatologic-syndrome-uds) *
 
 # V
