@@ -1,9 +1,9 @@
 ---
 title: A to Z Diseases
 ---
-> **Note:** (An \* means there is a health information liaison for that disease.
+> **Note:** An \* means there is a health information liaison for that disease.
 > \** means the article is written, but we still need a health liaison
-> for the topic.  If there is no asterisk we do not have an article or liaison but have included links to health information)
+> for the topic.  If there is no asterisk we do not have an article or liaison but have included links to health information.
 
 # A
 
@@ -84,7 +84,7 @@ title: A to Z Diseases
 # M
 
 * [Mammary (Breast) Cancer](/diseases/mammary-cancer-1) \*\*
-* Masticatory Myositis (Atrophic Myositis/ Eosinophilic Myotis)
+* Masticatory Myositis (Atrophic Myositis/ Eosinophilic Myotis)*
 * [Microphthalmia](/diseases/microphthalmia) \*\*
 * [Muscular Dystrophy (x-linked)](/diseases/x-linked-muscular-dystrophy) *
 
