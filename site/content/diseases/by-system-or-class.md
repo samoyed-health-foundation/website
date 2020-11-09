@@ -1,9 +1,9 @@
 ---
 title: By System Or Class
 ---
-> **Note:** (An \* means there is a health information liaison for that disease.
+> **Note:** An \* means there is a health information liaison for that disease.
 > \** means the article is written, but we still need a health liaison
-> for the topic)
+> for the topic.  If there is no asterisk we do not have a liaison or an article but have provided links to health information.
 
 # Auto-Immune
 
