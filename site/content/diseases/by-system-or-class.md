@@ -98,7 +98,7 @@ title: By System Or Class
 # Skeletal/Orthopedic Diseases
 
 * [Cleft Palate](/diseases/cleft-palate) \*\*
-* [Dwarfism](/diseases/retinal-dysplasia-folds)
+* [Dwarfism](/diseases/retinal-dysplasia-folds) \*\*
 * [Elbow Dysplasia](/diseases/elbow-dysplasia) \*\*
 * [Familial Enamel Hypoplasia](/diseases/familial-enamel-hypoplasia)
 * [Hip Dysplasia](/diseases/hip-dysplasia-hd) \*\*
