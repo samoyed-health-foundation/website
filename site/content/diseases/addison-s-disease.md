@@ -83,7 +83,7 @@ Lastly, the vet may also check for changes in your dog’s heart by running an e
 > current pharmacological formularies before initiating any treatment
 > protocol.
 
-There are two stages of treatment for Addison’s disease. During an Addisonian crisis, intensive therapy in a veterinary hospital is typically required to end the crisis. This includes intravenous fluids, cortisol-like drugs, and drugs to counteract the effect of high serum potassium on the heart. Once the dog is out of immediate danger, the long-term treatment involves life-long administration of replacement hormones.  Aldosterone may be replaced as either a daily pill (fludrocortisone) or an injection that is given about every 25 days (desoxycorticosterone pivalate, DOCP). Fludrocortisone also has cortisol-like activity.  If the aldosterone is replaced by DOCP injection, the cortisol must also be replaced with an oral glucocorticoid, typically prednisone (6).
+There are two stages of treatment for Addison’s disease. During an Addisonian crisis, intensive therapy in a veterinary hospital is typically required to end the crisis. This includes intravenous fluids, cortisol-like drugs, and drugs to counteract the effect of high serum potassium on the heart. Once the dog is out of immediate danger, the long-term treatment involves life-long administration of replacement hormones.  Aldosterone may be replaced as either a daily pill (fludrocortisone) or an injection that is given about every 25 days (desoxycorticosterone pivalate, DOCP). Fludrocortisone also has cortisol-like activity.  If the aldosterone is replaced by DOCP injection, the cortisol must also be replaced with an oral glucocorticoid, typically prednisone  or dexamethasone (6).
 
 There is an ongoing research study at Michigan State University College of Veterinary Medicine on the dosing of the injection.  The [background information for the study](https://cvm.msu.edu/assets/documents/Zycortol-DOCP-Dose-Study-Background-and-Design.pdf) gives a good description of some of the challenges and costs of treatment.  
 
@@ -147,4 +147,4 @@ Lathan P and Thompson A. 2018.  [Management of hypoadrenocorticism (Addison’s 
 
 ## "Living with a Disorder" Journal Entries
 
-* [What it is like to have a dog with this disorder] (/diseases/addison’s-living-with)
+* [What it is like to have a dog with this disorder](/diseases/addison’s-living-with)
