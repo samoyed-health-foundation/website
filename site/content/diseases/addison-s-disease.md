@@ -5,10 +5,9 @@ title: Addison's Disease
 
 **Email:** \[Phyllis.E.Edwards@gmail.com](mailto:Phyllis.E.Edwards@gmail.com)
 
-Addison’s Disease, also called hypoadrenocorticism or adrenal insufficiency, is a disorder in which the adrenal glands don’t produce enough hormones to allow the body to function normally.  The adrenal glands, located above the kidneys, are unable to produce sufficient amounts of cortisol and aldosterone hormones.  This disease can be life-threatening but can be managed by taking replacement hormones.
+Addison’s Disease, also called hypoadrenocorticism or adrenal insufficiency, is a disorder in which the adrenal glands don’t produce enough hormones to allow the body to function normally.  The adrenal glands, located above the kidneys, are unable to produce sufficient amounts of cortisol and aldosterone hormones.  This disease can be life-threatening but can be managed by taking replacement hormones (1).
 
-\
-Put description here, may call it summary
+Addison’s disease affects humans as well as animals. In the United States Addison’s disease affects 1 in 100,000 people, men and women equally, and all age groups especially the 30-50 year olds (2).  This disease was first noticed in humans around the middle of the 19th century and was named after Thomas Addison.  3
 
 ## Signs and Symptoms
 
