@@ -48,7 +48,7 @@ If your dog’s first signs and symptoms of Addison’s go undiagnosed and come 
 
 ## Causes
 
-Addison’s disease is caused by damage to the adrenal glands.  Underlying reasons why the adrenal glands may no longer work may stem from these conditions (3, 4, 7).
+Addison’s disease is caused by damage to the adrenal glands.  Underlying reasons why the adrenal glands may no longer work may stem from these conditions (3, 4a, 7).
 
 * Autoimmune disorder, immune system mistakenly attacks adrenal glands
 * Tumor or defect in the pituitary gland so that it no longer signals the adrenal glands to produce hormones
@@ -62,7 +62,7 @@ Addison’s disease is caused by damage to the adrenal glands.  Underlying reas
 
 ## Risk Factors
 
-
+A predisposing condition or situation that may make your dog more at risk or susceptible to a disease is considered a “risk factor”.  Although research has indicated there is a genetic link, especially in certain breeds, the direct cause is unknown.  Mostly Addison’s is considered to be an autoimmune disease and there is some indication that Addison’s is becoming more common (4b)
 
 ## Diagnostic Tests
 
