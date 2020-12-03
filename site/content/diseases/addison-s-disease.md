@@ -3,7 +3,7 @@ title: Addison's Disease
 ---
 **Liaison:** Phyllis Edwards
 
-**Email:** \[Phyllis.E.Edwards@gmail.com](mailto:Phyllis.E.Edwards@gmail.com)
+**Email:** \[Phyllis.E.Edwards@gmail.com] (mailto:Phyllis.E.Edwards@gmail.com)
 
 Addison’s Disease, also called hypoadrenocorticism or adrenal insufficiency, is a disorder in which the adrenal glands don’t produce enough hormones to allow the body to function normally.  The adrenal glands, located above the kidneys, are unable to produce sufficient amounts of cortisol and aldosterone hormones.  This disease can be life-threatening but can be managed by taking replacement hormones (1).
 
