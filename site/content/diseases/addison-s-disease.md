@@ -91,6 +91,14 @@ Be prepared to visit the veterinarian frequently for the first month after diagn
 
 ## Management
 
+Because dogs with Addison’s disease cannot produce sufficient amounts of cortisol in response to stress, stress should be minimized whenever possible. It may be necessary to increase the amount of hormones given should you foresee any upcoming overtaxing events (e.g. professional grooming away from home, boarding, surgery, travel, etc.) (6).
+
+“Pet owners must be well aware of the subtle signs of illness and committed to daily medication and regular rechecks for the rest of the dog’s life” (9).
+
+Your dog can be expected to live a happy and healthy life after diagnosis and hormone replacement treatment.  Many dogs resume being their playful old selves soon after beginning treatment if the disease is diagnosed in time (4b).
+
+“The good news is that, with proper treatment and monitoring, a dog with Addison’s disease has the same life expectancy as one without the disease” (10).
+
 ## References
 
 > ![1 bone](/img/1-bone.gif)
