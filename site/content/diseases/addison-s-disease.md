@@ -66,7 +66,15 @@ A predisposing condition or situation that may make your dog more at risk or sus
 
 ## Diagnostic Tests
 
-xxx
+Since the initial signs and symptoms of Addison’s disease are vague and may mimic the clinical signs associated with other diseases, the correct diagnosis usually occurs during an Addisonian crisis.   Once the dog is stabilized, the veterinarian will administer a series of tests that may include an Adrenocorticotropic hormone (ACTH) stimulation test, blood panel, urinalysis,  leukogram (looks at white blood cells) and an electrocardiogram (ECG).
+
+The most important test for Addison’s is the ACTH stimulation test. The cortisol level in blood is measured, the adrenals stimulated with a dose of a synthetic ACTH, then cortisol levels are measured again.  In a healthy dog, the adrenals will respond and the level of cortisol will increase. The results of this test help the veterinarian detect diseases that are associated with an excess or deficiency of cortisol in the body (4a).
+
+A blood panel helps to identify if potassium and urea levels are high and whether changes in the levels of sodium, chloride, and calcium in the blood are indicative of Addison’s.  
+
+A leukogram may be performed since sick dogs often show a pattern of changes in their white blood cells (WBCs) called a stress leukogram. The changes in the pattern in the WBCs is caused by cortisol.  When the test reveals the absence of a stress leukogram in a sick dog, this may be a clue to consider Addison’s disease.
+
+Lastly, the vet may also check for changes in your dog’s heart by running an electrocardiogram (ECG) (6).
 
 ## Treatment Guidelines
 
@@ -74,6 +82,8 @@ xxx
 > veterinarian. Veterinarians should consult the current literature and
 > current pharmacological formularies before initiating any treatment
 > protocol.
+
+There are two stages of treatment for Addison’s disease. During an Addisonian crisis, intensive therapy in a veterinary hospital is typically required to end the crisis. This includes intravenous fluids, cortisol-like drugs, and drugs to counteract the effect of high serum potassium on the heart. Once the dog is out of immediate danger, the long-term treatment involves life-long administration of replacement hormones.  Aldosterone may be replaced as either a daily pill (fludrocortisone) or an injection that is given about every 25 days (desoxycorticosterone pivalate, DOCP). Fludrocortisone also has cortisol-like activity.  If the aldosterone is replaced by DOCP injection, the cortisol must also be replaced with an oral glucocorticoid, typically prednisone. 6
 
 ## Management
 
