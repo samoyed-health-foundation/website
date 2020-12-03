@@ -131,18 +131,21 @@ Your dog can be expected to live a happy and healthy life after diagnosis and ho
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 ## Support Groups
+Here are a couple of online support groups for dogs with Addison’s:
 
+CaRe:  Canine Addison’s Resource & Education: https://canineaddisons.org/
+ See “Our Stories” for a collection of experiences shared by clients who have struggled with getting a diagnosis and with prescriptions that were dosed terribly wrong.
+There is also a link to their Facebook group.
 
-
-## Suggested Links
-
-> ![1 bone](/img/1-bone.gif)
-> ![2 bones](/img/2-bones.gif)
-> ![3 bones](/img/3-bones.gif)
-> ![4 bones](/img/4-bones.gif)
-> [(full description of ratings)](/diseases/ratings-what-do-they-mean)
+Addison’s Dogs- Canine Addison’s Disease Public Facebook Group  https://www.facebook.com/groups/addisonsdogs
 
 ## Current Research
+
+Lathan P and Thompson A. 2018.  Management of hypoadrenocorticism (Addison’s Disease) in Dogs.   Veterinary Medicine (Auckl) 9:1-10.   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6055912/ (published paper)  THREE BONES
+
+Addison’s Disease Research in Progress – Genetics Study in several breeds (NOT Samoyeds) by College of Veterinary Medicine (Canine Genetics Lab, University of Minnesota) https://vetmed.umn.edu/research/labs/canine-genetics-lab/genetic-research/addisons-disease 
+
+New Dosage Protocol for Dogs with Addison’s disease: A Randomized Controlled Clinical Trial, College of Veterinary Medicine, Michigan State University. https://cvm.msu.edu/vetschool-tails/new-dosage-protocol-for-dogs-with-addisons-disease-a-randomized-controlled-clinical-trial (research in progress)
 
 ![1 bone](/img/1-bone.gif)
 ![2 bones](/img/2-bones.gif)
