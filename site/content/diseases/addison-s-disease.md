@@ -126,11 +126,10 @@ Your dog can be expected to live a happy and healthy life after diagnosis and ho
 
 Here are a couple of online support groups for dogs with Addison’s:
 
-CaRe:  Canine Addison’s Resource & Education: https://canineaddisons.org/
- See “Our Stories” for a collection of experiences shared by clients who have struggled with getting a diagnosis and with prescriptions that were dosed terribly wrong.
-There is also a link to their Facebook group.
+[CaRe:  Canine Addison’s Resource & Education](https://canineaddisons.org/): 
+ See “Our Stories” for a collection of experiences shared by clients who have struggled with getting a diagnosis and with prescriptions that were dosed terribly wrong. There is also a link to their Facebook group.
 
-Addison’s Dogs- Canine Addison’s Disease Public Facebook Group  https://www.facebook.com/groups/addisonsdogs
+[Addison’s Dogs](https://www.facebook.com/groups/addisonsdogs)- Canine Addison’s Disease Public Facebook Group  
 
 ## Current Research
 
@@ -149,11 +148,3 @@ New Dosage Protocol for Dogs with Addison’s disease: A Randomized Controlled C
 ## "Living with a Disorder" Journal Entries
 
 * What it is like to have a dog with this disorder
-
-  ![one bone rating](/img/1-bone.gif)
-
-   ![two bones rating](/img/2-bones.gif)
-
-   ![three bones rating](/img/3-bones.gif)
-
-  ![four bones rating](/img/4-bones.gif)
