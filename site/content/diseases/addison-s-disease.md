@@ -87,7 +87,7 @@ There are two stages of treatment for Addison’s disease. During an Addisonian 
 
 There is an ongoing research study at Michigan State University College of Veterinary Medicine on the dosing of the injection.  The background information gives a good description of some of the challenges and costs of treatment.  <https://cvm.msu.edu/assets/documents/Zycortol-DOCP-Dose-Study-Background-and-Design.pdf>
 
-Be prepared to visit the veterinarian frequently for the first month after diagnosis so that your dog’s hormones and electrolyte levels can be measured and medication adjustments made. After the first month, the long term treatment includes regular testing to ensure the correct dosage is given to your pet as his body chemistry may change over time. Follow any additional protocols your veterinarian prescribes.  4a
+Be prepared to visit the veterinarian frequently for the first month after diagnosis so that your dog’s hormones and electrolyte levels can be measured and medication adjustments made. After the first month, the long term treatment includes regular testing to ensure the correct dosage is given to your pet as his body chemistry may change over time. Follow any additional protocols your veterinarian prescribes (4a).
 
 ## Management
 
