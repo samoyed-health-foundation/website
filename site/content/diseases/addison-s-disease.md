@@ -155,4 +155,4 @@ New Dosage Protocol for Dogs with Addison’s disease: A Randomized Controlled C
 
 ## "Living with a Disorder" Journal Entries
 
-*
+* What it is like to have a dog with this disorder
