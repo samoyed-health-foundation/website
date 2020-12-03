@@ -101,20 +101,20 @@ Your dog can be expected to live a happy and healthy life after diagnosis and ho
 
 ## References
 
-1. [Addison’s Disease](<1. https://www.mayoclinic.org/diseases-conditions/addisons-disease/symptoms-causes/syc-20350293>).  Mayo Clinic.      THREE BONES
-2. Addison’s Disease.  Cleveland Clinic.  https://my.clevelandclinic.org/health/diseases/15095-addisons-disease     THREE BONES
-3. A guide to Addison’s Disease in Dogs. PawDiet.  https://www.pawdiet.com/library/addisons-disease-in-dogs/     ONE BONE
+1. [Addison’s Disease](<1. https://www.mayoclinic.org/diseases-conditions/addisons-disease/symptoms-causes/syc-20350293>).  Mayo Clinic.   ![three bones rating](/img/3-bones.gif)
+2. [Addison’s Disease](<1. https://my.clevelandclinic.org/health/diseases/15095-addisons-disease>).  Cleveland Clinic.   ![three bones rating](/img/3-bones.gif)
+3. [A guide to Addison’s Disease in Dogs](<1.  https://www.pawdiet.com/library/addisons-disease-in-dogs/>). PawDiet.    ![one bone rating](/img/1-bone.gif)
 
-4a. Burke A. Addison's Disease in Dogs: Symptoms, Diagnosis, Treatment, and Prevention – American Kennel Club September 2020. https://www.akc.org/expert-advice/health/addisons-disease-in-dogs-symptoms-treatment-prevention/  
+4a. Burke A. [Addison's Disease in Dogs: Symptoms, Diagnosis, Treatment, and Prevention](https://www.akc.org/expert-advice/health/addisons-disease-in-dogs-symptoms-treatment-prevention/) – American Kennel Club September 2020.     ![two bones rating](/img/2-bones.gif)
 
-4b. Paddock A. Addison’s Disease in Dogs—Early Recognition Is Critical – American Kennel Club July 2015.    https://www.akc.org/expert-advice/health/addisons-disease-in-dogs/ TWO BONES
+4b. Paddock A. [Addison’s Disease in Dogs—Early Recognition Is Critical](https://www.akc.org/expert-advice/health/addisons-disease-in-dogs/) – American Kennel Club July 2015.        ![two bones rating](/img/2-bones.gif)
 
-5. Ward E and Downing R.   Addison’s Disease in Dogs overview.  VCA Hospitals. https://vcahospitals.com/know-your-pet/addisons-disease-in-dogs-overview   TWO BONES
-6. Addison's Disease. Washington State University School of Veterinary Medicine.  https://www.vetmed.wsu.edu/outreach/Pet-Health-Topics/categories/diseases/addison's-disease   THREE BONES
-7. Farricelli A.  Signs of an Addisonian Crisis in Dogs. Pethelpful July 2019.  https://pethelpful.com/dogs/Signs-of-an-Addisonian-Crisis-in-Dogs TWO BONES
-8. What is Addison’s Disease in Dogs.  Facty July 2019.  https://facty.com/network/answers/pets/what-is-addisons-disease-in-dogs/ TWO BONES
-9. Galati P, Lathan P.  Diagnosis and Management of Hypoadrenocorticism in Dogs.  Today’s Veterinary Practice, July/Aug 2019.  https://todaysveterinarypractice.com/diagnosis-and-management-of-hypoadrenocorticism-in-dogs/     THREE BONES
-10. Clark M. Addison's Disease In Dogs: Symptoms, Causes, And Treatment. DogTime.  https://dogtime.com/dog-health/52915-addisons-disease-dogs-symptoms-causes-treatment ONE BONE
+5. Ward E and Downing R.   [Addison’s Disease in Dogs overview](<5. https://vcahospitals.com/know-your-pet/addisons-disease-in-dogs-overview>).  VCA Hospitals.     ![two bones rating](/img/2-bones.gif)
+6. Addison's Disease. Washington State University School of Veterinary Medicine.  https://www.vetmed.wsu.edu/outreach/Pet-Health-Topics/categories/diseases/addison's-disease     ![three bones rating](/img/3-bones.gif)
+7. Farricelli A.  [Signs of an Addisonian Crisis in Dogs](<5. https://pethelpful.com/dogs/Signs-of-an-Addisonian-Crisis-in-Dogs>). Pethelpful July 2019.      ![two bones rating](/img/2-bones.gif)
+8. [What is Addison’s Disease in Dogs](<5. https://facty.com/network/answers/pets/what-is-addisons-disease-in-dogs/>).  Facty July 2019.      ![two bones rating](/img/2-bones.gif)
+9. Galati P, Lathan P.  [Diagnosis and Management of Hypoadrenocorticism in Dogs](<5. https://todaysveterinarypractice.com/diagnosis-and-management-of-hypoadrenocorticism-in-dogs/>).  Today’s Veterinary Practice, July/Aug 2019.         ![three bones rating](/img/3-bones.gif)
+10. Clark M. [Addison's Disease In Dogs: Symptoms, Causes, And Treatment](<5. https://dogtime.com/dog-health/52915-addisons-disease-dogs-symptoms-causes-treatment>). DogTime.     ![one bone rating](/img/1-bone.gif)
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
@@ -134,7 +134,7 @@ Addison’s Dogs- Canine Addison’s Disease Public Facebook Group  https://www.
 
 ## Current Research
 
-Lathan P and Thompson A. 2018.  Management of hypoadrenocorticism (Addison’s Disease) in Dogs.   Veterinary Medicine (Auckl) 9:1-10.   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6055912/ (published paper)  THREE BONES
+Lathan P and Thompson A. 2018.  Management of hypoadrenocorticism (Addison’s Disease) in Dogs.   Veterinary Medicine (Auckl) 9:1-10.   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6055912/ (published paper)   ![three bones rating](/img/3-bones.gif)
 
 Addison’s Disease Research in Progress – Genetics Study in several breeds (NOT Samoyeds) by College of Veterinary Medicine (Canine Genetics Lab, University of Minnesota) https://vetmed.umn.edu/research/labs/canine-genetics-lab/genetic-research/addisons-disease 
 
@@ -149,3 +149,11 @@ New Dosage Protocol for Dogs with Addison’s disease: A Randomized Controlled C
 ## "Living with a Disorder" Journal Entries
 
 * What it is like to have a dog with this disorder
+
+  ![one bone rating](/img/1-bone.gif)
+
+   ![two bones rating](/img/2-bones.gif)
+
+   ![three bones rating](/img/3-bones.gif)
+
+  ![four bones rating](/img/4-bones.gif)
