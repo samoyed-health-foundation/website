@@ -101,8 +101,8 @@ Your dog can be expected to live a happy and healthy life after diagnosis and ho
 
 ## References
 
-1. [Addison’s Disease](<1. https://www.mayoclinic.org/diseases-conditions/addisons-disease/symptoms-causes/syc-20350293>).  Mayo Clinic.   ![three bones rating](/img/3-bones.gif)
-2. [Addison’s Disease](<1. https://my.clevelandclinic.org/health/diseases/15095-addisons-disease>).  Cleveland Clinic.   ![three bones rating](/img/3-bones.gif)
+1. [Addison’s Disease](https://www.mayoclinic.org/diseases-conditions/addisons-disease/symptoms-causes/syc-20350293).  Mayo Clinic.   ![three bones rating](/img/3-bones.gif)
+2. [Addison’s Disease](https://my.clevelandclinic.org/health/diseases/15095-addisons-disease).  Cleveland Clinic.   ![three bones rating](/img/3-bones.gif)
 3. [A guide to Addison’s Disease in Dogs](<1.  https://www.pawdiet.com/library/addisons-disease-in-dogs/>). PawDiet.    ![one bone rating](/img/1-bone.gif)
 4. American Kennel Club.  4a: Burke A. [Addison's Disease in Dogs: Symptoms, Diagnosis, Treatment, and Prevention](https://www.akc.org/expert-advice/health/addisons-disease-in-dogs-symptoms-treatment-prevention/) – American Kennel Club September 2020.  4b: Paddock A. [Addison’s Disease in Dogs—Early Recognition Is Critical](https://www.akc.org/expert-advice/health/addisons-disease-in-dogs/) – American Kennel Club July 2015.  ![two bones rating](/img/2-bones.gif)
 5. Ward E and Downing R.   [Addison’s Disease in Dogs overview](<5. https://vcahospitals.com/know-your-pet/addisons-disease-in-dogs-overview>).  VCA Hospitals.     ![two bones rating](/img/2-bones.gif)
