@@ -3,7 +3,7 @@ title: Addison's Disease
 ---
 **Liaison:** Phyllis Edwards
 
-**Email:** \[Phyllis.E.Edwards@gmail.com] (mailto:Phyllis.E.Edwards@gmail.com)
+**Email:** [Phyllis.E.Edwards@gmail.com] (mailto:Phyllis.E.Edwards@gmail.com)
 
 Addison’s Disease, also called hypoadrenocorticism or adrenal insufficiency, is a disorder in which the adrenal glands don’t produce enough hormones to allow the body to function normally.  The adrenal glands, located above the kidneys, are unable to produce sufficient amounts of cortisol and aldosterone hormones.  This disease can be life-threatening but can be managed by taking replacement hormones (1).
 
@@ -62,7 +62,7 @@ Addison’s disease is caused by damage to the adrenal glands.  Underlying reas
 
 ## Risk Factors
 
-A predisposing condition or situation that may make your dog more at risk or susceptible to a disease is considered a “risk factor”.  Although research has indicated there is a genetic link, especially in certain breeds, the direct cause is unknown.  Mostly Addison’s is considered to be an autoimmune disease and there is some indication that Addison’s is becoming more common (4b)
+A predisposing condition or situation that may make your dog more at risk or susceptible to a disease is considered a “risk factor”.  Although research has indicated there is a genetic link, especially in certain breeds, the direct cause is unknown.  Mostly Addison’s is considered to be an autoimmune disease and there is some indication that Addison’s is becoming more common (4b).
 
 ## Diagnostic Tests
 
