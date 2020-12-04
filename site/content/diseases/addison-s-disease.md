@@ -103,14 +103,14 @@ Your dog can be expected to live a happy and healthy life after diagnosis and ho
 
 1. [Addison’s Disease](https://www.mayoclinic.org/diseases-conditions/addisons-disease/symptoms-causes/syc-20350293).  Mayo Clinic.   ![three bones rating](/img/3-bones.gif)
 2. [Addison’s Disease](https://my.clevelandclinic.org/health/diseases/15095-addisons-disease).  Cleveland Clinic.   ![three bones rating](/img/3-bones.gif)
-3. [A guide to Addison’s Disease in Dogs](<1.  https://www.pawdiet.com/library/addisons-disease-in-dogs/>). PawDiet.    ![one bone rating](/img/1-bone.gif)
+3. [A guide to Addison’s Disease in Dogs](https://www.pawdiet.com/library/addisons-disease-in-dogs/). PawDiet.    ![one bone rating](/img/1-bone.gif)
 4. American Kennel Club.  4a: Burke A. [Addison's Disease in Dogs: Symptoms, Diagnosis, Treatment, and Prevention](https://www.akc.org/expert-advice/health/addisons-disease-in-dogs-symptoms-treatment-prevention/) – American Kennel Club September 2020.  4b: Paddock A. [Addison’s Disease in Dogs—Early Recognition Is Critical](https://www.akc.org/expert-advice/health/addisons-disease-in-dogs/) – American Kennel Club July 2015.  ![two bones rating](/img/2-bones.gif)
-5. Ward E and Downing R.   [Addison’s Disease in Dogs overview](<5. https://vcahospitals.com/know-your-pet/addisons-disease-in-dogs-overview>).  VCA Hospitals.     ![two bones rating](/img/2-bones.gif)
-6. Addison's Disease. Washington State University School of Veterinary Medicine.  https://www.vetmed.wsu.edu/outreach/Pet-Health-Topics/categories/diseases/addison's-disease     ![three bones rating](/img/3-bones.gif)
-7. Farricelli A.  [Signs of an Addisonian Crisis in Dogs](<5. https://pethelpful.com/dogs/Signs-of-an-Addisonian-Crisis-in-Dogs>). Pethelpful July 2019.      ![two bones rating](/img/2-bones.gif)
-8. [What is Addison’s Disease in Dogs](<5. https://facty.com/network/answers/pets/what-is-addisons-disease-in-dogs/>).  Facty July 2019.      ![two bones rating](/img/2-bones.gif)
-9. Galati P, Lathan P.  [Diagnosis and Management of Hypoadrenocorticism in Dogs](<5. https://todaysveterinarypractice.com/diagnosis-and-management-of-hypoadrenocorticism-in-dogs/>).  Today’s Veterinary Practice, July/Aug 2019.         ![three bones rating](/img/3-bones.gif)
-10. Clark M. [Addison's Disease In Dogs: Symptoms, Causes, And Treatment](<5. https://dogtime.com/dog-health/52915-addisons-disease-dogs-symptoms-causes-treatment>). DogTime.     ![one bone rating](/img/1-bone.gif)
+5. Ward E and Downing R.   [Addison’s Disease in Dogs overview](https://vcahospitals.com/know-your-pet/addisons-disease-in-dogs-overview).  VCA Hospitals.     ![two bones rating](/img/2-bones.gif)
+6. [Addison's Disease.](https://www.vetmed.wsu.edu/outreach/Pet-Health-Topics/categories/diseases/addison's-disease) Washington State University School of Veterinary Medicine    ![three bones rating](/img/3-bones.gif)
+7. Farricelli A.  [Signs of an Addisonian Crisis in Dogs](https://pethelpful.com/dogs/Signs-of-an-Addisonian-Crisis-in-Dogs). Pethelpful July 2019.      ![two bones rating](/img/2-bones.gif)
+8. [What is Addison’s Disease in Dogs](https://facty.com/network/answers/pets/what-is-addisons-disease-in-dogs/).  Facty July 2019.      ![two bones rating](/img/2-bones.gif)
+9. Galati P, Lathan P.  [Diagnosis and Management of Hypoadrenocorticism in Dogs](https://todaysveterinarypractice.com/diagnosis-and-management-of-hypoadrenocorticism-in-dogs/).  Today’s Veterinary Practice, July/Aug 2019.         ![three bones rating](/img/3-bones.gif)
+10. Clark M. [Addison's Disease In Dogs: Symptoms, Causes, And Treatment](https://dogtime.com/dog-health/52915-addisons-disease-dogs-symptoms-causes-treatment). DogTime.     ![one bone rating](/img/1-bone.gif)
 
 > ![1 bone](/img/1-bone.gif)
 > ![2 bones](/img/2-bones.gif)
@@ -143,4 +143,4 @@ Lathan P and Thompson A. 2018.  [Management of hypoadrenocorticism (Addison’s 
 
 ## "Living with a Disorder" Journal Entries
 
-* [What it is like to have a dog with this disorder] (/diseases/addison’s-living-with)
+* [What it is like to have a dog with this disorder](/diseases/addison’s-living-with)
