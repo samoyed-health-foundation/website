@@ -143,4 +143,4 @@ Lathan P and Thompson A. 2018.  [Management of hypoadrenocorticism (Addison’s 
 
 ## "Living with a Disorder" Journal Entries
 
-* [What it is like to have a dog with this disorder](/diseases/addison’s-living-with)
+* [What it is like to have a dog with this disorder](/diseases/addisons-living-with)
