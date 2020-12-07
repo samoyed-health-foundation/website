@@ -10,6 +10,7 @@ title: By System Or Class
 * [Immune-Mediated Thrombocytopenia](/diseases/immune-mediated-thrombocytopenia) \*\*
 * [Immune-Mediated Hemolytic Anemia](/diseases/immune-mediated-hemolytic-anemia) \*\*
 * [Autoimmune Hypothyroiditis (Autoimmune Thyroiditis)](/diseases/hypothyroidism-autoimmune-hypothyroiditis) \*\*
+* [Hypoadrenocorticism (Addison's Disease)](/diseases/addison-s-disease)*
 
 # Blood and Lymphatic Diseases
 
