@@ -37,7 +37,7 @@ title: By System Or Class
 
 * [Hypothyroidism (Autoimmune Thyroiditis)](/diseases/hypothyroidism-autoimmune-hypothyroiditis) \*\*
 * [Pancreatitis](https://www.samoyedhealthfoundation.org/diseases/pancreatitis/)*
-* Primary Hypoadrenocorticism (Addison's Disease)\*\*
+* [Primary Hypoadrenocorticism](/diseases/addison-s-disease) (Addison's Disease)\*\*
 * [Hyperadrenocorticism (Cushing's)](/diseases/cushing-s-disease) *
 
 # Eye/Ocular Diseases
