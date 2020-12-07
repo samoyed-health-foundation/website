@@ -10,6 +10,7 @@ title: By System Or Class
 * [Immune-Mediated Thrombocytopenia](/diseases/immune-mediated-thrombocytopenia) \*\*
 * [Immune-Mediated Hemolytic Anemia](/diseases/immune-mediated-hemolytic-anemia) \*\*
 * [Autoimmune Hypothyroiditis (Autoimmune Thyroiditis)](/diseases/hypothyroidism-autoimmune-hypothyroiditis) \*\*
+* [Hypoadrenocorticism (Addison's Disease)](/diseases/addison-s-disease)*
 
 # Blood and Lymphatic Diseases
 
@@ -37,7 +38,7 @@ title: By System Or Class
 
 * [Hypothyroidism (Autoimmune Thyroiditis)](/diseases/hypothyroidism-autoimmune-hypothyroiditis) \*\*
 * [Pancreatitis](https://www.samoyedhealthfoundation.org/diseases/pancreatitis/)*
-* Primary Hypoadrenocorticism (Addison's Disease)\*\*
+* [Hypoadrenocorticism (Addison's Disease)](/diseases/addison-s-disease)*
 * [Hyperadrenocorticism (Cushing's)](/diseases/cushing-s-disease) *
 
 # Eye/Ocular Diseases
