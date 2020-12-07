@@ -7,7 +7,7 @@ title: A to Z Diseases
 
 # A
 
-* Addison's Disease (Primary Hypoadrenocorticism) 
+* [Addison's Disease](/diseases/addison-s-disease) (Primary Hypoadrenocorticism) 
 * [Albinism, Partial (Albinoid Syndrome)](/diseases/partial-albinism) \*\*
 * [Alopecia X/Growth Hormone/Castration Responsive Dermatosis](/diseases/alopecia-x) *
 * [Anemia](/diseases/anemia) *
