@@ -7,7 +7,7 @@ title: A to Z Diseases
 
 # A
 
-* Addison's Disease (Primary Hypoadrenocorticism) 
+* [Addison's Disease (Hypoadrenocorticism)](/diseases/addison-s-disease)* 
 * [Albinism, Partial (Albinoid Syndrome)](/diseases/partial-albinism) \*\*
 * [Alopecia X/Growth Hormone/Castration Responsive Dermatosis](/diseases/alopecia-x) *
 * [Anemia](/diseases/anemia) *
@@ -62,7 +62,7 @@ title: A to Z Diseases
 * [Hereditary Nephritis X-linked (Samoyed Hereditary Glomerulopathy)](/diseases/hereditary-nephritis) \*\*
 * [Hip Dysplasia](/diseases/hip-dysplasia-hd) \*\*
 * [Hyperadrenocorticism (Cushing's)](/diseases/cushing-s-disease) *
-* Hypoadrenocorticism, Primary (Addison's Disease) \*\*
+* [Hypoadrenocorticism (Addison's Disease)](/diseases/addison-s-disease)*
 * [Hypothyroidism (Autoimmune Thyroiditis)](/diseases/hypothyroidism-autoimmune-hypothyroiditis) \*\*
 
 # I
@@ -109,7 +109,6 @@ title: A to Z Diseases
 * [Persistent Pupillary Membranes (PPM, Mesodermal Dysgenesis)](/diseases/persistent-pupillary-membranes)
 * [Piebald or Extreme Piebald Gene - Deafness](/diseases/piebald-or-extreme-piebald-gene-2013-deafness) \*\*
 * [Portosystemic Shunt (Extrahepatic and Intrahepatic)](https://www.samoyedhealthfoundation.org/diseases/portosystemic-shunts-intrahepatic-and-extrahepatic-liver-shunts/)*
-* [Primary Hypoadrenocorticism (Addison's Disease)](/diseases/addison-s-disease)
 * [Progressive Retinal Atrophy (PRA), including X-linked](/diseases/progressive-retinal-atrophy-x-linked)
 * [Pulmonic Stenosis](/diseases/pulmonic-stenosis) \*\*
 
