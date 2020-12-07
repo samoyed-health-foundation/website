@@ -7,7 +7,7 @@ title: A to Z Diseases
 
 # A
 
-* [Addison's Disease](/diseases/addison-s-disease) (Primary Hypoadrenocorticism) 
+* [Addison's Disease] (Primary Hypoadrenocorticism)](/diseases/addison-s-disease)* 
 * [Albinism, Partial (Albinoid Syndrome)](/diseases/partial-albinism) \*\*
 * [Alopecia X/Growth Hormone/Castration Responsive Dermatosis](/diseases/alopecia-x) *
 * [Anemia](/diseases/anemia) *
@@ -62,7 +62,7 @@ title: A to Z Diseases
 * [Hereditary Nephritis X-linked (Samoyed Hereditary Glomerulopathy)](/diseases/hereditary-nephritis) \*\*
 * [Hip Dysplasia](/diseases/hip-dysplasia-hd) \*\*
 * [Hyperadrenocorticism (Cushing's)](/diseases/cushing-s-disease) *
-* Hypoadrenocorticism, Primary (Addison's Disease) \*\*
+* [Hypoadrenocorticism, Primary (Addison's Disease)](/diseases/addison-s-disease)*
 * [Hypothyroidism (Autoimmune Thyroiditis)](/diseases/hypothyroidism-autoimmune-hypothyroiditis) \*\*
 
 # I
