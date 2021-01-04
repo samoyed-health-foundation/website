@@ -21,7 +21,7 @@ including the reasons you do not want to shave your Samoyed's coat
 
 - [International Veterinary Acupuncture Society](http://www.ivas.org/) and [How to Locate a Practitioner](https://www.ivas.org/members-only-section/ivas-partners/)
 
-- [American Veterinary Chiropractic Association](http://www.avcadoctors.com/) and [How to Locate a Practitioner](http://animalchiropractic.org/avca-doctor-search.htm)
+- [American Veterinary Chiropractic Association](http://www.avcadoctors.com/) and [How to Locate a Practitioner](https://www.animalchiropractic.org/find-a-doctor/)
 
 
 # Vaccination Information
@@ -63,9 +63,6 @@ common name or scientific name or by plant category.
 
 - [ASPCA Poison Control](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants) 1-888-426-4435.
 A $60 consultation fee may be applied to your credit card.
-
-- [Kansas State Poison Control hotline](http://www.mediarelations.k-state.edu/newsreleases/pethealth/poisonhotline121107.html) - 785-532-5679
-(free)
 
 - [UC Davis - Plants Reported to be Poisonous to Animals](https://wric.ucdavis.edu/PDFs/plants%20reported%20to%20be%20poisonous%20to%20animals.pdf)
 

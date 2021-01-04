@@ -19,7 +19,7 @@ including the reasons you do not want to shave your Samoyed's coat
 
 - [International Veterinary Acupuncture Society](http://www.ivas.org/)
 
-- [American Veterinary Chiropractic Association](http://www.avcadoctors.com/) and [How to Locate a Practitioner](http://animalchiropractic.org/avca-doctor-search.htm)
+- [American Veterinary Chiropractic Association](http://www.avcadoctors.com/) and [How to Locate a Practitioner](https://www.animalchiropractic.org/find-a-doctor/)
 
 
 # Vaccination Information
