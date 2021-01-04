@@ -21,9 +21,7 @@ title = "Dog Food Recall Information"
 
 From the FDA:
 
-> FDA is alerting pet owners and veterinary professionals about certain Sportmix pet food products (see list below) manufactured by Midwestern Pet Foods, Inc. that may contain potentially fatal levels of aflatoxin.
-> 
-> FDA is aware of at least 28 deaths and 8 illnesses in dogs that ate the recalled product.
+> FDA is alerting pet owners and veterinary professionals about certain Sportmix pet food products manufactured by Midwestern Pet Foods, Inc. that may contain potentially fatal levels of aflatoxin.
 > 
 > Aflatoxin is a toxin produced by the mold _Aspergillus flavus_, which can grow on corn and other grains used as ingredients in pet food.
 > At high levels, aflatoxin can cause illness and death in pets.
