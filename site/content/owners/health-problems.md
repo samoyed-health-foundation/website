@@ -32,8 +32,6 @@ title = "Health Problems"
 
 - [Swimmer Puppies](https://www.petcoach.co/article/swimmer-puppies-puppies-that-have-difficulty-standing/) by Race Foster, DVM and Marty Smith, DVM Drs. Foster & Smith, Inc.
 
-- [Swimmer Puppies (Pectus Excavatum)](http://dogsites.com.au/content/view/239/29/) by Coreen Kitto, Oak Ridge Cockers
-
 - [Cesarean Section](http://www.lbah.com/canine/csection.htm) by Long Beach Animal Hospital
 
 - [Eclampsia (Milk Fever or Puerperal Tetany)](https://www.petcoach.co/article/eclampsia-puerperal-tetany-milk-fever-hypocalcemia-in-dogs/) by Race Foster, DVM and Marty Smith, DVM
@@ -53,8 +51,6 @@ title = "Health Problems"
 - [Freedom Of Information (FOI)](https://www.fda.gov/AnimalVeterinary/SafetyHealth/ReportaProblem/ucm055305.htm) summaries
 
 - [How to Report An Adverse Drug Experience](https://www.fda.gov/AnimalVeterinary/default.htm) on the [FDA's Center For Veterinary Medicine](http://www.fda.gov/AnimalVeterinary/default.htm) website
-
-- [Drug dosages](http://www.ahc.umn.edu/rar/umnuser/formulary.html) on the Veterinary Formulary page of Research Animal Resources, University of Minnesota webpages - how to read that prescription bottle
 
 - [The Virtual Pharmacy Center](http://www.martindalecenter.com/Pharmacy.html) - Martindale's Health Science Guide 2000 with a section on [The Virtual Veterinary Center](http://www.martindalecenter.com/Pharmacy_3_Phaco.html#PHARMC-VET)
 

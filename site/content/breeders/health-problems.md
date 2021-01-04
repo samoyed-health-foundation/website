@@ -16,8 +16,6 @@ title = "Health Problems"
 
 > Always ask for an "information sheet" on the prescribed medication and read it before administering the medication to your pet.
 
-- [Drugs to be avoided or used with caution in the Samoyed](http://www.samfans.org/drugs.html) on the samfans.org website
-
 - [Differentiating Sulfur Compounds](http://www.itmonline.org/arts/sulfa.htm) - Sulfa Drugs, Glucosamine Sulfate, Sulfur, and Sulfiting Agents by Subhuti Dharmananda, Ph.D., Director, Institute for Traditional Medicine, Portland, Oregon
 
 - [Animal Pharmacy Center](https://marvista.vetsfirstchoice.com/) on the Mar Vista Animal Medical Center website
@@ -27,8 +25,6 @@ title = "Health Problems"
 - [How to Report An Adverse Drug Experience](https://www.fda.gov/AnimalVeterinary/SafetyHealth/ReportaProblem/ucm055305.htm) on the [FDA's Center For Veterinary Medicine](http://www.fda.gov/AnimalVeterinary/default.htm) website
 
 - [Approved Animal Drug Products](https://www.fda.gov/AnimalVeterinary/Products/ApprovedAnimalDrugProducts/default.htm)
-
-- [Drug dosages](http://www.ahc.umn.edu/rar/umnuser/formulary.html) on the Veterinary Formulary page of Research Animal Resources, University of Minnesota webpages - how to read that prescription bottle
 
 - [The Virtual Pharmacy Center](http://www.martindalecenter.com/Pharmacy.html) - Martindale's Health Science Guide 2000 with a section on [The Virtual Veterinary Center](http://www.martindalecenter.com/Pharmacy_3_Phaco.html#PHARMC-VET)
 
