@@ -15,6 +15,34 @@ title = "Dog Food Recall Information"
 
 # News Articles
 
+#### 2020 Sportmix Pet Food Recall
+
+From the FDA:
+
+> FDA is alerting pet owners and veterinary professionals about certain Sportmix pet food products (see list below) manufactured by Midwestern Pet Foods, Inc. that may contain potentially fatal levels of aflatoxin.
+> 
+> FDA is aware of at least 28 deaths and 8 illnesses in dogs that ate the recalled product.
+> 
+> Aflatoxin is a toxin produced by the mold _Aspergillus flavus_, which can grow on corn and other grains used as ingredients in pet food.
+> At high levels, aflatoxin can cause illness and death in pets.
+> 
+> Pets experiencing aflatoxin poisoning may have symptoms such as sluggishness, loss of appetite, vomiting, jaundice (yellowish tint to the eyes or gums due to liver damage), and/or diarrhea.
+> In severe cases, this toxicity can be fatal.
+> In some cases, pets may suffer liver damage but not show any symptoms.
+
+<https://www.fda.gov/animal-veterinary/outbreaks-and-advisories/fda-alert-certain-lots-sportmix-pet-food-recalled-potentially-fatal-levels-aflatoxin>
+
+-----
+
+From CNN:
+
+> The Food and Drug Administration is alerting pet owners about high levels of aflatoxin in some pet foods after 28 dogs reportedly died and eight others were sickened.
+> 
+> The food containing the toxin has been identified as certain Sportmix products manufactured by Midwestern Pet Foods. The products were voluntarily recalled by the company on Wednesday.
+
+<https://www.cnn.com/2020/12/31/us/fda-dog-food-trnd/index.html>
+
+#### 2007 Melamine Pet Food Recall
 
 From the *New York Times*:
 
@@ -26,7 +54,9 @@ From the *New York Times*:
 > according to interviews Tuesday with chemical industry
 > officials\....[more](http://www.nytimes.com/2007/05/09/business/worldbusiness/09food.html?_r=1&pagewanted=print&oref=slogin) (may require login)
 
-#### Melamine Pet Food Recall of 2007 
+-----
+
+From the FDA:
 
 > On March 15, 2007, FDA learned that certain pet foods were sickening
 > and killing cats and dogs. FDA found contaminants in vegetable proteins
@@ -52,11 +82,15 @@ More article links on the FDA website - [click here](http://www.fda.gov/AnimalVe
 
 -----
 
+From CNN:
+
+```
 Subject: Mix of chemicals may be key to pet-food deaths
 
 CNN -- 5:18 p.m. EDT, May 1, 2007
 
 Mix of chemicals may be key to pet-food deaths
+```
 
 Story Highlights
 
