@@ -15,6 +15,8 @@ title = "Dog Food Recall Information"
 
 # News Articles
 
+<p></p>
+
 #### 2020 Sportmix Pet Food Recall
 
 From the FDA:
