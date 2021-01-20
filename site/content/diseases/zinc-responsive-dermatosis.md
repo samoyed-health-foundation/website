@@ -136,6 +136,9 @@ No relevant support groups have been found to be available at this time.
 
 ## Suggested Links
 
+[Could it be zinc-responsive dermatosis](https://veterinary-practice.com/article/could-it-be-zinc-responsive-dermatosis?fbclid=IwAR1NNLZXDQBCcidxxSI9W0TMZJ5ErN-lhYbmdO0wWNXRDw4B1vg4LaR3RFE) from Veterinary Practice ![2
+bones](/img/2-bones.gif)
+
 [Zinc Deficiency in the Siberian Husky](https://siberianhusky.com/zinc-deficiency-serious-threat-on-huskies-health/)
 from the Siberian Husky Health Foundation  ![3
 bones](/img/3-bones.gif)
