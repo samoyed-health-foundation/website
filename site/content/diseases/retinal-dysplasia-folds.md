@@ -40,6 +40,8 @@ having difficulty seeing would include frequently bumping into objects,
 less activity, and possibly timid or fearful.  An eye examination by an
 ophthalmologist should be performed.
 
+The skeletal malformations in RD/OSD2 are recognized by observation.
+
 ## Causes
 
 The cause of retinal dysplasia in most dogs is genetic in origin and a
@@ -50,7 +52,9 @@ American Cocker Spaniels, Australian Shepherds, Bedlington Terriers,
 Beagles, Dobermans, English Springer Spaniels, Labradors, Rottweilers,
 Old English Sheepdogs, Sealyham Terriers, and Yorkshire Terriers. In
 many breeds ophthalmologists and researchers have not determined exactly
-how retinal dysplasia is passed. In the Labrador and samoyed 
+how retinal dysplasia is passed. 
+
+In the Labrador and Samoyed the autosomal recessive inheritance of
 a combination of retinal dysplasia and skeletal defects
 (dwarfism) has been described (RD/OSD1 - Labrador; RD/OSD2 - Samoyed).
 
@@ -60,7 +64,7 @@ a combination of retinal dysplasia and skeletal defects
   to during pregnancy or the newborn is exposed to)
 * infection during pregnancy (e.g herpes virus and possibly parvovirus)
 * a trauma at a very young age
-* inherited the genetic make up for RD
+* inherited the genetic make up for RD/OSD2
 
 ## Diagnostic Tests
 
@@ -87,8 +91,8 @@ information](https://www.samoyedhealthfoundation.org/optigen-dna-test-for-retina
 > protocol.
 
 * There is no treatment for retinal dysplasia.
-* The affected animal should not be used in a breeding program.
 * Annual eye checks with an ophthalmologist
+* An animal with retinal dysplasia should only be bred if shown to have normal/clear DNA test results for the RD/OSD2 mutation.  Carriers should not be bred.
 
 ## References
 
