@@ -64,7 +64,7 @@ a combination of retinal dysplasia and skeletal defects
   to during pregnancy or the newborn is exposed to)
 * infection during pregnancy (e.g herpes virus and possibly parvovirus)
 * a trauma at a very young age
-* inherited the genetic make up for RD/OSD2
+* inherited genetic make up for RD/OSD2
 
 ## Diagnostic Tests
 
