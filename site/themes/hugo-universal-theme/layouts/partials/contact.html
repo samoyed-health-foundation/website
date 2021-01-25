@@ -7,13 +7,15 @@
 
                 {{ .Content }}
 
+                {{ if isset .Site.Params "formspree_action" }}
+
                 <div class="heading">
                   <h3>{{ i18n "contactForm" }}</h3>
                 </div>
 
                 <div id="contact-message"></div>
 
-                <form name="contact" data-netlify="true" netlify-honeypot="role" class="contact-form" method="post" accept-charset="UTF-8">
+                <form {{ with .Site.Params.contact_form_ajax }}class="contact-form-ajax"{{ else }}{{ end }} method="post" action="{{ .Site.Params.formspree_action }}">
                     <div class="row">
                         <div class="col-sm-6">
                             <div class="form-group">
@@ -33,25 +35,16 @@
                                 <textarea id="message" class="form-control" name="message" required></textarea>
                             </div>
                         </div>
-                        <div class="col-sm-12">
-                            <div class="form-group">
-                              <div data-netlify-recaptcha></div>
-                            </div>
-                        </div>
-                        <div class="hidden">
-                            <div class="form-group">
-                                <label for="role">Role</label>
-                                <input type="text" class="form-control" name="role" id="role"/>
-                            </div>
-                        </div>
 
                         <div class="col-sm-12 text-center">
-                          <button type="submit" class="btn btn-template-main"><i class="fa fa-envelope-o"></i>{{ i18n "contactSend" }}</button>
+                          <button type="submit" class="btn btn-template-main"><i class="far fa-envelope"></i>{{ i18n "contactSend" }}</button>
 
                         </div>
                     </div>
                     <!-- /.row -->
                 </form>
+
+                {{ end }}
 
             </section>
 

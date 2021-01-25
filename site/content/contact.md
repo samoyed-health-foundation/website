@@ -2,6 +2,7 @@
 title: "Contact"
 id: "contact"
 aliases: [/contact-info]
+type: "contact"
 ---
 
 # We would love to hear from you!

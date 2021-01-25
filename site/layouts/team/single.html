@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ .Site.LanguageCode }}">
 
   {{ partial "head.html" . }}
 
@@ -7,21 +7,11 @@
 
     <div id="all">
 
-        <header>
-
-          {{ partial "nav.html" . }}
-
-        </header>
+        {{ partial "nav.html" . }}
 
         {{ partial "breadcrumbs.html" . }}
 
         <div id="content">
-            {{ if isset .Params "id" }}
-
-              {{ partial .Params.id . }}
-
-            {{ else }}
-
             <div class="container">
 
                 <div class="row">
@@ -39,7 +29,7 @@
                           <h3>Sheila Herrmann</h3>
                           <p class="role">President</p>
                           <ul class="social list-inline">
-                            <li class="list-inline-item"><a href="https://www.facebook.com/profile.php?id=100010677886575" class="external facebook"><i class="fa fa-facebook"></i></a></li>
+                            <li class="list-inline-item"><a href="https://www.facebook.com/profile.php?id=100010677886575" class="external facebook"><i class="fa fa-user"></i></a></li>
                             <li class="list-inline-item"><a href="mailto:sheila.herrmann@samoyedhealthfoundation.org" class="email"><i class="fa fa-envelope"></i></a></li>
                           </ul>
                         </div>
@@ -50,7 +40,7 @@
                           <h3>Bob Sencenbaugh</h3>
                           <p class="role">Vice President</p>
                           <ul class="social list-inline">
-                            <li class="list-inline-item"><a href="https://www.facebook.com/bob.sencenbaugh" class="external facebook"><i class="fa fa-facebook"></i></a></li>
+                            <li class="list-inline-item"><a href="https://www.facebook.com/bob.sencenbaugh" class="external facebook"><i class="fa fa-user"></i></a></li>
                             <li class="list-inline-item"><a href="mailto:bob.sencenbaugh@samoyedhealthfoundation.org" class="email"><i class="fa fa-envelope"></i></a></li>
                           </ul>
                         </div>
@@ -61,7 +51,7 @@
                           <h3>Leah Seman</h3>
                           <p class="role">Secretary</p>
                           <ul class="social list-inline">
-                            <li class="list-inline-item"><a href="https://www.facebook.com/leah.seman" class="external facebook"><i class="fa fa-facebook"></i></a></li>
+                            <li class="list-inline-item"><a href="https://www.facebook.com/leah.seman" class="external facebook"><i class="fa fa-user"></i></a></li>
                             <li class="list-inline-item"><a href="mailto:leah.seman@samoyedhealthfoundation.org" class="email"><i class="fa fa-envelope"></i></a></li>
                           </ul>
                         </div>
@@ -72,7 +62,7 @@
                           <h3>Margaret Black</h3>
                           <p class="role">Treasurer</p>
                           <ul class="social list-inline">
-                            <li class="list-inline-item"><a href="https://www.facebook.com/margaret.black.54" class="external facebook"><i class="fa fa-facebook"></i></a></li>
+                            <li class="list-inline-item"><a href="https://www.facebook.com/margaret.black.54" class="external facebook"><i class="fa fa-user"></i></a></li>
                             <li class="list-inline-item"><a href="mailto:margaret.black@samoyedhealthfoundation.org" class="email"><i class="fa fa-envelope"></i></a></li>
                           </ul>
                         </div>
@@ -83,7 +73,7 @@
                           <h3>Pam Barbe</h3>
                           <p class="role">Director</p>
                           <ul class="social list-inline">
-                            <li class="list-inline-item"><a href="https://www.facebook.com/pam.barbe" class="external facebook"><i class="fa fa-facebook"></i></a></li>
+                            <li class="list-inline-item"><a href="https://www.facebook.com/pam.barbe" class="external facebook"><i class="fa fa-user"></i></a></li>
                             <li class="list-inline-item"><a href="mailto:pam.barbe@samoyedhealthfoundation.org" class="email"><i class="fa fa-envelope"></i></a></li>
                           </ul>
                         </div>
@@ -94,7 +84,7 @@
                           <h3>Matt Odille</h3>
                           <p class="role">Director, Web Developer</p>
                           <ul class="social list-inline">
-                            <li class="list-inline-item"><a href="https://www.facebook.com/matt.odille" class="external facebook"><i class="fa fa-facebook"></i></a></li>
+                            <li class="list-inline-item"><a href="https://www.facebook.com/matt.odille" class="external facebook"><i class="fa fa-user"></i></a></li>
                             <li class="list-inline-item"><a href="mailto:matt.odille@samoyedhealthfoundation.org" class="email"><i class="fa fa-envelope"></i></a></li>
                           </ul>
                         </div>
@@ -105,7 +95,7 @@
                           <h3>Bev Delaney</h3>
                           <p class="role">Director</p>
                           <ul class="social list-inline">
-                            <li class="list-inline-item"><a href="https://www.facebook.com/beverly.delaney.18" class="external facebook"><i class="fa fa-facebook"></i></a></li>
+                            <li class="list-inline-item"><a href="https://www.facebook.com/beverly.delaney.18" class="external facebook"><i class="fa fa-user"></i></a></li>
                           </ul>
                         </div>
                       </div>
@@ -115,7 +105,7 @@
                           <h3>Paula Exline</h3>
                           <p class="role">Director, Director SCA</p>
                           <ul class="social list-inline">
-                            <li class="list-inline-item"><a href="https://www.facebook.com/paula.exline" class="external facebook"><i class="fa fa-facebook"></i></a></li>
+                            <li class="list-inline-item"><a href="https://www.facebook.com/paula.exline" class="external facebook"><i class="fa fa-user"></i></a></li>
                           </ul>
                         </div>
                       </div>
@@ -127,8 +117,6 @@
 
             </div>
             <!-- /.container -->
-
-            {{ end }}
         </div>
         <!-- /#content -->
 

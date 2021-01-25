@@ -7,12 +7,15 @@
     </div>
 
     <div class="panel-body">
-
-        <div class="input-group">
-            <input type="search" id="aa-search-input" name="q" class="form-control" placeholder="{{ i18n "searchTitle" }}">
-            <input type="hidden" name="sitesearch" value="{{ .Site.BaseURL }}">
-        </div>
-
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" role="search">
+            <div class="input-group">
+                <input type="search" name="q" class="form-control" placeholder="{{ i18n "searchTitle" }}">
+                <input type="hidden" name="sitesearch" value="{{ "/" | absURL }}">
+                <span class="input-group-btn">
+                    <button type="submit" class="btn btn-template-main"><i class="fas fa-search"></i></button>
+                </span>
+            </div>
+        </form>
     </div>
 </div>
 {{ end }}

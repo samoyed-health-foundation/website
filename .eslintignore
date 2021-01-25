@@ -1,0 +1,5 @@
+**/*.min.js
+**/owl.*.js
+**/jquery.*.js
+**/hpneo.*.js
+site/static/css/*.css

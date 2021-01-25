@@ -1,0 +1,143 @@
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+
+div#content > div.container h1,
+div#content > div.container h2,
+div#content > div.container h3,
+div#content > div.container h4,
+div#content > div.container h5 {
+  border-bottom: solid 5px #555555;
+}
+
+@media (max-width: 767px) {
+  .navbar .yamm-content h3 {
+    font-size: 16px;
+  }
+}
+
+.input-group .btn {
+  font-size: 16px;
+}
+
+.btn-lg {
+  font-size: 16px;
+}
+
+@media (max-width: 991px) {
+  #intro .item .btn {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 991px) {
+  .home-carousel ul,
+  .home-carousel p {
+    font-size: 16px;
+  }
+}
+
+.testimonials .item .testimonial .name-picture h5 {
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.portfolio-project .project-more h4 {
+  font-size: 16px;
+}
+
+.product .text h3 {
+  font-size: 16px;
+}
+
+#footer h4 {
+  font-size: 16px;
+}
+
+body {
+  font-size: 16px;
+}
+
+.dropdown-menu {
+  font-size: 16px;
+}
+
+blockquote {
+  font-size: 16px;
+}
+
+.yamm .dropdown.yamm-single-col .dropdown-menu {
+  right: 15px;
+}
+
+/* see_more tiled background */
+.bar.background-image-tiled {
+  background: url('../img/dna_background_tile.png') center center repeat;
+}
+.bar.background-gradient {
+  background-image: -webkit-linear-gradient(45deg, #8545BC 0%,#986dbd 50%,#8545BC 100%);
+  background-image: -o-linear-gradient(45deg, #8545BC 0%,#986dbd 50%,#8545BC 100%);
+  background-image: linear-gradient(45deg, #8545BC 0%,#986dbd 50%,#8545BC 100%);
+}
+
+/* contacts */
+.team-member-img {
+  border-radius: 200px !important;
+  max-width: 100%;
+  height: auto;
+}
+
+/* style external links with font-awesome icon */
+div#content > div.container a[href^="http://"]:not([href*="samoyedhealthfoundation.org"]):not(.img-href):after {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f35d";
+  margin: 0 0 0 5px;
+}
+div#content > div.container a[href^="https://"]:not([href*="samoyedhealthfoundation.org"]):not(.img-href):after {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f35d";
+  margin: 0 0 0 5px;
+}
+
+/* algolia */
+.algolia-autocomplete {
+  width: 100%;
+}
+.algolia-autocomplete .aa-input,
+.algolia-autocomplete .aa-hint {
+  width: 100%;
+}
+.algolia-autocomplete .aa-hint {
+  color: #999;
+}
+.algolia-autocomplete .aa-dropdown-menu {
+  width: 100%;
+  background-color: #fff;
+  border: 1px solid #999;
+  border-top: none;
+}
+.algolia-autocomplete .aa-dropdown-menu .aa-suggestion {
+  cursor: pointer;
+  padding: 5px 4px;
+}
+.algolia-autocomplete .aa-dropdown-menu .aa-suggestion.aa-cursor {
+  background-color: #eeeeee;
+}
+.algolia-autocomplete .aa-dropdown-menu .aa-suggestion em {
+  font-weight: bold;
+  font-style: normal;
+}
+.algolia-autocomplete .aa-dropdown-menu .branding {
+  padding: 5px 4px;
+}
+.algolia-autocomplete .aa-dropdown-menu .branding img {
+  height: 15px;
+}

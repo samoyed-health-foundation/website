@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ .Site.LanguageCode }}">
 
   {{ partial "head.html" . }}
 
@@ -7,24 +7,16 @@
 
     <div id="all">
 
-        <header>
-
-          {{ partial "nav.html" . }}
-
-        </header>
+        {{ partial "nav.html" . }}
 
         {{ partial "breadcrumbs.html" . }}
 
         <div id="content">
-            {{ if isset .Params "id" }}
-
-              {{ partial .Params.id . }}
-
-            {{ else }}
-
             <div class="container">
 
                 <div class="row">
+
+                    <!-- *** LEFT COLUMN *** -->
 
                     <div class="col-md-9">
                         <div>
@@ -32,17 +24,13 @@
                         </div>
                     </div>
 
-                    <div class="col-md-3">
-                        {{ partial "widgets/search.html" . }}
-                    </div>
+                    <!-- *** LEFT COLUMN END *** -->
 
                 </div>
                 <!-- /.row -->
 
             </div>
             <!-- /.container -->
-
-            {{ end }}
         </div>
         <!-- /#content -->
 

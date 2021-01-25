@@ -55,8 +55,8 @@ button {
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
 }
-a i.fa,
-button i.fa {
+a i[class^="fa"],
+button i[class^="fa"] {
   margin: 0 5px;
 }
 .clickable {
@@ -93,21 +93,11 @@ div.section {
 .heading {
   margin-bottom: 40px;
 }
-/* .heading h1, */
-/* .heading h2, */
-/* .heading h3, */
-/* .heading h4, */
-/* .heading h5 { */
-/*   display: inline-block; */
-/*   border-bottom: solid 5px #986dbd; */
-/*   line-height: 1.1; */
-/*   margin-bottom: 0; */
-/*   padding-bottom: 10px; */
-/*   vertical-align: middle; */
-/*   text-transform: uppercase; */
-/*   letter-spacing: 0.06em; */
-/* } */
-#all section div.heading.text-center h2 {
+.heading h1,
+.heading h2,
+.heading h3,
+.heading h4,
+.heading h5 {
   display: inline-block;
   border-bottom: solid 5px #986dbd;
   line-height: 1.1;
@@ -117,36 +107,11 @@ div.section {
   text-transform: uppercase;
   letter-spacing: 0.06em;
 }
-/* Style external links with font-awesome icon */
-div#content > div.container a[href^="http://"]:not([href*="samoyedhealthfoundation.org"]):not(.img-href):after {
-  font-family: "FontAwesome";
-  content: "\f08e";
-  margin: 0 0 0 5px;
-}
-div#content > div.container a[href^="https://"]:not([href*="samoyedhealthfoundation.org"]):not(.img-href):after {
-  font-family: "FontAwesome";
-  content: "\f08e";
-  margin: 0 0 0 5px;
-}
-div#content > div.container h1,
-div#content > div.container h2,
-div#content > div.container h3,
-div#content > div.container h4,
-div#content > div.container h5 {
-  display: inline-block;
-  border-bottom: solid 5px #986dbd;
-  line-height: 1.1;
-  margin-bottom: 20px;
-  padding-bottom: 10px;
-  vertical-align: middle;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-}
-.heading h1 i.fa,
-.heading h2 i.fa,
-.heading h3 i.fa,
-.heading h4 i.fa,
-.heading h5 i.fa {
+.heading h1 i[class^="fa"],
+.heading h2 i[class^="fa"],
+.heading h3 i[class^="fa"],
+.heading h4 i[class^="fa"],
+.heading h5 i[class^="fa"] {
   display: inline-block;
   background: #986dbd;
   width: 30px;
@@ -288,13 +253,15 @@ ul.list-style-none {
   width: 24px;
   height: 24px;
   border-radius: 12px;
-  line-height: 20px;
+  line-height: 24px;
   font-size: 12px;
   text-align: center;
-  vertical-align: bottom;
 }
 #top .social a:hover {
   color: #fff;
+  background: #986dbd;
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
 }
 #top .social a:hover.facebook {
   background-color: #4460ae;
@@ -509,26 +476,24 @@ ul.list-style-none {
   margin-left: 7px;
 }
 .navbar-affixed-top {
-  top: -32px;
-}
-.navbar-affixed-top.affix-top {
-  -webkit-transition: all 0.5s ease-out;
-  -moz-transition: all 0.5s ease-out;
-  transition: all 0.5s ease-out;
-}
-.navbar-affixed-top.affix {
-  position: fixed;
-  width: 100%;
   top: 0;
   z-index: 1000;
+  width: 100%;
+}
+.navbar-affixed-top.affix {
   -webkit-box-shadow: 0 0 5px #cccccc;
   box-shadow: 0 0 5px #cccccc;
-  -webkit-transition: all 0.5s ease-out;
-  -moz-transition: all 0.5s ease-out;
-  transition: all 0.5s ease-out;
 }
-body.boxed .navbar-affixed-top.affix {
-  position: static;
+.navbar-affixed-top.affix + section {
+  margin-top: 62px;
+}
+@supports (position: sticky) {
+  .navbar-affixed-top {
+    position: sticky;
+  }
+  .navbar-affixed-top.affix + section {
+    margin-top: 0;
+  }
 }
 #login-modal {
   overflow: hidden;
@@ -1016,11 +981,18 @@ fieldset[disabled] .btn-template-primary.active {
   letter-spacing: 0.08em;
   font-weight: 700;
   font-size: 12px;
+  text-decoration: none;
 }
 .panel.sidebar-menu ul.tag-cloud li a:hover {
   color: #986dbd;
-  text-decoration: none;
   border-color: #986dbd;
+}
+.panel.sidebar-menu ul.tag-cloud li.active a {
+  color: #FFFFFF;
+  background-color: #986dbd;
+}
+.panel.sidebar-menu ul.tag-cloud li.active a:hover {
+  color: #FFFFFF;
 }
 .panel.sidebar-menu ul.popular,
 .panel.sidebar-menu ul.recent {
@@ -1358,11 +1330,6 @@ fieldset[disabled] .btn-template-primary.active {
   width: 60px;
   border-radius: 30px;
   margin-left: 10px;
-}
-.team-member-img {
-  border-radius: 200px !important;
-  max-width: 100%;
-  height: auto;
 }
 .team-member {
   text-align: center;
@@ -1766,7 +1733,7 @@ fieldset[disabled] .btn-template-primary.active {
   border: none;
 }
 #heading-breadcrumbs {
-  background: url('../img/texture-bw.png') center center repeat;
+  background: url('../img/texture-violet.png') center center repeat;
   padding: 20px 0;
   margin-bottom: 40px;
 }
@@ -1795,7 +1762,7 @@ fieldset[disabled] .btn-template-primary.active {
   padding: 60px 0;
 }
 .bar.background-pentagon {
-  background: url('../img/texture-bw.png') center center repeat;
+  background: url('../img/texture-violet.png') center center repeat;
   border-top: solid 1px #999999;
   border-bottom: solid 1px #999999;
 }
@@ -1817,14 +1784,6 @@ fieldset[disabled] .btn-template-primary.active {
   background: url('../img/fixed-background-2.jpg') center top no-repeat;
   background-attachment: fixed;
   background-size: cover;
-}
-.bar.background-image-tiled {
-  background: url('../img/dna_background_tile.png') center center repeat;
-}
-.bar.background-gradient {
-  background-image: -webkit-linear-gradient(45deg, #8545BC 0%,#986dbd 50%,#8545BC 100%);
-  background-image: -o-linear-gradient(45deg, #8545BC 0%,#986dbd 50%,#8545BC 100%);
-  background-image: linear-gradient(45deg, #8545BC 0%,#986dbd 50%,#8545BC 100%);
 }
 .bar.color-white h1,
 .bar.color-white h2,
@@ -2555,7 +2514,6 @@ fieldset[disabled] .btn-template-primary.active {
 #footer {
   background: #555555;
   padding: 50px 0;
-  margin-top: 25px;
   color: #999999;
 }
 #footer h1,
@@ -3578,7 +3536,7 @@ a.list-group-item.active > .badge,
 /*!
  * Yamm!3 - Yet another megamenu for Bootstrap 3
  * http://geedmo.github.com/yamm3
- * 
+ *
  * @geedmo - Licensed under the MIT license
  */
 .yamm .nav,
@@ -3603,41 +3561,4 @@ a.list-group-item.active > .badge,
 .yamm .dropdown.yamm-fw .dropdown-menu {
   left: 15px;
   right: 15px;
-}
-.yamm .dropdown.yamm-single-col .dropdown-menu {
-  right: 15px;
-}
-
-.algolia-autocomplete {
-  width: 100%;
-}
-.algolia-autocomplete .aa-input,
-.algolia-autocomplete .aa-hint {
-  width: 100%;
-}
-.algolia-autocomplete .aa-hint {
-  color: #999;
-}
-.algolia-autocomplete .aa-dropdown-menu {
-  width: 100%;
-  background-color: #fff;
-  border: 1px solid #999;
-  border-top: none;
-}
-.algolia-autocomplete .aa-dropdown-menu .aa-suggestion {
-  cursor: pointer;
-  padding: 5px 4px;
-}
-.algolia-autocomplete .aa-dropdown-menu .aa-suggestion.aa-cursor {
-  background-color: #eeeeee;
-}
-.algolia-autocomplete .aa-dropdown-menu .aa-suggestion em {
-  font-weight: bold;
-  font-style: normal;
-}
-.algolia-autocomplete .aa-dropdown-menu .branding {
-  padding: 5px 4px;
-}
-.algolia-autocomplete .aa-dropdown-menu .branding img {
-  height: 15px;
 }

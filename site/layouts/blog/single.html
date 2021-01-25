@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ .Site.LanguageCode }}">
 
   {{ partial "head.html" . }}
 
@@ -7,13 +7,9 @@
 
     <div id="all">
 
-        <header>
+        {{ partial "nav.html" . }}
 
-          {{ partial "nav.html" . }}
-
-        </header>
-
-        {{ partial "breadcrumbs_blog_single.html" . }}
+        {{ partial "breadcrumbs.html" . }}
 
         <div id="content">
             <div class="container">
@@ -23,17 +19,18 @@
                     <!-- *** LEFT COLUMN *** -->
 
                     <div class="col-md-9" id="blog-post">
-                        <div class="heading mb-small">
-                            <h3>{{ .Title }}</h3>
-                        </div>
 
-                        <p class="text-muted text-uppercase mb-small text-left">{{ if .Params.author }}By <b>{{ .Params.author }}</b> | {{ end }}{{ .Date.Format .Site.Params.date_format }}</p>
+                        {{ if or .Params.author .Params.date }}
+                          <p class="text-muted text-uppercase mb-small text-right">
+                            {{ if .Params.author }}{{ i18n "authorBy" }} <a href="#">{{ .Params.author }}</a>{{ end }}
+                            {{ if and .Params.author .Params.date }} | {{ end }}
+                            {{ if .Params.date }}{{ .Date.Format .Site.Params.date_format }}{{ end }}
+                          </p>
+                        {{ end }}
 
                         <div id="post-content">
-
                           {{ .Content }}
                         </div>
-
                         <!-- /#post-content -->
                         {{ if .Site.DisqusShortname }}
                         <div id="comments">
