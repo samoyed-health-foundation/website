@@ -45,7 +45,7 @@ The skeletal malformations in RD/OSD2 may be recognized by observation.
 ## Causes
 
 The cause of retinal dysplasia in most dogs is genetic in origin and a
-congenital disease.  Others causes include viral infections, vitamin A
+congenital disease.  Other causes include viral infections, vitamin A
 deficiency, x-ray radiation, certain drugs, and intrauterine trauma.
 Simple autosomal recessive inheritance has been suspected in Akitas,
 American Cocker Spaniels, Australian Shepherds, Bedlington Terriers,
