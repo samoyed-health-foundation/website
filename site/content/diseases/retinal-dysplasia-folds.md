@@ -40,7 +40,7 @@ having difficulty seeing would include frequently bumping into objects,
 less activity, and possibly timid or fearful.  An eye examination by an
 ophthalmologist should be performed.
 
-The skeletal malformations in RD/OSD2 are recognized by observation.
+The skeletal malformations in RD/OSD2 may be recognized by observation.
 
 ## Causes
 
