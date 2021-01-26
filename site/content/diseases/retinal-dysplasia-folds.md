@@ -24,12 +24,14 @@ caused by a prenatal infection (e.g. herpes virus or parvovirus)".
 
 There are 3 types:
 
-1.   Focal or multifocal retinal dysplasia: folds or small rosettes, single or multiple, may become less evident with maturity  (vision impairment is unknown, but blinds spots can occur)
-2.    Geographic retinal dysplasia: irregularly shaped areas of the retinal tissue that appear similar to a horseshoe in shape.  These lesions can change in appearance with age.  These lesions can co-exist
+1. Focal or multifocal retinal dysplasia: folds or small rosettes, single or multiple, may become less evident with maturity  (vision impairment is unknown, but blinds spots can occur)
+2. Geographic retinal dysplasia: irregularly shaped areas of the retinal tissue that appear similar to a horseshoe in shape.  These lesions can change in appearance with age.  These lesions can co-exist
    with folds or rosettes.  As the folds may disappear later when the
    retinas mature, this type of dysplasia will persist.  (some degree of
    visual impairment and possibly blindness)
-3.    Complete retinal dysplasia with detachment: most severe, often leads to blindness and secondary problems such as glaucoma, has been linked to skeletal defects in the labrador (Retinal Dysplasia/Oculoskeletal Dysplasia 1 - RD/OSD1) and Samoyed (Retinal Dysplasia/Oculoskeletal Dysplasia 2 - RD/OSD2).
+3. Complete retinal dysplasia with detachment: most severe, often leads to blindness and secondary problems such as glaucoma, has been linked to skeletal defects in the labrador (Retinal Dysplasia/Oculoskeletal Dysplasia 1 - RD/OSD1) and Samoyed (Retinal Dysplasia/Oculoskeletal Dysplasia 2 - RD/OSD2).
+
+**Oculoskeletal Dysplasia (RD/OSD2):** In this inherited disease there are both eye and bone defects.  In addition to the retinal folds and other malformations of the retina, the legs are shorter and there may be other skeletal malformations.  It may also be described as dwarfism.  The disease is inherited as an autosomal recessive with a heterozygous effect, meaning that dogs with one copy of the gene may still have retinal defects.  
 
 ## Signs and Symptoms
 
@@ -38,27 +40,31 @@ having difficulty seeing would include frequently bumping into objects,
 less activity, and possibly timid or fearful.  An eye examination by an
 ophthalmologist should be performed.
 
+The skeletal malformations in RD/OSD2 may be recognized by observation.
+
 ## Causes
 
 The cause of retinal dysplasia in most dogs is genetic in origin and a
-congenital disease.  Others causes include viral infections, vitamin A
+congenital disease.  Other causes include viral infections, vitamin A
 deficiency, x-ray radiation, certain drugs, and intrauterine trauma.
 Simple autosomal recessive inheritance has been suspected in Akitas,
 American Cocker Spaniels, Australian Shepherds, Bedlington Terriers,
 Beagles, Dobermans, English Springer Spaniels, Labradors, Rottweilers,
 Old English Sheepdogs, Sealyham Terriers, and Yorkshire Terriers. In
 many breeds ophthalmologists and researchers have not determined exactly
-how retinal dysplasia is passed. In the Labrador and samoyed 
+how retinal dysplasia is passed. 
+
+In the Labrador and Samoyed the autosomal recessive inheritance of
 a combination of retinal dysplasia and skeletal defects
 (dwarfism) has been described (RD/OSD1 - Labrador; RD/OSD2 - Samoyed).
 
 ## Risk Factors
 
-* toxicity (something in the environment that the bitch may be exposed
+* Toxicity (something in the environment that the bitch may be exposed
   to during pregnancy or the newborn is exposed to)
-* infection during pregnancy (e.g herpes virus and possibly parvovirus)
-* a trauma at a very young age
-* inherited the genetic make up for RD
+* Infection during pregnancy (e.g herpes virus and possibly parvovirus)
+* A trauma at a very young age
+* Inherited genetic make up for RD/OSD2
 
 ## Diagnostic Tests
 
@@ -85,8 +91,8 @@ information](https://www.samoyedhealthfoundation.org/optigen-dna-test-for-retina
 > protocol.
 
 * There is no treatment for retinal dysplasia.
-* The affected animal should not be used in a breeding program.
 * Annual eye checks with an ophthalmologist
+* An animal with retinal dysplasia should only be bred if shown to have normal/clear DNA test results for the RD/OSD2 mutation.  Carriers should not be bred.
 
 ## References
 
@@ -106,11 +112,11 @@ abstract](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&d
 ![three bones rating](/img/3-bones.gif)
 
 MacMillian A.D. and Lipton D.E., Heritability of Multifocal Retinal
-Dysplasia in American Cocker Spaniels,  JAVMA, vol. 172:5 p. 568-572
+Dysplasia in American Cocker Spaniels,  JAVMA 1978: vol. 172:5 p. 568-572
 
-1978. [link to
-      abstract](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=632194&query_hl=13&itool=pubmed_docsum) ![three
-      bones rating](/img/3-bones.gif)
+[link to
+abstract](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=632194&query_hl=13&itool=pubmed_docsum) ![three
+bones rating](/img/3-bones.gif)
 
 Meyers V.N., Jezyk P.F., Aguirre G.D. and Paterson D.F., Short-limbed
 dwarfism and ocular defects in the Samoyed dog,  JAVMA, vol. 183:9, p.
