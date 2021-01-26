@@ -60,11 +60,11 @@ a combination of retinal dysplasia and skeletal defects
 
 ## Risk Factors
 
-* toxicity (something in the environment that the bitch may be exposed
+* Toxicity (something in the environment that the bitch may be exposed
   to during pregnancy or the newborn is exposed to)
-* infection during pregnancy (e.g herpes virus and possibly parvovirus)
-* a trauma at a very young age
-* inherited genetic make up for RD/OSD2
+* Infection during pregnancy (e.g herpes virus and possibly parvovirus)
+* A trauma at a very young age
+* Inherited genetic make up for RD/OSD2
 
 ## Diagnostic Tests
 
