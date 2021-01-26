@@ -112,11 +112,11 @@ abstract](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&d
 ![three bones rating](/img/3-bones.gif)
 
 MacMillian A.D. and Lipton D.E., Heritability of Multifocal Retinal
-Dysplasia in American Cocker Spaniels,  JAVMA, vol. 172:5 p. 568-572
+Dysplasia in American Cocker Spaniels,  JAVMA 1978: vol. 172:5 p. 568-572
 
-1978. [link to
-      abstract](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=632194&query_hl=13&itool=pubmed_docsum) ![three
-      bones rating](/img/3-bones.gif)
+[link to
+abstract](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=632194&query_hl=13&itool=pubmed_docsum) ![three
+bones rating](/img/3-bones.gif)
 
 Meyers V.N., Jezyk P.F., Aguirre G.D. and Paterson D.F., Short-limbed
 dwarfism and ocular defects in the Samoyed dog,  JAVMA, vol. 183:9, p.
