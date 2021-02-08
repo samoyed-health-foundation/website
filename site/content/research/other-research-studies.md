@@ -14,18 +14,6 @@ across breeds...
 
 - - -
 
-**[Cancer Research at the Canine Hereditary Cancer Consortium](https://www.veterinarypracticenews.com/canine-hereditary-cancer-consortium-seeks-participants-for-new-study/)** -
-The Canine Hereditary Cancer Consortium includes researchers from a
-number of universities, research institutes and companies.
-The Consortium received a Federally funded grant through the National
-Institutes of Health/National Cancer Institute to study five types of
-cancer that occur in both dogs and humans. The ultimate goal is to
-develop improved diagnostics and more individualized therapies for both
-canines and people...
-[more](/research/cancer-research-at-van-andel-institute)
-
-- - -
-
 **[Canine Epilepsy Research](http://www.canine-epilepsy.net/cerc.html)** -
 needed are samples from a large number of affected individuals and their immediate
 family members (siblings, parents, and grandparents), from many breeds of dogs.
