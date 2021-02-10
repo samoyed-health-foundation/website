@@ -20,19 +20,7 @@ family members (siblings, parents, and grandparents), from many breeds of dogs.
 
 - - -
 
-**The University of Missouri is currently conducting a genetic marker
-study on glaucoma.**
-
-"Participation by the owners of affected dogs and their relatives is
-essential to the success of this project. Researchers need DNA samples
-from dogs who have been diagnosed with glaucoma or lens luxation, and
-immediate relatives (all available siblings, parents, grandparents, and
-offspring if the affected dog has been bred). Clinically normal dogs in
-these families are as important to sample as the affected dogs. Complete
-or nearly complete families are critical to the success of this
-research. Participation in the project is confidential -- the names of
-individual owners or dogs will not be
-revealed."...[more](/research/glaucoma-research)
+**Glaucoma**: Wisdom Health has announced it is in Phase 1 of a study on inherited eye diseases in dogs and are looking for DNA from Samoyeds diagnosed with glaucoma...[more](/research/wisdom-glaucoma-study)
 
 - - -
 
