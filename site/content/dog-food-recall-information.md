@@ -1,6 +1,6 @@
-+++
-title = "Dog Food Recall Information"
-+++
+---
+title: Dog Food Recall Information
+---
 
 
 
@@ -16,6 +16,28 @@ title = "Dog Food Recall Information"
 # News Articles
 
 <p></p>
+
+#### 2021 Bravo Packing, Inc. Recall
+
+All frozen raw dog foods and all bones made by Bravo Packing, Inc. have been recalled due to Salmonella risk.
+
+From the FDA:
+
+> During an FDA inspection, samples collected tested positive for Salmonella and Listeria monocytogenes and resulted in a recall due to the potential health risks to humans and pets.
+> 
+> ...
+> 
+> A pet with a Salmonella infection may be lethargic and have diarrhea or bloody diarrhea, fever, and vomiting. Some pets will have decreased appetite, fever, and abdominal pain. If your pet has consumed the recalled products and has these symptoms, please contact your veterinarian. Pets exposed to contaminated food can be infected without showing symptoms. Infected pets, including those without symptoms, can also shed Salmonella through their feces and saliva, spreading pathogens into the home environment and to humans and other animals nearby.
+> 
+> ...
+> 
+> No human or animal illnesses related to the identified products have been reported to date.
+> 
+> ...
+> 
+> Consumers with any of the affected products should handle them with caution, discard products in a secure container, and wash hands and surfaces properly.
+
+<https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bravo-packing-inc-expands-previously-announced-voluntary-recall-pet-food-products-due-potential>
 
 #### 2020 Sportmix Pet Food Recall
 
