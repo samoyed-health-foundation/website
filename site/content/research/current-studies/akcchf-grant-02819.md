@@ -3,7 +3,7 @@ title: "AKCCHF Grant #02819"
 ---
 **AKCCHF Grant #02819:** Identification of *Bartonella henselae* In Vivo Induced Antigens for Development of a Reliable Serodiagnostic Assay for Canine Bartonelloses
 
-**Principal Investigator: **Edward Breitschwerdt, DVM
+**Principal Investigator:** Edward Breitschwerdt, DVM
 
 **Institution:** North Carolina State University
 
