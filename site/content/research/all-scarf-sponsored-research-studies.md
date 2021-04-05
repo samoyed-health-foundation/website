@@ -128,7 +128,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 * [AKCCHF grant #01231-A (closed): ](/research/current-studies/akcchf-grant-01231-a) Prevalence and Localization of Bartonella spp. in Vascular Tumors from Dogs. Edward B Breitschwerdt, DVM, North Carolina State University \[$1000] \[[final report](/files/1231-A EY1 FINAL Summary.pdf)] [[publication](http://www.ncbi.nlm.nih.gov/pubmed/22092618)]
 * [AKCCHF grant #01232-A (closed):](/research/current-studies/akcchf-grant-01232-a)  Investigation of NF-kB as a Therapeutic Target in Canine Lymphoma.  Nicola J Mason, BVetMed, PhD, University of Pennsylvania \[$1000] [[publication](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3273413/)]
 * AKCCHF grant #01239-A (closed):  SNP Chip Analyses for Canine Cryptorchidism.  Max F Rothschild, PhD, Iowa State University \[$1000] [[Final Report](/research/current-studies/akcchf-grant-1239-a)]
-* AKCCHF grant #01240-A (closed):  Development of a Diagnostic Method for Canine Atopic Dermatitis.  Daniel A Gingerich, DVM, Imulan Bio Therapeutics, LLC \[$1000] [[final report](/files/1240-A EY1 FINAL Summary (2).pdf)]
+* AKCCHF grant #01240-A (closed):  Development of a Diagnostic Method for Canine Atopic Dermatitis.  Daniel A Gingerich, DVM, Imulan Bio Therapeutics, LLC \[$1000] [[final report](/files/1240-A EY1 FINAL Summary (2).pdf)/]
 
 # Funded Research Grants (2008)
 
