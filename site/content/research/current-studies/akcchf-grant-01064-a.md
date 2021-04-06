@@ -6,7 +6,7 @@ title: "AKCCHF grant #01064-A"
 *Note:* Some of this work on Survivin is also applicable to
 Osteosarcoma, as described in this AKCCHF Success Story: [Survivin' Canine Osteosarcoma](http://www.akcchf.org/research/impact-stories/survivin-canine-osteosarcoma.html)
 
-***[Final Report(***
+**[Final Report(</files/1064-A MY2 FINAL Summary.pdf>)]
 
 ***Project Summary from AKCCHF.org website:***
 
