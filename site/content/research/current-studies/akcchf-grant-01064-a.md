@@ -1,11 +1,12 @@
-+++
-title = "AKCCHF grant #01064-A"
-+++
-
+---
+title: "AKCCHF grant #01064-A"
+---
 **Investigator:** Douglas H Thamm, VMD, Colorado State University
 
 *Note:* Some of this work on Survivin is also applicable to
 Osteosarcoma, as described in this AKCCHF Success Story: [Survivin' Canine Osteosarcoma](http://www.akcchf.org/research/impact-stories/survivin-canine-osteosarcoma.html)
+
+**Update \[[Final Report](</files/1064-A MY2 FINAL Summary.pdf>)]**
 
 ***Project Summary from AKCCHF.org website:***
 
@@ -33,7 +34,7 @@ survivin levels in canine lymphoma cells that can be grown in the
 laboratory, in order to test whether these lymphoma cells are more
 easily killed. Despite numerous attempts to decrease survivin production
 from the canine lymphoma cells, it was only modestly decreased in either
-cell line (\<50%). This degree of survivin reduction was not able to
+cell line (<50%). This degree of survivin reduction was not able to
 increase cell death.
 
 The researchers are planning to evaluate 2 alternative strategies for
