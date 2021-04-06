@@ -8,11 +8,11 @@ Prevent Disease Transmission.**
 
 **Update:  Progress Report 12/24/2018** [click here](/files/Akcchf1780-ey5-summary.pdf)
 
-**Update:  Progress Report 01/13/2017** [click here](/files/AKCCHF 01780 EY4 Summary.pdf)
+**Update:  Progress Report 01/13/2017** [click here](</files/AKCCHF 01780 EY4 Summary.pdf>)
 
-**Update:  Progress Report 2016** [click here](/files/AKCCHF 1780 MY4 Summary.pdf)
+**Update:  Progress Report 2016** [click here](</files/AKCCHF 1780 MY4 Summary.pdf>)
 
-**Update:  Progress Report October 2014** [click here](/files/AKCCHF grant 1780 MY2 Progress Report.pdf)
+**Update:  Progress Report October 2014** [click here](</files/AKCCHF grant 1780 MY2 Progress Report.pdf>)
 
 **Project Summary from the AKCCHF.org website:**
 

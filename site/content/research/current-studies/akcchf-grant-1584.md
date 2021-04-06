@@ -9,8 +9,7 @@ Institution:  Western University of Health Sciences \
  \
 Total Grant Amount:  \$34,000.  SCARF contributed \$2500.
 
-***Update:  [Research Progress Report Final Summary
-10/9/2015](/files/AKCCHF grant 01584 MY4 FINAL Summary.pdf)***
+***Update:  [Research Progress Report Final Summary 10/9/2015](</files/AKCCHF grant 01584 MY4 FINAL Summary.pdf>)***
 
 **Project Abstract: **\
  

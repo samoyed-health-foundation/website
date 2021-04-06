@@ -6,11 +6,11 @@ title = "AKCCHF grant #01806 (open)"
 
 **Bruce F Smith, VMD PhD, Auburn University**
 
-**Update! [Research Progress Report Summary End Year 2; 2/26/2015](/files/AKCCHF grant 1806 EY2 Progress Report.pdf)**
+**Update! [Research Progress Report Summary End Year 2; 2/26/2015](</files/AKCCHF grant 1806 EY2 Progress Report.pdf>)**
 
-**Update! [Research Progress Report Summary End-Year 1; 2/26/2014](/files/AKCCHF 01806 EY1 Summary.pdf)**
+**Update! [Research Progress Report Summary End-Year 1; 2/26/2014](</files/AKCCHF 01806 EY1 Summary.pdf>)**
 
-**Update! [Research Progress Final Summary Report; 9/28/2015](/files/AKCCHF grant 01806 FINAL Summary.pdf)**
+**Update! [Research Progress Final Summary Report; 9/28/2015](</files/AKCCHF grant 01806 FINAL Summary.pdf>)**
 
 ***Project Summary from the AKCCHF.org website:***
 

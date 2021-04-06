@@ -4,7 +4,7 @@ title = "AKCCHF Grant #02118-A"
 
 ### Targeting the Mechanism of Bacterial Adherence during Pyometra to Develop an Effective, Non-Invasive Treatment for Disease. Cordula Bartel, PhD, University of Veterinary Medicine of Vienna
 
-Update! [Final Summary Report](/files/AKCCHF 02118A FINAL Summary.pdf)
+Update! [Final Summary Report](</files/AKCCHF 02118A FINAL Summary.pdf>)
 
 ### Abstract from AKCCHF.org website:
 

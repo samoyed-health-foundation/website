@@ -7,8 +7,7 @@ Dogs
 
 **Edward B Breitschwerdt, DVM, North Carolina State University**
 
-[**Final
-Report**](/files/1231-A EY1 FINAL Summary.pdf)
+[**Final Report**](</files/1231-A EY1 FINAL Summary.pdf>)
 
 **Publication:**
 

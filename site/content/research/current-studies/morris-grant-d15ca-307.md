@@ -5,7 +5,7 @@ title: Morris Grant D15CA-307 (closed)
 
 **Dr. Amanda E. Coleman, University of Georgia**
 
-[**Update November 2017**](/files/D15CA-307 Nov 2017 update.pdf)
+[**Update November 2017**](</files/D15CA-307 Nov 2017 update.pdf>)
 
 **[Update 2020 Final Report](https://www.samoyedhealthfoundation.org/files/d15ca307final.pdf)**
 

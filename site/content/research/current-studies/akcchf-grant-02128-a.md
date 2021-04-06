@@ -4,9 +4,9 @@ title = "AKCCHF Grant #02128-A (Closed)"
 
 **Jason Stull, VMD, PhD, Ohio State University, Principal Investigator**
 
-**Update:** [Final Report 10/31/2016](/files/AKCCHF grant 02128A MY2 Summary.pdf)
+**Update:** [Final Report 10/31/2016](</files/AKCCHF grant 02128A MY2 Summary.pdf>)
 
-**Update:** [Research Progress Report Summary Mid-Year 2, 2/28/2016](/files/AKCCHF 02128-A EY2 FINAL Summary.pdf)
+**Update:** [Research Progress Report Summary Mid-Year 2, 2/28/2016](</files/AKCCHF 02128-A EY2 FINAL Summary.pdf>)
 
 **Abstract from AKCCHF.org website:**
 

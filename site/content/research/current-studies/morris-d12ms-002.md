@@ -19,8 +19,6 @@ mammary cells or dogs and cats. The researchers will examine SYK and
 mammary stem cells and their role in cancer development in an effort to
 better understand how different genes affect mammary tumors.
 
-[Study Update
-Report](/files/D12MS-002 update.pdf)
+[Study Update Report](</files/D12MS-002 update.pdf>)
 
-[Final
-Report](/files/D12MS-002 Final Report.pdf)
+[Final Report](</files/D12MS-002 Final Report.pdf>)

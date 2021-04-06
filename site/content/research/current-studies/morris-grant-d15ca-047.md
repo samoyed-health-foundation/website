@@ -6,8 +6,7 @@ Osteosarcoma**
 
 **Dr. Jaime F. Modiano, University of Minnesota**
 
-[**2016
-update**](/files/D15CA-047 Oct 2016 update.pdf)
+[**2016 update**](</files/D15CA-047 Oct 2016 update.pdf>)
 
 _Summary:_  Researchers will investigate how osteosarcoma  spreads, in
 the hopes of finding new treatment targets.

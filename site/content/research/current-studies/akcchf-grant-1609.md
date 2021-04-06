@@ -10,11 +10,9 @@ Institution:  Iowa State University \
  \
 Total Grant Amount:  \$97,416.  SCARF contributed \$2500.
 
-***Update:  [Research Progress Report Summary End Year 5,
-11/13/2016](/files/AKCCHF 01609 EY5 Summary.pdf)***
+***Update:  [Research Progress Report Summary End Year 5, 11/13/2016](</files/AKCCHF 01609 EY5 Summary.pdf>)***
 
-***Update:  [Research Progress Report Summary End-Year 4,
-12/15/2015](/files/AKCCHF grant 01609 EY4 Summary.pdf)***\
+***Update:  [Research Progress Report Summary End-Year 4, 12/15/2015](</files/AKCCHF grant 01609 EY4 Summary.pdf>)***\
  \
 **Project Abstract: **\
  

@@ -9,8 +9,6 @@ and Bloat**
 
  
 
-[Study Update
-Report](/files/D09CA-502 update.pdf)
+[Study Update Report](</files/D09CA-502 update.pdf>)
 
-[Final
-Report](/files/D09CA-502 Final report.pdf)
+[Final Report](</files/D09CA-502 Final report.pdf>)

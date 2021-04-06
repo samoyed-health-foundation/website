@@ -6,7 +6,7 @@ title = "Morris Grant D14CA-063 (closed)"
 
 **Dr. Gerlinde R. Van de Walle, Cornell University**
 
-**Update! [Final Report](/files/D14CA-063 Final Report.pdf)**
+**Update! [Final Report](</files/D14CA-063 Final Report.pdf>)**
 
 All dog breeds are susceptible to mammary cancer.
 Researchers will evaluate the role of citrullination, a cellular process that is mediated by peptidylarginine deiminase (PAD) enzymes, in canine mammary cancer.

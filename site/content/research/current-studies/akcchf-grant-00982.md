@@ -6,7 +6,7 @@ Evaluation of Efficacy of Fasaret in Dogs with Osteosarcoma
 
 Don Bellgrau, PhD, ApopLogic Pharmaceuticals LLC
 
-**[Final Report](/files/AKCCHF grant 01584 MY4 FINAL Summary.pdf)**
+**[Final Report](</files/AKCCHF grant 01584 MY4 FINAL Summary.pdf>)**
 
 **Publication:**
 

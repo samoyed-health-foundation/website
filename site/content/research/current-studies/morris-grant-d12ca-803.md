@@ -22,5 +22,4 @@ further characterize iPSCs and determine their potential to be used
 therapeutically in dogs and as a novel tool for studying canine
 inherited diseases.
 
-[Final
-Report](/files/D12CA-803 Final Report.pdf)
+[Final Report](</files/D12CA-803 Final Report.pdf>)
