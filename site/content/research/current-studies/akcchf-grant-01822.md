@@ -1,12 +1,12 @@
 ---
-title: 'AKCCHF grant #01822 (closed)'
+title: "AKCCHF grant #01822 (closed)"
 ---
 **Beyond the Genome: The Intersection of Genes and the Environment in
 Canine Cancer**
 
 **Robert K Wayne, PhD, University of California Los Angeles**
 
-**Update! \[Final Report](</files/AKCCHF grant 1822 FINAL Summary.pdf>)**
+**Update! \[[Final Report](</files/AKCCHF grant 1822 FINAL Summary.pdf>)]**
 
 _**Project Summary from the AKCCHF.org website:**_
 
