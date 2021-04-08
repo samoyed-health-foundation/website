@@ -48,7 +48,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 #### MORRIS ANIMAL FOUNDATION GRANTS
 
 * [MAF Grant D14CA-063 (closed):](/research/current-studies/morris-grant-d14ca-063) Understanding how Mammary Cancer Develops.  Dr. Gerlinde R. Van de Walle, Cornell University.  [[final report](</files/D14CA-063 Final Report.pdf>)]
-* [MAF Grant D15CA-047 (open):](/research/current-studies/morris-grant-d15ca-047)  Understanding Why and How Canine Osteosarcoma Tumors Spread.  Dr. Jaime F. Modiano, University of Minnesota [[study update](</files/D15CA-047 Oct 2016 update.pdf>)] [[publication](http://www.jbc.org/content/290/47/28070.full.pdf)]
+* [MAF Grant D15CA-047 (closed):](/research/current-studies/morris-grant-d15ca-047)  Understanding Why and How Canine Osteosarcoma Tumors Spread.  Dr. Jaime F. Modiano, University of Minnesota [[study update](</files/D15CA-047 Oct 2016 update.pdf>)] [[publication](http://www.jbc.org/content/290/47/28070.full.pdf)] [[publication](https://www.mdpi.com/2079-4991/10/9/1662/htm)]
 * [MAF Grant D15CA-307 (closed):](/research/current-studies/morris-grant-d15ca-307) Evaluating a New Treatment for Dogs with Kidney Disease.  Dr. Amanda E. Coleman, University of Georgia [[study update](</files/D15CA-307 Nov 2017 update.pdf>)] [[final report](https://www.samoyedhealthfoundation.org/files/d15ca307final.pdf)]
 * [MAF Grant D15CA-802 (closed):](/research/current-studies/d15ca-802) Understanding the Transmission Risk of Bacterial Infections between Therapy Dogs and Kids with Cancer.  Dr. Allen R. Chen, Johns Hopkins University [[final report](</files/D15CA-802 FinalReport.pdf>)]
 
@@ -56,7 +56,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 
 #### AKC CANINE HEALTH FOUNDATION OAK GRANTS
 
-* [AKCCHF Grant #01780 (open):](/research/current-studies/akcchf-grant-01780)Defining   the Mechanism by Which Ticks Locate Dogs in Order to Better Prevent   Disease Transmission.  Emma Natalie Ivy Weeks, PhD, University of   Florida. \[$2500].  [[study update   2014](</files/AKCCHF grant 1780 MY2 Progress Report.pdf>)]   [[study update   2016](</files/AKCCHF 1780 MY4 Summary.pdf>)]   [[study update 2017](</files/AKCCHF 01780 EY4 Summary.pdf>)] [[study update 2018](/files/Akcchf1780-ey5-summary.pdf)]
+* [AKCCHF Grant #01780 (closed):](/research/current-studies/akcchf-grant-01780)Defining   the Mechanism by Which Ticks Locate Dogs in Order to Better Prevent   Disease Transmission.  Emma Natalie Ivy Weeks, PhD, University of   Florida. \[$2500].  [[study update   2014](</files/AKCCHF grant 1780 MY2 Progress Report.pdf>)]   [[study update   2016](</files/AKCCHF 1780 MY4 Summary.pdf>)]   [[study update 2017](</files/AKCCHF 01780 EY4 Summary.pdf>)] [[study update 2018](/files/Akcchf1780-ey5-summary.pdf)]
 * [AKCCHF Grant #01782 (closed):](/research/current-studies/akcchf-grant-01782)  Defining the Elements of Successful Cranial Cruciate Ligament Repair. Gina Bertocci, PhD, University of Louisville.  \[$2500]   [[study update](</files/AKCCHF 01782 MY2 Summary.pdf>)] [[final report](</files/AKCCHF grant 01782 FINAL Summary.pdf>)] [[publication](http://www.worldscientific.com/doi/abs/10.1142/S0219519413500437?queryID=%24%7BresultBean.queryID%7D)] [[publication](http://www.ncbi.nlm.nih.gov/pubmed/24370242)] [[publication](http://avmajournals.avma.org/doi/abs/10.2460/ajvr.75.7.626)]
 * [AKCCHF Grant #01806 (closed)](/research/current-studies/akcchf-grant-01806): A Novel Virus-Based Anti-Tumor Treatment for Canine Osteosarcoma.  Bruce F Smith, VMD PhD, Auburn University.  \[$2500].  [[study update 1](</files/AKCCHF 01806 EY1 Summary.pdf>)]  [[study update 2](</files/AKCCHF grant 1806 EY2 Progress Report.pdf>)] [[final report](</files/AKCCHF grant 01806 FINAL Summary.pdf>)]
 * [AKCCHF Grant #01822](/research/current-studies/akcchf-grant-01822) (closed): Beyond the Genome: The Intersection of Genes and the Environment in Canine Cancer.  Robert K Wayne, PhD, University of California Los Angeles. \[$2500].   [[final report](</files/AKCCHF grant 1822 FINAL Summary.pdf>)] [[publication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5391218/)]
@@ -65,9 +65,9 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 
 * [MAF Grant D09CA-502 (closed):](/research/current-studies/morris-grant-d09ca-502) Developing a Better Tool for Assessing Bloat Prognosis.  Elizabeth A Rozanski, DVM, Tufts University  [[study update](</files/D09CA-502 update.pdf>)] [[final report](</files/D09CA-502 Final report.pdf>)]
 * [MAF Grant D12CA-031:](/research/current-studies/morris-grant-d12ca-031) Understanding the Genetic Basis for Urinary Stones.  Dr. Ned Patterson, University of Minnesota
-* [MAF Grant D13CA-062 (open):](/research/current-studies/morris-animal-foundation-grant-d13ca-062) Assessing How a Protein Helps Hemangiosarcoma Cells Survive.  Erin B Dickerson, PhD, University of Minnesota  [[study update](</files/D13CA-062 update.pdf>)]
+* [MAF Grant D13CA-062 (closed):](/research/current-studies/morris-animal-foundation-grant-d13ca-062) Assessing How a Protein Helps Hemangiosarcoma Cells Survive.  Erin B Dickerson, PhD, University of Minnesota  [[study update](</files/D13CA-062 update.pdf>)]
 * MAF Grant D13CA-071 (closed): Identifying Genetic Markers for Congenital Heart Disease in Dogs.  Kathryn M. Meurs, DVM PhD, North Carolina State University  [[final report](</files/D13CA-071 Final Report.pdf>)]
-* [MAF Grant D13CA-311 (closed):](/research/current-studies/morris-grant-d13ca-311)   Evaluating Preventive Therapy for Ligament Disease.  Siao Sia Goh, BVSc, Colorado State University [[study update](</files/D13CA-311 update.pdf>)]  [\[final report]](/files/Morris-Grant-D13CA-311.pdf)
+* [MAF Grant D13CA-311 (closed):](/research/current-studies/morris-grant-d13ca-311)   Evaluating Preventive Therapy for Ligament Disease.  Siao Sia Goh, BVSc, Colorado State University [[study update](</files/D13CA-311 update.pdf>)]  \[[final report]](/files/Morris-Grant-D13CA-311.pdf)
 * [MAF Grant D13CA-802 (closed):](/research/current-studies/d13ca-802) Assessing a Diagnostic Tool for Eye Diseases.  Chris G Pirie DVM, DACVO, Tufts University [[final report](/files/D13CA-802.pdf)] [[publication](http://www.ncbi.nlm.nih.gov/pubmed/24447609)]
 
 # Funded Research Grants (2012)
@@ -82,7 +82,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 #### MORRIS ANIMAL FOUNDATION GRANTS
 
 * [MAF Grant D08CA-500: ](/research/current-studies/morris-grant-d08ca-500) Assessing the Prevalence of Leptospirosis; Dr George E Moore, Purdue University. ($3000)
-* [MAF Grant D10CA-022 (open)](/research/current-studies/morris-10ca-022) Studying the Effect of Cranberry Extract on Canine Urinary Tract Infections; Dr Natasha J Olby, North Carolina State University ($3000)[[publication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5259620/pdf/JVIM-31-60.pdf)]
+* [MAF Grant D10CA-022 (closed)](/research/current-studies/morris-10ca-022) Studying the Effect of Cranberry Extract on Canine Urinary Tract Infections; Dr Natasha J Olby, North Carolina State University ($3000)[[publication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5259620/pdf/JVIM-31-60.pdf)]
 * [MAF Grant D12CA-803 (closed)](/research/current-studies/morris-grant-d12ca-803): Reprogramming Canine Stem Cells to Develop New Therapies; Dr Deborah Guest, Animal Health Trust, United Kingdom. ($3000) [[final report](</files/D12CA-803 Final Report.pdf>)]
 * [MAF Grant D12MS-002 (closed): ](/research/current-studies/morris-d12ms-002) Examining the Role of Stem Cells and Genes in Mammary Tumor Development; Dr Gerlinde R Van de Walle, Ghent University, Belgium (#3000) [[study update](</files/D12MS-002 update.pdf>)] [[final report](</files/D12MS-002 Final Report.pdf>)]
 
@@ -118,7 +118,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 
 # Funded Research Grants (2009)
 
-* [Rabies Challenge Fund](http://www.rabieschallengefund.org/) [\[Summary]](https://www.rabieschallengefund.org/)
+* [Rabies Challenge Fund](http://www.rabieschallengefund.org/) \[[Summary]](https://www.rabieschallengefund.org/)
 * [AKCCHF grant #00615-B (closed):](/research/current-studies/akcchf-grant-00615b) Heritable and Sporadic Genetic Lesions in Canine Lymphoma.  Jaime F Modiano, VMD PhD  \[$2500 from AKCCHF Donor Advised fund] [[publication](http://informahealthcare.com/doi/abs/10.3109/10428194.2011.559802)] [[AKCCHF Success Story](http://www.akcchf.org/research/research-portfolio/0706.html)]
 * [AKCCHF grant #01130 (closed):](/research/current-studies/akcchf-grant-01130)  Measurement of Minimal Residual Disease Using Real Time PCR in Canine Lymphoma. Susan E Lana, DVM, Colorado State University \[$2500]
 * [AKCCHF grant #01139 (closed):](/research/current-studies/akcchf-grant-01139)  Immune Targeting of Canine Hemangiosarcoma Using a Canine Derived Single Chain Antibody Approach.  Nicola J Mason, BVetMed, PhD, University of Pennsylvania \[$2500] [[publication](http://www.ncbi.nlm.nih.gov/pubmed/20817275)] [[AKCCHF Success Story](http://www.akcchf.org/research/research-portfolio/1139.html)]
