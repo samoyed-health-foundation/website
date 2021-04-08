@@ -1,5 +1,5 @@
 ---
-title: Morris Grant D15CA-047 (open)
+title: Morris Grant D15CA-047 (complete)
 ---
 **Scientific Title:  Niche Conditioning for Metastasis in Canine
 Osteosarcoma**
@@ -26,3 +26,5 @@ how the tumor spreads. Their findings may be used to develop treatments
 to help prevent osteosarcoma metastasis in dogs.
 
 Scott MC et al.  2015.  [Aberrant Retinoblastoma (RB)-E2F Transcriptional Regulation Defines Molecular Phenotypes of Osteosarcoma](http://www.jbc.org/content/290/47/28070.full.pdf).  J Biol Chem 290: 28070-28083
+
+Nemati A et al 2020. [Isolation of Cancer-Derived Exosomes Using a Variety of Magnetic Nanostructures: From Fe3O4 Nanoparticles to Ni Nanowires](https://www.mdpi.com/2079-4991/10/9/1662/htm). Nanomaterials 10: 1662
