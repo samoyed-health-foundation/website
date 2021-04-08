@@ -17,10 +17,8 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 
 * [AKCCHF Grant # 02690-A (open): ](/research/current-studies/AKCCHF-Grant-02690A/)Diagnostic Utility of Thoracoscopy for Localization of Pulmonary Bullae in Dogs with Spontaneous Pneumothorax. Principal Investigator: Valery Scharf, DVM, MS; North Carolina State University \[$2500]
 * [AKCCHF Grant #02696 (open):](/research/current-studies/AKCCHF-Grant-02696/) Efficacy and Safety of Netarsudil for Canine Corneal Endothelial Dystrophy. Principal Investigator: Sara Thomasy, DVM, PhD; University of California, Davis \[$5000]
-* [AKCCHF Grant #02783 (open):](/research/current-studies/AKCCHF-Grant-02783/) Transcriptional Profiling of Canine Soft Tissue Sarcoma. Principal Investigator: Andrew Miller, DVM; Cornell University \[$5000]
+* [AKCCHF Grant #02783 (open):](/research/current-studies/AKCCHF-Grant-02783/) Transcriptional Profiling of Canine Soft Tissue Sarcoma. Principal Investigator: Andrew Miller, DVM; Cornell University \[$5000] [[Progress Report](/files/akcchf02783ey1summary.pdf)]
 * [AKCCHF Grant #02819 (open):](/research/current-studies/AKCCHF-Grant-02819/) Identification of Bartonella henselae In Vivo Induced Antigens for Development of a Reliable Serodiagnostic Assay for Canine Bartonelloses. Principal Investigator: Edward Breitschwerdt, DVM; North Carolina State University \[$2500]
-
-
 
 # Funded Research Grants (2020)
 
@@ -69,7 +67,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 * [MAF Grant D12CA-031:](/research/current-studies/morris-grant-d12ca-031) Understanding the Genetic Basis for Urinary Stones.  Dr. Ned Patterson, University of Minnesota
 * [MAF Grant D13CA-062 (open):](/research/current-studies/morris-animal-foundation-grant-d13ca-062) Assessing How a Protein Helps Hemangiosarcoma Cells Survive.  Erin B Dickerson, PhD, University of Minnesota  [[study update](</files/D13CA-062 update.pdf>)]
 * MAF Grant D13CA-071 (closed): Identifying Genetic Markers for Congenital Heart Disease in Dogs.  Kathryn M. Meurs, DVM PhD, North Carolina State University  [[final report](</files/D13CA-071 Final Report.pdf>)]
-* [MAF Grant D13CA-311 (closed):](/research/current-studies/morris-grant-d13ca-311)   Evaluating Preventive Therapy for Ligament Disease.  Siao Sia Goh, BVSc, Colorado State University [[study update](</files/D13CA-311 update.pdf>)]  [[final report]](/files/Morris-Grant-D13CA-311.pdf)
+* [MAF Grant D13CA-311 (closed):](/research/current-studies/morris-grant-d13ca-311)   Evaluating Preventive Therapy for Ligament Disease.  Siao Sia Goh, BVSc, Colorado State University [[study update](</files/D13CA-311 update.pdf>)]  [\[final report]](/files/Morris-Grant-D13CA-311.pdf)
 * [MAF Grant D13CA-802 (closed):](/research/current-studies/d13ca-802) Assessing a Diagnostic Tool for Eye Diseases.  Chris G Pirie DVM, DACVO, Tufts University [[final report](/files/D13CA-802.pdf)] [[publication](http://www.ncbi.nlm.nih.gov/pubmed/24447609)]
 
 # Funded Research Grants (2012)
@@ -120,7 +118,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 
 # Funded Research Grants (2009)
 
-* [Rabies Challenge Fund](http://www.rabieschallengefund.org/) [[Summary]](https://www.rabieschallengefund.org/)
+* [Rabies Challenge Fund](http://www.rabieschallengefund.org/) [\[Summary]](https://www.rabieschallengefund.org/)
 * [AKCCHF grant #00615-B (closed):](/research/current-studies/akcchf-grant-00615b) Heritable and Sporadic Genetic Lesions in Canine Lymphoma.  Jaime F Modiano, VMD PhD  \[$2500 from AKCCHF Donor Advised fund] [[publication](http://informahealthcare.com/doi/abs/10.3109/10428194.2011.559802)] [[AKCCHF Success Story](http://www.akcchf.org/research/research-portfolio/0706.html)]
 * [AKCCHF grant #01130 (closed):](/research/current-studies/akcchf-grant-01130)  Measurement of Minimal Residual Disease Using Real Time PCR in Canine Lymphoma. Susan E Lana, DVM, Colorado State University \[$2500]
 * [AKCCHF grant #01139 (closed):](/research/current-studies/akcchf-grant-01139)  Immune Targeting of Canine Hemangiosarcoma Using a Canine Derived Single Chain Antibody Approach.  Nicola J Mason, BVetMed, PhD, University of Pennsylvania \[$2500] [[publication](http://www.ncbi.nlm.nih.gov/pubmed/20817275)] [[AKCCHF Success Story](http://www.akcchf.org/research/research-portfolio/1139.html)]
