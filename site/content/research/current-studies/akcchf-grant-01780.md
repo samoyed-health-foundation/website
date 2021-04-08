@@ -1,5 +1,5 @@
 ---
-title: 'AKCCHF grant #01780 (open)'
+title: "AKCCHF grant #01780"
 ---
 **Defining the Mechanism by Which Ticks Locate Dogs in Order to Better
 Prevent Disease Transmission.**
