@@ -17,7 +17,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 
 * [AKCCHF Grant # 02690-A (open): ](/research/current-studies/AKCCHF-Grant-02690A/)Diagnostic Utility of Thoracoscopy for Localization of Pulmonary Bullae in Dogs with Spontaneous Pneumothorax. Principal Investigator: Valery Scharf, DVM, MS; North Carolina State University \[$2500]  [[Progress Report 2021](/files/akcchf02690amy2summary.pdf)]
 * [AKCCHF Grant #02696 (open):](/research/current-studies/AKCCHF-Grant-02696/) Efficacy and Safety of Netarsudil for Canine Corneal Endothelial Dystrophy. Principal Investigator: Sara Thomasy, DVM, PhD; University of California, Davis \[$5000]  [[Progress Report 2021](/files/akcchf02696my2summary.pdf)]
-* [AKCCHF Grant #02783 (open):](/research/current-studies/AKCCHF-Grant-02783/) Transcriptional Profiling of Canine Soft Tissue Sarcoma. Principal Investigator: Andrew Miller, DVM; Cornell University \[$5000] [[Progress Report](/files/akcchf02783ey1summary.pdf)]
+* [AKCCHF Grant #02783 (open):](/research/current-studies/AKCCHF-Grant-02783/) Transcriptional Profiling of Canine Soft Tissue Sarcoma. Principal Investigator: Andrew Miller, DVM; Cornell University \[$5000] [[Progress Report](/files/akcchf02783ey1summary.pdf)] [[Year 2 Progress Report 2021](files/akc02783my2summary.pdf)]
 * [AKCCHF Grant #02819 (open):](/research/current-studies/AKCCHF-Grant-02819/) Identification of Bartonella henselae In Vivo Induced Antigens for Development of a Reliable Serodiagnostic Assay for Canine Bartonelloses. Principal Investigator: Edward Breitschwerdt, DVM; North Carolina State University \[$2500]  [[Progress Report 2021](/files/akcchf02819my1summary.pdf)]
 
 # Funded Research Grants (2020)
