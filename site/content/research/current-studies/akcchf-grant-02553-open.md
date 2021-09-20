@@ -1,11 +1,11 @@
 ---
-title: "AKCCHF Grant #02553 (open)"
+title: "AKCCHF Grant #02682-A (open)"
 ---
-**Grant #02553:** Targeted Next Generation Sequencing Panel for Comprehensive Testing of Vector-Borne Pathogens.
+**Grant #02682-A:**  The Effects of a Modified Approach to Early Weight Bearing in Dogs Following a Tibeal Plateau Leveling Osteotomy for Cranial Cruciate Ligament Rupture. 
 
-**Principal Investigator**: Rebecca Wilkes DVM
+**Principal Investigator**: Dominique Sawyere Hansford, BVSc, MS
 
-**Research Institution**: Purdue University
+**Research Institution**: Virginia-Maryland Regional College of Veterinary Medicine
 
 **[[Progress Report 2021](/files/akcchf02553my2summary.pdf)]**
 
