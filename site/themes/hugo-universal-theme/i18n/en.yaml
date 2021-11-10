@@ -8,10 +8,10 @@
   translation: "Ported to Hugo by"
 
 - id: contactGoTo
-  translation: "Go to contact page"
+  translation: "Send us a message"
 
 - id: contactAddrTitle
-  translation: "Address"
+  translation: "Socials"
 
 - id: contactTitle
   translation: "Contact"

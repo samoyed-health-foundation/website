@@ -94,13 +94,13 @@ blockquote {
 }
 
 /* style external links with font-awesome icon */
-div#content > div.container a[href^="http://"]:not([href*="samoyedhealthfoundation.org"]):not(.img-href):after {
+div#content > div.container a[href^="http://"]:not([href*="samoyedhealthfoundation.org"]):not([href*="https://www.facebook.com/samoyed.foundation"]):not(.img-href):after {
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
   content: "\f35d";
   margin: 0 0 0 5px;
 }
-div#content > div.container a[href^="https://"]:not([href*="samoyedhealthfoundation.org"]):not(.img-href):after {
+div#content > div.container a[href^="https://"]:not([href*="samoyedhealthfoundation.org"]):not([href*="https://www.facebook.com/samoyed.foundation"]):not(.img-href):after {
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
   content: "\f35d";
