@@ -15,18 +15,18 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 
 #### AKC CANINE HEALTH FOUNDATION GRANTS
 
-* [AKCCHF Grant # 02690-A (open): ](/research/current-studies/AKCCHF-Grant-02690A/)Diagnostic Utility of Thoracoscopy for Localization of Pulmonary Bullae in Dogs with Spontaneous Pneumothorax. Principal Investigator: Valery Scharf, DVM, MS; North Carolina State University \[$2500]  [[Progress Report 2021](/files/akcchf02690amy2summary.pdf)]
+* [AKCCHF Grant # 02690-A (open): ](/research/current-studies/AKCCHF-Grant-02690A/)Diagnostic Utility of Thoracoscopy for Localization of Pulmonary Bullae in Dogs with Spontaneous Pneumothorax. Principal Investigator: Valery Scharf, DVM, MS; North Carolina State University \[$2500]  [[Progress Report 2021](/files/akcchf02690amy2summary.pdf)] [[Progress Report end 2021](/files/akcchf02819ey1summary.pdf)]
 * [AKCCHF Grant #02696 (open):](/research/current-studies/AKCCHF-Grant-02696/) Efficacy and Safety of Netarsudil for Canine Corneal Endothelial Dystrophy. Principal Investigator: Sara Thomasy, DVM, PhD; University of California, Davis \[$5000]  [[Progress Report 2021](/files/akcchf02696my2summary.pdf)]
 * [AKCCHF Grant #02783 (open):](/research/current-studies/AKCCHF-Grant-02783/) Transcriptional Profiling of Canine Soft Tissue Sarcoma. Principal Investigator: Andrew Miller, DVM; Cornell University \[$5000] [[Progress Report](/files/akcchf02783ey1summary.pdf)] [[Year 2 Progress Report 2021](/files/akc02783my2summary.pdf)]
-* [AKCCHF Grant #02819 (open):](/research/current-studies/AKCCHF-Grant-02819/) Identification of Bartonella henselae In Vivo Induced Antigens for Development of a Reliable Serodiagnostic Assay for Canine Bartonelloses. Principal Investigator: Edward Breitschwerdt, DVM; North Carolina State University \[$2500]  [[Progress Report 2021](/files/akcchf02819my1summary.pdf)]
+* [AKCCHF Grant #02819 (open):](/research/current-studies/AKCCHF-Grant-02819/) Identification of Bartonella henselae In Vivo Induced Antigens for Development of a Reliable Serodiagnostic Assay for Canine Bartonelloses. Principal Investigator: Edward Breitschwerdt, DVM; North Carolina State University \[$2500]  [[Progress Report 2021](/files/akcchf02819my1summary.pdf)]  [[Progress Report end 2021](/files/akcchf02819ey1summary.pdf)]
 
 # Funded Research Grants (2020)
 
 #### AKC CANINE HEALTH FOUNDATION GRANTS
 
-* [AKCCHF Grant #02534 (open)](https://www.samoyedhealthfoundation.org/research/current-studies/akcchf-grant-02534/): Clinical Trial for Evaluation of Propranolol and Doxorubicin in the Treatment of Canine Hemangiosarcoma. Erin Dickerson PhD, Brian Husbands DVM, University of MN \[$5000]  [[Progress Report 2021](/files/akcchf02534ey2summary.pdf)]
-* [AKCCHF Grant #02553 (open)](https://www.samoyedhealthfoundation.org/research/current-studies/akcchf-grant-02553/): Targeted next generation sequencing panel for comprehensive testing of vector-borne pathogens. Rebecca Wilkes, DVM. Purdue University \[$2500]  [[Progress Report 2021](/files/akcchf02553my2summary.pdf)]
-* [AKCCHF Grant #02682A (open):](/research/current-studies/AKCCHF-Grant-02682A/) The Effects of a Modified Approach to Early Weight Bearing in Dogs Following a Tibeal Plateau Leveling Osteotomy for Cranial Cruciate Ligament Rupture. Dominique S Hansfort BVSc, MS.  Virginia-Maryland Regional College of Veterinary Medicine. \[$2700]. [[Progress Report 2021](/files/akc02682amy2summary.pdf)]
+* [AKCCHF Grant #02534 (open)](https://www.samoyedhealthfoundation.org/research/current-studies/akcchf-grant-02534/): Clinical Trial for Evaluation of Propranolol and Doxorubicin in the Treatment of Canine Hemangiosarcoma. Erin Dickerson PhD, Brian Husbands DVM, University of MN \[$5000]  [[Progress Report 2021](/files/akcchf02534ey2summary.pdf)]  [[Progress Report end 2021](/files/akcchf02534my3summary.pdf)]
+* [AKCCHF Grant #02553 (closed)](https://www.samoyedhealthfoundation.org/research/current-studies/akcchf-grant-02553/): Targeted next generation sequencing panel for comprehensive testing of vector-borne pathogens. Rebecca Wilkes, DVM. Purdue University \[$2500]  [[Final Report 2021](/files/akcchf02553my2summary.pdf)]
+* [AKCCHF Grant #02682A (open):](/research/current-studies/AKCCHF-Grant-02682A/) The Effects of a Modified Approach to Early Weight Bearing in Dogs Following a Tibeal Plateau Leveling Osteotomy for Cranial Cruciate Ligament Rupture. Dominique S Hansfort BVSc, MS.  Virginia-Maryland Regional College of Veterinary Medicine. \[$2700]. [[Progress Report 2021](/files/akc02682amy2summary.pdf)]  \[[Progress Report end 2021](/files/akcchf02682aey2summary.pdf)]  
 
 # Funded Research Grants (2019)
 
