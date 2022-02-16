@@ -125,10 +125,6 @@ internet "wayback machine"
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-## Support Groups
-
-<https://groups.yahoo.com/neo/groups/pregnancy_and_pups/info>
-
 ## Suggested Links
 
 If you experience fading puppy syndrome with a litter please see the

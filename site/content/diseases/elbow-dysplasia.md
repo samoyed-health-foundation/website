@@ -121,14 +121,6 @@ rating](/img/2-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-## Support Groups
-
-[Yahoo Group for Canine Elbow
-Dysplasia](https://groups.yahoo.com/neo/groups/k9elbow/info)
-
-[Yahoo Group for dogs with various orthopedic
-issues](https://groups.yahoo.com/neo/groups/orthodogs/info)
-
 ## Suggested Links
 
 [Summary of OFA elbow dysplasia

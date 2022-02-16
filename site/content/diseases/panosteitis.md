@@ -111,14 +111,6 @@ management tips.
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-## Support Groups
-
-There is no specific email support groups for this disorder.  However,
-there is an orthodog group on yahoo which offers support for
-panosteitis.
-
-<https://groups.yahoo.com/neo/groups/orthodogs/info>
-
 ## Suggested Links
 
 <http://www.vetinfo.com/dencyclopedia/depano.html>  ![2

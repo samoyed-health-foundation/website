@@ -116,13 +116,6 @@ rating](/img/2-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-## Support Groups
-
-This support group is for all types of canine cancer.
-
-[Yahoo Groups Canine
-Cancer](https://groups.yahoo.com/neo/groups/CanineCancer/info)
-
 ## Suggested Links
 
 [Hemangiosarcoma](http://en.wikipedia.org/wiki/Hemangiosarcoma)

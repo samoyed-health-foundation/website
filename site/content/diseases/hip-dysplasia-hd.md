@@ -103,10 +103,6 @@ pedigree," to help make breeding decisions.
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-## Support Groups
-
-[Yahoo Group discussing Canine Hip Dysplasia, its causes, treatment and recovery.](https://groups.yahoo.com/neo/groups/CanineHD/info)
-
 ## Suggested Links
 
 [Mirage Samoyeds](http://www.mirage-samoyeds.com/hipofa.htm#links)

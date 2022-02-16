@@ -55,8 +55,6 @@ CHIC liaison is
 
 - [Breeding for Health](http://malamute-health.org/index.php/breeding-for-health) on the malamutehealth.org website
 
-- [K9 Genetics Discussion Group](http://groups.yahoo.com/group/K9Genetics/) on yahoo
-
 - [Canine Genetics Resources](http://www.workingdogs.com/genetics.htm) on workingdogs.com - a large collection of links for further reading
 
 - [Breeding Better Dogs](http://www.breedingbetterdogs.com/articles/articles.html) - a list of articles by Carmen L. Battaglia - some of these are very thought provoking

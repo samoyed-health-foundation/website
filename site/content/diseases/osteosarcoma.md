@@ -107,13 +107,9 @@ rating](/img/2-bones.gif)
 
 ## Support Groups
 
- [Bone Cancer Dogs, Inc.](http://www.bonecancerdogs.org/)
+[Bone Cancer Dogs, Inc.](http://www.bonecancerdogs.org/)
 
 [Canine Cancer Awareness Organization](http://caninecancerawareness.org/therapy-and-support/support-groups-on-the-web)
-
-[Bone Cancer Dogs ](https://groups.yahoo.com/neo/groups/bonecancerdogs/info)
-
-Yahoo Group
 
 ## Suggested Links
 

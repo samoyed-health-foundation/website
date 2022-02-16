@@ -191,9 +191,6 @@ Support Groups
 
 [www.k9cushings.com](http://www.k9cushings.com/)
 
-<https://groups.yahoo.com/neo/groups/caninecushings-autoimmunecare/info>
-
-
 
 Suggested Links
 ---------------

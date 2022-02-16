@@ -139,12 +139,6 @@ other bitch.
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-## Support Groups
-
-[Pregnancy_and_Pups](https://groups.yahoo.com/neo/groups/pregnancy_and_pups/info) -
-Dog Whelping & Puppies is a yahoo group whose stated purpose is "to
-learn about dog pregnancy and raising puppies"  This is a large list
-with a high volume of email.
 
 ## Suggested Links
 

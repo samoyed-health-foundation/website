@@ -203,13 +203,6 @@ rating](/img/1-bone.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-## Support Groups
-
-This support group is for all types of canine cancer.
-
-[Yahoo Group Canine
-Cancer](https://groups.yahoo.com/neo/groups/caninecancer/info)
-
 ## Suggested Links
 
 <http://www.labbies.com/cancerintro.htm>  ![one bone

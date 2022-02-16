@@ -94,14 +94,6 @@ rating](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-## Support Groups
-
-[Yahoo groups Canine Congestive Heart
-Failure](https://groups.yahoo.com/neo/groups/congestiveheartfailure/info)
-
-[Yahoo groups Canine Heart
-Health](https://groups.yahoo.com/neo/groups/caninehearthealth/info)
-
 ## Suggested Links
 
 [Ventricular Septal Defect in

@@ -260,12 +260,6 @@ areas.
   especially up and down, without adding any pain or damage to the
   patella*.*
 
-## Support Groups
-
-Orthodogs Yahoo support group
-
-<https://groups.yahoo.com/neo/groups/orthodogs/info>
-
 ## Suggested Links
 
 **OFA Registration**

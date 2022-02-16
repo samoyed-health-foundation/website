@@ -110,14 +110,6 @@ Perianal Fistulas in German Shepherds.
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-## Support Groups
-
-<https://groups.yahoo.com/neo/groups/pf-l/info> - A list for dog owners that are dealing with or have dealt with the
-horrible disease called Perianal Fistulas. Come and join us and you will
-receive support and advice from others with the same problem. ![one
-bone
-rating](/img/1-bone.gif)
-
 ## Suggested Links
 
 <http://perianal-fistulas.tripod.com/PersonalStoriesIndex.html> -

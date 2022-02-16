@@ -144,10 +144,6 @@ rating](https://www.samoyedhealthfoundation.org/img/2-bones.gif)
 
 ## Support Groups
 
-These support groups are for all types of canine cancer:
-
-<https://groups.yahoo.com/neo/groups/caninecancer/info>
-
 <http://www.natural-dog-health-remedies.com/dog-cancer-forum.html>
 
 ## Suggested Links

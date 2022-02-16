@@ -123,18 +123,6 @@ Washington State University  ![three bones rating](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-Support Groups
---------------
-
-[Yahoo Groups Canine Congestive Heart
-Failure](https://groups.yahoo.com/neo/groups/congestiveheartfailure/info)
-
-
-
-[Yahoo Groups Canine Heart
-Health](https://groups.yahoo.com/neo/groups/caninehearthealth/info)
-
-
 
 Suggested Links
 ---------------

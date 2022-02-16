@@ -111,8 +111,6 @@ rewarding experience.
 
 <http://www.caninediabetes.org/maillists.html>
 
-<https://groups.yahoo.com/neo/groups/diabetespet/info>
-
 Rainbow Pets Diabetes list:
 To join send a plain text email to [majordomo@netwrx1.com](mailto:majordomo@netwrx1.com).
 Please note it is the number one and not an L at the end of netwrx.

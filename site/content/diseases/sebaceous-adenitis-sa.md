@@ -87,14 +87,7 @@ rating](/img/3-bones.gif)
 
 ## Support Groups
 
-[Yahoo Group on
-SA](https://groups.yahoo.com/neo/groups/SA_Addisons/info)  --
-This support group is for those people who have dogs with Sebaceous
-Adenitis (SA) and/or Addison's Disease. Learn how to care for your dog
-and help others with their questions.
-
-[Facebook Group on
-SA](https://www.facebook.com/groups/1037582446280841/)
+[Facebook Group on SA](https://www.facebook.com/groups/1037582446280841/)
 -- Another support group if you use Facebook (closed group)
 
 ## Suggested Links

@@ -151,12 +151,6 @@ rating](/img/1-bone.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-## Support Groups
-
-This group requires a biopsy-confirmed diagnosis of IBD to join:
-
-<https://groups.yahoo.com/neo/groups/ibdogs/info>
-
 ## Suggested Links
 
 [Inflammatory Bowel Disease in Your

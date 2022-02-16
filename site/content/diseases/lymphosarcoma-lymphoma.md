@@ -142,12 +142,6 @@ rating](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-## Support Groups
-
-[https://groups.yahoo.com/neo/groups/CanineCancer/info](https://groups.yahoo.com/neo/groups/caninecancer/info)
-
-<https://groups.yahoo.com/neo/groups/LymphomaHeartDogs/info>
-
 ## Suggested Links
 
 [http://www.caninecancerawareness.org](http://www.caninecancerawareness.org/)

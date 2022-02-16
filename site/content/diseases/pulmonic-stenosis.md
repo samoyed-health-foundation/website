@@ -114,18 +114,6 @@ disease.  Allow the dog to self limit his exercise.  No FORCED exercise
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-## Support Groups
-
-<https://groups.yahoo.com/neo/groups/dogheart/info>
-
-dogheart yahoo group- "This list is for pet owners whose canine
-companions suffer from congestive heart failure, cardiomyopathy or other
-cardiac or cardiopulmonary disease. It's a place to share experiences,
-ask for advice from other owners, grieve and enjoy our companions in
-spite of their health problems. The list owner is NOT a veterinarian,
-just a guardian of a sick dog who would like to connect with others in
-the same situation."
-
 ## Suggested Links
 
 1. <http://www.vet.upenn.edu/veterinary-hospitals/ryan-veterinary-hospital/services/cardiology>

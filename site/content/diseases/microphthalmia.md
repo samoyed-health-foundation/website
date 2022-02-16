@@ -116,15 +116,6 @@ Newfoundland dogs.   Anim Genet. 2006 Dec;37(6):606-7.![2 bones](/img/2-bones.gi
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-## Support Groups
-
-This is a well documented problem in humans and there seem to be dozens
-of web sites and help groups for them.
-
-<https://groups.yahoo.com/neo/groups/blinddogs/info>
-
- helps people whose dogs have lost all sight.
-
 ## Suggested Links
 
 There are many of web sites for other breeds, but none specifically for
