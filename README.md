@@ -1,7 +1,5 @@
 # SCARF
 
-The code for http://samoyedhealthfoundation.org/
-
 ## Overview
 
 The repo was forked from Netlify's Hugo starter at
@@ -95,6 +93,6 @@ Netlify will automatically deploy changes to the `master` branch.
 
 You can also click this button:
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://gitlab.com/modille/scarf-website)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/samoyed-health-foundation/website)
 
 ## Enjoy!! 🐶
