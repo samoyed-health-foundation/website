@@ -95,7 +95,7 @@ paginate = 10
   default_sharing_image = "img/og-image.png"
 
   # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
-  enableGoogleMaps = true
+  enableGoogleMaps = false
   googleMapsApiKey = "AIzaSyDaVrZWfOQfO9enENXhvFOx7cmpLFfYxaM"
 
   latitude  = "30.4739452"
