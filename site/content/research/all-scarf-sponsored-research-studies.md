@@ -26,7 +26,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 
 * [AKCCHF Grant #02534 (open)](https://www.samoyedhealthfoundation.org/research/current-studies/akcchf-grant-02534/): Clinical Trial for Evaluation of Propranolol and Doxorubicin in the Treatment of Canine Hemangiosarcoma. Erin Dickerson PhD, Brian Husbands DVM, University of MN \[$5000]  [[Progress Report 2021](/files/akcchf02534ey2summary.pdf)]  [[Progress Report end 2021](/files/akcchf02534my3summary.pdf)]
 * [AKCCHF Grant #02553 (closed)](https://www.samoyedhealthfoundation.org/research/current-studies/akcchf-grant-02553/): Targeted next generation sequencing panel for comprehensive testing of vector-borne pathogens. Rebecca Wilkes, DVM. Purdue University \[$2500]  [[Final Report 2021](/files/akcchf02553my2summary.pdf)]
-* [AKCCHF Grant #02682A (open):](/research/current-studies/AKCCHF-Grant-02682A/) The Effects of a Modified Approach to Early Weight Bearing in Dogs Following a Tibeal Plateau Leveling Osteotomy for Cranial Cruciate Ligament Rupture. Dominique S Hansfort BVSc, MS.  Virginia-Maryland Regional College of Veterinary Medicine. \[$2700]. [[Progress Report 2021](/files/akc02682amy2summary.pdf)]  \[[Progress Report end 2021](/files/akcchf02682aey2summary.pdf)]  
+* [AKCCHF Grant #02682A (open):](/research/current-studies/AKCCHF-Grant-02682A/) The Effects of a Modified Approach to Early Weight Bearing in Dogs Following a Tibeal Plateau Leveling Osteotomy for Cranial Cruciate Ligament Rupture. Dominique S Hansfort BVSc, MS.  Virginia-Maryland Regional College of Veterinary Medicine. \[$2700]. [[Progress Report 2021](/files/akc02682amy2summary.pdf)]  [[Progress Report end 2021](/files/akcchf02682aey2summary.pdf)]  
 
 # Funded Research Grants (2019)
 
@@ -34,7 +34,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 
 * [MAF Grant D18CA-045 (open):](https://www.samoyedhealthfoundation.org/research/morris-grant-d18ca-045/) Tackling the Canine Microbiome in Chronic Enteropathy:  Characterizing the Functionally Significant Changes that Occur with Remission of Disease.  Caroline S Mansfield BSC, BVMS, MVM, DECVIM University of Melbourne \[$10,000] [[Progress Report 2020](https://www.samoyedhealthfoundation.org/files/MAFD18CA045ProgressReport.pdf)] [[Progress Report 2021](/files/MAFD18CA045.pdf)]
 * [MAF Grant D19CA-064 (open):](https://www.samoyedhealthfoundation.org/research/morris-d19ca-064/) Synergizing Radiation-Induced Immunogenic Cell Death and Toll-like Receptor 9 Agonism to Generate Abscopal Effects in Canine Osteosarcoma.  Timothy M Fan DVM, PhD.  University of Illinois \[$10,000]
-* [MAF Grant D20CA-312 (open): ](https://www.samoyedhealthfoundation.org/research/morris-grant-d20ca-312/) Lymphotropic Nanoparticle Enhanced MRI for Diagnosis of Metastatic Disease in Canine Head and Neck Tumors.  Lynn Griffin DVM.  Colorado State University \[$10,000] [[Progress Report](/files/D20CA312ProgressReport.pdf)]
+* [MAF Grant D20CA-312 (closed): ](https://www.samoyedhealthfoundation.org/research/morris-grant-d20ca-312/) Lymphotropic Nanoparticle Enhanced MRI for Diagnosis of Metastatic Disease in Canine Head and Neck Tumors.  Lynn Griffin DVM.  Colorado State University \[$10,000] [[Progress Report](/files/D20CA312ProgressReport.pdf)] [[FinalReport](/files/D20CA312FinalReport.pdf)]
 
 # Funded Research Grants (2015)
 
