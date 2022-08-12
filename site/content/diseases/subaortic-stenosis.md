@@ -199,6 +199,9 @@ area
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
 
+SCARF-sponsored Current Research
+---------------
+[Investigating a Novel Drug Therapy for Heart Disease](/research/current-studies/morris-grant-d22ca-040)
 
 "Living with a Disorder" Journal Entries
 ----------------------------------------
