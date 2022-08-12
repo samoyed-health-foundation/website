@@ -11,6 +11,12 @@ You can read about how MAF approves grant proposals at <https://www.morrisanimal
 
 You may participate in the [Samoyed DNA bank/databases](/databases)
 
+# Funded Research Grants (2022)
+
+#### MORRIS ANIMAL FOUNDATION GRANTS
+
+* [MAF Grant D22CA-040](/research/current-studies/morris-grant-d22ca-040):  Investigating a Novel Drug Therapy for Heart Disease. Principal Investigator:  Joshua Stern, DVM.  University of California Davis. \[$20,000]
+
 # Funded Research Grants (2021)
 
 #### AKC CANINE HEALTH FOUNDATION GRANTS
