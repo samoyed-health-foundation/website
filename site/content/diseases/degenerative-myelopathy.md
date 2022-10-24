@@ -11,9 +11,11 @@ title: Degenerative Myelopathy
 > [health information reviewer](/become-a-health-information-reviewer).
 
 ## Samples Needed!
-Does your dog have degenerative myelopathy?  You can help by providing a sample for DNA analysis.
-[DOGenes Inc study](/research/current-studies/degenerative-myelopathy-study-needs-samples)
 
+Does your dog have degenerative myelopathy?  You can help by providing a sample for DNA analysis.
+[](/research/current-studies/degenerative-myelopathy-study-needs-samples)
+
+[DOGenes Inc study](/research/current-studies/degenerative-myelopathy-study-needs-samples)
 
 ## Suggested Links
 
