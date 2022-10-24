@@ -5,6 +5,7 @@ Samples from Samoyeds are needed for these SCARF sponsored research studies:
 
 # Open Studies
 
+* [Degenerative Myelopathy](/research/current-studies/degenerative-myelopathy-study-needs-samples)
 * [Sub-Aortic Stenosis](https://www.samoyedclubofamerica.org/the-samoyed/health-and-care/studies/)
 
 # Closed Studies
