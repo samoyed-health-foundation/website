@@ -18,7 +18,7 @@ The system discussed in this article is the Freestyle Libre which I have been us
 The application process is simple and relatively pain free for the dog. The kit is supplied with a sensor pack, a sensor applicator and two alcohol pads (*Figure 1*).  Start the application process by clipping or shaving a small patch of fur, generally over the shoulder blade where the surface is fairly flat. (*Figure 2*) Cleanse the skin with the alcohol pads provided and let it dry completely. Applying a small amount of surgical glue to the adhesive portion of the sensor disc can help maintain the sensor in place for the full two weeks but it is important not to use too much so that removal is not a painful process for the dog.
 
 **Figure 1. Package with sensor applicator (left), sensor pack (right), and alcohol wipes**
-![Figure 1](/files/diabetesfigure-1.jpeg "Figure 1")
+![Figure 1](/files/diabetesfigure-1.jpg "Figure 1")
 
 **Figure 2. Application site after 2 week application**
 ![Figure 2](/files/diabetesfigure-2.jpeg "Figure 2")
