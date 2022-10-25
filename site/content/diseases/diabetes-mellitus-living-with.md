@@ -17,6 +17,8 @@ The system discussed in this article is the Freestyle Libre which I have been us
 
 The application process is simple and relatively pain free for the dog. The kit is supplied with a sensor pack, a sensor applicator and two alcohol pads (*Figure 1*).  Start the application process by clipping or shaving a small patch of fur, generally over the shoulder blade where the surface is fairly flat. (*Figure 2*) Cleanse the skin with the alcohol pads provided and let it dry completely. Applying a small amount of surgical glue to the adhesive portion of the sensor disc can help maintain the sensor in place for the full two weeks but it is important not to use too much so that removal is not a painful process for the dog.
 
+
+
 The sensor pack is spring-loaded and you activate the spring by inserting it into the applicator unit and applying pressure until it clicks.  Once loaded, apply the sensor pack to selected site and press down firmly.  The unit will snap as the spring is released, inserting the needle and catheter into the dog’s tissue and affixing the sensor disc to the skin. It is important to hold the applicator firmly in place during this process.  Once the unit has placed the sensor, lift the applicator straight up and off.
 
 The sensor is scanned with an app on the phone to determine blood sugar.  Both iPhone and Android apps are available, as well as a separate scanner that can be purchased.  To activate the sensor, place the phone near the sensor and select the “scan now” icon. (*Figure 5*) The sensor will start reporting results in one hour.  It is important to verify the accuracy of the sensor by performing a simultaneous fingerstick with the reading to assure the validity of the results. 
