@@ -57,6 +57,8 @@ The sensor is scanned with an app on the phone to determine blood sugar.  Both 
 
 
 
+
+
 **Figure 5. Time in Target report for 7 days and "scan now" icon**
 
 ![Figure 5](/files/diabetesfigure-5.jpg "Figure 5")
