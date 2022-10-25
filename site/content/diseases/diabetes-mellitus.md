@@ -12,7 +12,7 @@ throughout the body and helps regulate blood sugar. Insulin plays an
 important role in the body's ability to use and store glucose.
 
 <details>
-<summary>\\\*Click here to show/hide more detail\\\*</summary>
+<summary>\\\\*Click here to show/hide more detail\\\\*</summary>
 
 The body's cells use glucose (which travels through the blood) as energy. In order for the body to use glucose, glucose must get inside the cell. Insulin attaches to receptors on the cell, which in turn allows glucose to pass from the blood into the cell.
 
@@ -97,8 +97,9 @@ Diabetic Dogs. These foods typically are very high in soluble fiber.
 An excellent tool to help in regulating your dog, is to learn to test
 their blood glucose.  Home blood glucose monitoring should be performed
 in consultation with your veterinarian. Continuous glucose monitoring is now possible in dogs and can help fine tune diabetes care.
-[New Options in Managing Diabetes in Samoyeds](/diseases/diabetes-mellitus-living-with)
+[](/diseases/diabetes-mellitus-living-with)
 
+[New Options in Managing Diabetes in Samoyeds](/diseases/diabetes-mellitus-living-with)
 
 # Management
 
@@ -158,9 +159,9 @@ is a godsend to the Diabetic pet caretaker.
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
 
-# Current Research 
-- [Short AD et al. Searching for "monogenic diabetes" in dogs using a candidate gene approach. Canine Genet Epidemiol 2014. 1:8.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4579387/)
+# Current Research
 
+* [Short AD et al. Searching for "monogenic diabetes" in dogs using a candidate gene approach. Canine Genet Epidemiol 2014. 1:8.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4579387/)
 
 # SCARF-Sponsored Research
 
@@ -168,8 +169,6 @@ is a godsend to the Diabetic pet caretaker.
 * [AKCCHF Grant # 00610:](/research/current-studies/akcchf-grant-610)  Evaluation of Genetic Markers for Diabetes Mellitus in Samoyed and Australian Terrier Dogs.  Rebecka S Hess, DVM DACVIM, University of Pennsylvania School of Veterinary Medicine.
 * [Published Research by Dr. Hess](/diseases/diabetes-mellitus-research-by-dr-hess)
 * [AKCCHF Grant #00305:](/research/current-studies/akcchf-grant-305) Histocompatibility Alleles Conferring Susceptibility to Canine Diabetes, Immune-Mediated Thyroiditis and Immune-Mediated Hemolytic Anemia.  Wayne Potts, PhD, University of Utah.
-
-
 
 # "Living with a Disorder" Journal Entries
 
