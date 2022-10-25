@@ -96,7 +96,9 @@ Diabetic Dogs. These foods typically are very high in soluble fiber.
 
 An excellent tool to help in regulating your dog, is to learn to test
 their blood glucose.  Home blood glucose monitoring should be performed
-in consultation with your veterinarian.
+in consultation with your veterinarian. Continuous glucose monitoring is now possible in dogs and can help fine tune diabetes care.
+[New Options in Managing Diabetes in Samoyeds](/diseases/diabetes-mellitus-living-with)
+
 
 # Management
 
@@ -173,3 +175,4 @@ is a godsend to the Diabetic pet caretaker.
 
 * [A Labor of Love](/diseases/diabetes-mellitus-a-labor-of-love)
 * [Murray Dog May](/diseases/diabetes-mellitus-murray-dog-may)
+* [New Options in Managing Diabetes in Samoyeds](/diseases/diabetes-mellitus-living-with)
