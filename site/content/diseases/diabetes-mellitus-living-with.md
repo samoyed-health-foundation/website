@@ -19,13 +19,9 @@ The application process is simple and relatively pain free for the dog. The kit 
 
 
 
-
-
 **Figure 1. Package with sensor applicator (left), sensor pack (right), and alcohol wipes**
 
 ![Figure 1](/files/diabetesfigure-1.jpg "Figure 1")
-
-
 
 
 
@@ -37,13 +33,9 @@ The sensor pack is spring-loaded and you activate the spring by inserting it int
 
 
 
-
-
 **Figure 3. Sensor Disc top**
 
 ![Figure 3](/files/diabetesfigure-3.jpg "Figure 3")
-
-
 
 
 
@@ -55,15 +47,11 @@ The sensor is scanned with an app on the phone to determine blood sugar.  Both 
 
 
 
-
-
 **Figure 5. Time in Target report for 7 days and "scan now" icon**
 
 ![Figure 5](/files/diabetesfigure-5.jpg "Figure 5")
 
 The sensor needs to be scanned every eight hours to collect the blood sugar data for that interval.  If there is a longer interval between scans, there will be lost data *(Figure 6)*.  The Freestyle Libre 2 offers the option of setting high and low alarms, urgent low glucose alarm and a signal loss alarm.  Cost of the sensor ranges between $40 to $60, and they need to be replaced every 14 days.  Occasionally the sensors will fail and quit working during that two-week period due to being dislodged or other failures, so they may need to be replaced early. Although it does not appear any of the on-line pet prescription companies currently offer the CGM units, they may be available to COSTCO members at a reduced fee, particularly if you purchase multiple units.
-
-
 
 
 
