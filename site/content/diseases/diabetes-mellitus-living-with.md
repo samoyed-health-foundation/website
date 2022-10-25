@@ -1,15 +1,11 @@
 ---
 title: Diabetes Mellitus Living With
 ---
-
-
-
-
 **New Options in Managing Diabetes in Samoyeds**
 
-**Thank you to Cheri Hollenback for this article!**  
+*Thank you to Cheri Hollenback for this article!*  
 
-**Originally published in** 
+*Originally printed in the Samoyed Club of America Bulletin, Summer 2022 edition*
 
 Unfortunately, Samoyeds are over-represented in the breeds afflicted with diabetes. Owners face daily challenges with diet, insulin administration and blood sugar management. Many owners find blood sugar management to be the most challenging aspect of having a diabetic Samoyed.
 
