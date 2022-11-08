@@ -6,6 +6,7 @@ You can read about how AKCCHF approves grant proposals at <http://www.akcchf.org
 You can read about how MAF approves grant proposals at <https://www.morrisanimalfoundation.org/dogs>
 
 # Samples requested
+[Degenerative Myelopathy](/research/current-studies/degenerative-myelopathy-study-needs-samples)
 
 [Sub-Aortic Stenosis](https://www.samoyedclubofamerica.org/the-samoyed/health-and-care/studies/)
 
