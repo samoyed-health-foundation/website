@@ -1,12 +1,11 @@
-+++
-title = "How you can help"
-+++
-
+---
+title: How you can help
+---
 # Donating
 
 We welcome donations to SCARF by PayPal or by mail.
 
-To donate by PayPal, send payment to `treasurer@samoyedhealthfoundation.org` and choose the option for _Sending to a friend_.
+To donate by PayPal, use the following link: <https://www.paypal.com/US/fundraiser/charity/2000446>.
 
 To donate by mail, print and mail [this form](/files/SCARF_Donation_Form.pdf) along with your donation check to the name and address listed on the form.
 
@@ -22,4 +21,4 @@ Please contact our President at [president@samoyedhealthfoundation.org](mailto:p
 
 # Enrolling your Samoyed in the DNA Database
 
-[It's easier than you think\!](/databases/adding-your-samoyed)
+[It's easier than you think!](/databases/adding-your-samoyed)
