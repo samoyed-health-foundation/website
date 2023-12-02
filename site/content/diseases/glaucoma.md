@@ -120,3 +120,9 @@ British Veterinary Association [Eye Scheme](https://www.bva.co.uk/canine-health-
 > ![3 bones](/img/3-bones.gif)
 > ![4 bones](/img/4-bones.gif)
 > [(full description of ratings)](/diseases/ratings-what-do-they-mean)
+>
+> ## Current Research
+>
+> Turner G, Groth A, Hii C, O'Reilly A, Volk H, Hardman C. (2023). [Statistical agreement of gonioscopy performed as a puppy and as an adult in the Samoyed dog](https://pubmed.ncbi.nlm.nih.gov/37526040/). Vet Ophthalmol. 2023 Aug 1. doi: 10.1111/vop.13138. Epub ahead of print. PMID: 37526040.
+>
+> <!--EndFragment-->
