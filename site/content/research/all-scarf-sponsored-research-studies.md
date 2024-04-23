@@ -17,7 +17,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 
 #### MORRIS ANIMAL FOUNDATION GRANTS
 
-* [MAF Grant D22CA-040](/research/current-studies/morris-grant-d22ca-040):  Investigating a Novel Drug Therapy for Heart Disease. Principal Investigator:  Joshua Stern, DVM.  University of California Davis. \[$10,000] [[Progress Report 2023](/files/d22ca040progressreport.pdf)]
+* [MAF Grant D22CA-040](/research/current-studies/morris-grant-d22ca-040):  Investigating a Novel Drug Therapy for Heart Disease. Principal Investigator:  Joshua Stern, DVM.  University of California Davis. \[$10,000] [[Progress Report 2023](/files/d22ca040progressreport.pdf)] [[Progress Report 2024](/research/current-studies/morris-foundation-d22ca-040-progress-report-2024)]
 
 # Funded Research Grants (2021)
 
