@@ -17,7 +17,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 
 #### MORRIS ANIMAL FOUNDATION GRANTS
 
-* [MAF Grant D22CA-040](/research/current-studies/morris-grant-d22ca-040):  Investigating a Novel Drug Therapy for Heart Disease. Principal Investigator:  Joshua Stern, DVM.  University of California Davis. \[$10,000] [[Progress Report 2023](/files/d22ca040progressreport.pdf)]
+* [MAF Grant D22CA-040](/research/current-studies/morris-grant-d22ca-040):  Investigating a Novel Drug Therapy for Heart Disease. Principal Investigator:  Joshua Stern, DVM.  University of California Davis. \[$10,000] [[Progress Report 2023](/files/d22ca040progressreport.pdf)] [[Progress Report 2024](/research/current-studies/morris-foundation-d22ca-040-progress-report-2024)]
 
 # Funded Research Grants (2021)
 
@@ -32,7 +32,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 
 #### AKC CANINE HEALTH FOUNDATION GRANTS
 
-* [AKCCHF Grant #02534 (open)](https://www.samoyedhealthfoundation.org/research/current-studies/akcchf-grant-02534/): Clinical Trial for Evaluation of Propranolol and Doxorubicin in the Treatment of Canine Hemangiosarcoma. Erin Dickerson PhD, Brian Husbands DVM, University of MN \[$5000]  [[Progress Report 2021](/files/akcchf02534ey2summary.pdf)]  [[Progress Report end 2021](/files/akcchf02534my3summary.pdf)]
+* [AKCCHF Grant #02534 (open)](https://www.samoyedhealthfoundation.org/research/current-studies/akcchf-grant-02534/): Clinical Trial for Evaluation of Propranolol and Doxorubicin in the Treatment of Canine Hemangiosarcoma. Erin Dickerson PhD, Brian Husbands DVM, University of MN \[$5000]  [[Progress Report 2021](/files/akcchf02534ey2summary.pdf)]  [[Progress Report end 2021](/files/akcchf02534my3summary.pdf)] [[Progress Report 2024](/files/akcchf02534-my5summary.pdf)]
 * [AKCCHF Grant #02553 (closed)](https://www.samoyedhealthfoundation.org/research/current-studies/akcchf-grant-02553/): Targeted next generation sequencing panel for comprehensive testing of vector-borne pathogens. Rebecca Wilkes, DVM. Purdue University \[$2500]  [[Final Report 2021](/files/akcchf02553my2summary.pdf)]
 * [AKCCHF Grant #02682A (open):](/research/current-studies/AKCCHF-Grant-02682A/) The Effects of a Modified Approach to Early Weight Bearing in Dogs Following a Tibeal Plateau Leveling Osteotomy for Cranial Cruciate Ligament Rupture. Dominique S Hansfort BVSc, MS.  Virginia-Maryland Regional College of Veterinary Medicine. \[$2700]. [[Progress Report 2021](/files/akc02682amy2summary.pdf)]  [[Progress Report end 2021](/files/akcchf02682aey2summary.pdf)]  
 
