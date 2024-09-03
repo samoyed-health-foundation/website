@@ -27,6 +27,8 @@ Not all laboratory results are eligible for submission to OFA as part of[ CHIC c
 
 [UC Davis Veterinary Genetics Laboratory](https://vgl.ucdavis.edu/test/feh-samoyed)
 
+[Paw Print Genetics](https://www.pawprintgenetics.com/products/breeds/26/)
+
 Article describing the genetics:
 
 Pedersen NC, Shope B, Liu H. [An autosomal recessive mutation in SCL24A4 causing enamel hypoplasia in Samoyed and its relationship to breed-wide genetic diversity.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5699110/) Canine Genet Epidemiol. 2017;4:11.
