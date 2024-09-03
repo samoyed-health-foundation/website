@@ -96,9 +96,9 @@ have normal levels.
 
 Genetic (DNA) tests for the carrier state of Hemophilia B, factor VII
 deficiency and von Willebrand's disease (another clotting disorder) are
-available from VetGen for certain breeds, but not for Samoyeds.
+available from Embark for certain breeds, but not for Samoyeds.
 
-[VetGen](http://www.vetgen.com/canine-services.html)
+[Embark](https://shop.embarkvet.com/products/embark-for-breeders-dog-dna-test-kit)
 
 ## Treatment Guidelines
 

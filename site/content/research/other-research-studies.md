@@ -23,9 +23,3 @@ family members (siblings, parents, and grandparents), from many breeds of dogs.
 - - -
 
 **Glaucoma**: Wisdom Health has announced it is in Phase 1 of a study on inherited eye diseases in dogs and are looking for DNA from Samoyeds diagnosed with glaucoma...[more](/research/wisdom-glaucoma-study)
-
-- - -
-
-**[Genetic diseases](https://www.vetgen.com/research-you-help.html)** -
-VetGen is interested in collecting samples from families of dogs in
-which two or more are affected with a genetic disease.

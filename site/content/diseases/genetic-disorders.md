@@ -13,11 +13,11 @@ Not all laboratory results are eligible for submission to OFA as part of[ CHIC c
 
 *Mode of inheritance:* Autosomal recessive with incomplete penetrance
 
+[Embark](https://shop.embarkvet.com/products/embark-for-breeders-dog-dna-test-kit)
+
 [Paw Print Genetics](https://www.pawprintgenetics.com/products/tests/details/87/?breed=26)
 
 [UC Davis Veterinary Genetics Laboratory](https://vgl.ucdavis.edu/test/degenerative-myelopathy)
-
-[vetGen Veterinary Genetics Services](https://www.vetgen.com/canine-dm.html)
 
 ### **Familial Enamel Hypoplasia**
 
@@ -45,9 +45,9 @@ Nicholas FW, Mellersh C, Lewis T. [Letter to the editor regarding an autosomal r
 
 [AnimaLabs](http://www.animalabs.com/shop/dogs/samoyed-hereditary-nephritis-glomerulopathy/) (in Europe)
 
-[Paw Print Genetics](https://www.pawprintgenetics.com/products/tests/details/76/?breed=26)
+[Embark](https://shop.embarkvet.com/products/embark-for-breeders-dog-dna-test-kit)
 
-[vetGen Veterinary Genetics Services](https://www.vetgen.com/canine-hereditary-nephritis.html)
+[Paw Print Genetics](https://www.pawprintgenetics.com/products/tests/details/76/?breed=26)
 
 ### **Progressive Retinal Atrophy, X-linked**
 
@@ -58,6 +58,8 @@ Nicholas FW, Mellersh C, Lewis T. [Letter to the editor regarding an autosomal r
 [AnimaLabs](http://www.animalabs.com/shop/dogs/x-linked-progressive-retinal-atrophy-1-xlpra1gres/) (in Europe)
 
 [Center for Animal Genetics](https://www.centerforanimalgenetics.com/services/dog-genetic-testing/hereditary-disease-testing-for-dogs/xlpra/)
+
+[Embark](https://shop.embarkvet.com/products/embark-for-breeders-dog-dna-test-kit)
 
 [Paw Print Genetics](https://www.pawprintgenetics.com/products/tests/details/214/?breed=26)
 
@@ -71,7 +73,9 @@ Nicholas FW, Mellersh C, Lewis T. [Letter to the editor regarding an autosomal r
 
 [AnimaLabs](http://www.animalabs.com/shop/dogs/retinal-dysplasia-oculoskeletal-dysplasia-samoyed/) (in Europe)
 
-[Wisdom Health (formerly Optigen, LLC)](https://breeder.wisdompanel.com/product/13)
+[Embark](https://shop.embarkvet.com/products/embark-for-breeders-dog-dna-test-kit)
+
+[Paw Print Genetics](https://www.pawprintgenetics.com/products/breeds/26/)
 
 Article describing the genetics:
 

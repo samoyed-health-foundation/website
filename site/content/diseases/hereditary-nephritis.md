@@ -61,7 +61,7 @@ History of hereditary nephritis in a family.
 * Blood pressure measurements
 
 There is a DNA (genetic) test for this inherited disease that may be obtained from
-[vetGen](http://www.vetgen.com/canine-hereditary-nephritis.html) or [other laboratories.](https://www.samoyedhealthfoundation.org/diseases/genetic-disorders/)
+[Embark](https://shop.embarkvet.com/products/embark-for-breeders-dog-dna-test-kit) or [other laboratories.](https://www.samoyedhealthfoundation.org/diseases/genetic-disorders/)
 
 ## Treatment Guidelines
 
@@ -85,8 +85,7 @@ be bred unless their DNA has been tested and found to be clear of the
 mutation that causes the disorder.  Affected bitches and carriers should
 not be bred.
 
-[DNA test from
-vetGen](http://www.vetgen.com/canine-hereditary-nephritis.html)
+[DNA test from Embark](https://shop.embarkvet.com/products/embark-for-breeders-dog-dna-test-kit)
 
 ## References
 

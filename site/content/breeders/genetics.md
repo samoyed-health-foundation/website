@@ -33,7 +33,7 @@ CHIC liaison is
 
 - [DNA test for Inherited Retinal Dysplasia/Dwarfism](/optigen-dna-test-for-retinal-dysplasia-dwarfism-in-the-samoyed) from Optigen
 
-- [DNA test for Hereditary Nephritis - Samoyed Hereditary Glomerulopathy](http://www.vetgen.com/canine-hereditary-nephritis.html) from Vetgen
+- [DNA test for Hereditary Nephritis - Samoyed Hereditary Glomerulopathy](https://shop.embarkvet.com/products/embark-for-breeders-dog-dna-test-kit) from Embark
 
 - [Genetic Testing: A Guide for Breeders](http://siriusdog.com/genetic-testing-breeders-guide/) by Mary Whiteley, Ph.D.
 
