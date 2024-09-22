@@ -7,7 +7,7 @@ title: "AKCCHF Grant #03106"
 
 **Institution:** Texas A&M AgriLife Research
 
-**[\[Progress Report 2024]](site/static/files/03106-ey1-summary.pdf)**
+**[[Progress Report 2024](/research/current-studies/03106-ey1-summary.pdf)]**
 
 **Project Description:**  Chronic kidney disease is a significant cause of illness and death in dogs and is often caused by glomerular diseases. A specific category of glomerular disease called immune-complex glomerulonephritis (ICGN) accounts for approximately 50% of dogs that have a kidney biopsy due to suspicion of glomerular disease. The treatment for ICGN compared with other glomerular diseases differs in that immunosuppressive therapy is typically recommended. However, such therapy can be harmful in dogs without an immune-mediated component to their disease. Currently, ICGN can only be diagnosed with evaluation of a kidney biopsy, as there are no available biomarkers that can accurately identify category of glomerular disease.
 
