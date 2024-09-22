@@ -13,6 +13,12 @@ You can read about how MAF approves grant proposals at <https://www.morrisanimal
 
 You may participate in the [Samoyed DNA bank/databases](/databases)
 
+# Funded Research Grants (2023)
+
+#### AKC CANINE HEALTH FOUNDATION GRANTS
+
+* [AKCCHF Grant # 03106 (open)](/research/current-studies/AKCCHF-Grant-03106): Clinical Validation of Urinary miR-126 as a Marker of Immune Complex-Mediated Glomerulonephritis in Dogs. Principal Investigator: Mary B Nabity, DVM, PhD. Texas A&M AgriLife Research.  \[$10,000] [[Progress Report 2024](/files/03106ey1summary.pdf)]
+
 # Funded Research Grants (2022)
 
 #### MORRIS ANIMAL FOUNDATION GRANTS
