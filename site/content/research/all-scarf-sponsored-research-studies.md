@@ -17,7 +17,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 
 #### AKC CANINE HEALTH FOUNDATION GRANTS
 
-* [AKCCHF Grant # 03106 (open)](/research/current-studies/AKCCHF-Grant-03106): Clinical Validation of Urinary miR-126 as a Marker of Immune Complex-Mediated Glomerulonephritis in Dogs. Principal Investigator: Mary B Nabity, DVM, PhD. Texas A&M AgriLife Research.  \[$10,000] [[Progress Report 2024](files/03106-ey1-summary.pdf)]
+* [AKCCHF Grant # 03106 (open)](/research/current-studies/AKCCHF-Grant-03106): Clinical Validation of Urinary miR-126 as a Marker of Immune Complex-Mediated Glomerulonephritis in Dogs. Principal Investigator: Mary B Nabity, DVM, PhD. Texas A&M AgriLife Research.  \[$10,000] [[Progress Report 2024](/files/03106-ey1-summary.pdf)]
 
 # Funded Research Grants (2022)
 
