@@ -13,6 +13,13 @@ You can read about how MAF approves grant proposals at <https://www.morrisanimal
 
 You may participate in the [Samoyed DNA bank/databases](/databases)
 
+# Funded Research Grants (2023)
+
+#### AKC CANINE HEALTH FOUNDATION GRANTS
+
+* [AKCCHF Grant # 03106 (open): ]
+
+
 # Funded Research Grants (2022)
 
 #### MORRIS ANIMAL FOUNDATION GRANTS
