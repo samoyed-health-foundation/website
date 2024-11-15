@@ -5,7 +5,7 @@ title: How you can help
 
 We welcome donations to SCARF by PayPal or by mail.
 
-<img src="/img/paypal.jpg" alt="PayPal" href="https://www.paypal.com/US/fundraiser/charity/2000446" /> To donate by **PayPal**, use the following link: <https://www.paypal.com/US/fundraiser/charity/2000446>.
+<a class="img-href" href="https://www.paypal.com/US/fundraiser/charity/2000446"><img src="/img/paypal.jpg" alt="PayPal" /></a> To donate by **PayPal**, use the following link: <https://www.paypal.com/US/fundraiser/charity/2000446>.
 
 To donate by **mail**, print and mail [this form](/files/SCARF_Donation_Form.pdf) along with your donation check to the name and address listed on the form.
 
