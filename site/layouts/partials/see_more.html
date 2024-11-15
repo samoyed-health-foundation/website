@@ -11,13 +11,9 @@
                 <p class="lead">{{ .Site.Params.see_more.subtitle | markdownify }}</p>
                 <p class="text-center">
                     {{ with .Site.Params.see_more.link_url }}
-                    <a href="{{ . }}" class="btn btn-template-transparent-black btn-lg">
-                    {{ end }}
-                        {{ with .Site.Params.see_more.link_text }}
-                        {{ . | markdownify }}
-                        {{ end }}
-                    {{ with .Site.Params.see_more.link_url }}
-                    </a>
+                    <a href="{{ . }}" class="btn btn-template-transparent-black btn-lg">Donate</a>
+                    <a href="{{ . }}" class="btn btn-template-transparent-black btn-lg">Volunteer</a>
+                    <a href="{{ . }}" class="btn btn-template-transparent-black btn-lg">Enroll Your Samoyed DNA</a>
                     {{ end }}
                 </p>
             </div>

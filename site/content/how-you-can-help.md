@@ -5,9 +5,9 @@ title: How you can help
 
 We welcome donations to SCARF by PayPal or by mail.
 
-To donate by PayPal, use the following link: <https://www.paypal.com/US/fundraiser/charity/2000446>.
+<img src="/img/paypal.jpg" alt="PayPal" href="https://www.paypal.com/US/fundraiser/charity/2000446" /> To donate by **PayPal**, use the following link: <https://www.paypal.com/US/fundraiser/charity/2000446>.
 
-To donate by mail, print and mail [this form](/files/SCARF_Donation_Form.pdf) along with your donation check to the name and address listed on the form.
+To donate by **mail**, print and mail [this form](/files/SCARF_Donation_Form.pdf) along with your donation check to the name and address listed on the form.
 
 If you have any questions, please contact our Treasurer at [treasurer@samoyedhealthfoundation.org](mailto:treasurer@samoyedhealthfoundation.org?subject=Donating).
 
