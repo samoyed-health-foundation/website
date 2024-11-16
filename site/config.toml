@@ -148,6 +148,7 @@ paginate = 10
   text = """
          <i class="fas fa-bullhorn"></i>
          <span>Follow our <a style="color: #fff; background-color: #4460ae; text-decoration: underline;" target="_blank" href="https://www.facebook.com/samoyed.foundation">Facebook page</a> for updates!</span>
+         <span><i class="fas fa-gift"></i> Click <a style="color: #fff; background-color: #f39c12; text-decoration: underline;" target="_blank" href="/how-you-can-help">here</a> to donate or volunteer </span>
          """
 
 # Enable and disable widgets for the right sidebar
