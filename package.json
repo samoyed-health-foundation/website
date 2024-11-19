@@ -15,6 +15,7 @@
     "browser-sync": "^2.27.7",
     "cross-env": "^7.0.3",
     "cssnano": "^5.0.15",
+    "flowbite": "^2.5.2",
     "html-minifier": "^4.0.0",
     "js-yaml": "^4.1.0",
     "luxon": "^2.3.0",
@@ -27,4 +28,3 @@
     "postcss": "^8.4.5"
   }
 }
-

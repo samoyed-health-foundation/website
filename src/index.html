@@ -1,26 +1,289 @@
 ---
 layout: default
-title: Neat Starter
+title: SCARF
 path: home
 ---
 
-<div
-  class="container mx-auto lg:h-screen flex flex-col justify-center items-center"
+<!-- Header -->
+<section
+  class="bg-gradient-to-r from-purple-800 via-purple-600 to-purple-800 relative"
 >
-  <h1>
-    Welcome to
-    <strong
-      class="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-purple-500"
+  <!-- Intro and logo -->
+  <div class="px-4 mx-auto max-w-screen-xl text-center py-20 lg:py-44">
+    <h1
+      class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl"
     >
-      {{title}}
-    </strong>
-  </h1>
+      Samoyed Club of America Education and Research Foundation
+    </h1>
+    <p
+      class="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48"
+    >
+      We're an organization devoted to improving the health of the Samoyed
+      breed.
+    </p>
+    <div class="flex flex-col space-y-4 sm:flex-row sm:justify-center w-full">
+      <img
+        src="static/img/scarf-logo.png"
+        alt="SCARF logo"
+        class="w-64 mx-auto"
+      />
+    </div>
+  </div>
 
-  <p>
-    <abbr title="netlify cms, eleventy, alpine js & tailwind css">NEAT</abbr>
-    Starter Template. Get Started by editing.
-    <code class="bg-gray-100 text-blue-800 p-1">/index.njk</code>
-  </p>
+  <!-- Wavy SVG -->
+  <div
+    class="absolute bottom-0 left-0 w-full -mb-1 overflow-hidden leading-[0] dark:text-gray-900 text-white"
+  >
+    <svg
+      class="relative block w-full h-20"
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 1200 120"
+      preserveAspectRatio="none"
+    >
+      <path
+        d="M0,0 C150,100 350,100 600,50 C850,0 1050,0 1200,50 L1200,120 L0,120 Z"
+        fill="currentColor"
+      ></path>
+    </svg>
+  </div>
+</section>
 
-  {% include "./_includes/partials/content.html" %}
-</div>
+<section>
+  <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16">
+    <!-- A-Z Diseases list -->
+    <div
+      class="bg-gray-50 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-lg p-8 md:p-12 mb-8"
+    >
+      <a
+        href="#"
+        class="bg-blue-100 text-blue-800 dark:bg-gray-700 dark:text-blue-400 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded-md mb-2"
+      >
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke-width="1.5"
+          stroke="currentColor"
+          class="size-4 mr-1"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            d="M8.25 6.75h12M8.25 12h12m-12 5.25h12M3.75 6.75h.007v.008H3.75V6.75Zm.375 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0ZM3.75 12h.007v.008H3.75V12Zm.375 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm-.375 5.25h.007v.008H3.75v-.008Zm.375 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Z"
+          />
+        </svg>
+        Diseases
+      </a>
+      <h1
+        class="text-gray-900 dark:text-white text-3xl md:text-5xl font-extrabold mb-2 text-left md:text-center"
+      >
+        Browse our A-Z Diseases list
+      </h1>
+      <p class="text-lg font-normal text-gray-500 dark:text-gray-400 mb-6">
+        We maintain a list of disorders, syndromes, and conditions that have
+        been present in the Samoyed breed. The list of topics and information
+        serves as a great starting point for your search for information on a
+        particular disease.
+      </p>
+      <a
+        href="#"
+        class="inline-flex justify-center items-center py-2.5 px-5 text-base font-medium text-center text-white rounded-lg bg-purple-700 hover:bg-purple-800 focus:ring-4 focus:ring-purple-300 dark:bg-purple-600 dark:hover:bg-purple-700 dark:focus:ring-purple-800"
+      >
+        Read more
+        <svg
+          class="w-3.5 h-3.5 ms-2 rtl:rotate-180"
+          aria-hidden="true"
+          xmlns="http://www.w3.org/2000/svg"
+          fill="none"
+          viewBox="0 0 14 10"
+        >
+          <path
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M1 5h12m0 0L9 1m4 4L9 9"
+          />
+        </svg>
+      </a>
+    </div>
+
+    <div class="grid md:grid-cols-2 gap-8">
+      <!-- Research -->
+      <div
+        class="bg-gray-50 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-lg p-8 md:p-12"
+      >
+        <a
+          href="#"
+          class="bg-green-100 text-green-800 dark:bg-gray-700 dark:text-green-400 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded-md mb-2"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke-width="1.5"
+            stroke="currentColor"
+            class="size-4 mr-1"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              d="M9.75 3.104v5.714a2.25 2.25 0 0 1-.659 1.591L5 14.5M9.75 3.104c-.251.023-.501.05-.75.082m.75-.082a24.301 24.301 0 0 1 4.5 0m0 0v5.714c0 .597.237 1.17.659 1.591L19.8 15.3M14.25 3.104c.251.023.501.05.75.082M19.8 15.3l-1.57.393A9.065 9.065 0 0 1 12 15a9.065 9.065 0 0 0-6.23-.693L5 14.5m14.8.8 1.402 1.402c1.232 1.232.65 3.318-1.067 3.611A48.309 48.309 0 0 1 12 21c-2.773 0-5.491-.235-8.135-.687-1.718-.293-2.3-2.379-1.067-3.61L5 14.5"
+            />
+          </svg>
+          Research
+        </a>
+        <h2 class="text-gray-900 dark:text-white text-3xl font-extrabold mb-2">
+          View research studies we have sponsored
+        </h2>
+        <p class="text-lg font-normal text-gray-500 dark:text-gray-400 mb-4">
+          We sponsor research studies, help collect DNA samples as well as
+          funding for research studies, and guide researchers through the
+          process of performing a research study.
+        </p>
+        <a
+          href="#"
+          class="text-purple-600 dark:text-purple-500 hover:underline font-medium text-lg inline-flex items-center"
+          >Read more
+          <svg
+            class="w-3.5 h-3.5 ms-2 rtl:rotate-180"
+            aria-hidden="true"
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 14 10"
+          >
+            <path
+              stroke="currentColor"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M1 5h12m0 0L9 1m4 4L9 9"
+            />
+          </svg>
+        </a>
+      </div>
+
+      <!-- Databases -->
+      <div
+        class="bg-gray-50 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-lg p-8 md:p-12"
+      >
+        <a
+          href="#"
+          class="bg-red-100 text-red-800 dark:bg-gray-700 dark:text-red-400 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded-md mb-2"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke-width="1.5"
+            stroke="currentColor"
+            class="size-4 mr-1"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              d="M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125"
+            />
+          </svg>
+          Databases
+        </a>
+
+        <h2 class="text-gray-900 dark:text-white text-3xl font-extrabold mb-2">
+          Enroll in the Samoyed DNA Repository
+        </h2>
+        <p class="text-lg font-normal text-gray-500 dark:text-gray-400 mb-4">
+          The Samoyed breed is the first AKC breed to establish a DNA repository
+          for the storage of the DNA of all Samoyeds and the online collection
+          of anonymous and accurate statistical data that can be reported to the
+          public.
+        </p>
+        <a
+          href="#"
+          class="text-purple-600 dark:text-purple-500 hover:underline font-medium text-lg inline-flex items-center"
+          >Read more
+          <svg
+            class="w-3.5 h-3.5 ms-2 rtl:rotate-180"
+            aria-hidden="true"
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 14 10"
+          >
+            <path
+              stroke="currentColor"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M1 5h12m0 0L9 1m4 4L9 9"
+            />
+          </svg>
+        </a>
+      </div>
+    </div>
+
+    <!-- Donate or volunteer -->
+    <div
+      class="w-full p-4 text-center bg-white border border-gray-200 rounded-lg shadow sm:p-8 dark:bg-gray-800 dark:border-gray-700 mt-8"
+    >
+      <h5 class="mb-2 text-3xl font-bold text-gray-900 dark:text-white">
+        Donate or volunteer
+      </h5>
+      <p class="mb-5 text-base text-gray-500 sm:text-lg dark:text-gray-400">
+        We would love your assistance!
+        <a
+          href="mailto:president@samoyedhealthfoundation.org?subject=Volunteering"
+          class="text-purple-600 hover:underline"
+          >Email us about volunteering</a
+        >, or click below to donate.
+      </p>
+      <div
+        class="items-center justify-center space-y-4 sm:flex sm:space-y-0 sm:space-x-4 rtl:space-x-reverse"
+      >
+        <a
+          href="#"
+          class="w-full sm:w-auto bg-gray-800 hover:bg-gray-700 focus:ring-4 focus:outline-none focus:ring-gray-300 text-white rounded-lg inline-flex items-center justify-center px-4 py-2.5 dark:bg-gray-700 dark:hover:bg-gray-600 dark:focus:ring-gray-700"
+        >
+          <svg
+            role="img"
+            viewBox="0 0 24 24"
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            stroke="currentColor"
+            class="me-3 w-7 h-7"
+          >
+            <title>PayPal</title>
+            <path
+              d="M7.016 19.198h-4.2a.562.562 0 0 1-.555-.65L5.093.584A.692.692 0 0 1 5.776 0h7.222c3.417 0 5.904 2.488 5.846 5.5-.006.25-.027.5-.066.747A6.794 6.794 0 0 1 12.071 12H8.743a.69.69 0 0 0-.682.583l-.325 2.056-.013.083-.692 4.39-.015.087zM19.79 6.142c-.01.087-.01.175-.023.261a7.76 7.76 0 0 1-7.695 6.598H9.007l-.283 1.795-.013.083-.692 4.39-.134.843-.014.088H6.86l-.497 3.15a.562.562 0 0 0 .555.65h3.612c.34 0 .63-.249.683-.585l.952-6.031a.692.692 0 0 1 .683-.584h2.126a6.793 6.793 0 0 0 6.707-5.752c.306-1.95-.466-3.744-1.89-4.906z"
+            />
+          </svg>
+          <div class="text-left rtl:text-right">
+            <div class="mb-1 text-xs">Donate</div>
+            <div class="-mt-1 font-sans text-sm font-semibold">via PayPal</div>
+          </div>
+        </a>
+        <a
+          href="#"
+          class="w-full sm:w-auto bg-gray-800 hover:bg-gray-700 focus:ring-4 focus:outline-none focus:ring-gray-300 text-white rounded-lg inline-flex items-center justify-center px-4 py-2.5 dark:bg-gray-700 dark:hover:bg-gray-600 dark:focus:ring-gray-700"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke-width="1.5"
+            stroke="currentColor"
+            class="me-3 w-7 h-7"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              d="M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75"
+            />
+          </svg>
+          <div class="text-left rtl:text-right">
+            <div class="mb-1 text-xs">Donate</div>
+            <div class="-mt-1 font-sans text-sm font-semibold">via Mail</div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>

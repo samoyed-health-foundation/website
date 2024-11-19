@@ -1,18 +1,51 @@
-<footer
-  class="{{ 'fixed' if path == 'home' }} bottom-0 text-center w-full py-4"
->
-  <small class="text-gray-500"
-    >Copyright © {{settings.name}} 2020. Made with ❤ by
-    <a href="{{settings.url}}" target="_blank" class="underline"
-      >{{settings.author}}</a
-    >
-    •
-    <a
-      href="https://github.com/samoyed-health-foundation/website"
-      class="underline"
-      target="_blank"
-      rel="noopener"
-      >View on Github</a
-    >
-  </small>
+<footer class="bg-[#555555] dark:bg-gray-700">
+  <div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
+    <div class="sm:flex sm:items-center sm:justify-between">
+      <span class="text-sm text-[#999999] dark:text-gray-400 sm:text-center">
+        Copyright © 2024, Samoyed Club of America Education and Research
+        Foundation, Inc.
+      </span>
+      <div class="flex mt-4 sm:justify-center sm:mt-0 space-x-4">
+        <a
+          href="https://www.facebook.com/samoyed.foundation"
+          class="text-[#999999] dark:text-gray-400 hover:text-blue-600"
+        >
+          <svg
+            class="w-4 h-4 relative top-[3px]"
+            aria-hidden="true"
+            xmlns="http://www.w3.org/2000/svg"
+            fill="currentColor"
+            viewBox="0 0 8 19"
+          >
+            <path
+              fill-rule="evenodd"
+              d="M6.135 3H8V0H6.135a4.147 4.147 0 0 0-4.142 4.142V6H0v3h2v9.938h3V9h2.021l.592-3H5V3.591A.6.6 0 0 1 5.592 3h.543Z"
+              clip-rule="evenodd"
+            />
+          </svg>
+          <span class="sr-only">Facebook page</span>
+        </a>
+        <a
+          href="mailto:president@samoyedhealthfoundation.org"
+          class="text-[#999999] dark:text-gray-400 hover:text-purple-500"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke-width="1.5"
+            stroke="currentColor"
+            class="size-6"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              d="M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75"
+            />
+          </svg>
+          <span class="sr-only">Email us</span>
+        </a>
+      </div>
+    </div>
+  </div>
 </footer>

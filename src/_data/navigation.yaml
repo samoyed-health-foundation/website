@@ -1,10 +1,14 @@
 ---
 items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
+  - text: About
+    url: "/about"
+  - text: Owners
+    url: "/owners"
+  - text: Research
+    url: "/research"
+  - text: Diseases
+    url: "/diseases"
+  - text: Databases
+    url: "/databases"
   - text: Blog
     url: "/blog"

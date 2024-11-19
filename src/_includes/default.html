@@ -3,14 +3,18 @@
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="googlebot" content="index,follow,snippet,archive" />
+    <meta name="robots" content="all,follow" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{title}}</title>
     {% if description %}
     <meta name="description" content="{{description}}" />
     {% endif %} {% block head %}{% endblock %}
     <link rel="stylesheet" type="text/css" href="/static/css/style.css" />
+    <!-- <link rel="shortcut icon" href="{{ "img/favicon.ico" | url }}" type="image/x-icon" /> -->
+    <!-- <link rel="apple-touch-icon" href="{{ "img/apple-touch-icon.png" | url }}" /> -->
   </head>
-  <body>
+  <body class="bg-white dark:bg-gray-900">
     {% include "./partials/navbar.html" %} {{ content | safe }} {% include
     "./partials/footer.html" %}
 
@@ -24,5 +28,11 @@
       src="https://identity.netlify.com/v1/netlify-identity-widget.js"
     ></script>
     {% endif %}
+
+    <script src="https://cdn.jsdelivr.net/npm/flowbite@2.5.2/dist/flowbite.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/feather-icons@4.29.2/dist/feather.min.js"></script>
+    <script>
+      feather.replace();
+    </script>
   </body>
 </html>
