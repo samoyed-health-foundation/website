@@ -1,14 +1,20 @@
 backend:
   name: git-gateway
   branch: master
-  # name: github
-  # repo: samoyed-health-foundation/website-refresh
-media_folder: "src/static/img"
-public_folder: "/static/img"
 
 # Please run "npx netlify-cms-proxy-server" for local backend
-local_backend: true
-# publish_mode: editorial_workflow
+# local_backend: true
+
+publish_mode: editorial_workflow
+
+# the folder path where uploaded files should be saved, relative to the base of the repo.
+media_folder: "src/static/files"
+
+# the folder path where the files uploaded by the media library will be accessed, relative to the base of the built site.
+public_folder: "/static/files"
+
+display_url: "https://www.samoyedhealthfoundation.org"
+logo_url: "https://www.samoyedhealthfoundation.org/static/img/logo.png"
 
 collections:
   - label: "Settings"
@@ -62,6 +68,20 @@ collections:
           - { label: Name, name: name, widget: string }
           - { label: Author, name: author, widget: string }
           - { label: URL, name: url, widget: string }
+
+  - label: "Owners Pages" # Used in the UI
+    name: "owners" # Used in routes, e.g., /admin/collections/blog
+    label_singular: "Owners Page"
+    folder: "src/owners" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    extension: "md"
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    editor:
+      preview: false
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
   - label: "Blog"
     name: "blog"
     folder: "src/posts"
