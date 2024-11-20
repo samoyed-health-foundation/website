@@ -11,8 +11,12 @@
     <meta name="description" content="{{description}}" />
     {% endif %} {% block head %}{% endblock %}
     <link rel="stylesheet" type="text/css" href="/static/css/style.css" />
-    <!-- <link rel="shortcut icon" href="{{ "img/favicon.ico" | url }}" type="image/x-icon" /> -->
-    <!-- <link rel="apple-touch-icon" href="{{ "img/apple-touch-icon.png" | url }}" /> -->
+    <link
+      rel="shortcut icon"
+      href="/static/img/favicon.ico"
+      type="image/x-icon"
+    />
+    <link rel="apple-touch-icon" href="/static/img/apple-touch-icon.png" />
   </head>
   <body class="bg-white dark:bg-gray-900">
     {% include "./partials/navbar.html" %} {{ content | safe }} {% include

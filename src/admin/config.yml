@@ -45,6 +45,31 @@ collections:
             fields:
               - { label: Title, name: text, widget: string }
               - { label: URL, name: url, widget: string }
+      - label: "Board of Directors"
+        name: "people"
+        file: "src/_data/board_of_directors.yaml"
+        fields:
+          - label: Person
+            name: people
+            widget: list
+            allow_add: false
+            collapsed: false
+            fields:
+              - { label: Name, name: name, widget: string }
+              - { label: Title, name: title, widget: string }
+              - { label: "Image src", name: image_src, widget: string }
+              - { label: "Email href", name: email_href, widget: string }
+              - { label: "Facebook href", name: facebook_href, widget: string }
+      - label: "FAQs"
+        name: "faqs"
+        file: "src/_data/faqs.yaml"
+        fields:
+          - label: FAQs
+            name: faqs
+            widget: list
+            fields:
+              - { label: "Question (Markdown)", name: question_markdown, widget: string }
+              - { label: "Answer (Markdown)", name: answer_markdown, widget: string }
       - label: "Quick Links"
         name: "links"
         file: "src/_data/quicklinks.yaml"
