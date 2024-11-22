@@ -5,17 +5,25 @@
         Copyright © 2024, Samoyed Club of America Education and Research
         Foundation, Inc.
       </span>
-      <div class="flex mt-4 sm:justify-center sm:mt-0 space-x-4">
+      <div class="flex mt-4 sm:justify-center sm:mt-0 space-x-4 items-center">
+        {% if path != "contact-us" %}
+        <a
+          href="/contact-us"
+          class="text-white bg-purple-700 hover:bg-purple-800 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg px-3 py-2 text-xs font-medium dark:bg-purple-600 dark:hover:bg-purple-700 focus:outline-none dark:focus:ring-purple-800 mr-4"
+        >
+          Send us a message
+        </a>
+        {% endif %}
         <a
           href="https://www.facebook.com/samoyed.foundation"
-          class="text-[#999999] dark:text-gray-400 hover:text-blue-600"
+          class="text-[#999999] dark:text-gray-400 hover:text-blue-600 flex items-center"
         >
           <svg
-            class="w-4 h-4 relative top-[3px]"
             aria-hidden="true"
             xmlns="http://www.w3.org/2000/svg"
             fill="currentColor"
-            viewBox="0 0 8 19"
+            viewBox="0 0 24 24"
+            class="w-6 h-6 relative top-[2px]"
           >
             <path
               fill-rule="evenodd"
@@ -27,7 +35,7 @@
         </a>
         <a
           href="mailto:president@samoyedhealthfoundation.org"
-          class="text-[#999999] dark:text-gray-400 hover:text-purple-500"
+          class="text-[#999999] dark:text-gray-400 hover:text-purple-500 flex items-center"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -35,7 +43,7 @@
             viewBox="0 0 24 24"
             stroke-width="1.5"
             stroke="currentColor"
-            class="size-6"
+            class="w-6 h-6"
           >
             <path
               stroke-linecap="round"

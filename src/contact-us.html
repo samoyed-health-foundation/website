@@ -1,0 +1,150 @@
+---
+layout: default
+title: Contact Us
+path: contact-us
+---
+
+<section
+  class="bg-gradient-to-r from-purple-800 via-purple-600 to-purple-800 relative"
+>
+  <div class="px-4 mx-auto max-w-screen-xl pt-10 pb-20 lg:pt-14">
+    <h1
+      class="mb-4 text-5xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl tracking-tighter text-center"
+    >
+      {{ title }}
+    </h1>
+  </div>
+
+  <!-- Wavy SVG -->
+  <div
+    class="absolute bottom-0 left-0 w-full -mb-1 overflow-hidden leading-[0] dark:text-gray-900 text-white"
+  >
+    <svg
+      class="relative block w-full h-20"
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 1200 120"
+      preserveAspectRatio="none"
+    >
+      <path
+        d="M0,0 C150,100 350,100 600,50 C850,0 1050,0 1200,50 L1200,120 L0,120 Z"
+        fill="currentColor"
+      ></path>
+    </svg>
+  </div>
+</section>
+
+<section>
+  <div class="mx-auto max-w-screen-lg px-4">
+    <p class="text-2xl font-normal text-gray-500 dark:text-gray-400 mb-6">
+      We would love to hear from you, answer any questions you have, or help you
+      with your Samoyed!
+    </p>
+
+    <form
+      name="contact"
+      data-netlify="true"
+      netlify-honeypot="role"
+      method="post"
+      accept-charset="UTF-8"
+      class="max-w-md mx-auto"
+    >
+      <div class="max-w-md mx-auto">
+        <label
+          for="name"
+          class="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
+          >Your name</label
+        >
+        <div class="relative mb-5">
+          <div
+            class="absolute inset-y-0 start-0 flex items-center ps-3.5 pointer-events-none"
+          >
+            <svg
+              class="w-6 h-6 text-gray-500 dark:text-gray-400"
+              aria-hidden="true"
+              xmlns="http://www.w3.org/2000/svg"
+              width="24"
+              height="24"
+              fill="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                fill-rule="evenodd"
+                d="M12 4a4 4 0 1 0 0 8 4 4 0 0 0 0-8Zm-2 9a4 4 0 0 0-4 4v1a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2v-1a4 4 0 0 0-4-4h-4Z"
+                clip-rule="evenodd"
+              />
+            </svg>
+          </div>
+          <input
+            type="text"
+            id="name"
+            name="name"
+            class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-purple-500 focus:border-purple-500 block w-full ps-10 p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-purple-500 dark:focus:border-purple-500"
+            required="required"
+            placeholder="Sam Floof"
+          />
+        </div>
+      </div>
+
+      <label
+        for="email"
+        class="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
+        >Your email</label
+      >
+      <div class="relative mb-5">
+        <div
+          class="absolute inset-y-0 start-0 flex items-center ps-3.5 pointer-events-none"
+        >
+          <svg
+            class="w-4 h-4 text-gray-500 dark:text-gray-400"
+            aria-hidden="true"
+            xmlns="http://www.w3.org/2000/svg"
+            fill="currentColor"
+            viewBox="0 0 20 16"
+          >
+            <path
+              d="m10.036 8.278 9.258-7.79A1.979 1.979 0 0 0 18 0H2A1.987 1.987 0 0 0 .641.541l9.395 7.737Z"
+            />
+            <path
+              d="M11.241 9.817c-.36.275-.801.425-1.255.427-.428 0-.845-.138-1.187-.395L0 2.6V14a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V2.5l-8.759 7.317Z"
+            />
+          </svg>
+        </div>
+        <input
+          type="text"
+          name="email"
+          id="email"
+          class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-purple-500 focus:border-purple-500 block w-full ps-10 p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-purple-500 dark:focus:border-purple-500"
+          required="required"
+          placeholder="sam@floof.org"
+        />
+      </div>
+
+      <div class="mb-5">
+        <label
+          for="message"
+          class="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
+          >Your message</label
+        >
+        <textarea
+          id="message"
+          name="message"
+          rows="20"
+          class="block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-purple-500 focus:border-purple-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-purple-500 dark:focus:border-purple-500"
+          required="required"
+          placeholder="Type your message..."
+        ></textarea>
+      </div>
+
+      <div class="mb-5">
+        <div data-netlify-recaptcha></div>
+      </div>
+
+      <button
+        type="submit"
+        class="text-white bg-purple-700 hover:bg-purple-800 focus:ring-4 focus:outline-none focus:ring-purple-300 font-medium rounded-lg text-sm w-full sm:w-auto px-5 py-2.5 text-center dark:bg-purple-600 dark:hover:bg-purple-700 dark:focus:ring-purple-800 mb-5"
+      >
+        Send message
+      </button>
+    </form>
+  </div>
+</section>
