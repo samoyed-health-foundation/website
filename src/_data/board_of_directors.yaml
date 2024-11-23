@@ -3,42 +3,42 @@ people:
 
   - name: Sheila Herrmann
     title: President
-    image_src: "/static/img/avatar-sh.jpg"
+    image_src: "/img/avatar-sh.jpg"
     email_href: "mailto:sheila.herrmann@samoyedhealthfoundation.org"
     facebook_href: "https://www.facebook.com/profile.php?id=100010677886575"
 
   - name: Bob Sencenbaugh
     title: Vice President
-    image_src: "/static/img/avatar-bs.jpg"
+    image_src: "/img/avatar-bs.jpg"
     email_href: "mailto:bob.sencenbaugh@samoyedhealthfoundation.org"
     facebook_href: "https://www.facebook.com/bob.sencenbaugh"
 
   - name: Margaret Black
     title: Treasurer
-    image_src: "/static/img/avatar-mb.jpg"
+    image_src: "/img/avatar-mb.jpg"
     email_href: "mailto:margaret.black@samoyedhealthfoundation.org"
     facebook_href: "https://www.facebook.com/margaret.black.54"
 
   - name: Bev Delaney
     title: Secretary
-    image_src: "/static/img/avatar-bd.jpg"
+    image_src: "/img/avatar-bd.jpg"
     email_href: "mailto:beverly.delaney@samoyedhealthfoundation.org"
     facebook_href: "https://www.facebook.com/beverly.delaney.18"
 
   - name: Leah Seman
     title: Director, Director SCA
-    image_src: "/static/img/avatar-ls.jpg"
+    image_src: "/img/avatar-ls.jpg"
     email_href: "mailto:leah.seman@samoyedhealthfoundation.org"
     facebook_href: "https://www.facebook.com/leah.seman"
 
   - name: Pam Barbe
     title: Director
-    image_src: "/static/img/avatar-pb.jpg"
+    image_src: "/img/avatar-pb.jpg"
     email_href: "mailto:pam.barbe@samoyedhealthfoundation.org"
     facebook_href: "https://www.facebook.com/pam.barbe"
 
   - name: Matt Odille
     title: Director, Web Developer
-    image_src: "/static/img/avatar-mo.jpg"
+    image_src: "/img/avatar-mo.jpg"
     email_href: "mailto:matt.odille@samoyedhealthfoundation.org"
     facebook_href: "https://www.facebook.com/matt.odille"

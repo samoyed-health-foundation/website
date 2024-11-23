@@ -8,13 +8,13 @@ backend:
 publish_mode: editorial_workflow
 
 # the folder path where uploaded files should be saved, relative to the base of the repo.
-media_folder: "src/static/files"
+media_folder: "src/files"
 
 # the folder path where the files uploaded by the media library will be accessed, relative to the base of the built site.
-public_folder: "/static/files"
+public_folder: "/files"
 
 display_url: "https://www.samoyedhealthfoundation.org"
-logo_url: "https://www.samoyedhealthfoundation.org/static/img/logo.png"
+logo_url: "https://www.samoyedhealthfoundation.org/img/logo.png"
 
 collections:
   - label: "Settings"
