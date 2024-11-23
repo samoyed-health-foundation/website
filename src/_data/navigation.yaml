@@ -4,6 +4,8 @@ items:
     url: "/about"
   - text: Owners
     url: "/owners"
+  - text: Breeders
+    url: "/breeders"
   - text: Research
     url: "/research"
   - text: Diseases
