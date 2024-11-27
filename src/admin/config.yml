@@ -49,9 +49,21 @@ collections:
               - { label: "Image src", name: image_src, widget: string }
               - { label: "Email href", name: email_href, widget: string }
               - { label: "Facebook href", name: facebook_href, widget: string }
-      - label: "FAQs"
-        name: "faqs"
-        file: "src/_data/faqs.yaml"
+      - label: "SCARF FAQs"
+        name: "scarf_faqs"
+        file: "src/_data/scarf_faqs.yaml"
+        fields:
+          - label: FAQs
+            name: faqs
+            widget: list
+            allow_add: true
+            collapsed: true
+            fields:
+              - { label: Question, name: question_markdown, widget: markdown }
+              - { label: Answer, name: answer_markdown, widget: markdown }
+      - label: "Database FAQs"
+        name: "database_faqs"
+        file: "src/_data/database_faqs.yaml"
         fields:
           - label: FAQs
             name: faqs

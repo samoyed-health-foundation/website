@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About SCARF
-path: about
+title: Information Databases
+path: databases-q-and-a
 ---
 
 <section
@@ -35,144 +35,14 @@ path: about
 
 <section>
   <div class="mx-auto max-w-screen-xl px-4">
-    <p class="text-2xl font-normal text-gray-500 dark:text-gray-400 mb-6">
-      The SCA Education and Research Foundation, Inc. is a non-profit
-      corporation, recognized by the IRS as a 501(c)(3) organization - devoted
-      to improving the health of the Samoyed breed.
-    </p>
-
-    <h2
-      id="#our-mission"
-      class="font-extrabold text-3xl md:text-5xl text-gray-900 dark:text-white py-8 lg:py-8"
-    >
-      Our mission
-    </h2>
-    <ul
-      class="space-y-4 list-disc list-inside text-lg font-normal text-gray-500 dark:text-gray-400"
-    >
-      <li>
-        The mission of the Foundation is to provide financial aid and other
-        support for medical research to benefit the health and quality of life
-        of the Samoyed breed; and to develop and communicate educational health
-        information to Samoyed owners, Samoyed breeders, veterinarians and the
-        research community.
-      </li>
-      <li>
-        The Foundation funds research focusing on the disorders that have been
-        historically occurring in the Samoyed breed.
-      </li>
-      <li>
-        The Foundation funds research investigations in Samoyed disorders that
-        will promote:
-      </li>
-      <ol class="ps-5 mt-2 space-y-1 list-decimal list-inside">
-        <li>
-          The prevention of spreading disorders through the Samoyed gene pool by
-          developing genetic testing for culprit gene/genes.
-        </li>
-        <li>
-          The curing of a disease through identification of the culprit
-          gene/genes and the development of medications and treatments for the
-          disorder.
-        </li>
-        <li>
-          The control of a disease progress through improved medications,
-          treatments and therapies by conventional medicines and holistic
-          venues.
-        </li>
-      </ol>
-      <li>
-        The Foundation will not fund research investigations that involve
-        Samoyed or dog research colonies, cloning, projects involving disease
-        induction or injury models in Samoyeds/dogs and euthanasia of healthy
-        canines. The Foundation will promote the health of the Samoyed breed
-        among owners by providing educational endeavors, which support a
-        breeder’s knowledge on health issues. All decisions regarding breeding,
-        testing, and registries are the legitimate right of a Samoyed owner and
-        are not the function of the Foundation.
-      </li>
-    </ul>
-
-    {% if board_of_directors.people %}
-    <h2
-      class="font-extrabold text-3xl md:text-5xl text-gray-900 dark:text-white py-8 lg:py-8"
-    >
-      Our people
-    </h2>
-    <p class="pb-8 text-lg font-normal text-gray-500 dark:text-gray-400">
-      Below are the SCARF 2024 Officers and Board of Directors:
-    </p>
-
-    <div
-      class="grid grid-flow-row-dense grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-4"
-    >
-      {% for person in board_of_directors.people %}
-      <div class="flex items-center gap-4">
-        <img
-          class="w-48 h-48 rounded-full"
-          src="{{ person.image_src }}"
-          alt="avatar"
-        />
-        <div class="font-medium">
-          <div class="text-2xl dark:text-white">{{ person.name }}</div>
-          <div class="text-lg text-gray-500">{{ person.title }}</div>
-          <a
-            href="{{person.email_href}}"
-            class="text-white bg-green-700 hover:bg-green-800 focus:ring-4 focus:outline-none focus:ring-green-300 font-medium rounded-full text-xs p-2 text-center inline-flex items-center me-2"
-          >
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              fill="none"
-              viewBox="0 0 24 24"
-              stroke-width="1.5"
-              stroke="currentColor"
-              class="size-4"
-            >
-              <path
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                d="M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75"
-              />
-            </svg>
-            <span class="sr-only">Email</span>
-          </a>
-          <a
-            href="{{person.facebook_href}}"
-            class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-full text-xs p-2 text-center inline-flex items-center me-2"
-          >
-            <svg
-              fill="none"
-              viewBox="0 0 24 24"
-              stroke-width="1.5"
-              stroke="currentColor"
-              class="size-4"
-            >
-              <path
-                fill-rule="evenodd"
-                d="M13.135 6H15V3h-1.865a4.147 4.147 0 0 0-4.142 4.142V9H7v3h2v9.938h3V12h2.021l.592-3H12V6.591A.6.6 0 0 1 12.592 6h.543Z"
-                clip-rule="evenodd"
-              />
-            </svg>
-
-            <span class="sr-only">Facebook</span>
-          </a>
-        </div>
-      </div>
-
-      {% endfor %}
-    </div>
-    {% endif %}
-
-    <div />
-
-    {% if scarf_faqs.faqs %}
+    {% if database_faqs.faqs %}
     <h2
       class="font-extrabold text-3xl md:text-5xl text-gray-900 dark:text-white pt-10 pb-8"
     >
-      FAQ
+      FAQs
     </h2>
     <div id="accordion-open" data-accordion="open" class="mb-8">
-      {% for faq in scarf_faqs.faqs %} {% if loop.first %}
+      {% for faq in database_faqs.faqs %} {% if loop.first %}
       <h2 id="accordion-open-heading-{{loop.index}}">
         <button
           type="button"
