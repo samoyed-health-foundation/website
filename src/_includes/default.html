@@ -11,11 +11,7 @@
     <meta name="description" content="{{description}}" />
     {% endif %} {% block head %}{% endblock %}
     <link rel="stylesheet" type="text/css" href="/css/style.css" />
-    <link
-      rel="shortcut icon"
-      href="/img/favicon.ico"
-      type="image/x-icon"
-    />
+    <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon" />
     <link rel="apple-touch-icon" href="/img/apple-touch-icon.png" />
     {% if path == "home" %}
     <!-- Netlify Identity Widget -->
@@ -31,7 +27,7 @@
     {% include "./partials/navbar.html" %} {{ content | safe }} {% include
     "./partials/footer.html" %}
 
-    <script src="/js/alpine.js"></script>
+    <script src="/static/js/alpine.js"></script>
 
     {% if path == "home" %}
     <!-- Netlify Identity Widget -->
