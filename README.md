@@ -2,10 +2,10 @@
 
 ## Technologies used
 
-- Decap CMS
-- Eleventy
-- Tailwind CSS
-- Alpine.js
+- Eleventy (static site generator)
+- Decap CMS (content management system with a Git workflow)
+- Tailwind (CSS framework), Flowbite (Tailwind component library)
+- Alpine.js (lightweight JavaScript framework -- used for the nav menu)
 
 ## Getting Started
 
