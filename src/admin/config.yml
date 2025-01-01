@@ -17,6 +17,42 @@ display_url: "https://www.samoyedhealthfoundation.org"
 logo_url: "https://www.samoyedhealthfoundation.org/img/logo.png"
 
 collections:
+  # TODO: Consider using collections for certain pages?
+  # - label: "Owners Pages" # Used in the UI
+  #   name: "owners" # Used in routes, e.g., /admin/collections/blog
+  #   label_singular: "Owners Page"
+  #   folder: "src/owners" # The path to the folder where the documents are stored
+  #   create: true # Allow users to create new documents in this collection
+  #   extension: "md"
+  #   slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+  #   editor:
+  #     preview: false
+  #   fields: # The fields for each document, usually in front matter
+  #     - {label: "Title", name: "title", widget: "string"}
+  #     - {label: "Body", name: "body", widget: "markdown"}
+
+  # TODO: Bring over blog posts from old site?
+  # Might not be worth it because they're stale and Facebook seems like a better place for those.
+  # If we want them, see https://github.com/surjithctly/neat-starter for blog/post examples and the ab29ac28 ("Remove unused blog") commit in this repo.
+  # - label: "Blog"
+  #   name: "blog"
+  #   folder: "src/posts"
+  #   create: true
+  #   editor:
+  #     preview: false
+  #   fields:
+  #     - { label: "Title", name: "title", widget: "string" }
+  #     - { label: "Description", name: "description", widget: "string" }
+  #     - { label: "Author", name: "author", widget: "string" }
+  #     - { label: "Publish Date", name: "date", widget: "datetime" }
+  #     - { label: "Body", name: "body", widget: "markdown" }
+  #     - widget: select
+  #       label: "tags"
+  #       name: "tags"
+  #       multiple: true
+  #       create: true
+  #       options: ["Tags", "created", "from", "config.yml"]
+
   - label: "Settings"
     name: "settings"
     editor:
@@ -34,6 +70,7 @@ collections:
             fields:
               - { label: Title, name: text, widget: string }
               - { label: URL, name: url, widget: string }
+
       - label: "Board of Directors"
         name: "people"
         file: "src/_data/board_of_directors.yaml"
@@ -49,6 +86,7 @@ collections:
               - { label: "Image src", name: image_src, widget: string }
               - { label: "Email href", name: email_href, widget: string }
               - { label: "Facebook href", name: facebook_href, widget: string }
+
       - label: "SCARF FAQs"
         name: "scarf_faqs"
         file: "src/_data/scarf_faqs.yaml"
@@ -61,6 +99,7 @@ collections:
             fields:
               - { label: Question, name: question_markdown, widget: markdown }
               - { label: Answer, name: answer_markdown, widget: markdown }
+
       - label: "Database FAQs"
         name: "database_faqs"
         file: "src/_data/database_faqs.yaml"
@@ -73,42 +112,11 @@ collections:
             fields:
               - { label: Question, name: question_markdown, widget: markdown }
               - { label: Answer, name: answer_markdown, widget: markdown }
-      - label: "Meta Settings"
-        name: "settings"
-        file: "src/_data/settings.yaml"
-        fields:
-          - { label: Name, name: name, widget: string }
-          - { label: Author, name: author, widget: string }
-          - { label: URL, name: url, widget: string }
 
-  - label: "Owners Pages" # Used in the UI
-    name: "owners" # Used in routes, e.g., /admin/collections/blog
-    label_singular: "Owners Page"
-    folder: "src/owners" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    extension: "md"
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    editor:
-      preview: false
-    fields: # The fields for each document, usually in front matter
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
-
-  - label: "Blog"
-    name: "blog"
-    folder: "src/posts"
-    create: true
-    editor:
-      preview: false
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Description", name: "description", widget: "string" }
-      - { label: "Author", name: "author", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - widget: select
-        label: "tags"
-        name: "tags"
-        multiple: true
-        create: true
-        options: ["Tags", "created", "from", "config.yml"]
+      # - label: "Meta Settings"
+      #   name: "settings"
+      #   file: "src/_data/settings.yaml"
+      #   fields:
+      #     - { label: Name, name: name, widget: string }
+      #     - { label: Author, name: author, widget: string }
+      #     - { label: URL, name: url, widget: string }
