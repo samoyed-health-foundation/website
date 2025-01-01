@@ -18,7 +18,7 @@ The process is simple:
 2. You would choose a disorder that you would like to review.
 3. You would be given an outline of a rating system to use for grading references and links.
 4. You would be sent the disorder information to review.
-5. The “Health Information Reviewer’s job is to edit the text for scientific accuracy and rate the credibility of the links so the public understands how much significance to give to a resource.
+5. The "Health Information Reviewer's job is to edit the text for scientific accuracy and rate the credibility of the links so the public understands how much significance to give to a resource.
 6. You would be able to review when it is convenient for you.
 
 If you would like to consider helping your breed by becoming a "Health Information Reviewer", please contact

@@ -12,5 +12,5 @@ Components for submission include:
 - Copies of current and any/all previous eye exams, including gonioscopic exam.
 - Completed submission form.
 
-To request a submission form, swabs, and information on where to send samples, please contact breeder@wisdomhealth.com. In the subject line write “Samoyed glaucoma study. Attn: Sue PK”
+To request a submission form, swabs, and information on where to send samples, please contact breeder@wisdomhealth.com. In the subject line write "Samoyed glaucoma study. Attn: Sue PK"
 
