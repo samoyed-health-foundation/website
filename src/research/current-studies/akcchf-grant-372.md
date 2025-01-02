@@ -79,9 +79,9 @@ four large-breed dogs. Veterinary Clinical Pathology. 38, 375-380. 
 "[Breed- Specific Reference Intervals for Assessing Thyroid Function in
 Seven Dog Breeds](http://www.ncbi.nlm.nih.gov/pubmed/19351336)."
 
-## PARTICIPATION CRITERIA
+# PARTICIPATION CRITERIA
 
-### Wanted
+## Wanted
 
 100 each of Keeshond, Malamute, and **Samoyed** dogs to participate in a
 study to establish breed-specific reference ranges for thyroid hormone
@@ -112,7 +112,7 @@ levels.  As of 10/31/08, 35 more normal Samoyed samples are needed.
 - More information below - note, dogs must be enrolled in the study
   before samples are submitted.
 
-### What We Need
+## What We Need
 
 In order to participate outside of the Minnesota metro area (free
 sampling clinics are available at the University of Minnesota for local
@@ -152,7 +152,7 @@ health management of your favorite breed
 **\*Samples that are received without going through the enrollment
 procedure cannot be analyzed**.\*
 
-### To Participate
+## To Participate
 
 For more information or to enroll your pet in this study or if your
 regional club in the mid-west would like to plan a collection event,

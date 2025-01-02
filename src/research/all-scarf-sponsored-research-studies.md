@@ -17,19 +17,19 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 
 # Funded Research Grants (2023)
 
-#### AKC CANINE HEALTH FOUNDATION GRANTS
+## AKC Canine Health Foundation Grants
 
 - [AKCCHF Grant # 03106 (open)](/research/current-studies/AKCCHF-Grant-03106): Clinical Validation of Urinary miR-126 as a Marker of Immune Complex-Mediated Glomerulonephritis in Dogs. Principal Investigator: Mary B Nabity, DVM, PhD. Texas A&M AgriLife Research. \[$10,000] [[Progress Report 2024](/files/03106-ey1-summary.pdf)]
 
 # Funded Research Grants (2022)
 
-#### MORRIS ANIMAL FOUNDATION GRANTS
+## Morris Animal Foundation Grants
 
 - [MAF Grant D22CA-040](/research/current-studies/morris-grant-d22ca-040): Investigating a Novel Drug Therapy for Heart Disease. Principal Investigator: Joshua Stern, DVM. University of California Davis. \[$10,000] [[Progress Report 2023](/files/d22ca040progressreport.pdf)] [[Progress Report 2024](/research/current-studies/morris-foundation-d22ca-040-progress-report-2024)]
 
 # Funded Research Grants (2021)
 
-#### AKC CANINE HEALTH FOUNDATION GRANTS
+## AKC Canine Health Foundation Grants
 
 - [AKCCHF Grant # 02690-A (closed): ](/research/current-studies/AKCCHF-Grant-02690A/)Diagnostic Utility of Thoracoscopy for Localization of Pulmonary Bullae in Dogs with Spontaneous Pneumothorax. Principal Investigator: Valery Scharf, DVM, MS; North Carolina State University \[$2500] [[Progress Report 2021](/files/akcchf02690amy2summary.pdf)] [[Progress Report end 2021](/files/akcchf02819ey1summary.pdf)]
 - [AKCCHF Grant #02696 (closed):](/research/current-studies/AKCCHF-Grant-02696/) Efficacy and Safety of Netarsudil for Canine Corneal Endothelial Dystrophy. Principal Investigator: Sara Thomasy, DVM, PhD; University of California, Davis \[$5000] [[Progress Report 2021](/files/akcchf02696my2summary.pdf)] [[Publication](https://www.nature.com/articles/s41598-024-56084-4)]
@@ -38,7 +38,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 
 # Funded Research Grants (2020)
 
-#### AKC CANINE HEALTH FOUNDATION GRANTS
+## AKC Canine Health Foundation Grants
 
 - [AKCCHF Grant #02534 (open)](https://www.samoyedhealthfoundation.org/research/current-studies/akcchf-grant-02534/): Clinical Trial for Evaluation of Propranolol and Doxorubicin in the Treatment of Canine Hemangiosarcoma. Erin Dickerson PhD, Brian Husbands DVM, University of MN \[$5000] [[Progress Report 2021](/files/akcchf02534ey2summary.pdf)] [[Progress Report end 2021](/files/akcchf02534my3summary.pdf)] [[Progress Report 2024](/files/akcchf02534-my5summary.pdf)]
 - [AKCCHF Grant #02553 (closed)](https://www.samoyedhealthfoundation.org/research/current-studies/akcchf-grant-02553/): Targeted next generation sequencing panel for comprehensive testing of vector-borne pathogens. Rebecca Wilkes, DVM. Purdue University \[$2500] [[Final Report 2021](/files/akcchf02553my2summary.pdf)]
@@ -46,7 +46,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 
 # Funded Research Grants (2019)
 
-#### MORRIS ANIMAL FOUNDATION GRANTS
+## Morris Animal Foundation Grants
 
 - [MAF Grant D18CA-045 (closed):](https://www.samoyedhealthfoundation.org/research/morris-grant-d18ca-045/) Tackling the Canine Microbiome in Chronic Enteropathy: Characterizing the Functionally Significant Changes that Occur with Remission of Disease. Caroline S Mansfield BSC, BVMS, MVM, DECVIM University of Melbourne \[$10,000] [[Progress Report 2020](https://www.samoyedhealthfoundation.org/files/MAFD18CA045ProgressReport.pdf)] [[Progress Report 2021](/files/MAFD18CA045.pdf)] [[Final Report 2023](/files/d18ca045final.pdf)]
 - [MAF Grant D19CA-064 (open):](https://www.samoyedhealthfoundation.org/research/morris-d19ca-064/) Synergizing Radiation-Induced Immunogenic Cell Death and Toll-like Receptor 9 Agonism to Generate Abscopal Effects in Canine Osteosarcoma. Timothy M Fan DVM, PhD. University of Illinois \[$10,000]
@@ -54,7 +54,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 
 # Funded Research Grants (2015)
 
-#### AKC CANINE HEALTH FOUNDATION OAK GRANTS
+## AKC CANINE HEALTH FOUNDATION OAK GRANTS
 
 - [AKCCHF Grant #01658 (closed):](/research/current-studies/akcchf-grant-01658) Early Detection of Chronic Kidney Disease to Prevent Kidney Damage. Mary B Nabity, DVM, PhD, Texas A&M AgriLife Research. \[$5000] [[publication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4913609/)]
 - [AKCCHF Grant #01699-A (closed):](/research/current-studies/akcchf-grant-01699-a) Preventing Inaccurate Diagnosis of Brucellosis. Christina M Larson, DVM, University of Minnesota. \[$5000]
@@ -62,7 +62,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 - [AKCCHF Grant #02128-A (closed):](/research/current-studies/akcchf-grant-02128-a) Redefining the Recommendations for Prevention of Infectious Disease at Dog Shows and Other Areas Where Dogs Meet and Compete. Jason Stull, VMD, PhD, Ohio State University. \[$5000] [[Study Update 1](</files/AKCCHF grant 02128A MY2 Summary.pdf>)] [[final report](</files/AKCCHF 02128-A EY2 FINAL Summary.pdf>)]
 - [AKCCHF Grant #02146-A (closed):](/research/current-studies/akcchf-grant-02146-a) Development of a Novel Drug Delivery System to Prevent Vision Loss in Canine Cataract Patients. Heather Chandler, PhD, Ohio State University. \[$5000] [[final report](</files/AKCCHF 02146-A FINAL Summary.pdf>)]
 
-#### MORRIS ANIMAL FOUNDATION GRANTS
+## Morris Animal Foundation Grants
 
 - [MAF Grant D14CA-063 (closed):](/research/current-studies/morris-grant-d14ca-063) Understanding how Mammary Cancer Develops. Dr. Gerlinde R. Van de Walle, Cornell University. [[final report](</files/D14CA-063 Final Report.pdf>)]
 - [MAF Grant D15CA-047 (closed):](/research/current-studies/morris-grant-d15ca-047) Understanding Why and How Canine Osteosarcoma Tumors Spread. Dr. Jaime F. Modiano, University of Minnesota [[study update](</files/D15CA-047 Oct 2016 update.pdf>)] [[publication](http://www.jbc.org/content/290/47/28070.full.pdf)] [[publication](https://www.mdpi.com/2079-4991/10/9/1662/htm)]
@@ -71,14 +71,14 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 
 # Funded Research Grants (2013)
 
-#### AKC CANINE HEALTH FOUNDATION OAK GRANTS
+## AKC CANINE HEALTH FOUNDATION OAK GRANTS
 
 - [AKCCHF Grant #01780 (closed):](/research/current-studies/akcchf-grant-01780)Defining the Mechanism by Which Ticks Locate Dogs in Order to Better Prevent Disease Transmission. Emma Natalie Ivy Weeks, PhD, University of Florida. \[$2500]. [[study update 2014](</files/AKCCHF grant 1780 MY2 Progress Report.pdf>)] [[study update 2016](</files/AKCCHF 1780 MY4 Summary.pdf>)] [[study update 2017](</files/AKCCHF 01780 EY4 Summary.pdf>)] [[study update 2018](/files/Akcchf1780-ey5-summary.pdf)]
 - [AKCCHF Grant #01782 (closed):](/research/current-studies/akcchf-grant-01782) Defining the Elements of Successful Cranial Cruciate Ligament Repair. Gina Bertocci, PhD, University of Louisville. \[$2500] [[study update](</files/AKCCHF 01782 MY2 Summary.pdf>)] [[final report](</files/AKCCHF grant 01782 FINAL Summary.pdf>)] [[publication](http://www.worldscientific.com/doi/abs/10.1142/S0219519413500437?queryID=%24%7BresultBean.queryID%7D)] [[publication](http://www.ncbi.nlm.nih.gov/pubmed/24370242)] [[publication](http://avmajournals.avma.org/doi/abs/10.2460/ajvr.75.7.626)]
 - [AKCCHF Grant #01806 (closed)](/research/current-studies/akcchf-grant-01806): A Novel Virus-Based Anti-Tumor Treatment for Canine Osteosarcoma. Bruce F Smith, VMD PhD, Auburn University. \[$2500]. [[study update 1](</files/AKCCHF 01806 EY1 Summary.pdf>)] [[study update 2](</files/AKCCHF grant 1806 EY2 Progress Report.pdf>)] [[final report](</files/AKCCHF grant 01806 FINAL Summary.pdf>)]
 - [AKCCHF Grant #01822](/research/current-studies/akcchf-grant-01822) (closed): Beyond the Genome: The Intersection of Genes and the Environment in Canine Cancer. Robert K Wayne, PhD, University of California Los Angeles. \[$2500]. [[final report](</files/AKCCHF grant 1822 FINAL Summary.pdf>)] [[publication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5391218/)]
 
-#### MORRIS ANIMAL FOUNDATION GRANTS
+## Morris Animal Foundation Grants
 
 - [MAF Grant D09CA-502 (closed):](/research/current-studies/morris-grant-d09ca-502) Developing a Better Tool for Assessing Bloat Prognosis. Elizabeth A Rozanski, DVM, Tufts University [[study update](</files/D09CA-502 update.pdf>)] [[final report](</files/D09CA-502 Final report.pdf>)]
 - [MAF Grant D12CA-031:](/research/current-studies/morris-grant-d12ca-031) Understanding the Genetic Basis for Urinary Stones. Dr. Ned Patterson, University of Minnesota
@@ -89,14 +89,14 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 
 # Funded Research Grants (2012)
 
-#### AKC CANINE HEALTH FOUNDATION GRANTS
+## AKC Canine Health Foundation Grants
 
 - [AKCCHF Grant #01418 (closed)](/research/current-studies/akcchf-grant-1418): Providing Engineered T-cells (PET): New Genetic and Immunotherapy Targeting Canines with Spontaneous B-cell Lymphoma; Dr Heather M. Wilson, DVM, Texas A7M University ($2500) [[publication](http://www.ncbi.nlm.nih.gov/pubmed/22355761)] [[publication](https://www.ncbi.nlm.nih.gov/pubmed/24936037)] [final report](/files/akc_chf_1418_final_summary.pdf)
 - [ AKCCHF Grant #01569 (closed)](/research/current-studies/akcchf-grant-1569) Evaluation of GS-9219 in Canine Lymphoma; Dr Douglas H Thamm, VMD; Colorado State University ($2500) [[publication](http://clincancerres.aacrjournals.org/content/15/10/3503.long)]
 - [AKCCHF Grant #01584 (closed):](/research/current-studies/akcchf-grant-1584) Conformation of Cranial Cruciate Ligament Deficiency in Dogs; Dr. Dominique J. Griffon, DVM PhD; Western University of Health Sciences ( $2500) [[Final Report](</files/AKCCHF grant 01584 MY4 FINAL Summary.pdf>)]
 - [AKCCHF Grant #01609 (closed)](/research/current-studies/akcchf-grant-1609) Probiotic VSL#3 Reduces Enteritis in Dogs with Inflammatory Bowel Disease; Dr Albert E Jergens, DVM PhD; Iowa State University ($2500) [[Study Update 1](</files/AKCCHF grant 01609 EY4 Summary.pdf>)] [[study update 2](</files/AKCCHF 01609 EY5 Summary.pdf>)]
 
-#### MORRIS ANIMAL FOUNDATION GRANTS
+## Morris Animal Foundation Grants
 
 - [MAF Grant D08CA-500: ](/research/current-studies/morris-grant-d08ca-500) Assessing the Prevalence of Leptospirosis; Dr George E Moore, Purdue University. ($3000)
 - [MAF Grant D10CA-022 (closed)](/research/current-studies/morris-10ca-022) Studying the Effect of Cranberry Extract on Canine Urinary Tract Infections; Dr Natasha J Olby, North Carolina State University ($3000)[[publication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5259620/pdf/JVIM-31-60.pdf)]
@@ -109,7 +109,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 
 # Funded Research Grants (2010)
 
-#### AKC CANINE HEALTH FOUNDATION GRANTS
+## AKC Canine Health Foundation Grants
 
 - [AKCCHF Grant #01272 (closed):](/research/current-studies/akcchf-grant-01272) Isolation and Characterization of Canine Induced Pluripotential Stem Cells (iPS). Jorge A Piedrahita, PhD, North Carolina State University \[$2500] [[publication](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3585736/)]
 - [AKCCHF Grant #01415 (closed):](/research/current-studies/akcchf-grant-01415) Development of Anti-IgE Peptide for Treatment of Canine Allergy. Bruce Hammerberg, DVM PhD, North Carolina State University \[$2500]
@@ -117,7 +117,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 - [AKCCHF Grant #01484 (closed):](/research/current-studies/akcchf-grant-01484) Identification and Characterization of a Canine Derived Single Chain Antibody that Binds and Neutralizes Canine VEGF. Nicola J Mason, BVetMed, PhD, University of Pennsylvania \[$2500]
 - [AKCCHF Grant #01494-A (closed):](/research/current-studies/akcchf-grant-01494-a) Comparison of the level of expression of P-glycoprotein in lymph nodes and peripheral blood lymphocytes in canine lymphoma patients. Bonnie L Boudreaux, DVM, Louisiana State University \[$1000 from AKCCHF donor advised fund]
 
-#### MORRIS ANIMAL FOUNDATION GRANTS
+## Morris Animal Foundation Grants
 
 - [MAF Grant D09CA-082 (discontinued):](/research/current-studies/morris-grant-d09ca-082) Potential Drug Therapy for Lymphoma \[$3000]
 
@@ -131,7 +131,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 - [MAF Grant D10CA-060 (closed):](/research/current-studies/morris-grant-d10ca-060) Evaluating the Safety and Efficacy of a Drug to Control Epilepsy in Dogs. Dawn Merton Boothe, DVM PhD, Auburn University \[$3000]
 - [MAF Grant D10CA-801A:](/research/current-studies/morris-grant-d10ca-801a) Evaluating Treatment for Vision Problems in Diabetic Dogs \[$3000]
 
-#### OTHER GRANTS
+## Other grants
 
 - [Bloat Study (closed): ](/research/current-studies/bloat-study) DOGenes, Inc.
 

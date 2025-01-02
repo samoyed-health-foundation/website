@@ -3,13 +3,13 @@ title: Genetic Disorders
 layout: single
 ---
 
-## **Genetic Testing Available for Disorders in Samoyeds**
+# Genetic Testing Available for Disorders in Samoyeds
 
 The following disorders are inherited in Samoyeds and genetic testing is available. Links to several laboratories that offer genetic testing are listed. Listing is for information only and is not a SCARF endorsement of their services. Laboratory websites are included for their descriptions of the disorders and their inheritance.
 
 Not all laboratory results are eligible for submission to OFA as part of[ CHIC certification](https://www.ofa.org/about/chic-program). If CHIC certification is the goal, please verify which tests are required and whether results from a particular laboratory will be accepted. OFA-CHIC requirements for Samoyeds are [listed on the OFA website](https://www.ofa.org/recommended-tests?breed=SA) and currently include genetic tests for X-linked Progressive Retinal Atrophy and Retinal Dysplasia/Oculoskeletal Dysplasia 2. Several laboratories offer DNA testing panels ([Wisdom](https://wisdompanel.com/en-us/products/wisdom-panel-premium), [Embark](https://shop.embarkvet.com/products/embark-dog-dna-test-kit)). At this time the panels do not include all the disorders listed here, or all the disorders required for CHIC certification. _(Information current October 6, 2020)._
 
-### **Degenerative Myelopathy**
+## Degenerative Myelopathy
 
 _Gene:_ SOD1, point mutation
 
@@ -21,7 +21,7 @@ _Mode of inheritance:_ Autosomal recessive with incomplete penetrance
 
 [UC Davis Veterinary Genetics Laboratory](https://vgl.ucdavis.edu/test/degenerative-myelopathy)
 
-### **Familial Enamel Hypoplasia**
+## Familial Enamel Hypoplasia
 
 _Gene:_ SCL24A4
 
@@ -39,7 +39,7 @@ Letter to editor about previous article:
 
 Nicholas FW, Mellersh C, Lewis T. [Letter to the editor regarding an autosomal recessive mutation in SCL24A4 causing enamel hypoplasia in Samoyed and its relationship to breed-wide genetic diversity. ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5930769/)Canine Genet Epidemiol. 2018;5:4.
 
-### **X-Linked Hereditary Nephritis (Samoyed Hereditary Glomerulopathy)**
+## X-Linked Hereditary Nephritis (Samoyed Hereditary Glomerulopathy)
 
 [Additional information](/diseases/hereditary-nephritis/)
 
@@ -53,7 +53,7 @@ _Mode of inheritance:_ X-linked Dominant
 
 [Paw Print Genetics](https://www.pawprintgenetics.com/products/tests/details/76/?breed=26)
 
-### **Progressive Retinal Atrophy, X-linked**
+## Progressive Retinal Atrophy, X-linked
 
 _Gene:_ RPGR (deletion)
 
@@ -67,7 +67,7 @@ _Mode of inheritance:_ X-linked recessive
 
 [Paw Print Genetics](https://www.pawprintgenetics.com/products/tests/details/214/?breed=26)
 
-### **Retinal Dysplasia/Oculoskeletal Dysplasia 2 (RD/OSD2)**
+## Retinal Dysplasia/Oculoskeletal Dysplasia 2 (RD/OSD2)
 
 [Additional information](/diseases/retinal-dysplasia-folds/)
 

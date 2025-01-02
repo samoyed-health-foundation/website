@@ -19,7 +19,7 @@ topic because they presented me with different symptoms, different tear
 production measurements, different protocols and different levels of
 response to treatment.
 
-## PATIENT #1
+# PATIENT #1
 
 **Age at Onset:** 6 years, 2 months.
 
@@ -47,7 +47,7 @@ measure 15mm.
 **Additional Tests:** A blood test was done to test for Hypothyroidism.
 The test results were negative.
 
-### PATIENT #2
+## PATIENT #2
 
 **Age at Onset:** 6 years, 3 months.
 
@@ -151,7 +151,7 @@ Dogs with "dry eye" will most likely require lifelong consistent
 therapy. Withdrawal of Optimmune® will result in rapid clinical
 regression.
 
-### HINTS OR HOW I FIGHT THE DAILY BATTLE AGAINST "DRY EYE" AND WIN!
+## HINTS OR HOW I FIGHT THE DAILY BATTLE AGAINST "DRY EYE" AND WIN!
 
 To my babies, I'm a super hero. I made their eyes feel better and all it
 took was a little bit of cyclosporine applied to their eyes 2x a day. My

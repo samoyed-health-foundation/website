@@ -15,7 +15,7 @@ layout: single
 
 <p></p>
 
-#### 2021 Bravo Packing, Inc. Recall
+## 2021 Bravo Packing, Inc. Recall
 
 All frozen raw dog foods and all bones made by Bravo Packing, Inc. have been recalled due to Salmonella risk.
 
@@ -37,7 +37,7 @@ From the FDA:
 
 <https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bravo-packing-inc-expands-previously-announced-voluntary-recall-pet-food-products-due-potential>
 
-#### 2020 Sportmix Pet Food Recall
+## 2020 Sportmix Pet Food Recall
 
 From the FDA:
 
@@ -62,7 +62,7 @@ From CNN:
 
 <https://www.cnn.com/2020/12/31/us/fda-dog-food-trnd/index.html>
 
-#### 2007 Melamine Pet Food Recall
+## 2007 Melamine Pet Food Recall
 
 From the _New York Times_:
 

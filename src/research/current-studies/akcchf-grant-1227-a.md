@@ -3,7 +3,7 @@ title: "AKCCHF grant #01227-A (closed)"
 layout: single
 ---
 
-### Specificity and Sensitivity of the Pancreatic Lipase Immunoreactivity (SPEC cPL) Test for the Diagnosis of Canine Pancreatitis
+# Specificity and Sensitivity of the Pancreatic Lipase Immunoreactivity (SPEC cPL) Test for the Diagnosis of Canine Pancreatitis
 
 Stanley L Marks, BVSc, PhD, University of California Davis
 
@@ -38,7 +38,7 @@ blood tests for the diagnosis of pancreatitis in dogs. Our study
 emphasizes the need to establish other blood tests that have better
 sensitivities, particularly for dogs with chronic pancreatitis._
 
-**Publication:**
+## Publication
 
 Trivedi S, Marks S, Kass P, Luff J, Keller S, Johnson E and Murphy B.
 (2011), [Sensitivity and Specificity of Canine Pancreas-Specific Lipase

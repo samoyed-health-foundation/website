@@ -31,7 +31,7 @@ _\*A deficiency in the water portion of the tear film is referred to as "quantit
 
 </details>
 
-## Signs and Symptoms
+# Signs and Symptoms
 
 Dogs show their discomfort by rubbing their eyes, squinting and being
 sensitive to light. Their eyes may become red and inflamed and/or the
@@ -44,7 +44,7 @@ in an effort to protect the eye. These changes result in brown
 pigmentation, scar tissue growth, ulcer development and blood vessel
 growth across the eye. Blindness can result.
 
-## Causes
+# Causes
 
 - By far, the most common cause appears to be an immune mediated
   destruction of the tear producing gland tissue. (The cause is
@@ -65,15 +65,15 @@ growth across the eye. Blindness can result.
   surgery for Cherry Eye
 - Trauma
 
-## Mode of Inheritance
+# Mode of Inheritance
 
 The mode is unknown.
 
-## Risk Factors
+# Risk Factors
 
 Hypothyroidism
 
-## Diagnostic Tests
+# Diagnostic Tests
 
 The "Schirmer Tear Test" (STT) is used to measure tear production. A
 measurement of 15mm or more is normal. A measurement of 11-14mm is
@@ -86,14 +86,14 @@ epithelium.
 Many dogs with STT measurements of less than 10mm may not show clinical
 signs of KCS.
 
-## Treatment Guidelines
+# Treatment Guidelines
 
 > **Note:** Treatment of animals should only be performed by a licensed
 > veterinarian. Veterinarians should consult the current literature and
 > current pharmacological formularies before initiating any treatment
 > protocol.
 
-### Non-Surgical Solutions
+## Non-Surgical Solutions
 
 There are several objectives in treating "dry eye." These include:
 
@@ -160,7 +160,7 @@ used to stimulate tear production, topical tacrolimus is thought to be
 considerably more effective and as a result may be useful for use in
 dogs that are unresponsive to cyclosporine.
 
-### Surgical Solutions
+## Surgical Solutions
 
 **Parotid Duct Transposition**
 
@@ -179,7 +179,7 @@ dog's vision, the pigmented surface can sometimes be surgically removed.
 This procedure is rarely performed unless the primary underlying
 condition is well controlled to help prevent recurrence.
 
-## References
+# References
 
 [www.eyevet.ca](http://www.eyevet.ca/) ![2
 bones](/img/2-bones.gif)
@@ -190,7 +190,7 @@ bones](/img/2-bones.gif)
 [www.eyevetclinic.co.uk](http://www.eyevetclinic.co.uk/) ![2
 bones](/img/2-bones.gif)
 
-## Suggested Links
+# Suggested Links
 
 [http://www.eyevet.ca/kcs.html](http://www.eyevet.ca/kcs.html)
 ![2
@@ -201,6 +201,6 @@ bones](/img/2-bones.gif)
 
 [http://www.medi-vet.com/dog-eye-care-s/1831.htm](http://www.medi-vet.com/dog-eye-care-s/1831.htm)
 
-## "Living with a Disorder" Journal Entries
+# "Living with a Disorder" Journal Entries
 
 - [In the blink of an eye](/diseases/keratoconjunctivitis-sicca-kcs-or-dry-eye-in-the-blink-of-an-eye)
