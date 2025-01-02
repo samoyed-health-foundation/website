@@ -41,6 +41,13 @@ export default async function (eleventyConfig) {
     );
   });
 
+  // First path segment for a page URL, which equates to our website "sections"
+  eleventyConfig.addFilter("firstPathSegment", (pageUrl) => {
+    const parts = pageUrl.split('/').filter(part => part !== '');
+
+    return parts.length <= 1 ? 'root' : parts[0];
+  });
+
   // https://www.11ty.dev/docs/data-custom/#yaml
   eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
 
@@ -63,7 +70,7 @@ export default async function (eleventyConfig) {
     dir: {
       input: "src",
     },
-    templateFormats: ["html", "md", "njk"],
+    templateFormats: ["html", "liquid", "md", "njk"],
     // https://www.11ty.dev/docs/config/#default-template-engine-for-html-files
     // Use nunjucks instead of liquid for .html files
     htmlTemplateEngine: "njk",

@@ -5,11 +5,13 @@
     "debug": "set DEBUG=* & eleventy",
     "css": "postcss src/static/css/tailwind.css --o _site/css/style.css --watch",
     "build": "cross-env NODE_ENV=production eleventy && cross-env NODE_ENV=production tailwindcss -i src/static/css/tailwind.css -o _site/css/style.css",
-    "browsersync": "browser-sync start --server _site --files _site --port 8080 --no-notify --no-open"
+    "browsersync": "browser-sync start --server _site --files _site --port 8080 --no-notify --no-open",
+    "algolia": "node ./scripts/algolia.js"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",
     "@tailwindcss/typography": "^0.5.15",
+    "algolia-indexing": "^2.0.0",
     "algoliasearch": "^5.18.0",
     "alpinejs": "^3.14.5",
     "autoprefixer": "^10.4.2",
