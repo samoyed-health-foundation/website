@@ -1,7 +1,7 @@
 {
   "scripts": {
     "start": "npm-run-all --parallel css eleventy browsersync",
-    "eleventy": "eleventy --watch",
+    "eleventy": "cross-env NODE_ENV=development eleventy --watch",
     "debug": "set DEBUG=* & eleventy",
     "css": "postcss src/static/css/tailwind.css --o _site/css/style.css --watch",
     "build": "cross-env NODE_ENV=production eleventy && cross-env NODE_ENV=production tailwindcss -i src/static/css/tailwind.css -o _site/css/style.css",
@@ -10,12 +10,14 @@
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",
     "@tailwindcss/typography": "^0.5.15",
+    "algoliasearch": "^5.18.0",
     "alpinejs": "^3.14.5",
     "autoprefixer": "^10.4.2",
     "browser-sync": "^3.0.3",
     "cross-env": "^7.0.3",
     "cssnano": "^5.0.15",
     "flowbite": "^2.5.2",
+    "instantsearch.js": "^4.75.6",
     "js-yaml": "^4.1.0",
     "luxon": "^2.3.0",
     "markdown-it-anchor": "^9.2.0",

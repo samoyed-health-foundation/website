@@ -1,6 +1,6 @@
 ---
 title: By System Or Class
-layout: single
+layout: search
 ---
 
 > **Note:** An \* means there is a health information liaison for that disease.

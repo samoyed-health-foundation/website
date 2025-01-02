@@ -1,6 +1,6 @@
 ---
 title: "Most common diagnoses"
-layout: single
+layout: search
 ---
 
 - [Diabetes Mellitus](/diseases/diabetes-mellitus)

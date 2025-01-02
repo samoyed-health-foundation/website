@@ -1,6 +1,6 @@
 ---
 title: Diseases
-layout: single
+layout: search
 ---
 
 # Disorders, syndromes and conditions

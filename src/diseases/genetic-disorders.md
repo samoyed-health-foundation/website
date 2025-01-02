@@ -1,6 +1,6 @@
 ---
 title: Genetic Disorders
-layout: single
+layout: search
 ---
 
 # Genetic Testing Available for Disorders in Samoyeds
