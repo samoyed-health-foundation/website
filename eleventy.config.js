@@ -19,10 +19,25 @@ export default async function (eleventyConfig) {
     return markdownLib.render(content);
   });
 
+  // Custom shortcode for figure
+  eleventyConfig.addShortcode("figure", function (srcs, title = "") {
+    const imgTags = srcs.split(',')
+      .map(src => src.trim())
+      .map(src => `<img src="${src}" ${title ? `alt="${title}"` : ""}>`)
+      .join("\n");
+
+    return `
+    <figure>
+      ${imgTags}
+      ${title ? `<figcaption>${title}</figcaption>` : ""}
+    </figure>
+  `;
+  });
+
   // Human-readable dates
   eleventyConfig.addFilter("readableDate", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
-      "dd LLL yyyy"
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toLocaleString(
+      DateTime.DATETIME_FULL_WITH_SECONDS
     );
   });
 

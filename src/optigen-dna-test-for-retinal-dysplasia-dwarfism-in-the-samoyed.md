@@ -1,7 +1,7 @@
-+++
-title = "Optigen DNA test for Retinal Dysplasia/Dwarfism in the Samoyed"
+---
+title: "Optigen DNA test for Retinal Dysplasia/Dwarfism in the Samoyed"
 layout: single
-+++
+---
 
 NEWSFLASH 10/15/2010 - from Sue Pearce-Kelling at Optigen
 
