@@ -14,7 +14,7 @@ throughout the body and helps regulate blood sugar. Insulin plays an
 important role in the body's ability to use and store glucose.
 
 <details>
-<summary>\\\\*Click here to show/hide more detail\\\\*</summary>
+<summary>*Click here to show/hide more detail*</summary>
 
 The body's cells use glucose (which travels through the blood) as energy. In order for the body to use glucose, glucose must get inside the cell. Insulin attaches to receptors on the cell, which in turn allows glucose to pass from the blood into the cell.
 

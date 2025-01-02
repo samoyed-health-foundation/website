@@ -9,7 +9,7 @@ It gets worse with age and affected dogs eventually develop degenerative
 joint disease (osteoarthritis) which can be very painful.
 
 <details>
-<summary>\*Click here to show/hide more detail\*</summary>
+<summary>*Click here to show/hide more detail*</summary>
 
 There are three different abnormalities that may occur singly or together in elbow dysplasia in one or both elbows:
 

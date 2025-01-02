@@ -7,7 +7,7 @@ Cancerous Tumors that originate along the mammary chain. It is the
 canine equivalent of human breast cancer.
 
 <details>
-<summary>\*Click here to show/hide more detail\*</summary>
+<summary>*Click here to show/hide more detail*</summary>
 
 In 50% of cases mammary lumps are benign (not cancer). The remaining 50%
 are malignant tumors that are classified based on the embryonic origin

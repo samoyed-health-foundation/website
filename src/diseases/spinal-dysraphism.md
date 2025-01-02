@@ -22,7 +22,7 @@ reported in a Samoyed.
   with function.
 
 <details>
-<summary>\\*Click here to show/hide more detail\\*</summary>
+<summary>*Click here to show/hide more detail*</summary>
 Spinal dysraphism is the general term for a congenital (existing at birth) malformation that affects the spinal column.  It  results from defective or delayed closure of the neural tube during embryonic development. There can be a single defect, or multiple defects in multiple locations along the spinal column. Defects include the following:
 
 - **Spina bifida:** A bony cleft (failure of closure) of the spinal column with protrusion of the meninges (lining of the spinal cord) or meninges and spinal cord tissue. The skin over the defect may be intact or open. Depending on the amount and location of the protruding tissue, there can be involvement of the motor and sensory system, including partial paralysis and loss of bowel and bladder control. The condition can vary wildly in severity, and the degree of impairment depends on the amount of involved nervous tissue. Typically it is nonprogressive (doesn't get worse with time).

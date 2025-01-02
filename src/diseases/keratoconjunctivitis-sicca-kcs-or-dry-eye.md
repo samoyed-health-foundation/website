@@ -17,6 +17,7 @@ which normally accounts for 95% of the tear volume.
 
 <details>
 <summary>*Click here to show/hide more detail*</summary>
+
 **What is KCS or Dry Eye?** It is an eye disease. Keratoconjunctivitis sicca is a latin term. "Kerato" refers to the cornea or clear covering of the eye. "Conjunctivae" are the moist pink membranes of the eye socket. "Itis" means inflammation. "Sicca" means dry. KCS means inflamed, dry cornea and conjunctiva. Generally, it occurs when there is a deficiency in the water portion of the tear film which normally accounts for 95% of the tear volume.\* Without the water, the eye is left with oil and mucus; hence, the gooey yellow eye discharge characteristic of this condition.
 
 **Understanding Dry Eye/Why Tears are Good.** Tears are important. They do more than just lubricate the eye. Tears flush away irritants and infectious agents and carry nutrients. Because the outer portion of the eye, or the cornea, does not have a blood supply, the antibacterial proteins, salts, sugars and even oxygen necessary to nourish the cornea are supplied through the three-layered "tear film."

@@ -29,7 +29,7 @@ is unclear, and the disease has not been described in Samoyeds in the
 scientific literature. It is a relatively rare disease in Samoyeds.
 
 <details>
-<summary>\\*Click here to show/hide more detail\\*</summary>
+<summary>*Click here to show/hide more detail*</summary>
 
 There are more than a dozen proteins involved in the clotting mechanism.
 Hemophilia A and B are only two of the bleeding disorders that may be

@@ -11,7 +11,7 @@ A ventricular septal defect is a hole between the lower two chambers of
 the heart.
 
 <details>
-<summary>\*Click here to show/hide more detail\*</summary>
+<summary>*Click here to show/hide more detail*</summary>
 The heart of a dog (or person) consists of 4 chambers. The two upper chambers are called atria (singular atrium) and the two lower chambers are called ventricles. During embryonic development the heart begins as a simple tube, which later divides into the four chambers. The two upper chambers are separated into right and left by a septal wall or septum, as are the two ventricular or lower chambers. During development, there may be failure of the septum to develop correctly, leaving a hole between the two chambers. In the case of the lower chambers, this hole is called a ventricular septal defect (VSD). The defect can vary in size from very small to quite large. The size of the defect dictates the seriousness of the condition.  The presence of a hole allows blood to flow directly from the left ventricle into the right ventricle because the pressure on the left side of the heart is much higher. Depending on the size of the hole, this can result in a significant increase in the work of the right side of the heart and an overload of blood to the lungs.  If the defect is small, only a small amount of blood flows from the left to the right and there is not a significant increase in the work load of the right side of the heart.
 </details>
 

@@ -23,7 +23,7 @@ infiltrates that cannot be attributed solely to cancer, allergies,
 bacterial or parasitic infections.
 
 <details>
-<summary>\*Click here to show/hide more detail\*</summary>
+<summary>*Click here to show/hide more detail*</summary>
 
 IBD is a chronic, abnormal concentration of inflammatory cells in the mucosa or lining of the stomach, small intestine (duodenum, jejunum, ileum) and/or large intestine (colon). The inflammation cannot be attributed solely to cancer, allergies, bacterial or parasitic infections.
 

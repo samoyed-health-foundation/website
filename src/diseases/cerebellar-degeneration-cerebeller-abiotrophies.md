@@ -19,7 +19,7 @@ Samoyed. Other breeds, with a later onset and milder version of the
 condition, can have a quality lifespan.
 
 <details>
-<summary>\*Click here to show/hide more detail\*</summary>
+<summary>*Click here to show/hide more detail*</summary>
 
 The degeneration is a result of a progressive dying off of certain neurons in the brain, specifically in the cerebellum, called Purkinje cells. These cells are responsible for communication between areas of the cerebellum that control balance and coordination. Without these cells, the sense of space and distance are lost and balance and coordination become impaired. Although "abiotrophy" means no nutritive factor, it is not actually known what causes the Purkinje cells to degenerate other than as a genetically inherited metabolic disease.
 

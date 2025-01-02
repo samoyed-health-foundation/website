@@ -9,7 +9,7 @@ Tumors in the liver (also known as hepatic neoplasia) may be malignant
 elsewhere in the body (secondary - more common in dogs).
 
 <details>
-<summary>\\*Click here to show/hide more detail\\*</summary>
+<summary>*Click here to show/hide more detail*</summary>
 
 Tumors are classified based on the embryonic origin of the cancerous cells they contain, determined by microscopic analysis of the tumor biopsy. The prefix "-hepato" (liver) may be added to give the formal name of the cancer, e.g., hepatocarcinoma.
 

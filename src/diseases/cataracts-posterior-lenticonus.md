@@ -13,21 +13,20 @@ affects both male and female Samoyeds normally between 1 and 3 years of
 age.
 
 <details>
-<summary>\\\*Click here to show/hide more detail\\\*</summary>
-\\\*\\\*What is Posterior Lenticonus?\\\*\\\* Posterior Lenticonus is an inherited, congenital lens abnormality which may result in cataract formation in \\\*\\\*both\\\*\\\* eyes. This type of "cataract" affects both male and female Samoyeds normally between 1 and 3 years of age.
+<summary>*Click here to show/hide more detail*</summary>
+
+**What is Posterior Lenticonus?** Posterior Lenticonus is an inherited, congenital lens abnormality which may result in cataract formation in **both** eyes. This type of "cataract" affects both male and female Samoyeds normally between 1 and 3 years of age.
 
 **What is a Cataract?** A cataract is a clouding, or opacity, of the normally clear lens of the eye. Cataracts are classified based on:
 
 - Age of onset (e.g., juvenile)
 - Stage of maturation:
-
   - Incipient (<15% of lens involved)
   - Immature (still see some tapetal reflection through lens)
   - Mature (obscure tapetal reflection)
   - Intumescent (imbibed water and is swollen)
   - Hypermature (liquefaction of lens cortex occurs)
   - Morgagnian (complete liquefaction of lens cortex, leaking of lens protein leaving nucleus ventrally within a shrunken capsule)
-
 - Location within the lens (e.g., anterior/posterior cortical areas of the lens)
 - Etiology (e.g, hereditary)
 - Associated with other ocular abnormalities (e.g., Posterior lenticonus)
