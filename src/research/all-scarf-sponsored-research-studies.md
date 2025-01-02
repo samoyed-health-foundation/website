@@ -137,7 +137,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 
 # Funded Research Grants (2009)
 
-- [Rabies Challenge Fund](http://www.rabieschallengefund.org/) \[[Summary]](https://www.rabieschallengefund.org/)
+- [Rabies Challenge Fund](https://www.rabieschallengefund.org/) [Summary](https://www.rabieschallengefund.org/)
 - [AKCCHF grant #00615-B (closed):](/research/current-studies/akcchf-grant-00615b) Heritable and Sporadic Genetic Lesions in Canine Lymphoma. Jaime F Modiano, VMD PhD \[$2500 from AKCCHF Donor Advised fund] [[publication](http://informahealthcare.com/doi/abs/10.3109/10428194.2011.559802)] [[AKCCHF Success Story](http://www.akcchf.org/research/research-portfolio/0706.html)]
 - [AKCCHF grant #01130 (closed):](/research/current-studies/akcchf-grant-01130) Measurement of Minimal Residual Disease Using Real Time PCR in Canine Lymphoma. Susan E Lana, DVM, Colorado State University \[$2500]
 - [AKCCHF grant #01139 (closed):](/research/current-studies/akcchf-grant-01139) Immune Targeting of Canine Hemangiosarcoma Using a Canine Derived Single Chain Antibody Approach. Nicola J Mason, BVetMed, PhD, University of Pennsylvania \[$2500] [[publication](http://www.ncbi.nlm.nih.gov/pubmed/20817275)] [[AKCCHF Success Story](http://www.akcchf.org/research/research-portfolio/1139.html)]
@@ -191,4 +191,3 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 
 - [AKCCHF Grant #01637 (closed):](/research/current-studies/akcchf-grant-01637) Identification of DNA Marker(s) for Cataracts in Purebred Dogs, with Emphasis on the Breeds Alaskan Malamute, Siberian Husky, and Samoyed. Vilma Yuzbasiyan-Gurkan, PhD, Michigan State University. \[$11,674.50]
 - [AKCCHF Grant #01836 (closed): ](/research/current-studies/akcchf-grant-01836) Identifying the Genetic Cause of Canine Hip Dysplasia. George J Brewer MD, University of Michigan. \[$2000]
-
