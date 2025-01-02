@@ -10,10 +10,10 @@ layout: single
   [AKC Canine Health Foundation](http://www.akcchf.org/research/general.cfm)
 
 - Present proposal idea to SCARF - email
-  [SCARF](mailto:research@samoyedhealthfoundation.org?subject=Research%20proposal)
+  [SCARF](mailto:president@samoyedhealthfoundation.org?subject=Research%20proposal)
 
 - Look for research study participants - email
-  [SCARF](mailto:research@samoyedhealthfoundation.org?subject=Looking%20for%20Samoyed%20research%20study%20participants)
+  [SCARF](mailto:president@samoyedhealthfoundation.org?subject=Looking%20for%20Samoyed%20research%20study%20participants)
 
 - Items ineligible for funding...
   [more](/research/items-ineligible-for-funding)
