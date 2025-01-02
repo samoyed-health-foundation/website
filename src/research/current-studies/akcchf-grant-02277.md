@@ -11,6 +11,6 @@ Breeds.**
 Inherited cataract is a major health problem in dogs, with a significant
 frequency in 66 breeds. In some breeds the puppy is born with cataract
 (congenital) while in others it develops at six months of age, and in
-others at 12-18 months, long after the animal has been placed. 
+others at 12-18 months, long after the animal has been placed. 
 Thirty-one cataract genes in four breeds (Cockers, Goldens, Labs and
-Poodles) were tested.  However, there were no linkages found.
+Poodles) were tested.  However, there were no linkages found.

@@ -66,6 +66,6 @@ post-cataract surgery."
 
 **Publication:**
 
-Wilkie DA, Colitz CM. [Update on veterinary cataract
-surgery](http://www.ncbi.nlm.nih.gov/pubmed/19077830).  2009.  Curr Opin
+Wilkie DA, Colitz CM. [Update on veterinary cataract
+surgery](http://www.ncbi.nlm.nih.gov/pubmed/19077830).  2009.  Curr Opin
 Ophthalmol. Jan;20(1):61-8.

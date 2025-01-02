@@ -27,7 +27,7 @@ each parent. Their data supports a 'founder effect' for cataracts in
 each breed. To try to find the genetic marker for the disease,
 researchers did a genome-wide linkage analysis with microsatellite
 markers in each breed. This work has eliminated large portions of the
-genome for harboring the causative gene.  They believe that they were
+genome for harboring the causative gene.  They believe that they were
 able to identify one marker that is associated with juvenile cataracts
 in one extensive Samoyed pedigree. Further studies that the group was
 able to perform did not allow identification of any specific gene as the

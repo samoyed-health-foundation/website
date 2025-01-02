@@ -3,16 +3,16 @@ title: "AKCCHF grant #00305 complete"
 layout: single
 ---
 
-Samoyed enrollment for this study is closed.  SCARF wishes to thank the
-efforts of many Samoyed owners for contributing to this research study. 
+Samoyed enrollment for this study is closed.  SCARF wishes to thank the
+efforts of many Samoyed owners for contributing to this research study. 
 We are now anxiously awaiting the results of this research to share with
 you.
 
-**Autoimmune Disease:  Histocompatibility Alleles Conferring
+**Autoimmune Disease:  Histocompatibility Alleles Conferring
 Susceptibility to Canine Diabetes, Immune-Mediated Thyroiditis and
-Immune-Mediated Hemolytic Anemia \
+Immune-Mediated Hemolytic Anemia \
 **\
-**Sponsor(s): \
+**Sponsor(s): \
 **Alaskan Malamute Club of America, Inc., American Belgian Tervuren
 Club, Inc., American German Shepherd Dog Charitable Foundation, American
 Spaniel Club Health Foundation, Australian Terrier Club of America,
@@ -24,10 +24,10 @@ Charitable Foundation, Plum Creek Kennel Club of Colorado, Rottweiler
 Health Foundation, Samoyed Club of America Education & Research
 Foundation, Westie Foundation of America, Inc.
 
-**Researcher: \
+**Researcher: \
 **Wayne Potts, PhD, University of Utah
 
-**Abstract from the AKCCHF website:** \
+**Abstract from the AKCCHF website:** \
 \"Autoimmune diseases cause significant amounts of mortality and
 debilitating disease in dogs. In humans many autoimmune diseases occur
 only in individuals expressing one of the few predisposing

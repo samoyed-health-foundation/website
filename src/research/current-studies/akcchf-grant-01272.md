@@ -14,7 +14,7 @@ Broadly, there are two types of stem cells, those that can be isolated
 from embryos, or embryonic stem cells (ES), and those that can be
 obtained from adults. ES cells can make many cell types but cannot
 easily match the patient being treated as they can only be obtained from
-embryos.  Adult stem cells can be matched to the patient, but they are
+embryos.  Adult stem cells can be matched to the patient, but they are
 not as good as ES cells as they can only make some cell types.
 
 Recently, in mice and humans, stem cells were isolated called induced
@@ -40,7 +40,7 @@ several tissue types in vitro and in vivo."
 
 Publication:
 
-Sehwon K et al.  [Growth Requirements and Chromosomal Instability of
+Sehwon K et al.  [Growth Requirements and Chromosomal Instability of
 Induced Pluripotent Stem Cells Generated from Adult Canine
-Fibroblasts.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3585736/) 
-2012.  Stem Cells and Development 22: 951-963
+Fibroblasts.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3585736/) 
+2012.  Stem Cells and Development 22: 951-963

@@ -4,7 +4,7 @@ layout: single
 ---
 
 Dr. Deborah Guest, Animal Health Trust, Pilot Study, D12CA-803\
-Total Study Cost: \$11,286.  SCARF contributed \$3000.
+Total Study Cost: \$11,286.  SCARF contributed \$3000.
 
 Dogs suffer from many orthopedic, neurological and cardiovascular
 injuries and diseases that could be treated with cell replacement

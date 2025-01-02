@@ -5,7 +5,7 @@ layout: single
 
 Dr Gerlinde R Van de Walle, Ghent University, Belgium
 
-Total Cost : \$97,656.  SCARF contributed \$3000.
+Total Cost : \$97,656.  SCARF contributed \$3000.
 
 Mammary rumors are among the most common cancers in female dogs and
 cats. Surgical removal is the most widely accepted treatment option for

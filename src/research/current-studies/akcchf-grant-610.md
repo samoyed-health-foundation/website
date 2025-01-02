@@ -3,19 +3,19 @@ title: "AKCCHF grant #00610 (closed)"
 layout: single
 ---
 
-**Samoyed enrollment for this study is closed.  SCARF wishes to thank
+**Samoyed enrollment for this study is closed.  SCARF wishes to thank
 the efforts of many Samoyed owners for contributing to this research
-study.  **
+study.  **
 
-**Sponsors**: \
+**Sponsors**: \
 Samoyed Club of America Education & Research Foundation, Inc.,
 Australian Terrier Club of America, , San Joaquin Kennel Club
 
-**Researcher**: \
+**Researcher**: \
 Rebecka S. Hess, DVM, DACVIM, University of Pennsylvania School of
 Veterinary Medicine
 
-In a retrospective study  on diabetes mellitus (DM), Dr. Hess found that
+In a retrospective study  on diabetes mellitus (DM), Dr. Hess found that
 Samoyeds were 12 times more likely to develop DM than mixed dog breeds.
 ([**click here for
 abstract**](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=10800511&dopt=Abstract))
@@ -48,5 +48,5 @@ the possibility of long-range cis regulatory regions. Also, the DLA
 region could be more thoroughly explored, particularly in collaboration
 with Dr. Lorna Kennedy, who is studying this region in depth."
 
-For more information on diabetes, [click
+For more information on diabetes, [click
 here](/diseases/diabetes-mellitus).

@@ -5,8 +5,8 @@ layout: single
 
 **Nicola J Mason, BVetMed, PhD, University of Pennsylvania**
 
-This is an AKCCHF success story:  [Using Technology to Target
-Tumors ](http://www.akcchf.org/research/research-portfolio/1139.html)
+This is an AKCCHF success story:  [Using Technology to Target
+Tumors ](http://www.akcchf.org/research/research-portfolio/1139.html)
 
 **_Project Summary from AKCCHF.org website:_**
 
@@ -80,7 +80,7 @@ sequences."
 **_Publication:_**
 
 Braganza, A, Wallace, K, Pell, L, Parrish, Cr, Siegel, Dl and Mason, NJ
-(2011) [Generation and validation of canine single chain variable
+(2011) [Generation and validation of canine single chain variable
 fragment phage display
-libraries. ](http://www.ncbi.nlm.nih.gov/pubmed/20817275)Veterinary
+libraries. ](http://www.ncbi.nlm.nih.gov/pubmed/20817275)Veterinary
 Immunology and Immunopathology. 139, 27-40.

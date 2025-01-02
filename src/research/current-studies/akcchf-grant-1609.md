@@ -4,18 +4,18 @@ layout: single
 ---
 
 **Use of Probiotic VSL\# 3 to Reduce the Symptoms of Inflammatory Bowel
-Disease **\
- \
-Principal Investigator:  Dr. Albert E. Jergens, DVM, PhD \
-Institution:  Iowa State University \
- \
-Total Grant Amount:  \$97,416.  SCARF contributed \$2500.
+Disease **\
+ \
+Principal Investigator:  Dr. Albert E. Jergens, DVM, PhD \
+Institution:  Iowa State University \
+ \
+Total Grant Amount:  \$97,416.  SCARF contributed \$2500.
 
-**_Update:  [Research Progress Report Summary End Year 5, 11/13/2016](</files/AKCCHF 01609 EY5 Summary.pdf>)_**
+**_Update:  [Research Progress Report Summary End Year 5, 11/13/2016](</files/AKCCHF 01609 EY5 Summary.pdf>)_**
 
-**_Update:  [Research Progress Report Summary End-Year 4, 12/15/2015](</files/AKCCHF grant 01609 EY4 Summary.pdf>)_**\
- \
-**Project Abstract: **\
+**_Update:  [Research Progress Report Summary End-Year 4, 12/15/2015](</files/AKCCHF grant 01609 EY4 Summary.pdf>)_**\
+ \
+**Project Abstract: **\
 
 
 

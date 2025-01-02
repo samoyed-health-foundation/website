@@ -5,7 +5,7 @@ layout: single
 
 **Heather Chandler PhD, Ohio State University**
 
-This is an AKCCHF Success Story!  [Looking for a New Treatment for
+This is an AKCCHF Success Story!  [Looking for a New Treatment for
 Refractive Corneal
 Ulcers](http://www.akcchf.org/research/research-portfolio/0985.html)
 
@@ -42,6 +42,6 @@ healing time and overall comfort in dogs affected by refractory ulcers.
 Tetracycline can provide a safe, reliable, and cost effective treatment
 for this disease."
 
-**Publication: **
+**Publication: **
 
 Chandler HL, Gemensky-Metzler AJ, B

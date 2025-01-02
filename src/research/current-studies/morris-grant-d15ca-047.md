@@ -3,17 +3,17 @@ title: Morris Grant D15CA-047 (complete)
 layout: single
 ---
 
-**Scientific Title:  Niche Conditioning for Metastasis in Canine
+**Scientific Title:  Niche Conditioning for Metastasis in Canine
 Osteosarcoma**
 
 **Dr. Jaime F. Modiano, University of Minnesota**
 
 [**2016 update**](</files/D15CA-047 Oct 2016 update.pdf>)
 
-*Summary:*  Researchers will investigate how osteosarcoma  spreads, in
+*Summary:*  Researchers will investigate how osteosarcoma  spreads, in
 the hopes of finding new treatment targets.
 
-*Description:* Renegade cancer cells escape from virtually every tumor,
+*Description:* Renegade cancer cells escape from virtually every tumor,
 but only rare cells from certain tumor types survive, grow and spread
 (metastasize) to other parts of the body. In the case of bone cancer,
 this metastasis leads to death for virtually every patient. Researchers

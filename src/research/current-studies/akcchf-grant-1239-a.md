@@ -3,7 +3,7 @@ title: "AKCCHF grant #01239-A (closed)"
 layout: single
 ---
 
-**Final Report:**  Cryptorchidism, or retained testicles, is one of the
+**Final Report:**  Cryptorchidism, or retained testicles, is one of the
 common congenital problems in dogs. The testes of cryptorchids are more
 prone to testicular cancer and infertility. Hence cryptorchids and
 animals carrying genes for cryptorchidism should be eliminated from the

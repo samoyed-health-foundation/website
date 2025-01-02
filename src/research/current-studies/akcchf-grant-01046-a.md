@@ -3,7 +3,7 @@ title: "AKCCHF grant #01046-A (closed)"
 layout: single
 ---
 
-**Investigator: ** Sung Hyeok Hong, DVM PhD, National Cancer Institute
+**Investigator: ** Sung Hyeok Hong, DVM PhD, National Cancer Institute
 
 **_Project Summary from AKCCHF.org website:_**
 

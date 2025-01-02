@@ -3,11 +3,11 @@ title: "AKCCHF grant#01670-A Abstract"
 layout: single
 ---
 
-**AKCCHF grant \#01670-A:** Pinpointing the causal mutation(s)
+**AKCCHF grant \#01670-A:** Pinpointing the causal mutation(s)
 underlying a genome-wide association signal for hereditary cataract in
 Northern breeds\
 Grant Status: Closed\
-Grant Amount: \$12,960.  SCARF contributed \$2000.\
+Grant Amount: \$12,960.  SCARF contributed \$2000.\
 Dr. Sally L Ricketts, PhD, Animal Health Trust
 
 Sponsor(s): Alaskan Malamute Club of America, Inc.\

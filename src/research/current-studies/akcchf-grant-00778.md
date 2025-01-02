@@ -44,8 +44,8 @@ owners of dogs with OSA make informed treatment decisions."
 
 **Publication**
 
-Biller, B., Guth, A., Burton, J., Dow, S., 2010, [Decreased Ratio of
+Biller, B., Guth, A., Burton, J., Dow, S., 2010, [Decreased Ratio of
 CD8+ T Cells to Regulatory T Cells Associated with Decreased Survival in
 Dogs with
-Osteosarcoma.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3557512/) Journal
+Osteosarcoma.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3557512/) Journal
 of Veterinary Internal Medicine 24, 1118-1123.

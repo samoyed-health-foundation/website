@@ -3,16 +3,16 @@ title: "AKCCHF Grant #01584 Abstract"
 layout: single
 ---
 
-Conformation in Cranial Cruciate Ligament Deficiency in Dogs \
- \
-Principal Investigator:  Dr. Dominique J. Griffon, DVM PhD \
-Institution:  Western University of Health Sciences \
- \
-Total Grant Amount:  \$34,000.  SCARF contributed \$2500.
+Conformation in Cranial Cruciate Ligament Deficiency in Dogs \
+ \
+Principal Investigator:  Dr. Dominique J. Griffon, DVM PhD \
+Institution:  Western University of Health Sciences \
+ \
+Total Grant Amount:  \$34,000.  SCARF contributed \$2500.
 
-**_Update:  [Research Progress Report Final Summary 10/9/2015](</files/AKCCHF grant 01584 MY4 FINAL Summary.pdf>)_**
+**_Update:  [Research Progress Report Final Summary 10/9/2015](</files/AKCCHF grant 01584 MY4 FINAL Summary.pdf>)_**
 
-**Project Abstract: **\
+**Project Abstract: **\
 
 
 
@@ -34,7 +34,7 @@ calculate the \"CCLD conformation score\" of each limb and and blood
 will be collected to compare genes between dogs. We will evaluate the
 ability of the \"conformation score\" to correctly identify the status
 of each limb and will refine our discriminating ability through the use
-of genetic information.  This project will, for the first time, combine
+of genetic information.  This project will, for the first time, combine
 clinical and genetic diagnostic tools to investigate CCLD in a large
 population of dogs. These results will help us understand the
 relationship between genetics, body characteristics, and CCLD in

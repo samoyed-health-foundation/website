@@ -76,14 +76,14 @@ Glaucoma is a very painful condition and is difficult and expensive to treat and
 
 _(Many thanks to Dr. Gavin Kennard for answering dozens of questions and providing so much information on glaucoma in canines)._
 
-Ward, DVM, E. (n.d.). [Glaucoma in Dogs](https://vcahospitals.com/know-your-pet/glaucoma-in-dogs). Retrieved from https://vcahospitals.com/know-your-pet/ ![two bones rating](/img/2-bones.gif)
+Ward, DVM, E. (n.d.). [Glaucoma in Dogs](https://vcahospitals.com/know-your-pet/glaucoma-in-dogs). Retrieved from https://vcahospitals.com/know-your-pet/ ![two bones rating](/img/2-bones.gif)
 
 [Canine (not human) glaucoma](https://vmcli.com/canine-not-human-glaucoma/) by N LaCroix DVM at Veterinary Medical Center of Long Island. ![two bones rating](/img/2-bones.gif)
 
-Maggio, F. (2015). Glaucomas. Topics in Companion Animal Medicine, 30(3), 86-96. Accessed at doi:http://dx.doi.org.library.capella.edu/10.1053/j.tcam.2015.07.011 
+Maggio, F. (2015). Glaucomas. Topics in Companion Animal Medicine, 30(3), 86-96. Accessed at doi: <http://dx.doi.org.library.capella.edu/10.1053/j.tcam.2015.07.011>
 ![three bones rating](/img/3-bones.gif)
 
-Graham, K. L., McCowan, C., & White, A. (2016). [Genetic and biochemical biomarkers in canine glaucoma](https://doi.org/10.1177/0300985816666611). Veterinary Pathology, 54(2), 194-203. ![three bones rating](/img/3-bones.gif)
+Graham, K. L., McCowan, C., & White, A. (2016). [Genetic and biochemical biomarkers in canine glaucoma](https://doi.org/10.1177/0300985816666611). Veterinary Pathology, 54(2), 194-203. ![three bones rating](/img/3-bones.gif)
 
 Kato K, Sasaki N, Matsunaga S, Nishimura R, Ogawa H. (2006). [Incidence of canine glaucoma with Goniodysplasia in Japan : A retrospective study](https://pdfs.semanticscholar.org/55a3/5a0870cd3674e90f638b30e1d196b694e7f0.pdf). Journal of Veterinary Medical Science, 68(8), 853-858. ![three bones rating](/img/3-bones.gif)
 

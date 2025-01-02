@@ -5,7 +5,7 @@ layout: single
 
 **Dawn Merton Boothe, DVM PhD, Auburn University**
 
-**_Results from www.morrisanimalfoundation.org website:_**
+**_Results from www.morrisanimalfoundation.org website:_**
 
 Single Dose Extended Release Anticonvulsant Shows Promise.
 

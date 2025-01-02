@@ -48,9 +48,9 @@ response rate and remission times in dogs with DLBCL."
 
 **Publication:**
 
-Gaurnier-Hausser A, Patel R, Baldwin AS, May MJ, Mason NJ.  [NEMO
+Gaurnier-Hausser A, Patel R, Baldwin AS, May MJ, Mason NJ.  [NEMO
 Binding Domain peptide inhibits constitutive NF-kB activity and reduces
 tumor burden in a canine model of relapsed, refractory Diffuse large
 B-Cell
-Lymphoma.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3273413/) 2011.  
-Clin Cancer Res 17:  4661-4671.
+Lymphoma.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3273413/) 2011.  
+Clin Cancer Res 17:  4661-4671.

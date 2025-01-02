@@ -37,7 +37,7 @@ the spread of antibiotic resistance between bacteria."
 Publication:
 
 Solyman SM, Black CC, Duim B, Perreten V, van Duijkeren E, Wagenaar JA,
-Eberlein LC, Sadeghi LN,  Videla R, Bemis DA, and Kania SA. [Multilocus
+Eberlein LC, Sadeghi LN,  Videla R, Bemis DA, and Kania SA. [Multilocus
 Sequence Typing (MLST) for Characterization of Staphylococcus
-pseudintermedius.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3536184/) 
-2013.   J. Clin. Microbiol. 51:306-310.
+pseudintermedius.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3536184/) 
+2013.   J. Clin. Microbiol. 51:306-310.

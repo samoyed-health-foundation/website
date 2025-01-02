@@ -5,9 +5,9 @@ layout: single
 
 **Heather Chandler, PhD, Ohio State University**
 
-**Update!  [Final Summary Report](</files/AKCCHF 02146-A FINAL Summary.pdf>)**
+**Update!  [Final Summary Report](</files/AKCCHF 02146-A FINAL Summary.pdf>)**
 
-**Abstract from AKCCHF.org website:  **\
+**Abstract from AKCCHF.org website:  **\
 Cataracts are the most common cause of treatable blindness in dogs.
 Surgery is the only way to restore normal vision and although every
 effort is made to remove as much lens material as possible during

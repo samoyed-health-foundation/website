@@ -46,7 +46,7 @@ with remission length and overall survival. We hypothesize that it will.
 project and presented his work as a poster at the Merck Merial Summer
 Student Symposium in August 2009. Gilbert DM, Avery AC, Burnet RC, Lana
 SE. Merck Merial summer student symposium, Raleigh North Carolina,
-August 2009. *Measurement of minimal residual disease using real time
+August 2009. *Measurement of minimal residual disease using real time
 PCR in canine lymphoma*. Another poster with updated information was
 presented by a Hughes Undergraduate research student (Elizabeth Moses)
 at the Colorado State University Undergraduate Research Fair in April 2011. Ms Moses won an honorable mention award for her poster. We

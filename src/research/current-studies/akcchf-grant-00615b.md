@@ -5,7 +5,7 @@ layout: single
 
 **Jaime F Modiano, VMD PhD, \[\$2500 from AKCCHF Donor Advised fund\]**
 
-This is an AKCCHF Success Story! [Sniffing Out Lymphoma
+This is an AKCCHF Success Story! [Sniffing Out Lymphoma
 Genes](http://www.akcchf.org/research/research-portfolio/0706.html)
 
 **_Project Summary from AKCCHF.org website:_**
@@ -42,8 +42,8 @@ treatment."
 
 **Publication:**
 
-Thomas R et al.  [Refining tumor-associated aneuploidy through "genomic
+Thomas R et al.  [Refining tumor-associated aneuploidy through "genomic
 recoding" of recurrent DNA copy number aberrations in 150 canine
 non-Hodgkin
-lymphomas](http://informahealthcare.com/doi/abs/10.3109/10428194.2011.559802). 
-2011.  Leukemia & Lymphoma 52:  1321-1335.
+lymphomas](http://informahealthcare.com/doi/abs/10.3109/10428194.2011.559802). 
+2011.  Leukemia & Lymphoma 52:  1321-1335.

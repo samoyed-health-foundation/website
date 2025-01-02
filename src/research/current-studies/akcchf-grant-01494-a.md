@@ -5,7 +5,7 @@ layout: single
 
 _**Identifying the cause of drug resistance in canine lymphoma.**_
 
-**Bonnie L Boudreaux, DVM, Louisiana State University **\[$1000 from
+**Bonnie L Boudreaux, DVM, Louisiana State University **\[$1000 from
 AKCCHF donor advised fund]
 
 _**Abstract from AKCCHF.org website:**_

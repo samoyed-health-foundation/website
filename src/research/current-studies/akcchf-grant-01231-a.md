@@ -12,7 +12,7 @@ Dogs
 
 **Publication:**
 
-Varanat M, Maggi RG, Linder KE, Breitschwerdt EB.  [Molecular prevalence
+Varanat M, Maggi RG, Linder KE, Breitschwerdt EB.  [Molecular prevalence
 of Bartonella, Babesia, and hemotropic Mycoplasma sp. in dogs with
-splenic disease.](http://www.ncbi.nlm.nih.gov/pubmed/22092618) 2011.  J
+splenic disease.](http://www.ncbi.nlm.nih.gov/pubmed/22092618) 2011.  J
 Vet Intern Med 25: 1284-1291.

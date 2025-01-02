@@ -12,13 +12,13 @@ Hereditary Cataracts in Northern Breeds
 
 **Original Project Description:**
 
-**Background:** Hereditary cataracts (HC) are a leading cause of
+**Background:** Hereditary cataracts (HC) are a leading cause of
 blindness in dogs and thus represent a significant health and welfare
 burden to many breeds of dog. The work outlined in this proposal aims to
 identify the genetic cause of HC in Northern breeds, a closely related
 group of breeds that collectively suffer a high incidence of HC.
 
-**Objective:** A successful outcome of the project will enable the
+**Objective:** A successful outcome of the project will enable the
 researchers to develop diagnostic DNA tests that breeders can use to
 determine whether their dogs are affected with HC and whether they will
 pass the condition onto their offspring. DNA tests enable carrier and

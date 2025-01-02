@@ -9,7 +9,7 @@ Immunotherapy Targeting Canines with Spontaneous B-cell Lymphoma
 (Harnessing a Dog's Own Immune System to Kill Lymphoma Tumor Cells)**
 
 Grant Status: Closed\
-Grant Amount: $150,000.  SCARF contributed $2500.\
+Grant Amount: $150,000.  SCARF contributed $2500.\
 Dr. Heather M. Wilson, DVM, Texas A&M Research Foundation
 
 Disease(s): Lymphoma
@@ -43,7 +43,7 @@ basically untreatable.
 
 O'Connor CM, Sheppard S, Hartline CA, Huls H, Johnson M, Palla SL,
 Maiti S, Ma W, Davis RE, Craig S, Lee DA, Champlin R, Wilson H, Cooper
-LJ. [Adoptive T-cell therapy improves treatment of canine non-Hodgkin
+LJ. [Adoptive T-cell therapy improves treatment of canine non-Hodgkin
 lymphoma post
 chemotherapy](http://www.ncbi.nlm.nih.gov/pubmed/22355761). Sci Rep.
 2012;2:24

@@ -49,12 +49,12 @@ additional cost to AKCCHF."
 **Publications:**
 
 Shoeneman JK, Ehrhart III EJ, Eickhoff JC, Charles JB, Powers BE, ThamM
-DH.  [Expression and Function of Survivin in Canine
-Osteosarcoma.](http://cancerres.aacrjournals.org/content/72/1/249.long) 
-2011.  Cancer Res 72: 249-259.
+DH.  [Expression and Function of Survivin in Canine
+Osteosarcoma.](http://cancerres.aacrjournals.org/content/72/1/249.long) 
+2011.  Cancer Res 72: 249-259.
 
-Rebhun RB, Lana SE, Ehrheart EJ, Thamm DH.  [Comparative analysis of
+Rebhun RB, Lana SE, Ehrheart EJ, Thamm DH.  [Comparative analysis of
 surviving expression in untreated and relapsed canine
-lymphoma.](http://www.ncbi.nlm.nih.gov/pubmed/18647159)  2008.  J Vet
+lymphoma.](http://www.ncbi.nlm.nih.gov/pubmed/18647159)  2008.  J Vet
 Intern Med 22: 989-995.
 

@@ -20,7 +20,7 @@ We are making good progress towards these goals as evidenced by the
 following: We have collected samples from a representative heterogeneous
 population of 18 IBD dogs for comparison to 6 healthy dog tissues. We
 have carefully extracted the genetic material (RNA) from endoscopic
-samples which will be used in our gene profiling studies.  We have now
+samples which will be used in our gene profiling studies.  We have now
 evaluated gene expression profiles in the normal versus diseased dog
 groups using sophisticated statistical modeling to help us 'tease out'
 gene expression patterns which discern healthy versus diseased
@@ -28,7 +28,7 @@ intestinal tissues. It is our expectation to identify specific genes
 which serve as biomarkers for diagnosing canine IBD and for monitoring
 the effects of therapy. We have now identified a grouping of 17
 'marker' genes that may be more critically assessed in future
-studies.  We have noted that IBD dogs show differences in intestinal
+studies.  We have noted that IBD dogs show differences in intestinal
 gene expression as compared to healthy dogs; and these differences in
 expression may help to explain the mechanisms of chronic inflammation in
 affected dogs. We have preliminary evidence that changes in the
@@ -46,13 +46,13 @@ expression patterns using the gene chips are accurate.\"
 **Publications:**
 
 Suchodolski JS, Xenoulis PG, Paddock CG, Steiner JM and Jergens AE
-(2010) [Molecular analysis of the bacterial microbiota in duodenal
+(2010) [Molecular analysis of the bacterial microbiota in duodenal
 biopsies from dogs with idiopathic inflammatory bowel
 disease.](http://www.ncbi.nlm.nih.gov/pubmed/19959301)Veterinary
 Microbiology. 142, 394-400.
 
-Suchodolski JS, Dowd SE, Wilke V, Steiner JM, Jergens AE.  [16S rRNA
+Suchodolski JS, Dowd SE, Wilke V, Steiner JM, Jergens AE.  [16S rRNA
 Gene Pyrosequencing Reveals Bacterial Dysbiosis in the Duodenum of Dogs
 with Idiopathic Inflammatory Bowel
-Disease.](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0039333) 
-2012.  PLoS One 7(6):e39333
+Disease.](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0039333) 
+2012.  PLoS One 7(6):e39333

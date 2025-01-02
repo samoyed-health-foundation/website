@@ -41,7 +41,7 @@ section.single > div > p {
 }
 
 .single ul {
-  @apply space-y-4 list-disc list-inside text-lg font-normal text-gray-500 dark:text-gray-400;
+  @apply mb-8 space-y-4 list-disc list-inside text-lg font-normal text-gray-500 dark:text-gray-400;
 }
 
 .single ol {

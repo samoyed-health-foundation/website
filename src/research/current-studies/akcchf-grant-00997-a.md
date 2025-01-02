@@ -28,7 +28,7 @@ transmission between dogs."
 
 **Publication**
 
-Ledbetter EC. Hornbuckle WE, Dubovi EJ, 2009, [Virologic survey of dogs
+Ledbetter EC. Hornbuckle WE, Dubovi EJ, 2009, [Virologic survey of dogs
 with naturally acquired idiopathic
-conjunctivitis.](http://www.ncbi.nlm.nih.gov/pubmed/19827980) Journal of
+conjunctivitis.](http://www.ncbi.nlm.nih.gov/pubmed/19827980) Journal of
 the American Veterinary Medical Association 235, 954-959.
