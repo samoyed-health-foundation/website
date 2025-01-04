@@ -1,8 +1,0 @@
-User-agent: *
-Disallow: /404.html
-Disallow: /admin
-Disallow: /categories
-Disallow: /page
-Disallow: /tags
-Disallow: /team
-Sitemap: https://www.samoyedhealthfoundation.org/sitemap.xml
