@@ -28,6 +28,7 @@ collections:
       preview: false
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Layout", name: "layout", widget: "string", default: "single"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "breeders" # Used in routes, e.g., /admin/collections/blog
     label: "Breeders Pages" # Used in the UI
@@ -40,6 +41,7 @@ collections:
       preview: false
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Layout", name: "layout", widget: "string", default: "single"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "databases" # Used in routes, e.g., /admin/collections/blog
     label: "Databases Pages" # Used in the UI
@@ -52,6 +54,7 @@ collections:
       preview: false
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Layout", name: "layout", widget: "string", default: "single"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "diseases" # Used in routes, e.g., /admin/collections/blog
     label: "Diseases" # Used in the UI
@@ -64,6 +67,7 @@ collections:
       preview: false
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Layout", name: "layout", widget: "string", hint: "'single', 'search' (has search bar), or 'disease' (has bone ratings summary at bottom)", default: "disease"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "owners" # Used in routes, e.g., /admin/collections/blog
     label: "Owners Pages" # Used in the UI
@@ -76,6 +80,7 @@ collections:
       preview: false
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Layout", name: "layout", widget: "string", default: "single"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "research" # Used in routes, e.g., /admin/collections/blog
     label: "Research Pages" # Used in the UI
@@ -88,6 +93,7 @@ collections:
       preview: false
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Layout", name: "layout", widget: "string", default: "single"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "research-collections" # Used in routes, e.g., /admin/collections/blog
     label: "Research Collections" # Used in the UI
@@ -100,6 +106,7 @@ collections:
       preview: false
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Layout", name: "layout", widget: "string", default: "single"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "research-studies" # Used in routes, e.g., /admin/collections/blog
     label: "Research Studies" # Used in the UI
@@ -112,6 +119,7 @@ collections:
       preview: false
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Layout", name: "layout", widget: "string", default: "single"}
       - {label: "Body", name: "body", widget: "markdown"}
 
   # TODO: Bring over blog posts from old site?
