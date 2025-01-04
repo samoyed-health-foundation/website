@@ -4,34 +4,7 @@ title: Contact Us
 path: contact-us
 ---
 
-<section
-  class="bg-gradient-to-r from-purple-800 via-purple-600 to-purple-800 relative"
->
-  <div class="px-4 mx-auto max-w-screen-xl pt-10 pb-20 lg:pt-14">
-    <h1
-      class="mb-4 text-5xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl tracking-tighter text-center"
-    >
-      {{ title }}
-    </h1>
-  </div>
-
-  <!-- Wavy SVG -->
-  <div
-    class="absolute bottom-0 left-0 w-full -mb-1 overflow-hidden leading-[0] dark:text-gray-900 text-white"
-  >
-    <svg
-      class="relative block w-full h-20"
-      xmlns="http://www.w3.org/2000/svg"
-      viewBox="0 0 1200 120"
-      preserveAspectRatio="none"
-    >
-      <path
-        d="M0,0 C150,100 350,100 600,50 C850,0 1050,0 1200,50 L1200,120 L0,120 Z"
-        fill="currentColor"
-      ></path>
-    </svg>
-  </div>
-</section>
+{% include "./_includes/partials/title.html" %}
 
 <section>
   <div class="mx-auto max-w-screen-lg px-4">
