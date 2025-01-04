@@ -17,7 +17,7 @@ try {
     apiKey: process.env.ALGOLIA_ADMIN_KEY,
     indexName: process.env.ALGOLIA_INDEX_NAME
   };
-  const settings = { searchableAttributes: ['section'] };
+  const settings = { searchableAttributes: ['title'] };
   indexing.verbose();
   await indexing.fullAtomic(credentials, records, settings);
   console.log('Algolia index updated successfully');
