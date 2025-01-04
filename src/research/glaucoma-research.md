@@ -1,5 +1,6 @@
 ---
 title: Glaucoma Research
+layout: single
 ---
 The University of Missouri is currently conducting a genetic marker study on glaucoma.
 
