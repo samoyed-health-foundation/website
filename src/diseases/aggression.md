@@ -1,5 +1,6 @@
 ---
 title: Aggression
+layout: disease
 ---
 > **Note:** We do not currently have a health liaison for this disorder.
 > If you would like to volunteer, please contact
