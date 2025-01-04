@@ -55,7 +55,7 @@ section.single details {
 }
 
 .single ol {
-  @apply ps-5 mt-2 mb-8 space-y-4 list-decimal list-inside;
+  @apply ps-5 mt-2 mb-8 space-y-4 list-decimal list-inside text-lg font-normal text-gray-500 dark:text-gray-400;
 }
 
 .single hr {
