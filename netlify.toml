@@ -1,16 +1,18 @@
 [build]
+  publish = "_site"
   command = "npm run build && npm run algolia"
-  publish = "dist"
 
 [context.deploy-preview]
-  command = "npm run build:preview"
+  command = "npm run build"
 
+# Redirect .com to .org for www subdomain
 [[redirects]]
   from = "https://www.samoyedhealthfoundation.com/*"
   to = "https://www.samoyedhealthfoundation.org/:splat"
   status = 301
   force = true
 
+# Redirect .com to .org for top-level domain
 [[redirects]]
   from = "https://samoyedhealthfoundation.com/*"
   to = "https://www.samoyedhealthfoundation.org/:splat"

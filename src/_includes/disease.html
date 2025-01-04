@@ -1,0 +1,26 @@
+---
+layout: default
+date: Last Modified
+---
+
+{% include "./partials/title.html" %}
+
+<section class="single">
+  <div class="mx-auto max-w-screen-xl px-4">
+    {{ content | safe }}
+
+    <!-- Explanation of dog bone ratings -->
+    <hr class="h-px my-8 bg-gray-200 border-0 dark:bg-gray-700" />
+    <blockquote>
+      <p>
+        <img src="/img/1-bone.gif" alt="1 bone" />
+        <img src="/img/2-bones.gif" alt="2 bones" />
+        <img src="/img/3-bones.gif" alt="3 bones" />
+        <img src="/img/4-bones.gif" alt="4 bones" />
+        <a href="/diseases/ratings-what-do-they-mean"
+          >(full description of ratings)</a
+        >
+      </p>
+    </blockquote>
+  </div>
+</section>

@@ -1,0 +1,16 @@
+---
+items:
+  - text: About
+    url: "/about"
+  - text: Owners
+    url: "/owners"
+  - text: Breeders
+    url: "/breeders"
+  - text: Research
+    url: "/research"
+  - text: Diseases
+    url: "/diseases"
+  - text: Databases
+    url: "/databases"
+  # - text: Blog
+  #   url: "/blog"

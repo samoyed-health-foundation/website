@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="googlebot" content="index,follow,snippet,archive" />
+    <meta name="robots" content="all,follow" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{title}}</title>
+    {% if description %}
+    <meta name="description" content="{{description}}" />
+    {% endif %} {% block head %}{% endblock %}
+    <link rel="stylesheet" type="text/css" href="/css/style.css" />
+    <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="/img/apple-touch-icon.png" />
+    {% if path == "home" %}
+    <!-- Netlify Identity Widget -->
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    {% endif %}
+    <!-- Font Awesome -->
+    <link href="/css/fontawesome.css" rel="stylesheet" />
+    <link href="/css/brands.css" rel="stylesheet" />
+    <link href="/css/solid.css" rel="stylesheet" />
+    <link href="/css/custom.css" rel="stylesheet" />
+
+    <!-- Algolia -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/instantsearch.css@8.5.1/themes/reset-min.css"
+      integrity="sha256-KvFgFCzgqSErAPu6y9gz/AhZAvzK48VJASu3DpNLCEQ="
+      crossorigin="anonymous"
+    />
+  </head>
+  <body class="bg-white dark:bg-gray-900">
+    {% include "./partials/navbar.html" %} {{ content | safe }} {% include
+    "./partials/footer.html" %}
+
+    <script src="/static/js/alpine.js"></script>
+
+    {% if path == "home" %}
+    <!-- Netlify Identity Widget -->
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", (user) => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
+    {% endif %}
+
+    <script src="https://cdn.jsdelivr.net/npm/flowbite@2.5.2/dist/flowbite.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/feather-icons@4.29.2/dist/feather.min.js"></script>
+    <script>
+      feather.replace();
+    </script>
+
+    <!-- Algolia search -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/algoliasearch@4.24.0/dist/algoliasearch-lite.umd.js"
+      integrity="sha256-b2n6oSgG4C1stMT/yc/ChGszs9EY/Mhs6oltEjQbFCQ="
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.75.6/dist/instantsearch.production.min.js"
+      integrity="sha256-DuvNCzkn3zdi0M6ISr57tX37YCcb7ezs9WK3lqUEe3Q="
+      crossorigin="anonymous"
+    ></script>
+
+    <script>
+      const searchInput = document.getElementById("searchbox");
+
+      if (searchInput) {
+        const hitsContainer = document.getElementById("hits");
+        const searchClient = algoliasearch(
+          "G83DE3N7W7",
+          "bcd13ea64e870f8094e34cabdc485a08",
+        );
+
+        let debounceTimeout;
+        const search = instantsearch({
+          indexName: "samoyedhealthfoundation.org",
+          searchClient,
+          searchFunction(helper) {
+            clearTimeout(debounceTimeout);
+
+            debounceTimeout = setTimeout(() => {
+              if (helper.state.query) {
+                hitsContainer.classList.remove("hidden");
+                helper.search();
+              } else {
+                hitsContainer.classList.add("hidden");
+              }
+            }, 300); // milliseconds
+          },
+        });
+
+        search.addWidgets([
+          instantsearch.widgets.configure({
+            hitsPerPage: 10,
+            facetFilters: ["section:diseases"],
+          }),
+
+          instantsearch.widgets.searchBox({
+            container: "#searchbox",
+            placeholder: "Search all diseases...",
+            showReset: false,
+            showSubmit: false,
+          }),
+
+          instantsearch.widgets.hits({
+            container: "#hits",
+            templates: {
+              item(hit) {
+                return `
+              <div class="p-4 border-b border-gray-200 dark:border-gray-700">
+                <a href="${hit.url}" class="text-lg font-medium text-purple-700 hover:underline">
+                  ${hit._highlightResult.title.value}
+                </a>
+                <p class="text-sm text-gray-600 dark:text-gray-400">${hit._highlightResult.description?.value || ""}</p>
+              </div>
+            `;
+              },
+              empty: `<div class="p-4">No results found.</div>`,
+            },
+          }),
+        ]);
+
+        search.start();
+
+        searchInput.addEventListener("input", (e) => {
+          search.helper.setQuery(e.target.value).search();
+        });
+      }
+    </script>
+  </body>
+</html>
