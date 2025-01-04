@@ -8,7 +8,7 @@ backend:
 publish_mode: editorial_workflow
 
 # the folder path where uploaded files should be saved, relative to the base of the repo.
-media_folder: "src/files"
+media_folder: "src/static/files"
 
 # the folder path where the files uploaded by the media library will be accessed, relative to the base of the built site.
 public_folder: "/files"
@@ -17,41 +17,106 @@ display_url: "https://www.samoyedhealthfoundation.org"
 logo_url: "https://www.samoyedhealthfoundation.org/img/logo.png"
 
 collections:
-  # TODO: Consider using collections for certain pages?
-  # - label: "Owners Pages" # Used in the UI
-  #   name: "owners" # Used in routes, e.g., /admin/collections/blog
-  #   label_singular: "Owners Page"
-  #   folder: "src/owners" # The path to the folder where the documents are stored
-  #   create: true # Allow users to create new documents in this collection
-  #   extension: "md"
-  #   slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-  #   editor:
-  #     preview: false
-  #   fields: # The fields for each document, usually in front matter
-  #     - {label: "Title", name: "title", widget: "string"}
-  #     - {label: "Body", name: "body", widget: "markdown"}
+  - name: "general" # Used in routes, e.g., /admin/collections/blog
+    label: "General Pages" # Used in the UI
+    label_singular: "General Page"
+    folder: "src" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    extension: "md"
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    editor:
+      preview: false
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "breeders" # Used in routes, e.g., /admin/collections/blog
+    label: "Breeders Pages" # Used in the UI
+    label_singular: "Breeders Page"
+    folder: "src/breeders" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    extension: "md"
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    editor:
+      preview: false
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "databases" # Used in routes, e.g., /admin/collections/blog
+    label: "Databases Pages" # Used in the UI
+    label_singular: "Databases Page"
+    folder: "src/databases" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    extension: "md"
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    editor:
+      preview: false
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "diseases" # Used in routes, e.g., /admin/collections/blog
+    label: "Diseases" # Used in the UI
+    label_singular: "Disease"
+    folder: "src/diseases" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    extension: "md"
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    editor:
+      preview: false
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "owners" # Used in routes, e.g., /admin/collections/blog
+    label: "Owners Pages" # Used in the UI
+    label_singular: "Owners Page"
+    folder: "src/owners" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    extension: "md"
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    editor:
+      preview: false
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "research" # Used in routes, e.g., /admin/collections/blog
+    label: "Research Pages" # Used in the UI
+    label_singular: "Research Page"
+    folder: "src/research" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    extension: "md"
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    editor:
+      preview: false
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "research-collections" # Used in routes, e.g., /admin/collections/blog
+    label: "Research Collections" # Used in the UI
+    label_singular: "Research Collection"
+    folder: "src/research/research-study-collection-clinics" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    extension: "md"
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    editor:
+      preview: false
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "research-studies" # Used in routes, e.g., /admin/collections/blog
+    label: "Research Studies" # Used in the UI
+    label_singular: "Research Study"
+    folder: "src/research/current-studies" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    extension: "md"
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    editor:
+      preview: false
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
 
   # TODO: Bring over blog posts from old site?
   # Might not be worth it because they're stale and Facebook seems like a better place for those.
-  # If we want them, see https://github.com/surjithctly/neat-starter for blog/post examples and the ab29ac28 ("Remove unused blog") commit in this repo.
-  # - label: "Blog"
-  #   name: "blog"
-  #   folder: "src/posts"
-  #   create: true
-  #   editor:
-  #     preview: false
-  #   fields:
-  #     - { label: "Title", name: "title", widget: "string" }
-  #     - { label: "Description", name: "description", widget: "string" }
-  #     - { label: "Author", name: "author", widget: "string" }
-  #     - { label: "Publish Date", name: "date", widget: "datetime" }
-  #     - { label: "Body", name: "body", widget: "markdown" }
-  #     - widget: select
-  #       label: "tags"
-  #       name: "tags"
-  #       multiple: true
-  #       create: true
-  #       options: ["Tags", "created", "from", "config.yml"]
+  # If we want them, see https://github.com/surjithctly/neat-starter for blog/post examples and the 91831dfe ("Remove unused blog") commit in this repo.
 
   - label: "Settings"
     name: "settings"
@@ -63,6 +128,7 @@ collections:
         file: "src/_data/navigation.yaml"
         fields:
           - label: Nav Items
+            label_singular: Nav Item
             name: items
             widget: list
             allow_add: false
@@ -75,7 +141,8 @@ collections:
         name: "people"
         file: "src/_data/board_of_directors.yaml"
         fields:
-          - label: Person
+          - label: People
+            label_singular: Person
             name: people
             widget: list
             allow_add: true
@@ -92,6 +159,7 @@ collections:
         file: "src/_data/scarf_faqs.yaml"
         fields:
           - label: FAQs
+            label_singular: FAQ
             name: faqs
             widget: list
             allow_add: true
@@ -105,6 +173,7 @@ collections:
         file: "src/_data/database_faqs.yaml"
         fields:
           - label: FAQs
+            label_singular: FAQ
             name: faqs
             widget: list
             allow_add: true
