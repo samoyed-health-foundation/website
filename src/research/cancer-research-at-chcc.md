@@ -1,5 +1,6 @@
 ---
 title: Cancer Research at CHCC
+layout: single
 ---
 The Canine Hereditary Cancer Consortium includes researchers from a number of universities, research institutes and companies.  The Consortium received a Federally funded grant through the National Institutes of Health/National Cancer Institute to study five types of cancer that occur in both dogs and humans. The ultimate goal is to develop improved diagnostics and more individualized therapies for both canines and people.
 
