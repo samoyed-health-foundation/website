@@ -9,6 +9,6 @@ eleventyExcludeFromCollections: true
     "title": {{ p.data.title | default: "undefined" | jsonify }},
     "date": {{ p.date | jsonify }},
     "wordcount": {{ p.content | number_of_words | jsonify }},
-    "summary": {{ p.content | strip_html | strip_newlines | normalize_whitespace | truncate:500 | jsonify }}
+    "summary": {{ p.content | strip_html | strip_newlines | normalize_whitespace | truncate:5000 | jsonify }}
   }{% unless forloop.last %},{% endunless %}{% endfor %}
 ]
