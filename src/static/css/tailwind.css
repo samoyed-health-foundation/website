@@ -43,6 +43,18 @@ section.single details {
 
 .single a {
   @apply text-purple-600 dark:text-purple-500 hover:underline font-medium text-lg inline-flex items-center;
+
+  /* https://css-tricks.com/snippets/css/prevent-long-urls-from-breaking-out-of-container/ */
+  /* Tailwind classes weren't enough, but css-tricks worked */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  -ms-word-break: break-all;
+  word-break: break-all;
+  word-break: break-word;
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
 }
 
 .single ul {
