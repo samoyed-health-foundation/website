@@ -22,11 +22,6 @@ jobs:
 
       - run: npm run build
 
-      - name: Build
-        uses: lycheeverse/lychee-action@v2
-        with:
-          args: "--cache --max-cache-age 1d --no-progress --accept '200..=204, 403, 429' --suggest --root-dir $(pwd)/_site _site/"
-
       - name: Restore lychee cache
         uses: actions/cache@v4
         with:
