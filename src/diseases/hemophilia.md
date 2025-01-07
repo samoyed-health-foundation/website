@@ -43,7 +43,7 @@ This paper is a good review of canine bleeding disorders:
 [Brooks M. 1999. A review of canine inherited bleeding disorders:
 Biochemical and Molecular Strategies for Disease Characterization and
 Carrier
-Detection.](http://jhered.oxfordjournals.org/content/90/1/112.full.pdf)
+Detection.](https://academic.oup.com/jhered/article-abstract/90/1/112/2187160?redirectedFrom=PDF)
 Journal of Heredity 90: 112-118.
 ![2 bones](/img/2-bones.gif)
 

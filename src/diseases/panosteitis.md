@@ -112,5 +112,5 @@ rating](/img/4-bones.gif)
 <http://www.vetinfo.com/dencyclopedia/depano.html> ![2
 bones](/img/2-bones.gif)
 
-<http://www.vetinfo4dogs.com/dpano.html> ![2
+<https://www.vetinfo4dogs.com/dpano.html> ![2
 bones](/img/2-bones.gif)

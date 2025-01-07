@@ -134,7 +134,7 @@ respond to it. ]
 production of cortisol. It typically has fewer side effects than
 lysodren. Note: The FDA approved the use of Trilostane on May 11,
 2009 and this should help with availability. Per a [letter to
-veterinarians](http://www.fda.gov/AnimalVeterinary/SafetyHealth/ProductSafetyInformation/ucm182038.htm)
+veterinarians](https://web.archive.org/web/20210411010108/https://www.fda.gov/animal-veterinary/product-safety-information/vetoryl-trilostane-capsules-veterinarians)
 from the FDA, "Now that VETORYL is approved and available for
 veterinary use in the U.S., trilostane should not be imported from other
 countries or compounded from bulk."

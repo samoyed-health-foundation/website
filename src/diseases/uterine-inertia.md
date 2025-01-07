@@ -130,7 +130,7 @@ rating](/img/4-bones.gif)
    to whelping and pregnancy in this online seminar ![2
 bones](/img/2-bones.gif)
 4. [Handbook of Veterinary
-   Obstetrics](http://www.sciencedirect.com/science/book/9780702027406),
+   Obstetrics](https://www.sciencedirect.com/book/9780702027406/handbook-of-veterinary-obstetrics),
    2nd edition, 2004 By Peter G. G. Jackson Textabook ![four bones
 rating](/img/4-bones.gif)
 

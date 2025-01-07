@@ -126,7 +126,7 @@ review of PHA ![3 bones](/img/3-bones.gif)
 
 Dusse LM, Morais E Silva RM, Freitas VM, Medeiros de Paula GM, Vieira
 LM, Carvalho MG. [Pseudo-Pelger-Huët in kidney-transplanted
-patients](https://www.karger.com/Article/Abstract/95879).
+patients](https://karger.com/aha/article-abstract/116/4/272/13598/Pseudo-Pelger-Huet-in-Kidney-Transplanted-Patients?redirectedFrom=fulltext).
 Acta Haematol. 2006;116(4):272-4. -- Excellent paper on pseudo PHA
 (changes in blood cells that are similar to changes seen in inherited
 PHA) in Kidney transplant patients. Good frontispiece descriptions of

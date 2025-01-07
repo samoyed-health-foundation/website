@@ -18,13 +18,13 @@ layout: single
 
 - [Complementary, Alternative, and Holistic Veterinary Medicine](http://www.altvetmed.org/)
 
-- [International Veterinary Acupuncture Society](http://www.ivas.org/) and [How to Locate a Practitioner](https://www.ivas.org/members-only-section/ivas-partners/)
+- [International Veterinary Acupuncture Society](https://www.ivas.org/) and [How to Locate a Practitioner](https://www.ivas.org/members-only-section/ivas-partners/)
 
 - [American Veterinary Chiropractic Association](http://www.avcadoctors.com/) and [How to Locate a Practitioner](https://www.animalchiropractic.org/find-a-doctor/)
 
 # Vaccination Information
 
-- [2022 AAHA Canine Vaccine Guidelines](http://www.aaha.org/resources/2022-aaha-canine-vaccination-guidelines/)
+- [2022 AAHA Canine Vaccine Guidelines](https://www.aaha.org/resources/2022-aaha-canine-vaccination-guidelines/)
 
 - [New Vaccine Protocols](http://community.dog.com/f/29543/t/80008.aspx) by Dr. Bob Rogers, DVM
 

@@ -52,14 +52,14 @@ Read all about this exciting research in Dr. Doré's publications that
 were supported by AKCCHF grants #02222 and #00366:
 
 Dore M et al. [Cyclooxygenase-2 Expression in Canine Mammary
-Tumors](http://vet.sagepub.com/content/40/2/207.full). 2003.
+Tumors](https://vet.sagepub.com/content/40/2/207.full). 2003.
 Veterinary Pathology 40: 207-212.
 
 Brunell M, Sartin EA, Wolfe LG, Sirois J & Dore M. [Cyclooxygenase-2
 Expression in Normal and Neoplastic Canine Mammary Cell
-Lines](http://vet.sagepub.com/content/43/5/656.long). 2006. Veterinary
+Lines](https://vet.sagepub.com/content/43/5/656.long). 2006. Veterinary
 Pathology 43:656-666.
 
 Dore M. [Cyclooxygenase-2 Expression in Animal
-Cancers](http://vet.sagepub.com/content/48/1/254.long). 2011.
+Cancers](https://vet.sagepub.com/content/48/1/254.long). 2011.
 Veterinary Pathology 48:254-265.

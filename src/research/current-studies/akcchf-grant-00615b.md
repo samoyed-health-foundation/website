@@ -42,8 +42,7 @@ treatment."
 
 **Publication:**
 
-Thomas R et al.  [Refining tumor-associated aneuploidy through "genomic
+Thomas R et al. [Refining tumor-associated aneuploidy through "genomic
 recoding" of recurrent DNA copy number aberrations in 150 canine
 non-Hodgkin
-lymphomas](http://informahealthcare.com/doi/abs/10.3109/10428194.2011.559802). 
-2011.  Leukemia & Lymphoma 52:  1321-1335.
+lymphomas](https://www.tandfonline.com/doi/abs/10.3109/10428194.2011.559802). 2011. Leukemia & Lymphoma 52: 1321-1335.

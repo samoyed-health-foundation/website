@@ -103,7 +103,7 @@ being castrated but these seem to be the exception rather than the rule.
 Memon M and Tibary A. 2001. Canine and Feline Cryptorchidism. In
 Recent Advances in Small Animal Reproduction. International
 Veterinary Information Service.
-<http://www.ivis.org/advances/Concannon/memon/ivis.pdf>
+<https://www.ivis.org/advances/Concannon/memon/ivis.pdf>
 ![3 bones](/img/3-bones.gif)
 
 ## Support Groups

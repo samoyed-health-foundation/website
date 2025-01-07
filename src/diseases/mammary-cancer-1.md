@@ -148,7 +148,7 @@ after one estrus cycle reduces the risk to 8%.
 
 [Hellmen E et al. _Prognostic Factors in Canine Mammary Tumors: a
 Multivariate Study of 202 Consecutive Cases._ Vet Pathol 1993.
-30:20-27](http://vet.sagepub.com/content/30/1/20.short).
+30:20-27](https://vet.sagepub.com/content/30/1/20.short).
 ![three bones
 rating](/img/3-bones.gif)
 

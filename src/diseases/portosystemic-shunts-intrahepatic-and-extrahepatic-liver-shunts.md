@@ -91,7 +91,7 @@ There are many papers on liver shunts PubMed has in excess of 700. There are als
 • Van den Bossche L et al. 2018. [Genome‐wide based model predicting recovery from portosystemic shunting after liver shunt attenuation in dogs.](<https://onlinelibrary.wiley.com/doi/full/10.1111/jvim.15140 >) J Vet Int Med 32:1343-1352. ![three bones
 rating](/img/3-bones.gif)
 
-• Van den Bossche L, Steenbeek FG. 2016. [Canine congenital portosystemic shunts: Disconnections dissected](https://www.sciencedirect.com/science/article/pii/S1090023315003950). The Veterinary Journal 211:14-20. ![three bones
+• Van den Bossche L, Steenbeek FG. 2016. [Canine congenital portosystemic shunts: Disconnections dissected](https://www.sciencedirect.com/science/article/abs/pii/S1090023315003950). The Veterinary Journal 211:14-20. ![three bones
 rating](/img/3-bones.gif)
 
 • Berent A & Weisse C. 2007. [Portosystemic Shunts and Portal Venous Hypoplasia. ](http://vetnetinfo.com/tudasbazis/files/2016/02/Portosystemic-Shunts-and-Portal-Venous-Hypoplasia-2007.pdf) Compendiums Standards of Care Emergency and Critical Care Medicine 9.3: 1-11. ![three bones

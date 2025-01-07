@@ -92,7 +92,7 @@ chemotherapy are not helpful. Prognosis is guarded in any case.
 ## References
 
 [Dennis MM et al, 2008. Hyalinizing Pancreatic Adenocarcinoma in Six
-Dogs.](http://vet.sagepub.com/content/45/4/475.full)
+Dogs.](https://vet.sagepub.com/content/45/4/475.full)
 Veterinary Pathology 45: 475-483. ![three bones
 rating](/img/3-bones.gif)
 

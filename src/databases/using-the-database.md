@@ -84,9 +84,9 @@ form and a 3-generation pedigree to the bank (DOGenes, Inc.). The Scarf
 Treasurer will be notified by the Bank that you have returned the kit
 and it is complete. The SCA Education and Research Foundation, Inc.
 Treasurer will then re-reimburse you for the DNA bank kit(s).
-The [Treasurer's contact information](/team/our-team) and
+The [Treasurer's contact information](/about) and
 further [information on DNA Banking](/databases/q-and-a) can
-be found at [http://www.samoyedhealthfoundation.org](/).
+be found at [https://www.samoyedhealthfoundation.org](/).
 
 # Overview of the Database {#overview-of-the-database}
 

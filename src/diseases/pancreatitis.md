@@ -155,12 +155,12 @@ rating](/img/3-bones.gif)
 
 Mansfield CS, Watson PD, Jones BR. 2011. [Specificity and sensitivity
 of serum canine pancreatic elastase-1 concentration in the diagnosis of
-pancreatitis.](http://vdi.sagepub.com/content/23/4/691.full.pdf)
+pancreatitis.](https://journals.sagepub.com/doi/pdf/10.1177/1040638711407875)
 J VET Diagn Invest 23(691). ![three bones
 rating](/img/3-bones.gif)
 
 [Canine
-Pancreatitis](http://shelleycetin.hubpages.com/hub/Canine-Pancreatitis)
+Pancreatitis](https://pethelpful.com/dogs/Canine-Pancreatitis)
 at HubPages ![one bone
 rating](/img/1-bone.gif)
 

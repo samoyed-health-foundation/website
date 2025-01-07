@@ -218,7 +218,7 @@ article):
   American Society for Veterinary Clinical Pathology (ASVCP), 2005 -
   Boston, MA, USA. Ithaca: International Veterinary Information
   Service ![2 bones](/img/2-bones.gif) (Available at:
-  [www.ivis.org](http://www.ivis.org/) Document No.
+  [www.ivis.org](https://www.ivis.org/) Document No.
   P2202.1205.)
 
 Information from a company that does diagnostic testing:

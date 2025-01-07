@@ -63,7 +63,7 @@ layout: single
 
 - [Deramaxx®: Overview](https://www.drugs.com/pro/deramaxx.html)
 
-- **[Advice to Dog Owners Whose Pets Take NSAIDs](https://www.fda.gov/AnimalVeterinary/ResourcesforYou/AnimalHealthLiteracy/ucm419032.htm) - this could save your dog's life.**
+- **[Advice to Dog Owners Whose Pets Take NSAIDs](https://web.archive.org/web/20190423023030///www.fda.gov/AnimalVeterinary/ResourcesforYou/AnimalHealthLiteracy/ucm419032.htm) - this could save your dog's life.**
 
 # Laboratory
 

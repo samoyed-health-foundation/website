@@ -53,7 +53,7 @@ The exact cause of osteosarcoma is unknown. The tumors are often found near grow
 - Mutation in p53 tumor suppressor gene
 - Spaying or neutering prior to one year of age (see link below)
 
-[Cooley DM et al. 2002. Endogenous Gonadal Hormone Exposure and Bone Sarcoma Risk. Cancer Epidemiol Biomarkers Prev 11:1434](http://cebp.aacrjournals.org/cgi/content/full/11/11/1434). ![three bones
+[Cooley DM et al. 2002. Endogenous Gonadal Hormone Exposure and Bone Sarcoma Risk. Cancer Epidemiol Biomarkers Prev 11:1434](https://aacrjournals.org/cebp/article/11/11/1434/166639/Endogenous-Gonadal-Hormone-Exposure-and-Bone). ![three bones
 rating](/img/3-bones.gif)
 
 ## Diagnostic Tests

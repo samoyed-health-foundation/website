@@ -39,7 +39,7 @@ layout: single
 
 - [Understanding Deramaxx® - Smart Drug or Clever Marketing?](http://www.vetnsaids.com/)
 
-- **[Advice to Dog Owners Whose Pets Take NSAIDs](https://www.fda.gov/AnimalVeterinary/ResourcesforYou/AnimalHealthLiteracy/ucm419032.htm) - this could save your dog's life.**
+- **[Advice to Dog Owners Whose Pets Take NSAIDs](https://web.archive.org/web/20190423023030///www.fda.gov/AnimalVeterinary/ResourcesforYou/AnimalHealthLiteracy/ucm419032.htm) - this could save your dog's life.**
 
 # Laboratory
 

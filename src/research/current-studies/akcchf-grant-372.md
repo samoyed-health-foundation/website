@@ -3,7 +3,7 @@ title: "AKCCHF grant #00372 (closed)"
 layout: single
 ---
 
-**Samoyed enrollment for this study is closed.  SCARF wishes to thank
+**Samoyed enrollment for this study is closed. SCARF wishes to thank
 the efforts of many Samoyed owners for contributing to this research
 study. **
 
@@ -63,19 +63,19 @@ thyroid function in purebred dogs. The research team greatly appreciates
 the support of AKC, the CHF, the OFA and the AKC dog clubs and officers.
 Thank you for giving us this opportunity to carry out this work."
 
-\*  including 100 Samoyeds!
+\* including 100 Samoyeds!
 
 **Publication:**
 
 Hegstad-Davies RL, Torres SMF, Sharkey LC, Gresch SC, Munoz-Zanzi CA,
-Davies PR (2015).  [Breed-specific reference intervals for assessing
+Davies PR (2015). [Breed-specific reference intervals for assessing
 thyroid function in seven dog
-breeds. ](http://vdi.sagepub.com/content/27/6/716.abstract) Journal of
+breeds. ](https://journals.sagepub.com/doi/full/10.1177/1040638715606953) Journal of
 Veterinary Diagnostic Investigation. 27: 716-727.
 
 Sharkey, L., K. Gjevre, R. Hegstad-Davies, S. Torres and C. Munoz-Zanzi
 (2009) Breed-associated variability in serum biochemical analytes in
-four large-breed dogs. Veterinary Clinical Pathology. 38, 375-380. 
+four large-breed dogs. Veterinary Clinical Pathology. 38, 375-380.
 "[Breed- Specific Reference Intervals for Assessing Thyroid Function in
 Seven Dog Breeds](http://www.ncbi.nlm.nih.gov/pubmed/19351336)."
 
@@ -85,15 +85,15 @@ Seven Dog Breeds](http://www.ncbi.nlm.nih.gov/pubmed/19351336)."
 
 100 each of Keeshond, Malamute, and **Samoyed** dogs to participate in a
 study to establish breed-specific reference ranges for thyroid hormone
-levels.  As of 10/31/08, 35 more normal Samoyed samples are needed.
+levels. As of 10/31/08, 35 more normal Samoyed samples are needed.
 
 - Healthy dogs only - Dogs with chronic health concerns should not be
   enrolled. Dogs previously diagnosed with thyroid problems or that
   show signs of thyroid problems (obesity, lethargy, poor hair coat,
   and infertility) are not eligible to participate. Please do not
-  enroll animals that you suspect may have 'thyroid issues'. *The
+  enroll animals that you suspect may have 'thyroid issues'. _The
   appropriate dogs are those that you are most convinced are healthy,
-  fit, and robust animals.*
+  fit, and robust animals._
 
 - Between one and eight years of age
 
@@ -102,7 +102,7 @@ levels.  As of 10/31/08, 35 more normal Samoyed samples are needed.
 - Dogs can be on heartworm, nutritional supplements\*, flea and tick
   medication but cannot be on other drugs. Dogs must be off any drug
   therapy (eye or ear drops, antibiotics, steroids etc) for at least
-  12 weeks prior to enrolling in the study.  \*Supplements are
+  12 weeks prior to enrolling in the study. \*Supplements are
   acceptable but please record their use on the health questionnaire.
 
 - Animals must be fasted for at least 6 hours prior to sampling.
@@ -157,7 +157,7 @@ procedure cannot be analyzed**.\*
 For more information or to enroll your pet in this study or if your
 regional club in the mid-west would like to plan a collection event,
 please contact Dr. Rebecca Davies at 612-626-0168
-or  <rdavies@umn.edu> or <http://www.cvm.umn.edu/cic/current/endocrine/home.html>
+or <rdavies@umn.edu> or <http://www.cvm.umn.edu/cic/current/endocrine/home.html>
 
 1. **Request a "Blood, Sweat and Cheers" information packet** in
    order to participate in the Thyroid Research Project. The packet will

@@ -121,4 +121,4 @@ Story Highlights
 
 To read more:
 
-[http://www.cnn.com/2007/US/05/01/recall.riddle/](http://www.cnn.com/2007/US/05/01/recall.riddle/)
+[http://www.cnn.com/2007/US/05/01/recall.riddle/](https://web.archive.org/web/20240515191830/https://www.cnn.com/2007/US/05/01/recall.riddle/)
