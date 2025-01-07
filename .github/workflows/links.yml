@@ -9,8 +9,6 @@ on:
 jobs:
   linkChecker:
     runs-on: ubuntu-latest
-    permissions:
-      issues: write # required for peter-evans/create-issue-from-file
     steps:
       - uses: actions/checkout@v4
 
@@ -33,11 +31,3 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           args: "--cache --max-cache-age 1d --no-progress --accept '200..=204, 403, 429' --suggest --root-dir $(pwd)/_site _site/"
-
-      - name: Create Issue From File
-        if: steps.lychee.outputs.exit_code != 0
-        uses: peter-evans/create-issue-from-file@v5
-        with:
-          title: Link Checker Report
-          content-filepath: ./lychee/out.md
-          labels: report, automated issue
