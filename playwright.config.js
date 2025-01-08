@@ -93,5 +93,12 @@ module.exports = defineConfig({
     url: 'http://127.0.0.1:8080',
     reuseExistingServer: !process.env.CI,
   },
+
+  expect: {
+    toHaveScreenshot: {
+      // Account for slight differences with SVG icons and rounded borders on local macOS vs CI macOS
+      maxDiffPixels: 6
+    },
+  },
 });
 
