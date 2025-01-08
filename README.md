@@ -27,6 +27,7 @@ npm start
 
 ```bash
 npx playwright test --update-snapshots
+CI=true npx playwright test navbar --update-snapshots
 ```
 
 ## Enjoy!! 🐶
