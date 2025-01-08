@@ -220,3 +220,7 @@ tags
 [._]*.un~
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,vim,git,node,dotenv
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/

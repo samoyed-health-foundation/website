@@ -18,7 +18,15 @@ npm install
 
 npm run build
 
+npx playwright test
+
 npm start
+```
+
+## Updating Playwright snapshots
+
+```bash
+npx playwright test --update-snapshots
 ```
 
 ## Enjoy!! 🐶
