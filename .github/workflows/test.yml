@@ -2,11 +2,10 @@ name: Test for Renovate
 
 on:
   pull_request:
-    branches:
-      - 'renovate/*'
 
 jobs:
   build-and-test:
+    if: github.actor == 'renovate[bot]'
     timeout-minutes: 60
     runs-on: ubuntu-latest
 
