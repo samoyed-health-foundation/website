@@ -10,9 +10,9 @@ jobs:
   check-links:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@39370e3970a6d050c480ffad4ff0ed4d3fdee5af # v4
         with:
           node-version-file: '.tool-versions'
 
@@ -20,13 +20,13 @@ jobs:
       - run: npm run build
 
       - name: Restore lychee cache
-        uses: actions/cache@v4
+        uses: actions/cache@1bd1e32a3bdc45362d1e726936510720a7c30a57 # v4
         with:
           path: .lycheecache
           key: cache-lychee-${{ github.sha }}
           restore-keys: cache-lychee-
 
       - name: Run lychee
-        uses: lycheeverse/lychee-action@v2
+        uses: lycheeverse/lychee-action@f796c8b7d468feb9b8c0a46da3fac0af6874d374 # v2
         with:
           args: "--cache --max-cache-age 1d --no-progress --accept '200..=204, 403, 429' --suggest --root-dir $(pwd)/_site _site/"
