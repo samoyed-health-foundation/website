@@ -9,11 +9,9 @@ layout: single
 
 [https://www.petful.com/recall-lists/dog-food-recalls/](https://www.petful.com/recall-lists/dog-food-recalls/) List of foods that have been recalled as well as those who have not, with links to the various manufacturers.
 
-[https://www.fda.gov/AnimalVeterinary/SafetyHealth/RecallsWithdrawals/default.htm](https://www.fda.gov/AnimalVeterinary/SafetyHealth/RecallsWithdrawals/default.htm) - FDA Recalls.
+<https://www.fda.gov/animal-veterinary/safety-health/recalls-withdrawals> - FDA Recalls.
 
 # News Articles
-
-<p></p>
 
 ## 2021 Bravo Packing, Inc. Recall
 
@@ -98,7 +96,7 @@ From the FDA:
 > in a scheme to import products purported to be wheat gluten into the
 > United States that were contaminated with melamine.
 
-More article links on the FDA website - [click here](http://www.fda.gov/AnimalVeterinary/SafetyHealth/RecallsWithdrawals/ucm129575.htm)
+More article links on the FDA website - [click here](https://www.fda.gov/files/about%20fda/published/Chapter-5--Center-for-Veterinary-Medicine-%28CVM%29-2007.pdf)
 
 ---
 

@@ -42,7 +42,7 @@ layout: single
 
 - [Guide to Hereditary and Congenital Diseases in Dogs](http://siriusdog.com/articles/hereditary-congenital-diseases-dog.htm) by W. Jean Dodds, DVM
 
-- [Genetics And Breeding Strategies: Essays For The Dog Breeder](http://www.pawpeds.com/pawacademy/genetics/breedingstrategies/) by Dr. Susan Thorpe-Vargas
+- [Genetics And Breeding Strategies: Essays For The Dog Breeder](https://www.pawpeds.com/cms/index.php/en/component/content/article/geneticsandbreedingstrategiesessaydogbreeder-eng) by Dr. Susan Thorpe-Vargas
 
 - [Canine Inherited Disorders Database](http://cidd.discoveryspace.ca/)
 
@@ -54,6 +54,6 @@ layout: single
 
 - [Breeding Better Dogs](http://www.breedingbetterdogs.com/articles/articles.html) - a list of articles by Carmen L. Battaglia - some of these are very thought provoking
 
-- [Natural Protection of Genetic Variation](http://www.pawpeds.com/pawacademy/general/naturalprotection/) by Dr. Per Eric Sundgren - this makes understanding the importance of the Major Histocompatibility Complex (MHC) to your breeding program very understandable
+- [Natural Protection of Genetic Variation](https://www.pawpeds.com/cms/index.php/en/education/articles/genetics/natural-protection-of-genetic-variation) by Dr. Per Eric Sundgren - this makes understanding the importance of the Major Histocompatibility Complex (MHC) to your breeding program very understandable
 
 - [Practical Genetics for Samoyed Breeders and Owners](/files/dr_bell_genetics_lecture.pdf) by Jerold S Bell, DVM, Tufts University School of Veterinary Medicine

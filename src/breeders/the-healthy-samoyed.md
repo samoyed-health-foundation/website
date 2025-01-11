@@ -9,7 +9,7 @@ layout: single
 
 - [The Senior Dogs Project](http://srdogs.com/)
 
-- [Temperature Adaptation in Northern Dogs](http://www.samoyed.org/heat.html) by Ted Greenlee -
+- [Temperature Adaptation in Northern Dogs](https://www.samoyed.org/temperature-adaptation/) by Ted Greenlee -
   including the reasons you do not want to shave your Samoyed's coat
 
 # Holistic/Alternative Medicine
@@ -18,7 +18,7 @@ layout: single
 
 - [International Veterinary Acupuncture Society](https://www.ivas.org/)
 
-- [American Veterinary Chiropractic Association](http://www.avcadoctors.com/) and [How to Locate a Practitioner](https://www.animalchiropractic.org/find-a-doctor/)
+- [American Veterinary Chiropractic Association](https://www.animalchiropractic.org) and [How to Locate a Practitioner](https://www.animalchiropractic.org/find-a-doctor/)
 
 # Vaccination Information
 
@@ -32,7 +32,7 @@ layout: single
 
 - [Dog Food Analysis](http://www.dogfoodanalysis.com/) - an independent site for dog food information and reviews
 
-- [How to Choose a Food](https://www.whole-dog-journal.com/topics/dog_food.html) by Nancy Kerns on the [Whole Dog Journal](http://www.whole-dog-journal.com/) website
+- [How to Choose a Food](https://www.whole-dog-journal.com/food/how-to-choose-a-dog-food-factors-to-consider/) by Nancy Kerns on the [Whole Dog Journal](http://www.whole-dog-journal.com/) website
 
 - [Pet Food Recall Information ](/dog-food-recall-information)
 

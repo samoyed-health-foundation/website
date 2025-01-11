@@ -101,7 +101,7 @@ rating](/img/1-bone.gif)
 
 ## References
 
-[Osteosarcoma,](http://www.caninecancer.com/Osteosarcoma.html) caninecancer.com ![one bone
+[Osteosarcoma,](http://web.archive.org/web/20160327102327/http://caninecancer.com/Osteosarcoma.html) caninecancer.com ![one bone
 rating](/img/1-bone.gif)
 
 [Canine Osteosarcoma](http://www.marvistavet.com/osteosarcoma.pml), marvistavet.com ![two bones
@@ -110,8 +110,6 @@ rating](/img/2-bones.gif)
 ## Support Groups
 
 [Bone Cancer Dogs, Inc.](http://www.bonecancerdogs.org/)
-
-[Canine Cancer Awareness Organization](http://caninecancerawareness.org/therapy-and-support/support-groups-on-the-web)
 
 ## Suggested Links
 
@@ -124,8 +122,7 @@ rating](/img/1-bone.gif)
 [Osteosarcoma - Wikipedia](http://en.wikipedia.org/wiki/Osteosarcoma) ![two bones
 rating](/img/2-bones.gif)
 
-[Bone Cancer in Dogs ](http://www.dogcancer.net/osteo.html) at www.dogcancer.net ![one bone
-rating](/img/1-bone.gif)
+[Bone Cancer in Dogs ](https://dogcancer.net/how-it-helps/bone-cancer-in-dogs/) at www.dogcancer.net ![one bone rating](/img/1-bone.gif)
 
 [Canine Osteosarcoma: The Most Common Bone Disease](http://www.vetinfo.com/canine-osteosarcoma.html) at www.vetinfo.com ![two bones
 rating](/img/2-bones.gif)
@@ -142,7 +139,7 @@ rating](/img/2-bones.gif)
 [The Gabriel Institute - Research in Canine Osteosarcoma](http://www.gabrielinstitute.org/) ![one bone
 rating](/img/1-bone.gif)
 
-[Common Cancers - Osteosarcoma](https://caninecancerawareness.org/canine-cancer-diagnosis/osteosarcoma) at www.caninecancerawareness.org ![one bone
+[Common Cancers - Osteosarcoma](http://web.archive.org/web/20211204104116/https://caninecancerawareness.org/canine-cancer-diagnosis/osteosarcoma) at www.caninecancerawareness.org ![one bone
 rating](/img/1-bone.gif)
 
 ## SCARF-Sponsored Research

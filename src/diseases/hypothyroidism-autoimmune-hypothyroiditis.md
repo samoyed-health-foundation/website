@@ -192,7 +192,7 @@ overview:
   ![3 bones](/img/3-bones.gif)
 - (4) [CANINE HYPOTHYROIDISM: PREVALENCE OF POSITIVE TgAA IN 871
   LABORATORY SAMPLES FROM
-  BOXERS](http://www.americanboxerclub.org/boxerhypothyroidism.html)
+  BOXERS](https://americanboxerclub.org/wp-content/uploads/2023/10/Boxer-Hypothyroidism.pdf)
   by RF Nachreiner, M Bowman, KR Refsal, PA Graham, A Provencher
   Bolliger Animal Health Diagnostic Laboratory, College of Veterinary
   Medicine, Michigan State University, East Lansing, MI

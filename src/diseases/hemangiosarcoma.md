@@ -107,24 +107,15 @@ life only a few months at best.
 
 ## References
 
-[Hemangiosarcoma. Modiano Lab at the University of
-Minnesota](http://www.modianolab.org/cancer/cancer_hemangiosarcoma.shtml)
-![two bones
-rating](/img/2-bones.gif)
+[Hemangiosarcoma. Modiano Lab at the University of Minnesota](https://modianolab.org/index.php/cancer-info/hemangiosarcoma/) ![two bones rating](/img/2-bones.gif)
 
 ## Suggested Links
 
-[Hemangiosarcoma](http://en.wikipedia.org/wiki/Hemangiosarcoma)
-at Wikipedia ![two bones
-rating](/img/2-bones.gif)
+[Hemangiosarcoma](http://en.wikipedia.org/wiki/Hemangiosarcoma) at Wikipedia ![two bones rating](/img/2-bones.gif)
 
-[Hemangiosarcoma](http://www.caninecancer.com/Hemangiosarcoma.html)
-at caninecancer.com ![one bone
-rating](/img/1-bone.gif)
+[Hemangiosarcoma](https://web.archive.org/web/20150602013549/http://www.caninecancer.com/Hemangiosarcoma.html) at caninecancer.com ![one bone rating](/img/1-bone.gif)
 
-[Hemangiosarcoma](http://caninecancerawareness.org/?s=hemangiosarcoma)
-at caninecancerawareness.org ![one bone
-rating](/img/1-bone.gif)
+[Hemangiosarcoma](http://caninecancerawareness.org/?s=hemangiosarcoma) at caninecancerawareness.org ![one bone rating](/img/1-bone.gif)
 
 ## SCARF-Sponsored Research
 

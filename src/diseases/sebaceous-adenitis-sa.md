@@ -66,20 +66,11 @@ soluble but is oil soluble.
 
 ## References
 
-[Merck Veterinary Manual
-online](http://www.merckvetmanual.com/mvm/integumentary_system/congenital_and_inherited_anomalies_of_the_integumentary_system/hyperplastic_and_seborrheic_syndromes.html) on
-Hyperplastic and Seborrheic Syndromes ![four bones
-rating](/img/4-bones.gif)
+[Merck Veterinary Manual online](https://www.merckvetmanual.com/integumentary-system/congenital-and-inherited-anomalies-of-the-integumentary-system/hyperplastic-and-seborrheic-syndromes-in-animals) on Hyperplastic and Seborrheic Syndromes ![four bones rating](/img/4-bones.gif)
 
-[Merck Veterinary Manual
-online](https://www.merckvetmanual.com/ear-disorders/diseases-of-the-pinna/sebaceous-adenitis)
-on Sebaceous Adenitis ![four bones
-rating](/img/4-bones.gif)
+[Merck Veterinary Manual online](https://www.merckvetmanual.com/ear-disorders/diseases-of-the-pinna/sebaceous-adenitis) on Sebaceous Adenitis ![four bones rating](/img/4-bones.gif)
 
-[Sebaceous
-Adenitis](https://www.ofa.org/diseases/other-diseases/sebaceous-adenitis)
-on the OFA website ![three bones
-rating](/img/3-bones.gif)
+[Sebaceous Adenitis](https://www.ofa.org/diseases/other-diseases/sebaceous-adenitis) on the OFA website ![three bones rating](/img/3-bones.gif)
 
 ## Support Groups
 

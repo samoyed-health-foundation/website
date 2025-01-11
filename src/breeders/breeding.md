@@ -5,7 +5,7 @@ layout: single
 
 # General
 
-- [Breeder Vet Articles](http://www.showdogsupersite.com/featx.html#bvet) by Mary Wakeman, DVM Ashford Animal Clinic, Canine Fertility Center
+- [Breeder Vet Articles](http://web.archive.org/web/20181226222938/http://showdogsupersite.com:80/featx.html) by Mary Wakeman, DVM Ashford Animal Clinic, Canine Fertility Center
 
 - [Breeding & Whelping](http://www.lowchensaustralia.com/breeding.htm) - a huge collection of links on the Chinaroad Lowchensaustralia.com website
 

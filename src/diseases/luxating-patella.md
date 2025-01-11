@@ -269,8 +269,7 @@ areas.
 The Orthopedic Foundation of America will issue registration numbers to
 dogs whose patellar have been examined and manipulated by a vet,
 forwarded to the OFA, and found to be normal. For More Information visit
-the [Orthopedic Foundation of
-America](http://www.ofa.org/pdf/plapp_bw.pdf)
+the [Orthopedic Foundation of America](https://ofa.org/diseases/patellar-luxation/)
 
 [ACVS - Medial Patellar
 Luxations](https://www.acvs.org/small-animal/patellar-luxations)

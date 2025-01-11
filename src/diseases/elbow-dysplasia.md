@@ -99,9 +99,7 @@ minimal risk. The following OFA article discusses how to use available
 information, including a "vertical pedigree," to help make breeding
 decisions.
 
-[Collecting and utilizing phenotypic data to minimize disease: A breeder's practical guide](https://www.ofa.org/pdf/hovanart.pdf) ![three
-bones
-rating](/img/3-bones.gif)
+[Collecting and utilizing phenotypic data to minimize disease: A breeder's practical guide](https://ofa.org/wp-content/uploads/2021/11/hovanart.pdf) ![three bones rating](/img/3-bones.gif)
 
 ## References
 

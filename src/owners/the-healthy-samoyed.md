@@ -9,7 +9,7 @@ layout: single
 
 - [The Senior Dogs Project](http://srdogs.com/)
 
-- [Temperature Adaptation in Northern Dogs](http://www.samoyed.org/heat.html) by Ted Greenlee -
+- [Temperature Adaptation in Northern Dogs](https://www.samoyed.org/temperature-adaptation/) by Ted Greenlee -
   including the reasons you do not want to shave your Samoyed's coat
 
 # Holistic/Alternative Medicine
@@ -20,7 +20,7 @@ layout: single
 
 - [International Veterinary Acupuncture Society](https://www.ivas.org/) and [How to Locate a Practitioner](https://www.ivas.org/members-only-section/ivas-partners/)
 
-- [American Veterinary Chiropractic Association](http://www.avcadoctors.com/) and [How to Locate a Practitioner](https://www.animalchiropractic.org/find-a-doctor/)
+- [American Veterinary Chiropractic Association](https://www.animalchiropractic.org) and [How to Locate a Practitioner](https://www.animalchiropractic.org/find-a-doctor/)
 
 # Vaccination Information
 
@@ -30,13 +30,13 @@ layout: single
 
 - [Vaccinations for the New Puppy](http://www.mirage-samoyeds.com/vaccinations.htm) by Susan Thorpe Vargas Ph.D.
 
-- [2013 CANINE VACCINATION GUIDELINES - Implementing the Protocol](https://cvm.ncsu.edu/wp-content/uploads/2015/06/Ford_2013CANINEonlyVACCINEMNS.2.pdf) by Richard B. Ford, DVM, MS
+- [2013 CANINE VACCINATION GUIDELINES - Implementing the Protocol](http://web.archive.org/web/20201112035714/https://cvm.ncsu.edu/wp-content/uploads/2015/06/Ford_2013CANINEonlyVACCINEMNS.2.pdf) by Richard B. Ford, DVM, MS
 
 # Nutrition
 
 - [Dog Food Analysis](http://www.dogfoodanalysis.com/) - an independent site for dog food information and reviews
 
-- [How to Choose a Food](https://www.whole-dog-journal.com/topics/dog_food.html) by Nancy Kerns on the [Whole Dog Journal](http://www.whole-dog-journal.com/) website
+- [How to Choose a Food](https://www.whole-dog-journal.com/food/how-to-choose-a-dog-food-factors-to-consider/) by Nancy Kerns on the [Whole Dog Journal](http://www.whole-dog-journal.com/) website
 
 - [Information on Prescription Diets](http://www.prescriptiondiets.com/)
 

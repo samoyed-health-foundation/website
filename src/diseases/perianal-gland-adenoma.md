@@ -14,7 +14,7 @@ layout: disease
 
 ## Suggested Links
 
-[Perianal Gland Adenoma](https://www.animalreferencepathology.com/perianal-gland-adenoma.pml). Animal Reference Pathology.![two bones
+[Perianal Gland Adenoma](http://web.archive.org/web/20180904211950/http://www.animalreferencepathology.com:80/perianal-gland-adenoma.pml). Animal Reference Pathology.![two bones
 rating](/img/2-bones.gif)
 
 Kessler M. [Perianal Tumors](https://www.vin.com/apputil/content/defaultadv1.aspx?pId=12886&catId=57122&id=7054772). WSAVA Proceedings 2014.![two bones

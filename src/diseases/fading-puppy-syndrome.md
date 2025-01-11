@@ -134,7 +134,7 @@ define preventive steps for future litters.
 <http://searsvet.50megs.com/Herpes1.html>
 ![1 bone](/img/1-bone.gif)
 
-<http://showdogsupersite.com/kenlclub/breedvet/fading.html>
+<https://showdogsupersite.com/what-is-fading-puppy-syndrome/>
 ![2 bones](/img/2-bones.gif)
 
 <https://www.petcoach.co/dog/condition/herpesvirus/>

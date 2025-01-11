@@ -170,7 +170,7 @@ Pathology](http://www.histovet.com/pdf/HIS_MammaryTumor.pdf).
 rating](/img/2-bones.gif)
 
 [_Mammary Cancer_.
-www.caninecancerawareness.org](http://caninecancerawareness.org/canine-cancer-diagnosis/mammary-cancer)
+www.caninecancerawareness.org](http://web.archive.org/web/20230128161428/http://caninecancerawareness.org/canine-cancer-diagnosis/mammary-cancer)
 ![one bone
 rating](/img/1-bone.gif)
 

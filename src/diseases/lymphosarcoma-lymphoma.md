@@ -135,7 +135,7 @@ rating](/img/4-bones.gif)
 bones
 rating](/img/4-bones.gif)
 
-<https://www.oncolink.org/cancers/vet/common-veterinary-cancers/lymphosarcoma-in-dogs>
+<http://web.archive.org/web/20220701021808/https://www.oncolink.org/cancers/vet/common-veterinary-cancers/lymphosarcoma-in-dogs>
 ![three bones
 rating](/img/3-bones.gif)
 

@@ -7,7 +7,7 @@ layout: single
 
 - [Selecting and Purchasing Your Samoyed](https://www.samoyedclubofamerica.org/the-samoyed/choosing-a-dog/) - a SCA publication
 
-- [Frequently Asked Questions about the Samoyed](http://www.samoyedrescue.com/samoyedfaqs.htm) from the Samoyed Rescue Alliance
+- [Frequently Asked Questions about the Samoyed](https://www.samoyed.org/breed-faq/) from the Samoyed Rescue Alliance
 
 - [SCA breeder referral](https://www.samoyedclubofamerica.org/the-samoyed/choosing-a-dog/types-of-breeders/)
 

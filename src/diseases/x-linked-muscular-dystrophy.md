@@ -91,20 +91,13 @@ available outside the laboratory.
 
 ## References
 
-[Dystrophy-like
-myopathies](http://www.merckvetmanual.com/mvm/musculoskeletal_system/congenital_and_inherited_anomalies_of_the_musculoskeletal_system/congenital_and_inherited_anomalies_of_the_musculoskeletal_system_in_multiple_species.html)
-in the Merck Veterinary Manual ![four bones
-rating](/img/4-bones.gif)
+[Dystrophy-like myopathies](https://www.merckvetmanual.com/musculoskeletal-system/congenital-and-inherited-anomalies-of-the-musculoskeletal-system/congenital-and-inherited-anomalies-of-the-musculoskeletal-system-in-multiple-species) in the Merck Veterinary Manual ![four bones rating](/img/4-bones.gif)
 
 X-linked muscular dystrophies. In: The Merck Veterinary Manual 10th
 Edition. Ed Kahn, Cynthia M. Pub Merck and Co, Inc. pp 950, 1128.
-![four bones
-rating](/img/4-bones.gif)
+![four bones rating](/img/4-bones.gif)
 
-[Canine X-linked Muscular
-Dystrophy](https://www.gopetsamerica.com/dog-health/canine_x_linked_muscular_dystrophy.html)
-at www.gopetsamerica.com ![two bones
-rating](/img/2-bones.gif)
+[Canine X-linked Muscular Dystrophy](https://www.gopetsamerica.com/dog-health/canine_x_linked_muscular_dystrophy.html) at www.gopetsamerica.com ![two bones rating](/img/2-bones.gif)
 
 ## Support Groups
 

@@ -96,56 +96,26 @@ Dogs.](https://vet.sagepub.com/content/45/4/475.full)
 Veterinary Pathology 45: 475-483. ![three bones
 rating](/img/3-bones.gif)
 
-## Support Groups
-
-[Canine Cancer
-Awareness](http://caninecancerawareness.org/therapy-and-support/support-groups-on-the-web)
-list of support groups on the web
-
 ## Suggested Links
 
-[Pancreatic Neoplasms in Small
-Animals](http://www.merckvetmanual.com/mvm/digestive_system/the_exocrine_pancreas/pancreatic_neoplasms_in_small_animals.html)
-in The Merck Veterinary Manual. ![four bones
-rating](/img/4-bones.gif)
+[Pancreatic Neoplasms in Small Animals](https://www.merckvetmanual.com/digestive-system/the-exocrine-pancreas/pancreatic-neoplasms-in-dogs-and-cats) in The Merck Veterinary Manual. ![four bones rating](/img/4-bones.gif)
 
-[Canine
-Insulinoma](https://vetspecialists.co.uk/fact-sheets-post/canine-insulinoma-fact-sheet/)
-from Davies Veterinary Specialists. ![two bones
-rating](/img/2-bones.gif)
+[Canine Insulinoma](https://vetspecialists.co.uk/fact-sheets-post/canine-insulinoma-fact-sheet/) from Davies Veterinary Specialists. ![two bones rating](/img/2-bones.gif)
 
-[Vallee IK 2003. Insulin-secreting beta cell neoplasia in a 10-year-old
-dog](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC340214/).
-Can Vet J 44:592-594. ![three bones
-rating](/img/3-bones.gif)
+[Vallee IK 2003. Insulin-secreting beta cell neoplasia in a 10-year-old dog](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC340214/). Can Vet J 44:592-594. ![three bones rating](/img/3-bones.gif)
 
-[Exocrine Pancreatic Cancer from the National Canine Cancer
-Foundation](http://www.wearethecure.org/exocrine-pancreatic-cancer)
-(www.wearethecure.org) ![two bones
-rating](/img/2-bones.gif)
+[Exocrine Pancreatic Cancer from the National Canine Cancer Foundation](http://www.wearethecure.org/exocrine-pancreatic-cancer) (www.wearethecure.org) ![two bones rating](/img/2-bones.gif)
 
-[Dzaja P et al, 2000. Insulinoma in a dog; case
-report. ](http://www.vef.unizg.hr/vetarhiv/papers/70-1/dzaja.pdf)
-Veterinarski Arhiv 70: 13-20. ![two bones
-rating](/img/2-bones.gif)
+[Dzaja P et al, 2000. Insulinoma in a dog; case report. ](http://www.vef.unizg.hr/vetarhiv/papers/70-1/dzaja.pdf) Veterinarski Arhiv 70: 13-20. ![two bones rating](/img/2-bones.gif)
 
-[Madarame H et al. 2009. Retrospective Study of Canine Insulinomas:
-Eight Cases
-(2005-2008).](https://www.jstage.jst.go.jp/article/jvms/71/7/71_7_905/_article)
-J Vet Med Sci 71: 905-911. ![three bones
-rating](/img/3-bones.gif)
+[Madarame H et al. 2009. Retrospective Study of Canine Insulinomas: Eight Cases (2005-2008).](https://www.jstage.jst.go.jp/article/jvms/71/7/71_7_905/_article) J Vet Med Sci 71: 905-911. ![three bones rating](/img/3-bones.gif)
 
-Veterinary Society of Surgical Oncology. ![three bones
-rating](/img/3-bones.gif)
+Veterinary Society of Surgical Oncology. ![three bones rating](/img/3-bones.gif)
 
-[Pancreatic
-Adenocarcinoma](http://www.vsso.org/pancreatic-adc)
+[Pancreatic Adenocarcinoma](http://www.vsso.org/pancreatic-adc)
 
-[Pancreatic
-Gastrinoma](http://www.vsso.org/pancreatic-gastrinoma)
+[Pancreatic Gastrinoma](http://www.vsso.org/pancreatic-gastrinoma)
 
-[Pancreatic
-Glucagonoma](http://www.vsso.org/pancreatic-glucagonoma)
+[Pancreatic Glucagonoma](http://www.vsso.org/pancreatic-glucagonoma)
 
-[Pancreatic
-Insulinoma](http://www.vsso.org/pancreatic-insulinoma)
+[Pancreatic Insulinoma](http://www.vsso.org/pancreatic-insulinoma)

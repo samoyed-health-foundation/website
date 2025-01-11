@@ -25,7 +25,7 @@ layout: single
 
 - [Orphaned Puppies - Caring, Feeding, Healthcare](https://www.vetwest.com.au/pet-library/orphaned-puppies-caring-feeding-healthcare)
 
-- ["Swimmer Puppies"](http://showdogsupersite.com/kenlclub/breedvet/swimmers.html) by Mary C. Wakeman, D.V.M. in the online journal, _Breeder Vet_
+- ["Swimmer Puppies"](http://web.archive.org/web/20181127200929/http://showdogsupersite.com:80/kenlclub/breedvet/swimmers.html) by Mary C. Wakeman, D.V.M. in the online journal, _Breeder Vet_
 
 - [Swimmer Puppies](https://www.petcoach.co/article/swimmer-puppies-puppies-that-have-difficulty-standing/) by Race Foster, DVM and Marty Smith, DVM Drs. Foster & Smith, Inc.
 
@@ -37,17 +37,17 @@ layout: single
 
 > Always ask for an "information sheet" on the prescribed medication and read it before administering the medication to your pet.
 
-- [Drugs to be avoided or used with caution in the Samoyed](http://mysticicesamoyeds.com/wp-content/uploads/DRUGS-TO-BE-AVOIDED-OR-USED-WITH-CAUTION-IN-THE-SAMOYED.pdf)
+- [Drugs to be avoided or used with caution in the Samoyed](http://web.archive.org/web/20220128013626/http://mysticicesamoyeds.com/wp-content/uploads/DRUGS-TO-BE-AVOIDED-OR-USED-WITH-CAUTION-IN-THE-SAMOYED.pdf)
 
 - [Differentiating Sulfur Compounds](http://www.itmonline.org/arts/sulfa.htm) - Sulfa Drugs, Glucosamine Sulfate, Sulfur, and Sulfiting Agents by Subhuti Dharmananda, Ph.D., Director, Institute for Traditional Medicine, Portland, Oregon
 
 - [Animal Pharmacy Center](https://marvista.vetsfirstchoice.com/) on the Mar Vista Animal Medical Center website
 
-- [Freedom Of Information (FOI)](https://www.fda.gov/AnimalVeterinary/SafetyHealth/ReportaProblem/ucm055305.htm) summaries
+- [Freedom Of Information (FOI)](https://www.fda.gov/animal-veterinary/report-problem/how-report-animal-drug-and-device-side-effects-and-product-problems) summaries
 
-- [How to Report An Adverse Drug Experience](https://www.fda.gov/AnimalVeterinary/default.htm) on the [FDA's Center For Veterinary Medicine](http://www.fda.gov/AnimalVeterinary/default.htm) website
+- [How to Report An Adverse Drug Experience](https://www.fda.gov/animal-veterinary/safety-health/report-problem) on the [FDA's Center For Veterinary Medicine](http://www.fda.gov/AnimalVeterinary/default.htm) website
 
-- [The Virtual Pharmacy Center](http://www.martindalecenter.com/Pharmacy.html) - Martindale's Health Science Guide 2000 with a section on [The Virtual Veterinary Center](http://www.martindalecenter.com/Pharmacy_3_Phaco.html#PHARMC-VET)
+- [The Virtual Pharmacy Center](http://web.archive.org/web/20240930033525/https://martindalecenter.com/pharmacy.html) - Martindale's Health Science Guide 2000 with a section on [The Virtual Veterinary Center](http://web.archive.org/web/20240725072032/https://martindalecenter.com/pharmacy_3_phaco.html)
 
 - [Common Drugs and Nutraceuticals for Dogs and Cats](https://www.petcoach.co/article/common-drugs-nutraceuticals/) from Drs. Foster & Smith
 
@@ -57,9 +57,9 @@ layout: single
 
 - [Antifungal Medications](https://www.petcoach.co/article/antifungal-medications/)
 
-- [Corticosterioids in Veterinary Medicine](http://www.newmanveterinary.com/steroids.html) and [Regulation of Corticosteroids](http://www.newmanveterinary.com/regulati.html) by Chick Newman PhD, DVM
+- [Corticosterioids in Veterinary Medicine](http://web.archive.org/web/20210126111947/http://www.newmanveterinary.com/steroids.html) and [Regulation of Corticosteroids](http://web.archive.org/web/20210421043649/http://www.newmanveterinary.com/regulati.html) by Chick Newman PhD, DVM
 
-- [Rimadyl: News, Views & Advisories](http://www.srdogs.com/Pages/rimadylfr.html) on The Senior Dogs Project webpage
+- [Rimadyl: News, Views & Advisories](http://web.archive.org/web/20170913011337/http://www.srdogs.com:80/Pages/rimadylfr.html) on The Senior Dogs Project webpage
 
 - [Deramaxx®: Overview](https://www.drugs.com/pro/deramaxx.html)
 

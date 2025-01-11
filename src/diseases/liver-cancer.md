@@ -145,7 +145,7 @@ Veterinary Medicine (dvm360) 2006. ![two bones rating](/img/2-bones.gif)
 
 [Architecture of the Liver and Biliary Tract including photograph of
 normal dog liver and gallbladder, Colorado
-State](http://www.vivo.colostate.edu/hbooks/pathphys/digestion/liver/anatomy.html)
+State](https://vivo.colostate.edu/hbooks/pathphys/digestion/liver/anatomy.html)
 
 ![three bones
 rating](/img/3-bones.gif)

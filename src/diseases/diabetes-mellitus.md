@@ -140,7 +140,7 @@ Merck Manual Pet Health Edition.
 [Disorders of the Pancreas in Dogs](http://www.merckvetmanual.com/pethealth/dog_disorders_and_diseases/hormonal_disorders_of_dogs/disorders_of_the_pancreas_in_dogs.html?qt=diabetes%20mellitus&alt=sh).
 {{< rating 4 >}}
 
-[Demo on how to inject insulin](http://www.vetsulin.com/vet/AboutVetPen_HowToUse.aspx)
+[Demo on how to inject insulin](https://www.vetsulin.com/dogs/wp-content/uploads/sites/179/2022/03/Canine_Admin_Guide.pdf)
 
 <http://www.lillydiabetes.com/Pages/about-diabetes.aspx>
 {{< rating 3 >}}

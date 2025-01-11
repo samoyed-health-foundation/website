@@ -88,7 +88,7 @@ the overall Samoyed gene pool too severely. The following OFA article
 discusses how to use available information, including a "vertical
 pedigree," to help make breeding decisions.
 
-_[OFA: Collecting and utilizing phenotypic data to minimize disease: A breeder's practical guide](http://www.ofa.org/pdf/hovanart.pdf)
+_[OFA: Collecting and utilizing phenotypic data to minimize disease: A breeder's practical guide](https://ofa.org/wp-content/uploads/2021/11/hovanart.pdf)
 ![three bones rating](/img/3-bones.gif)_
 
 ## References
@@ -104,7 +104,7 @@ _[OFA: Collecting and utilizing phenotypic data to minimize disease: A breeder's
 [Mirage Samoyeds](http://www.mirage-samoyeds.com/hipofa.htm#links)
 ![two bones rating](/img/2-bones.gif)
 
-[British scheme for scoring hips](http://www.bva.co.uk/hip_scheme.aspx)
+[British scheme for scoring hips](https://www.bva.co.uk/canine-health-schemes/hip-scheme/)
 ![three bones rating](/img/3-bones.gif)
 
 [Dr. Bell's Genetics Lecture](/files/dr_bell_genetics_lecture.pdf) presented to the Samoyed Club of America October 15, 2002

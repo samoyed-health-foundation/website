@@ -78,7 +78,7 @@ _(Many thanks to Dr. Gavin Kennard for answering dozens of questions and providi
 
 Ward, DVM, E. (n.d.). [Glaucoma in Dogs](https://vcahospitals.com/know-your-pet/glaucoma-in-dogs). Retrieved from https://vcahospitals.com/know-your-pet/ ![two bones rating](/img/2-bones.gif)
 
-[Canine (not human) glaucoma](https://vmcli.com/canine-not-human-glaucoma/) by N LaCroix DVM at Veterinary Medical Center of Long Island. ![two bones rating](/img/2-bones.gif)
+[Canine (not human) glaucoma](http://web.archive.org/web/20201001072726/https://vmcli.com/canine-not-human-glaucoma/) by N LaCroix DVM at Veterinary Medical Center of Long Island. ![two bones rating](/img/2-bones.gif)
 
 Maggio, F. (2015). Glaucomas. Topics in Companion Animal Medicine, 30(3), 86-96. Accessed at doi: <http://dx.doi.org.library.capella.edu/10.1053/j.tcam.2015.07.011>
 ![three bones rating](/img/3-bones.gif)
@@ -99,7 +99,7 @@ Park, S. A., Sledge, D., Monahan, C., Bartoe, J. T., & Komáromy, A. M. (2019). 
 
 <https://www.vetfolio.com/learn/article/canine-glaucoma-pathophysiology-and-diagnosis>![three bones rating](/img/3-bones.gif)
 
-<http://blog.vetbloom.com/ophthalmology/diagnosis-and-treatment-of-glaucoma/> ![two bones rating](/img/2-bones.gif)
+<http://web.archive.org/web/20240616223722/http://blog.vetbloom.com/ophthalmology/diagnosis-and-treatment-of-glaucoma/> ![two bones rating](/img/2-bones.gif)
 and this group recommends the following two books:
 
 - Living with Blind Dogs: A Resource Book and Training Guide for the Owners of Blind and Low-Vision dogs by Caroline D. Levin
