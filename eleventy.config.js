@@ -3,7 +3,6 @@ import markdownItAnchor from "markdown-it-anchor";
 import markdownItAttrs from "markdown-it-attrs";
 import markdownItTableOfContents from "markdown-it-table-of-contents";
 import yaml from "js-yaml";
-import { DateTime } from "luxon";
 
 export default async function (eleventyConfig) {
   // https://www.11ty.dev/docs/ignores/#opt-out-of-using-.gitignore
@@ -32,13 +31,6 @@ export default async function (eleventyConfig) {
       ${title ? `<figcaption>${title}</figcaption>` : ""}
     </figure>
   `;
-  });
-
-  // Human-readable dates
-  eleventyConfig.addFilter("readableDate", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toLocaleString(
-      DateTime.DATETIME_FULL_WITH_SECONDS
-    );
   });
 
   // First path segment for a page URL, which equates to our website "sections"
