@@ -2,6 +2,9 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": ["config:best-practices"],
   "automergeType": "branch",
+  "github-actions": {
+    "automerge": true
+  },
   "lockFileMaintenance": {
     "automerge": true
   },
