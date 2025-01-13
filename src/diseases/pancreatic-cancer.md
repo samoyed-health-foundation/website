@@ -104,7 +104,7 @@ rating](/img/3-bones.gif)
 
 [Vallee IK 2003. Insulin-secreting beta cell neoplasia in a 10-year-old dog](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC340214/). Can Vet J 44:592-594. ![three bones rating](/img/3-bones.gif)
 
-[Exocrine Pancreatic Cancer from the National Canine Cancer Foundation](http://www.wearethecure.org/exocrine-pancreatic-cancer) (www.wearethecure.org) ![two bones rating](/img/2-bones.gif)
+[Exocrine Pancreatic Cancer from the National Canine Cancer Foundation](https://web.archive.org/web/20160404185258/http://www.wearethecure.org/exocrine-pancreatic-cancer) (www.wearethecure.org) ![two bones rating](/img/2-bones.gif)
 
 [Dzaja P et al, 2000. Insulinoma in a dog; case report. ](http://www.vef.unizg.hr/vetarhiv/papers/70-1/dzaja.pdf) Veterinarski Arhiv 70: 13-20. ![two bones rating](/img/2-bones.gif)
 

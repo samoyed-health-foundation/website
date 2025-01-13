@@ -163,7 +163,4 @@ Inheritance](http://en.wikipedia.org/wiki/X-linked_recessive_inheritance)
 at wikipedia ![two bones
 rating](/img/2-bones.gif)
 
-[Bleeding Disorders of
-Dogs](http://www.merckvetmanual.com/pethealth/dog_disorders_and_diseases/blood_disorders_of_dogs/bleeding_disorders_of_dogs.html?qt=hemophilia&alt=sh).
-Merck Manual Pet Health Edition ![four bones
-rating](/img/4-bones.gif)
+[Bleeding Disorders of Dogs](https://www.merckvetmanual.com/dog-owners/blood-disorders-of-dogs/bleeding-disorders-of-dogs). Merck Manual Pet Health Edition ![four bones rating](/img/4-bones.gif)

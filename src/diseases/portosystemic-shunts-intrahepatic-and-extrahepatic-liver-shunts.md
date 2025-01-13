@@ -100,8 +100,7 @@ rating](/img/3-bones.gif)
 • Van Steenbeek FG et al. 2013. [Aberrant Gene Expression in Dogs with Portosystemic Shunts](<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3581512/ >). PLOS One 8:e57662. ![three bones
 rating](/img/3-bones.gif)
 
-• Berent AC, Tobias KM 2009. [Portosystemic Vascular Anomalies. ](https://sonopath.com/sites/default/files/downloads/article_casey_LIVER_Portosystemic_Shunts.pdf)Vet Clin Small Anim 39: 513-541 ![two bones
-rating](/img/2-bones.gif)
+• Berent AC, Tobias KM 2009. [Portosystemic Vascular Anomalies. ](https://web.archive.org/web/20200709221411/https://www.sonopath.com/sites/default/files/downloads/article_casey_LIVER_Portosystemic_Shunts.pdf) Vet Clin Small Anim 39: 513-541 ![two bones rating](/img/2-bones.gif)
 
 ## Living With
 

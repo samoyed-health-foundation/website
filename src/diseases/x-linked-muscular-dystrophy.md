@@ -119,11 +119,8 @@ studies](http://www.ncbi.nlm.nih.gov/pubmed/3225630).
 Journal of the Neurological Sciences, 88:69-81. ![two bones
 rating](/img/2-bones.gif)
 
-[Muscular
-Dystrophy](http://www.embracepetinsurance.com/Health/muscular-dystrophy.aspx)
-by P. Khuly VMD from the Pet Health Center at
-www.embracepetinsurance.com ![two bones
-rating](/img/2-bones.gif)
+[Muscular Dystrophy](https://www.embracepetinsurance.com/health/muscular-dystrophy)
+by P. Khuly VMD from the Pet Health Center at www.embracepetinsurance.com ![two bones rating](/img/2-bones.gif)
 
 [G. Diane Shelton. Muscular Dystrophies. p. 446 in: Veterinary
 pediatrics: dogs and cats from birth to six](http://books.google.com/books?id=tlAm5etmJU8C&pg=PA446&lpg=PA446&dq=x+linked+muscular+dystrophy+samoyed&source=bl&ots=zY6Ac2qFuO&sig=_Px7Eq-Omun4UdCJ3PXYK-6lTLE&hl=en&ei=J2AiTqz2NISWsgOchNxf&sa=X&oi=book_result&ct=result&resnum=7&ved=0CEUQ6AEwBg%20-%20v=onepage&q=x%20linked%20muscular%20dystrophy%20samoyed&f=false)

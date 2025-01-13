@@ -255,7 +255,7 @@ of registering with that organization:
 [OFA Website](https://www.ofa.org/diseases/other-diseases/hypothyroidism)
 ![3 bones](/img/3-bones.gif)
 
-[OFA Thyroid Application](http://www.ofa.org/pdf/thyapp_bw.pdf)
+[OFA Thyroid Application](https://ofa.org/applications/)
 
 ## SCARF-Sponsored Research
 

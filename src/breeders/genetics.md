@@ -13,7 +13,7 @@ layout: single
 
 - [OFA](https://www.ofa.org/) (hip, thyroid, pra, heart, sebaceous adentitis, etc.)
 
-- [PennHIP](http://www.pennhip.org/)
+- [PennHIP](https://antechimagingservices.com/antechweb/pennhip)
 
 - [CHIC](http://www.caninehealthinfo.org/) - The Canine Health Information
   Center, also known as CHIC, is a centralized canine health database

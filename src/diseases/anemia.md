@@ -81,7 +81,7 @@ may be necessary.
 
 ## References
 
-[Anemia, The Merck Manual, Pet Health Edition](http://www.merckvetmanual.com/pethealth/dog_disorders_and_diseases/blood_disorders_of_dogs/anemia_in_dogs.html?qt=anemia&alt=sh)
+[Anemia, The Merck Manual, Pet Health Edition](https://www.merckvetmanual.com/dog-owners/blood-disorders-of-dogs/anemia-in-dogs)
 ![4 bones](/img/4-bones.gif)
 
 ## Support Groups

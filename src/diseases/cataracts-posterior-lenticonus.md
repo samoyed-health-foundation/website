@@ -250,8 +250,7 @@ See pre- and post-operative care in the treatment section.
 
 ## References
 
-<http://www.eyevet.com/cataract_surgery1.htm> ![two bones
-rating](/img/2-bones.gif)
+[http://www.eyevet.com/cataract_surgery1.htm](http://web.archive.org/web/20230608223208/http://www.eyevet.com/cataract_surgery1.htm) ![two bones rating](/img/2-bones.gif)
 
 [Glaucoma and Cataracts - Can We Eliminate
 Them](http://www.akcchf.org/educational-resources/library/articles/articles/Glaucoma-and-Cataracts-Can-We-Eliminate-Them-07-1997.pdf)?
@@ -261,8 +260,6 @@ rating](/img/2-bones.gif)
 Conversations with Dr. Vilma Yuzbasiyan-Gurkan at Michigan State University
 
 ## Suggested Links
-
-<http://www.eyevet.com/cataract_surgery1.htm>
 
 See references above.
 

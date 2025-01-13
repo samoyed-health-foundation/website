@@ -115,8 +115,6 @@ life only a few months at best.
 
 [Hemangiosarcoma](https://web.archive.org/web/20150602013549/http://www.caninecancer.com/Hemangiosarcoma.html) at caninecancer.com ![one bone rating](/img/1-bone.gif)
 
-[Hemangiosarcoma](http://caninecancerawareness.org/?s=hemangiosarcoma) at caninecancerawareness.org ![one bone rating](/img/1-bone.gif)
-
 ## SCARF-Sponsored Research
 
 - [AKCCHF Grant #02534](/research/current-studies/akcchf-grant-02534/): Clinical Trial for Evaluation of Propranolol and Doxorubicin in the Treatment of Canine Hemangiosarcoma. Erin Dickerson PhD, Brian Husbands DVM, University of MN

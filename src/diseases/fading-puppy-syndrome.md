@@ -143,7 +143,7 @@ define preventive steps for future litters.
 <http://www.2ndchance.info/herpesvirusdog.htm>
 ![1 bone](/img/1-bone.gif)
 
-<https://www.vetinfo4dogs.com/dherpes.html>
+[https://www.vetinfo4dogs.com/dherpes.html](http://web.archive.org/web/20090304223543/http://www.vetinfo4dogs.com:80/dherpes.html)
 ![2 bones](/img/2-bones.gif)
 
 <http://www.provet.co.uk/health/diseases/parvovirus.htm>
