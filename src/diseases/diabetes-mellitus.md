@@ -137,7 +137,7 @@ Write **subscribe rainbowbridge** in the body of the letter.
 {{< rating 2 >}}
 
 Merck Manual Pet Health Edition.
-[Disorders of the Pancreas in Dogs](http://www.merckvetmanual.com/pethealth/dog_disorders_and_diseases/hormonal_disorders_of_dogs/disorders_of_the_pancreas_in_dogs.html?qt=diabetes%20mellitus&alt=sh).
+[Disorders of the Pancreas in Dogs](https://www.merckvetmanual.com/dog-owners/hormonal-disorders-of-dogs/disorders-of-the-pancreas-in-dogs).
 {{< rating 4 >}}
 
 [Demo on how to inject insulin](https://www.vetsulin.com/dogs/wp-content/uploads/sites/179/2022/03/Canine_Admin_Guide.pdf)

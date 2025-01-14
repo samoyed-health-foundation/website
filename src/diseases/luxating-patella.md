@@ -284,8 +284,7 @@ Luxations](https://www.acvs.org/small-animal/patellar-luxations)
 <https://www.ofa.org/diseases/other-diseases/patellar-luxation>
 ![3 bones](/img/3-bones.gif)
 
-<https://www.lifelearn-cliented.com/iframe.php?action=view&clinic=3094&rid=836&c=22682-20181026154945-ac9f9074ee8d439619deed84d7e06cdd&print=1> ![2
-bones](/img/2-bones.gif)
+<https://www.lifelearn-cliented.com/iframe.php?action=view&rid=836&c=22682-20181026154945-ac9f9074ee8d439619deed84d7e06cdd&print=1> ![2 bones](/img/2-bones.gif)
 
 [Merck Veterinary Manual
 Online](http://www.merckvetmanual.com/mvm/musculoskeletal_system/arthropathies_and_related_disorders_in_small_animals/patellar_luxation_in_small_animals.html)

@@ -54,7 +54,7 @@ Medical vs. Surgical management is a complex subject there have been very few st
 
 ## References
 
-(1 ) [Doppler ultrasonographic assessment of closure of the ductus venosus in neonatal Irish wolfhounds. ](https://veterinaryrecord.bmj.com/content/155/22/699.long) Lamb CR, Burton CA Vet Rec. 2004 Nov 27; 155(22):699-701. ![three bones
+(1 ) [Doppler ultrasonographic assessment of closure of the ductus venosus in neonatal Irish wolfhounds. ](https://pubmed.ncbi.nlm.nih.gov/15605536/) Lamb CR, Burton CA Vet Rec. 2004 Nov 27; 155(22):699-701. ![three bones
 rating](/img/3-bones.gif)
 
 (2) Portosystemic Vascular Anomalies (PSVA) & Microvascular Dysplasia (MVD) SA Center, DVM, Dipl ACVIM Professor of Internal Medicine, Cornell University, Ithaca, NY ![two bones
@@ -94,8 +94,7 @@ rating](/img/3-bones.gif)
 • Van den Bossche L, Steenbeek FG. 2016. [Canine congenital portosystemic shunts: Disconnections dissected](https://www.sciencedirect.com/science/article/abs/pii/S1090023315003950). The Veterinary Journal 211:14-20. ![three bones
 rating](/img/3-bones.gif)
 
-• Berent A & Weisse C. 2007. [Portosystemic Shunts and Portal Venous Hypoplasia. ](http://vetnetinfo.com/tudasbazis/files/2016/02/Portosystemic-Shunts-and-Portal-Venous-Hypoplasia-2007.pdf) Compendiums Standards of Care Emergency and Critical Care Medicine 9.3: 1-11. ![three bones
-rating](/img/3-bones.gif)
+• Berent A & Weisse C. 2007. [Portosystemic Shunts and Portal Venous Hypoplasia. ](https://s3.amazonaws.com/assets.prod.vetlearn.com/mmah/d2/2e1cc31a82410b8b8c94f912c1e046/fileSOC_09_03_1_0.pdf) Compendiums Standards of Care Emergency and Critical Care Medicine 9.3: 1-11. ![three bones rating](/img/3-bones.gif)
 
 • Van Steenbeek FG et al. 2013. [Aberrant Gene Expression in Dogs with Portosystemic Shunts](<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3581512/ >). PLOS One 8:e57662. ![three bones
 rating](/img/3-bones.gif)

@@ -19,7 +19,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 
 ## AKC Canine Health Foundation Grants
 
-- [AKCCHF Grant # 03106 (open)](/research/current-studies/AKCCHF-Grant-03106): Clinical Validation of Urinary miR-126 as a Marker of Immune Complex-Mediated Glomerulonephritis in Dogs. Principal Investigator: Mary B Nabity, DVM, PhD. Texas A&M AgriLife Research. \[$10,000] [[Progress Report 2024](/files/03106-ey1-summary.pdf)]
+- [AKCCHF Grant # 03106 (open)](/research/current-studies/akcchf-grant-03106): Clinical Validation of Urinary miR-126 as a Marker of Immune Complex-Mediated Glomerulonephritis in Dogs. Principal Investigator: Mary B Nabity, DVM, PhD. Texas A&M AgriLife Research. \[$10,000] [[Progress Report 2024](/files/03106-ey1-summary.pdf)]
 
 # Funded Research Grants (2022)
 
@@ -48,7 +48,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 
 ## Morris Animal Foundation Grants
 
-- [MAF Grant D18CA-045 (closed):](https://www.samoyedhealthfoundation.org/research/morris-grant-d18ca-045/) Tackling the Canine Microbiome in Chronic Enteropathy: Characterizing the Functionally Significant Changes that Occur with Remission of Disease. Caroline S Mansfield BSC, BVMS, MVM, DECVIM University of Melbourne \[$10,000] [[Progress Report 2020](https://www.samoyedhealthfoundation.org/files/MAFD18CA045ProgressReport.pdf)] [[Progress Report 2021](/files/MAFD18CA045.pdf)] [[Final Report 2023](/files/d18ca045final.pdf)]
+- [MAF Grant D18CA-045 (closed):](https://www.samoyedhealthfoundation.org/research/morris-grant-d18ca-045/) Tackling the Canine Microbiome in Chronic Enteropathy: Characterizing the Functionally Significant Changes that Occur with Remission of Disease. Caroline S Mansfield BSC, BVMS, MVM, DECVIM University of Melbourne \[$10,000] [[Progress Report 2020](https://www.samoyedhealthfoundation.org/files/MAFD18CA045ProgressReport.pdf)] [[Progress Report 2021](/files/mafd18ca045.pdf)] [[Final Report 2023](/files/d18ca045final.pdf)]
 - [MAF Grant D19CA-064 (open):](https://www.samoyedhealthfoundation.org/research/morris-d19ca-064/) Synergizing Radiation-Induced Immunogenic Cell Death and Toll-like Receptor 9 Agonism to Generate Abscopal Effects in Canine Osteosarcoma. Timothy M Fan DVM, PhD. University of Illinois \[$10,000]
 - [MAF Grant D20CA-312 (closed): ](https://www.samoyedhealthfoundation.org/research/morris-grant-d20ca-312/) Lymphotropic Nanoparticle Enhanced MRI for Diagnosis of Metastatic Disease in Canine Head and Neck Tumors. Lynn Griffin DVM. Colorado State University \[$10,000] [[Progress Report](/files/d20ca312progressreport.pdf)] [[FinalReport](/files/d20ca312finalreport.pdf)]
 

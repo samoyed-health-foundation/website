@@ -46,7 +46,7 @@ layout: single
 
 - [Canine Inherited Disorders Database](http://cidd.discoveryspace.ca/)
 
-- [Understanding canine genetics](https://www.thekennelclub.org.uk/health/for-breeders/understanding-canine-genetics/)
+- [Understanding canine genetics](https://www.thekennelclub.org.uk/health-and-dog-care/health/getting-started-with-health-testing-and-screening/understanding-canine-genetics/)
 
 - [Breeding for Health](http://malamute-health.org/index.php/breeding-for-health) on the malamutehealth.org website
 
