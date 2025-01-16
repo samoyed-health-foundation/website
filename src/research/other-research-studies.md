@@ -18,7 +18,7 @@ across breeds...
 
 ---
 
-**[Canine Epilepsy Research](http://www.canine-epilepsy.net/cerc.html)** -
+**[Canine Epilepsy Research](http://web.archive.org/web/20240225020934/https://canine-epilepsy.net/cerc.html)** -
 needed are samples from a large number of affected individuals and their immediate
 family members (siblings, parents, and grandparents), from many breeds of dogs.
 

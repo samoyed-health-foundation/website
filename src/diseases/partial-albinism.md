@@ -139,7 +139,7 @@ rating](/img/1-bone.gif)
 rating](/img/1-bone.gif) - Interesting site with links to colour genetics
 for many Spitz breeds
 
-[http://www.dpca.org/BreedEd/albinohistory.htm](http://dpca.org/albino/albino_about.htm) ![one
+[https://dpca.org/albino/](https://dpca.org/albino/) ![one
 bone
 rating](/img/1-bone.gif) - From the Doberman Pinscher Club of America
 
