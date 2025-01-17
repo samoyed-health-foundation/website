@@ -61,7 +61,7 @@ _Mode of inheritance:_ X-linked recessive
 
 [AnimaLabs](http://www.animalabs.com/shop/dogs/x-linked-progressive-retinal-atrophy-1-xlpra1gres/) (in Europe)
 
-[Center for Animal Genetics](https://www.centerforanimalgenetics.com/services/dog-genetic-testing/hereditary-disease-testing-for-dogs/xlpra/)
+[Center for Animal Genetics](https://generatio.de/en/services/hereditary-disease-testing)
 
 [Embark](https://shop.embarkvet.com/products/embark-for-breeders-dog-dna-test-kit)
 
