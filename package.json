@@ -19,7 +19,6 @@
     "autoprefixer": "10.4.20",
     "browser-sync": "3.0.3",
     "cross-env": "7.0.3",
-    "cssnano": "7.0.6",
     "flowbite": "2.5.2",
     "instantsearch.js": "4.77.0",
     "js-yaml": "4.1.0",
