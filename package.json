@@ -6,7 +6,7 @@
     "css": "postcss src/static/css/tailwind.css --o _site/css/style.css --watch",
     "build": "cross-env NODE_ENV=production eleventy && cross-env NODE_ENV=production tailwindcss -i src/static/css/tailwind.css -o _site/css/style.css",
     "browsersync": "browser-sync start --server _site --files _site --port 8080 --no-notify --no-open",
-    "algolia": "node ./scripts/algolia.js"
+    "algolia": "if [ \"$(git log -1 --pretty=format:'%an')\" != \"renovate[bot]\" ]; then node ./scripts/algolia.js; else echo 'Skipping Algolia update for renovate[bot] commit'; fi"
   },
   "devDependencies": {
     "@11ty/eleventy": "3.0.0",
