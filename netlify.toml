@@ -1,6 +1,6 @@
 [build]
   publish = "_site"
-  command = "npm run build && npm run algolia"
+  command = "npm run build && npm run algolia:cd"
 
 [context.deploy-preview]
   command = "npm run build"
