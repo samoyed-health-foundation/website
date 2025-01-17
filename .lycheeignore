@@ -1,5 +1,3 @@
 .*web\.archive\.org.*
-^http:\/\/www\.fda\.gov.*
-^https:\/\/fda\.gov.*
-^https:\/\/www\.fda\.gov.*
+^https?:\/\/(www\.)?fda\.gov.*
 ^https:\/\/vivo\.colostate\.edu\/hbooks\/pathphys\/digestion\/liver\/anatomy\.html$
