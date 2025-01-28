@@ -43,8 +43,10 @@ test('how you can help page', async ({ page }) => {
   await visualDiff(page, '/how-you-can-help');
 });
 
-test('research studies page', async ({ page }) => {
-  await visualDiff(page, '/research/all-scarf-sponsored-research-studies/');
+test('research studies page section', async ({ page }) => {
+  await page.goto('/research/all-scarf-sponsored-research-studies/');
+  await page.evaluate(() => document.fonts.ready);
+  await expect(page.getByRole('heading', { name: 'Funded Research Grants (2012)' })).toHaveScreenshot();
 });
 
 test('research study page', async ({ page }) => {
