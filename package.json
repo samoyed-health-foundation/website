@@ -20,7 +20,7 @@
     "browser-sync": "3.0.3",
     "cross-env": "7.0.3",
     "flowbite": "2.5.2",
-    "instantsearch.js": "4.77.0",
+    "instantsearch.js": "4.77.3",
     "js-yaml": "4.1.0",
     "markdown-it-anchor": "9.2.0",
     "markdown-it-attrs": "4.3.1",
