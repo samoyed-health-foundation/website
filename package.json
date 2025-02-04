@@ -12,7 +12,7 @@
     "@11ty/eleventy": "3.0.0",
     "@playwright/test": "1.49.1",
     "@tailwindcss/typography": "0.5.16",
-    "@types/node": "22.13.0",
+    "@types/node": "22.13.1",
     "algolia-indexing": "2.0.0",
     "algoliasearch": "5.20.0",
     "alpinejs": "3.14.8",
