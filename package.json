@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "@11ty/eleventy": "3.0.0",
-    "@playwright/test": "1.49.1",
+    "@playwright/test": "1.50.1",
     "@tailwindcss/typography": "0.5.16",
     "@types/node": "22.13.1",
     "algolia-indexing": "2.0.0",
