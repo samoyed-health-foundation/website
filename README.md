@@ -18,6 +18,8 @@ npm install
 
 npm run build
 
+npx playwright install --with-deps
+
 npx playwright test
 
 npm start
@@ -26,8 +28,8 @@ npm start
 ## Updating Playwright snapshots
 
 ```bash
-npx playwright test --update-snapshots
-CI=true npx playwright test navbar --update-snapshots
+npx playwright test --update-snapshots=changed
+CI=true npx playwright test navbar --update-snapshots=changed
 ```
 
 ## Enjoy!! 🐶
