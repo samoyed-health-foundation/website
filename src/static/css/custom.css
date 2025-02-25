@@ -1,5 +1,4 @@
-@tw-bucket user
-{/* style external links with font-awesome icon */
+/* style external links with font-awesome icon */
 
 /* http */
 .single a[href^="http://"]:not([href*="samoyedhealthfoundation.org"]):not([href*="https://www.facebook.com/samoyed.foundation"]):not(.img-href):after
@@ -17,5 +16,4 @@
   font-weight: 900;
   content: "\f35d";
   margin: 0 0 0 5px;
-}
 }
