@@ -93,42 +93,26 @@ available outside the laboratory.
 
 [Dystrophy-like myopathies](https://www.merckvetmanual.com/musculoskeletal-system/congenital-and-inherited-anomalies-of-the-musculoskeletal-system/congenital-and-inherited-anomalies-of-the-musculoskeletal-system-in-multiple-species) in the Merck Veterinary Manual ![four bones rating](/img/4-bones.gif)
 
-X-linked muscular dystrophies. In: The Merck Veterinary Manual 10th
-Edition. Ed Kahn, Cynthia M. Pub Merck and Co, Inc. pp 950, 1128.
-![four bones rating](/img/4-bones.gif)
+X-linked muscular dystrophies. In: The Merck Veterinary Manual 10th Edition. Ed Kahn, Cynthia M. Pub Merck and Co, Inc. pp 950, 1128. ![four bones rating](/img/4-bones.gif)
 
 [Canine X-linked Muscular Dystrophy](https://www.gopetsamerica.com/dog-health/canine_x_linked_muscular_dystrophy.html) at www.gopetsamerica.com ![two bones rating](/img/2-bones.gif)
 
 ## Support Groups
 
-[Canine Muscular Dystrophy
-Awareness](https://www.facebook.com/Canine-Hemophilia-Support-Group-133078033429365/)
-on Facebook.
+[Canine Muscular Dystrophy Awareness](https://www.facebook.com/Canine-Hemophilia-Support-Group-133078033429365/) on Facebook.
 
 ## Suggested Links
 
-[X-linked recessive
-inheritance](http://en.wikipedia.org/wiki/x-linked_recessive_inheritance)
+[X-linked recessive inheritance](http://en.wikipedia.org/wiki/x-linked_recessive_inheritance) - Wikipedia. ![two bones rating](/img/2-bones.gif)
 
-- Wikipedia. ![two bones
-rating](/img/2-bones.gif)
-
-[Valentine BA et al 1988. Canine X-linked muscular dystrophy. An
-animal model of Duchenne muscular dystrophy: clinical
-studies](http://www.ncbi.nlm.nih.gov/pubmed/3225630).
-Journal of the Neurological Sciences, 88:69-81. ![two bones
-rating](/img/2-bones.gif)
+[Valentine BA et al 1988. Canine X-linked muscular dystrophy. An animal model of Duchenne muscular dystrophy: clinical studies](http://www.ncbi.nlm.nih.gov/pubmed/3225630).
+Journal of the Neurological Sciences, 88:69-81. ![two bones rating](/img/2-bones.gif)
 
 [Muscular Dystrophy](https://www.embracepetinsurance.com/health/muscular-dystrophy)
 by P. Khuly VMD from the Pet Health Center at www.embracepetinsurance.com ![two bones rating](/img/2-bones.gif)
 
-[G. Diane Shelton. Muscular Dystrophies. p. 446 in: Veterinary
-pediatrics: dogs and cats from birth to six](http://books.google.com/books?id=tlAm5etmJU8C&pg=PA446&lpg=PA446&dq=x+linked+muscular+dystrophy+samoyed&source=bl&ots=zY6Ac2qFuO&sig=_Px7Eq-Omun4UdCJ3PXYK-6lTLE&hl=en&ei=J2AiTqz2NISWsgOchNxf&sa=X&oi=book_result&ct=result&resnum=7&ved=0CEUQ6AEwBg%20-%20v=onepage&q=x%20linked%20muscular%20dystrophy%20samoyed&f=false)
-
-[
-months.](http://books.google.com/books?id=tlAm5etmJU8C&pg=PA446&lpg=PA446&dq=x+linked+muscular+dystrophy+samoyed&source=bl&ots=zY6Ac2qFuO&sig=_Px7Eq-Omun4UdCJ3PXYK-6lTLE&hl=en&ei=J2AiTqz2NISWsgOchNxf&sa=X&oi=book_result&ct=result&resnum=7&ved=0CEUQ6AEwBg%20-%20v=onepage&q=x%20linked%20muscular%20dystrophy%20samoyed&f=false)
-Elsevier Health Sciences. Ed: JD Hoskins. 2001 ![four bones
-rating](/img/4-bones.gif)
+[G. Diane Shelton. Muscular Dystrophies. p. 446 in: Veterinary pediatrics: dogs and cats from birth to six months.](http://books.google.com/books?id=tlAm5etmJU8C&pg=PA446&lpg=PA446&dq=x+linked+muscular+dystrophy+samoyed&source=bl&ots=zY6Ac2qFuO&sig=_Px7Eq-Omun4UdCJ3PXYK-6lTLE&hl=en&ei=J2AiTqz2NISWsgOchNxf&sa=X&oi=book_result&ct=result&resnum=7&ved=0CEUQ6AEwBg%20-%20v=onepage&q=x%20linked%20muscular%20dystrophy%20samoyed&f=false)
+Elsevier Health Sciences. Ed: JD Hoskins. 2001 ![four bones rating](/img/4-bones.gif)
 
 ## Current Research
 
