@@ -125,9 +125,9 @@ modification program to work.
 
 ## References
 
-Overall, K.L., "Clinical Behavioral Medicine for Small Animals", Mosby, Inc. 1997 ![four bones rating](/img/4-bones.gif)
+Overall, K.L., "Clinical Behavioral Medicine for Small Animals", Mosby, Inc. 1997 ![four bones rating](/img/4-bones.png)
 
-[http://www.k9aggression.com](http://www.k9aggression.com/) ![two bones rating](/img/2-bones.gif)
+[http://www.k9aggression.com](http://www.k9aggression.com/) ![two bones rating](/img/2-bones.png)
 
 ## Support Groups
 
@@ -140,28 +140,28 @@ Overall, K.L., "Clinical Behavioral Medicine for Small Animals", Mosby, Inc. 199
 ## Suggested Links
 
 [Animal Health Channel](http://www.healthcommunities.com/canine-aggression/dominance-aggression.shtml)
-![two bones rating](/img/2-bones.gif)
+![two bones rating](/img/2-bones.png)
 
 [K9 aggression](http://www.k9aggression.com/)
-![two bones rating](/img/2-bones.gif)
+![two bones rating](/img/2-bones.png)
 
 [Protein aggression](http://www.provet.co.uk/petfacts/healthtips/proteinaggression.htm)
-![two bones rating](/img/2-bones.gif)
+![two bones rating](/img/2-bones.png)
 
 [Hill Top Animal Hospital -Dominance Part 1](http://www.hilltopanimalhospital.com/pet-info/k9info/k9dominance1/)
-![two bones rating](/img/2-bones.gif)
+![two bones rating](/img/2-bones.png)
 
 [Hill Top Animal Hospital - Dominance part 2](http://www.hilltopanimalhospital.com/pet-info/k9info/k9dominance2/)
-![two bones rating](/img/2-bones.gif)
+![two bones rating](/img/2-bones.png)
 
 [Hill Top Animal Hospital Aggression](http://www.hilltopanimalhospital.com/pet-info/k9info/k9aggression/)
-![two bones rating](/img/2-bones.gif)
+![two bones rating](/img/2-bones.png)
 
 [Tellington-touch TTOUCH for companion animals](http://tteam-ttouch.com/whyTTouch.shtml)
-![two bones rating](/img/2-bones.gif)
+![two bones rating](/img/2-bones.png)
 
 [Canis Major](http://www.canismajor.com/dog/tagress.html)
-![two bones rating](/img/2-bones.gif)
+![two bones rating](/img/2-bones.png)
 
 ## Current Research
 
