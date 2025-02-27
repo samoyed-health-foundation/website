@@ -1,5 +1,6 @@
 ---
 title: Outline template
+layout: disease
 ---
 
 **Liaison:** 
@@ -38,26 +39,26 @@ xxx
 
 ## References
 
-![1 bone](/img/1-bone.gif)
-![2 bones](/img/2-bones.gif)
-![3 bones](/img/3-bones.gif)
-![4 bones](/img/4-bones.gif)
+![1 bone](/img/1-bone.png)
+![2 bones](/img/2-bones.png)
+![3 bones](/img/3-bones.png)
+![4 bones](/img/4-bones.png)
 
 ## Support Groups
 
 ## Suggested Links
 
-![1 bone](/img/1-bone.gif)
-![2 bones](/img/2-bones.gif)
-![3 bones](/img/3-bones.gif)
-![4 bones](/img/4-bones.gif)
+![1 bone](/img/1-bone.png)
+![2 bones](/img/2-bones.png)
+![3 bones](/img/3-bones.png)
+![4 bones](/img/4-bones.png)
 
 ## Current Research
 
-![1 bone](/img/1-bone.gif)
-![2 bones](/img/2-bones.gif)
-![3 bones](/img/3-bones.gif)
-![4 bones](/img/4-bones.gif)
+![1 bone](/img/1-bone.png)
+![2 bones](/img/2-bones.png)
+![3 bones](/img/3-bones.png)
+![4 bones](/img/4-bones.png)
 
 ## "Living with a Disorder" Journal Entries
 
