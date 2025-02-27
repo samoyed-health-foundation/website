@@ -1,14 +1,19 @@
 ---
 title: Bone images
+layout: single
 ---
-![one bone rating](/img/1-bone.gif)
+Change the format from Rich Text to Markdown and then you can copy/paste bone ratings from below:
 
-![two bones rating](/img/2-bones.gif)
+![one bone rating](/img/1-bone.png)
 
-![three bones rating](/img/3-bones.gif)
+![two bones rating](/img/2-bones.png)
 
-![four bones rating](/img/4-bones.gif)
+![three bones rating](/img/3-bones.png)
+
+![four bones rating](/img/4-bones.png)
 
 ---
+
+# Notes
 
 2025-01-04: I changed it so that now the "Full description of bones ratings" message just appears at the bottom of every A-Z diseases disease page. - Matt
