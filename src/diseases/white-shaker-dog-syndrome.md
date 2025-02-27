@@ -104,18 +104,18 @@ curable.  It can be incapacitating.
 ## References
 
 <http://www.addl.purdue.edu/newsletters/2004/spring/tremors.htm>
-![3 bones](/img/3-bones.gif)
+![3 bones](/img/3-bones.png)
 
 Parker, A.J. 1995. "Little white shakers" syndrome: generalized,
 sporadic, acquired, idiopathic tremors in adult dogs. In J.D. Bonaguara
 and R.W. Kirk (eds) Kirk's Current Veterinary Therapy XII Small Animal
 Practice. pp. 1126-1127. W.B. Saunders Co., Toronto
 ![four bones
-rating](/img/4-bones.gif)
+rating](/img/4-bones.png)
 
 Bagley RS.  Diseases of the Cerebellum.  Page 31 in: Principles of
 Neurologic Evaluation:  Evaluation of Dogs and Cats that Look and Act
-Funny. ![3 bones](/img/3-bones.gif)
+Funny. ![3 bones](/img/3-bones.png)
 
 
 ## Support Groups
@@ -130,9 +130,9 @@ General information is included in the following sites for other breeds;
 
 <http://www.malteseonly.com/shakerdog.html>
 ![one bone
-rating](/img/1-bone.gif)
+rating](/img/1-bone.png)
 
 Westie Foundation:  [White Shaker Disease
 Syndrome ](https://www.westiefoundation.org/assets/white-shaker-ebook.pdf)
 ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
