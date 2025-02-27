@@ -14,4 +14,4 @@ layout: disease
 
 ## Suggested Links
 
-[Intervertebral Disk Disease in Dogs](https://web.archive.org/web/20201023000438/https://www.acvim.org/Animal-Owners/Animal-Education/Health-Fact-Sheets/Neurology/Intervertebral-Disk-Disease-in-Dogs). Fact Sheet from American College of Veterinary Internal Medicine.![three bones rating](/img/3-bones.gif)
+[Intervertebral Disk Disease in Dogs](https://web.archive.org/web/20201023000438/https://www.acvim.org/Animal-Owners/Animal-Education/Health-Fact-Sheets/Neurology/Intervertebral-Disk-Disease-in-Dogs). Fact Sheet from American College of Veterinary Internal Medicine.![three bones rating](/img/3-bones.png)

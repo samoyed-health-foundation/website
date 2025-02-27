@@ -127,12 +127,12 @@ bred.
 [Understanding Your Pet's
 Epilepsy](http://www.canine-epilepsy.net/basics/basics_index.html),
 Canine Epilepsy Network ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 [Canine Seizures - Overview, Causes and
 Treatment](http://www.canine-epilepsy-guardian-angels.com/seizures_overview_cause_treatment.htm)
 at canine-epilepsy-guardian-angels.com ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 ## Support Groups
 
@@ -143,26 +143,26 @@ rating](/img/2-bones.gif)
 [AKC Canine Health Foundation symposium on Canine Epilepsy
 1997](http://www.mirage-samoyeds.com/epilepsy.htm)
 ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 [Emergency Care for Canine
 Seizures](http://www.canine-epilepsy-guardian-angels.com/emergencycare.html)
 at canine-epilepsy-guardian-angels.com ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 [Canine Epilepsy
 Resources ](http://www.canine-epilepsy.com/) ![one bone
-rating](/img/1-bone.gif)
+rating](/img/1-bone.png)
 
 [Seizures and Your
 Dog](http://dogs.about.com/od/caninediseases/p/seizures.htm)
 at about.com ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 [Psychomotor
 Seizures](http://www.canine-epilepsy-guardian-angels.com/Psychomotor.htm)
 at canine-epilepsy-guardian-angels.com ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 ## SCARF-Sponsored Research
 

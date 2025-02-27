@@ -112,13 +112,13 @@ juice.
 
 [Causes of fading puppy and kitten syndrome](https://www.dvm360.com/view/causes-fading-puppy-and-kitten-syndrome)
 by Joni L. Freshman, DVM, MS, DACVIM. dvm360 October
-2005 ![2 bones](/img/2-bones.gif)
+2005 ![2 bones](/img/2-bones.png)
 
 <http://www.marvistavet.com/herpes-infection-canine.pml>
-![2 bones](/img/2-bones.gif)
+![2 bones](/img/2-bones.png)
 
 [http://www.heirlair.com/parvo.htm](https://web.archive.org/web/20060427034534/http://www.heirlair.com/parvo.htm)
-![1 bone](/img/1-bone.gif) - Information on canine parvovirus 1 (currently available only through
+![1 bone](/img/1-bone.png) - Information on canine parvovirus 1 (currently available only through
 internet "wayback machine"
 
 ## Suggested Links
@@ -129,23 +129,23 @@ litter. If a puppy dies, an autopsy to understand the cause can help
 define preventive steps for future litters.
 
 <http://www.lowchensaustralia.com/breeding/fadingpups.htm>
-![1 bone](/img/1-bone.gif)
+![1 bone](/img/1-bone.png)
 
 <http://searsvet.50megs.com/Herpes1.html>
-![1 bone](/img/1-bone.gif)
+![1 bone](/img/1-bone.png)
 
 [https://showdogsupersite.com/what-is-fading-puppy-syndrome/](https://web.archive.org/web/20240911075021/https://showdogsupersite.com/what-is-fading-puppy-syndrome/)
-![2 bones](/img/2-bones.gif)
+![2 bones](/img/2-bones.png)
 
 <https://www.petcoach.co/dog/condition/herpesvirus/>
-![2 bones](/img/2-bones.gif)
+![2 bones](/img/2-bones.png)
 
 <http://www.2ndchance.info/herpesvirusdog.htm>
-![1 bone](/img/1-bone.gif)
+![1 bone](/img/1-bone.png)
 
 [https://www.vetinfo4dogs.com/dherpes.html](http://web.archive.org/web/20090304223543/http://www.vetinfo4dogs.com:80/dherpes.html)
-![2 bones](/img/2-bones.gif)
+![2 bones](/img/2-bones.png)
 
 <http://www.provet.co.uk/health/diseases/parvovirus.htm>
-![2 bones](/img/2-bones.gif) - information on parvovirus 1 and how it
+![2 bones](/img/2-bones.png) - information on parvovirus 1 and how it
 relates to fading puppies

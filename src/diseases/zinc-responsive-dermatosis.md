@@ -103,25 +103,25 @@ some owners to decrease, or cease zinc supplementation.
 
 ## References
 
-1. [Canine Inherited Disorders Database](http://cidd.discoveryspace.ca/disorder/zinc-responsive-dermatosis.html) ![3 bones](/img/3-bones.gif)
+1. [Canine Inherited Disorders Database](http://cidd.discoveryspace.ca/disorder/zinc-responsive-dermatosis.html) ![3 bones](/img/3-bones.png)
 2. Colombini S, Dunstan RW.
    [Zinc-responsive dermatosis in northern-breed dogs: 17 cases (1990-1996)](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=PubMed&Cmd=ShowDetailView&TermToSearch=9267507&ordinalpos=11&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum).
    J Am Vet Med Assoc. 1997 Aug
-   15;211(4):451-3. ![3 bones](/img/3-bones.gif)
+   15;211(4):451-3. ![3 bones](/img/3-bones.png)
 3. Tim D. G. Watson**.** [Diet and Skin Disease in Dogs and
    Cats](http://jn.nutrition.org/cgi/content/full/128/12/2783S).
    The Journal of Nutrition Vol. 128 No. 12 December 1998, pp.
-   2783S-2789S ![3 bones](/img/3-bones.gif)
+   2783S-2789S ![3 bones](/img/3-bones.png)
 4. White SD, Bourdeau P, Rosychuk RAW, Cohen B, Bonenberger T,
    Fieseler KV., Ihrke P, Chapman P, Schultheiss P, Zur G, Cannon
    A, Outerbridge C. [Zinc-responsive dermatosis in dogs: 41 cases and
    literature
    review](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=11360336&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVAbstractPlus). Veterinary
    Dermatology, Volume 12, Number 2, April 2001 , pp.
-   101-109(9). ![3 bones](/img/3-bones.gif)
+   101-109(9). ![3 bones](/img/3-bones.png)
 5. [Skin Diseases of the Dog and Cat: Clinical and Histopathologic
    Diagnosis](http://books.google.com/books?id=VKa2Wo3Wc-kC&pg=PA189&lpg=PA189&dq=%22zinc+responsive%22+dermatosis+in+%22northern+breed%22+dogs&source=web&ots=GafyyeyA1d&sig=iWrtG2I4y0qClRVxwkE26w5GmPU#PPA188,M1) by
-   Thelma Lee Gross ![3 bones](/img/3-bones.gif)
+   Thelma Lee Gross ![3 bones](/img/3-bones.png)
 
 ## Support Groups
 
@@ -129,11 +129,11 @@ No relevant support groups have been found to be available at this time.
 
 ## Suggested Links
 
-[Could it be zinc-responsive dermatosis](https://veterinary-practice.com/article/could-it-be-zinc-responsive-dermatosis?fbclid=IwAR1NNLZXDQBCcidxxSI9W0TMZJ5ErN-lhYbmdO0wWNXRDw4B1vg4LaR3RFE) from Veterinary Practice ![2 bones](/img/2-bones.gif)
+[Could it be zinc-responsive dermatosis](https://veterinary-practice.com/article/could-it-be-zinc-responsive-dermatosis?fbclid=IwAR1NNLZXDQBCcidxxSI9W0TMZJ5ErN-lhYbmdO0wWNXRDw4B1vg4LaR3RFE) from Veterinary Practice ![2 bones](/img/2-bones.png)
 
 [Zinc Deficiency in the Siberian Husky](https://siberianhusky.com/zinc-deficiency-serious-threat-on-huskies-health/)
-from the Siberian Husky Health Foundation ![3 bones](/img/3-bones.gif)
+from the Siberian Husky Health Foundation ![3 bones](/img/3-bones.png)
 
 [Canine Zinc-Responsive Dermatosis](https://www.dvm360.com/view/canine-zinc-responsive-dermatosis)
 by Carlo Vitale, DVM, Dipl. ACVD on the dvm360.com website. This
-article contains some photographs. ![2 bones](/img/2-bones.gif)
+article contains some photographs. ![2 bones](/img/2-bones.png)

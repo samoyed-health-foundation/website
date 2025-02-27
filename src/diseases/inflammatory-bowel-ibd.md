@@ -129,41 +129,41 @@ pharmacologic therapy may be required throughout life in severe cases.
 [Inflammatory Bowel Disease in
 Dogs,](https://www.petcoach.co/dog/condition/inflammatory-bowel-disease/)
 an excellent, concise summary ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 [Inflammatory Bowel
 Disease](http://www.marvistavet.com/inflammatory-bowel-disease.pml)
 from marvistavet.com. This article includes a picture of mucosal
 histology/pathology. ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 [Protein-Losing Enteropathy in
 Dogs](http://www.petplace.com/dogs/protein-losing-enteropathy-in-dogs-ple/page1.aspx)
 at petplace.com. ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 [Inflammatory Bowel Disease in the
 Dog](http://www.lowchensaustralia.com/health/boweldisease.htm)
 an inclusive description from lowchensaustralia.com ![one bone
-rating](/img/1-bone.gif)
+rating](/img/1-bone.png)
 
 ## Suggested Links
 
 [Inflammatory Bowel Disease in Your
 Dog](http://www.2ndchance.info/inflambowel.htm) at
 2ndchance.info A good article for laypersons ![one bone
-rating](/img/1-bone.gif)
+rating](/img/1-bone.png)
 
 [Inflammatory Bowel Disease in Dogs and
 Cats](http://www.holisticpetinfo.com/conditions/digestive_ibd.htm)
 at holisticpetinfo.com A holistic approach, much advertising on site
 ![one bone
-rating](/img/1-bone.gif)
+rating](/img/1-bone.png)
 
 [Inflammatory Bowel
 Disease](http://www.merckvetmanual.com/mvm/digestive_system/diseases_of_the_stomach_and_intestines_in_small_animals/inflammatory_bowel_disease_in_small_animals.html),
 a more technical summary from the Merck Veterinary Manual ![four bones
-rating](/img/4-bones.gif)
+rating](/img/4-bones.png)
 
 ## SCARF-Sponsored Research
 

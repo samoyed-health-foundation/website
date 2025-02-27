@@ -54,7 +54,7 @@ The exact cause of osteosarcoma is unknown. The tumors are often found near grow
 - Spaying or neutering prior to one year of age (see link below)
 
 [Cooley DM et al. 2002. Endogenous Gonadal Hormone Exposure and Bone Sarcoma Risk. Cancer Epidemiol Biomarkers Prev 11:1434](https://aacrjournals.org/cebp/article/11/11/1434/166639/Endogenous-Gonadal-Hormone-Exposure-and-Bone). ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 ## Diagnostic Tests
 
@@ -97,15 +97,15 @@ If amputation is required, most dogs do very well on three legs, not realizing t
 
 [Help for Tripod Dogs](http://tripawds.com/) ![one
 bone
-rating](/img/1-bone.gif)
+rating](/img/1-bone.png)
 
 ## References
 
 [Osteosarcoma,](http://web.archive.org/web/20160327102327/http://caninecancer.com/Osteosarcoma.html) caninecancer.com ![one bone
-rating](/img/1-bone.gif)
+rating](/img/1-bone.png)
 
 [Canine Osteosarcoma](http://www.marvistavet.com/osteosarcoma.pml), marvistavet.com ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 ## Support Groups
 
@@ -114,33 +114,33 @@ rating](/img/2-bones.gif)
 ## Suggested Links
 
 [Chun R et al: Cisplatin and doxorubicin combination chemotherapy for the treatment of canine osteosarcoma: J Vet Intern Med. 2000 Sep-Oct;14(5):495-8](http://www.ncbi.nlm.nih.gov/pubmed/11012111). ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 [BoneCancerDogs, Inc](http://www.bonecancerdogs.org/) ![one bone
-rating](/img/1-bone.gif)
+rating](/img/1-bone.png)
 
 [Osteosarcoma - Wikipedia](http://en.wikipedia.org/wiki/Osteosarcoma) ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
-[Bone Cancer in Dogs ](https://dogcancer.net/how-it-helps/bone-cancer-in-dogs/) at www.dogcancer.net ![one bone rating](/img/1-bone.gif)
+[Bone Cancer in Dogs ](https://dogcancer.net/how-it-helps/bone-cancer-in-dogs/) at www.dogcancer.net ![one bone rating](/img/1-bone.png)
 
 [Canine Osteosarcoma: The Most Common Bone Disease](http://www.vetinfo.com/canine-osteosarcoma.html) at www.vetinfo.com ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 [Kuntz C. Appendix B: Canine Osteosarcoma. In Musculoskeletal Cancer Surgery, Treatment of Sarcomas and Allied Diseases. Ed. MM Malawer and PH Sugarbaker. Kluwer Academic Publishers 2001](http://www.sarcoma.org/publications/mcs/ch38.pdf). ![four bones
-rating](/img/4-bones.gif)
+rating](/img/4-bones.png)
 
 [Canine Osteosarcoma: Amputation and Life Quality](https://www.dogcancerblog.com/video/amputation-for-dogs-with-osteosarcoma-cancer/) at www.dogcancerblog.com ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 [Canine Osteosarcoma Treatment ](http://www.dog-health-guide.org/canineosteosarcomatreatment.html) at www.dog-health-guide.org ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 [The Gabriel Institute - Research in Canine Osteosarcoma](http://www.gabrielinstitute.org/) ![one bone
-rating](/img/1-bone.gif)
+rating](/img/1-bone.png)
 
 [Common Cancers - Osteosarcoma](http://web.archive.org/web/20211204104116/https://caninecancerawareness.org/canine-cancer-diagnosis/osteosarcoma) at www.caninecancerawareness.org ![one bone
-rating](/img/1-bone.gif)
+rating](/img/1-bone.png)
 
 ## SCARF-Sponsored Research
 

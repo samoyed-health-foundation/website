@@ -116,27 +116,27 @@ years of age.
     Failure](<http://www.vet.upenn.edu/docs/default-source/cardiology-brochures-(ryan)/understanding-heart-failure.pdf?sfvrsn=0>)
     from the Matthew J. Ryan Veterinary Hospital, University of
     Pennsylvania School of Veterinary Medicine ![3
-bones](/img/3-bones.gif)
+bones](/img/3-bones.png)
 2.  [Canine Heart
     Anatomy](http://web.archive.org/web/20041119090303/http://www.geocities.com/labsr4ulist/pawtvd.htm)
-    (Web archive) by Rachel Peeples, DVM ![2 bones](/img/2-bones.gif)
+    (Web archive) by Rachel Peeples, DVM ![2 bones](/img/2-bones.png)
 
 ## Suggested Links
 
 [https://www.ofa.org/diseases/other-diseases/cardiac-disease](https://www.ofa.org/diseases/other-diseases/cardiac-disease)
 \-- Congenital Cardiac Disease from the Orthopedic Foundation for
-Animals (OFA) ![3 bones](/img/3-bones.gif)
+Animals (OFA) ![3 bones](/img/3-bones.png)
 [http://www.mirage-samoyeds.com/heart.htm](http://www.mirage-samoyeds.com/heart.htm) \--
 Samoyed State of Heart by Cheri Hollenback ![2
-bones](/img/2-bones.gif)
+bones](/img/2-bones.png)
 
 [http://www.mirage-samoyeds.com/heartofa.htm](http://www.mirage-samoyeds.com/heartofa.htm)
-![2 bones](/img/2-bones.gif)
+![2 bones](/img/2-bones.png)
 
 [Tricuspid Valve Dysplasia in the Labrador
 Retriever](http://www.labbies.com/tvd.htm) by Pamela A.
 Davol - with drawings of the canine heart ![one bone
-rating](/img/1-bone.gif)
+rating](/img/1-bone.png)
 
 ## "Living with a Disorder" Journal Entries
 

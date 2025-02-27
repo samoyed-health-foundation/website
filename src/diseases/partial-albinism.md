@@ -103,16 +103,16 @@ not keep your dog outside in the sun.
 
 <http://serendipstudio.org/exchange/serendipupdate/albinism> ![one
 bone
-rating](/img/1-bone.gif)
+rating](/img/1-bone.png)
 
 **[The Genetics of the
 Dog](http://books.google.com/books?id=bgZwjdB4xgEC&pg=PA74&dq=cornaz+albino&sig=XOr0NRAblHF-TOUtUzpjrxrTDgI)**.
 By Jeff Sampson and Anatoly Ruvinsky. 2001 CABI Publishing. Page
 
-74. ![3 bones](/img/3-bones.gif)
+74. ![3 bones](/img/3-bones.png)
 
 **[Albinism in Dogs](https://www.jstor.org/stable/2332555?seq=1#page_scan_tab_contents).**
-Karl Pearson, C. H. Usher. _Biometrika_, Vol. 21, No. 1 of 4 (Dec., 1929), pp. 144-163 doi:10.2307 of 2332555 ![2 bones](/img/2-bones.gif)
+Karl Pearson, C. H. Usher. _Biometrika_, Vol. 21, No. 1 of 4 (Dec., 1929), pp. 144-163 doi:10.2307 of 2332555 ![2 bones](/img/2-bones.png)
 
 Fascinating reading about colour breeding after the first World War.
 Pearson was the first to use the term "Cornaz Albino," in memory of
@@ -132,16 +132,16 @@ exist for Deaf and Blind dogs.
 
 <http://bowlingsite.mcf.com/Genetics/ColorGen.html> ![one
 bone
-rating](/img/1-bone.gif)
+rating](/img/1-bone.png)
 
 <http://web.archive.org/web/20221229195344/http://www.kolumbus.fi/sarakontu/link/canlinks.html>
 ![one bone
-rating](/img/1-bone.gif) - Interesting site with links to colour genetics
+rating](/img/1-bone.png) - Interesting site with links to colour genetics
 for many Spitz breeds
 
 [https://dpca.org/albino/](https://dpca.org/albino/) ![one
 bone
-rating](/img/1-bone.gif) - From the Doberman Pinscher Club of America
+rating](/img/1-bone.png) - From the Doberman Pinscher Club of America
 
 ## Current Research
 

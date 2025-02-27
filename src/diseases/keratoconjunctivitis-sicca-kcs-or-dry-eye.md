@@ -183,22 +183,22 @@ condition is well controlled to help prevent recurrence.
 # References
 
 [www.eyevet.ca](http://www.eyevet.ca/) ![2
-bones](/img/2-bones.gif)
+bones](/img/2-bones.png)
 
 [www.marvistavet.com](http://www.marvistavet.com/dry-eye.pml) ![2
-bones](/img/2-bones.gif)
+bones](/img/2-bones.png)
 
 [www.eyevetclinic.co.uk](http://www.eyevetclinic.co.uk/) ![2
-bones](/img/2-bones.gif)
+bones](/img/2-bones.png)
 
 # Suggested Links
 
 [http://www.eyevet.ca/kcs.html](http://www.eyevet.ca/kcs.html)
 ![2
-bones](/img/2-bones.gif)
+bones](/img/2-bones.png)
 
 [http://www.marvistavet.com/dry-eye.pml](http://www.marvistavet.com/dry-eye.pml)
-![2 bones](/img/2-bones.gif)
+![2 bones](/img/2-bones.png)
 
 [http://www.medi-vet.com/dog-eye-care-s/1831.htm](http://www.medi-vet.com/dog-eye-care-s/1831.htm)
 

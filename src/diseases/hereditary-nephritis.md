@@ -94,12 +94,12 @@ not be bred.
 [Glomerular
 Disease](http://www.merckvetmanual.com/mvm/urinary_system/noninfectious_diseases_of_the_urinary_system_in_small_animals/glomerular_disease_in_small_animals.html?qt=glomerular%20disease&alt=sh)
 in: The Merck Veterinary Manual ![four bones
-rating](/img/4-bones.gif)
+rating](/img/4-bones.png)
 
 [Bernard et al. 1977. Familial Renal Disease in Samoyed
 Dogs.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1697612/pdf/canvetj00380-0019.pdf)
 Can Vet Journal 18: 181-189. ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 [Zheng et al. 1994. Canine X chromosome-linked hereditary nephritis:
 A genetic model for human X-linked hereditary nephritis resulting from a
@@ -107,18 +107,18 @@ single base mutation in the gene encoding the alpha5 chain of collagen
 type
 IV](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC43708/pdf/pnas01131-0521.pdf)
 . PNAS 91: 3989-3993. ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 [Glomerulopathies. ](http://books.google.com/books?id=tlAm5etmJU8C&lpg=PA399&ots=zY6A61oBsI&dq=hereditary%20nephritis%20canine&pg=PA376#v=snippet&q=glomerulopathies%20Samoyed&f=false)
 Page 376 in: Veterinary pediatrics: dogs and cats from birth to six
 months by JD Hoskins. Saunders 2001. ![four bones
-rating](/img/4-bones.gif)
+rating](/img/4-bones.png)
 
 [Canine and Murine Hereditary
 Nephritis.](http://books.google.com/books?id=hghs1uI2rg8C&lpg=PA562&ots=sWo5EkF9yy&dq=hereditary%20nephritis%20canine&pg=PA542#v=snippet&q=canine%20and%20murine%20hereditary%20nephritis&f=false)
 Page 542 in: Diseases of the kidney and urinary tract by RW Schrier.
 Lippincott Williams & Wilkins, 2007. ![four bones
-rating](/img/4-bones.gif)
+rating](/img/4-bones.png)
 
 ## Support Groups
 
@@ -129,33 +129,33 @@ Unable to find any canine nephritis support groups
 [X-linked recessive
 inheritance](http://en.wikipedia.org/wiki/X-linked_recessive_inheritance)
 at Wikipedia ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 [Hereditary
 Nephritis](http://www.mirage-samoyeds.com/kidney.htm) at
 Mirage Samoyeds ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 [Samoyed hereditary
 glomerulopathy](http://en.wikipedia.org/wiki/Samoyed_hereditary_glomerulopathy)
 at wikipedia ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 [Chronic Renal
 Failure](http://www.marvistavet.com/kidney-failure.pml)
 at www.marvistavet.com ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 [Familial Kidney
 Disease](http://cidd.discoveryspace.ca/disorder/familial-kidney-disease.html)
 at Canine Inherited Disorders Database, University of Prince Edward
 Island ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 [Juvenile Renal
 Disease](http://www.faqs.org/faqs/dogs-faq/medical-info/JRD/)
 at faqs.org ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 [Hereditary Nephritis](https://www.gopetsamerica.com/dog-health/x_linked_nephritis.html) at gopetsamerica.com ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)

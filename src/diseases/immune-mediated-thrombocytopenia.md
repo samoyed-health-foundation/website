@@ -69,31 +69,31 @@ Inspection of gums and mouth, whites of the eyes, and abdomen may reveal petechi
 1. Barlough,J.E., Pedersen, N.C, 1995. "The immune system and
    disorders" in UC Davis School of Vet Med book of dogs. Siegal, M.
    Ed., p.331-333. Harper Collins, New York. ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 2. <https://www.merckvetmanual.com/circulatory-system/hemostatic-disorders/platelet-disorders-in-animals>
    ![four bones
-rating](/img/4-bones.gif)
+rating](/img/4-bones.png)
 3. Williams,D.A., Maggio-Price, L., 1984. Canine idiopathic
    thrombocytopenia: clinical observations and long-term follow-up in
    54 cases. J Am Vet Med Assoc 15; 185(6):p.660-663. [Link to
    abstract](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=6541641&query_hl=3&itool=pubmed_docsum/)
    ![four bones
-rating](/img/4-bones.gif)
+rating](/img/4-bones.png)
 4. <http://www.marvistavet.com/immune-mediated-platelet-destruction.pml>
    ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 5. Kohn, B., 2003. Immune-mediated thrombocytopenia -- current
    approach. 28th World Congress of World Small Animal Veterinary
    Assoc, Thailand p.1-3. ![four bones
-rating](/img/4-bones.gif)
+rating](/img/4-bones.png)
 6. Trepanier, L.A., Danhof, R., Toll, J., and Watrous, D. Clinical
    findings in 40 dogs with hypersensitivity associated with
    administration of potentiated sulfonamides. J Vet Int Med 9; 2003
    Sep-Oct; 17(5):p. 647-652. [Link to
    abstract](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=14529130&query_hl=5&itool=pubmed_docsum)
    ![four bones
-rating](/img/4-bones.gif)
+rating](/img/4-bones.png)
 7. Shropshire S, Dow S, Lappin M, 2020. [Detection and dynamics of anti-platelet antibodies in thrombocytopenic dogs with and without idiopathic immune thrombocytopenia. ](https://onlinelibrary.wiley.com/doi/full/10.1111/jvim.15737) J Vet Intern Med; 34(2): 700-709. ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 8. Kopecny L et al, 2020. [Application of Therapeutic Plasma Exchange in Dogs with Immune Mediated Thrombocytopenia.](https://onlinelibrary.wiley.com/doi/10.1111/jvim.15836) J Vet Int Med; er(4): 1576-1581 ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)

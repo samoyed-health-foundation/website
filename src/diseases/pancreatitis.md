@@ -94,7 +94,7 @@ The Royal Veterinary College in London has completed a study on the
 [Nutritional Management of Acute Pancreatitis in Dogs and
 Cats. ](https://pubmed.ncbi.nlm.nih.gov/24690138/)![three
 bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 **Chronic pancreatitis:** Some animals develop chronic pancreatitis
 which can lead to diabetes or pancreatic insufficiency. In this latter
@@ -110,18 +110,18 @@ from the pancreas of hogs and cattle.
   Pancreatitis](http://www.veterinarypartner.com/Content.plx?P=A&A=2214)
   by Wendy C. Brooks, DVM, DipABVP, at www.veterinarypartner.com ![two
 bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 - (2) Papa K et al 2011. [Occurence, clinical features and outcome of
   canine pancreatitis (80
   cases).](http://www.ncbi.nlm.nih.gov/pubmed/21354940)
   Acta Vet Hung 59(1) 37-52. ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 - (3) Mansfield et al 2011. [A Pilot Study to Assess Tolerability of Early
   Enteral Nutrition via Esophagostomy Tube Feeding in Dogs with Severe
   Acute
   Pancreatitis.](http://www.ncbi.nlm.nih.gov/pubmed/21418318)
   J Vet Int Med 25(3) 419-425 ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 **SCARF-sponsored research:**
 
@@ -130,7 +130,7 @@ rating](/img/3-bones.gif)
   Lipase Immunoreactivity (SPEC cPL) Test for the Diagnosis of canine
   Pancreatitis](/research/current-studies/akcchf-grant-1227-a):
   ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 **Published Paper:**
 
@@ -139,30 +139,30 @@ rating](/img/2-bones.gif)
   for Pancreatitis in 70 Dogs with and without Histopathologic Evidence of
   Pancreatitis.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1939-1676.2011.00793.x)
   J Vet Int Med 25(6): 1241-1247. ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 ## Suggested Links
 
 [Pancreatitis in
 Dogs](https://www.petcoach.co/article/pancreatitis-inflammation-in-dogs/)
 at www.petcoach.co ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 [Pancreatitis in Dogs: Symptoms and
 Treatments](http://pets.webmd.com/dogs/dog-pancreatitis-symptoms-and-treatment)
 at pets.webmd.com ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 Mansfield CS, Watson PD, Jones BR. 2011. [Specificity and sensitivity
 of serum canine pancreatic elastase-1 concentration in the diagnosis of
 pancreatitis.](https://journals.sagepub.com/doi/pdf/10.1177/1040638711407875)
 J VET Diagn Invest 23(691). ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 [Canine
 Pancreatitis](https://pethelpful.com/dogs/Canine-Pancreatitis)
 at HubPages ![one bone
-rating](/img/1-bone.gif)
+rating](/img/1-bone.png)
 
 ## SCARF-Sponsored Research
 

@@ -123,16 +123,16 @@ skin.
 
 Paradis, Manon in Kirk's Current Veterinary Therapy XIII -- Small Animal
 Practice, "Melatonin Therapy for Canine Alopecia" pp546-549
-![4 bones](/img/4-bones.gif)
+![4 bones](/img/4-bones.png)
 
 [Adrenal steroid hormone concentrations in dogs with hair cycle arrest (Alopecia X) before and during treatment with melatonin and mitotane](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=15500479&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVAbstractPlus) by Linda A. Frank, Keith A Hnilica and Jack Oliver, _Veterinary Dermatology_ 2004; 15(5): 278-284
-![3 bones](/img/3-bones.gif)
+![3 bones](/img/3-bones.png)
 
 [Treatment of canine Alopecia X with trilostane](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=15500480&ordinalpos=2&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum), by Rosario Cerundolo, David H Lloyd, Angelo Persechino, Helen Evans and Andria Cauvin, _Veterinary Dermatology_ 2004; 15(5): 285-293
-![3 bones](/img/3-bones.gif)
+![3 bones](/img/3-bones.png)
 
 Identifying "look alike" endocrine diseases, by Pat White DVM MS diplomat ACVD _DVM_ June 2001
-![2 bones](/img/2-bones.gif)
+![2 bones](/img/2-bones.png)
 
 <http://www.vet.utk.edu/hairloss>
 
@@ -145,15 +145,15 @@ of Veterinary Medicine The University of Tennessee Knoxville, TN
 Tel: (865) 974-8387 (ET)
 
 Email: <mailto:LFrank@utk.edu> Website: [Hair Loss](http://www.vet.utk.edu/hairloss)
-![2 bones](/img/2-bones.gif)
+![2 bones](/img/2-bones.png)
 
 [Mar Vista Animal Center Health Pages](http://www.marvistavet.com/alopecia-x.pml)
-![2 bones](/img/2-bones.gif)
+![2 bones](/img/2-bones.png)
 
 ## Current Research
 
-Crawford M, Lundbert A, Neto R.  2024. [Canine alopecia X-like disorder.](https://bjvp.org.br/wp-content/uploads/2024/03/BJVP_v17n1_76-78.pdf)  Braz J Vet Pathol 17: 76-78. ![two bones rating](/img/2-bones.gif)
+Crawford M, Lundbert A, Neto R.  2024. [Canine alopecia X-like disorder.](https://bjvp.org.br/wp-content/uploads/2024/03/BJVP_v17n1_76-78.pdf)  Braz J Vet Pathol 17: 76-78. ![two bones rating](/img/2-bones.png)
 
 Brunner MAT et al 2017. [Novel insights into the pathways regulating the canine hair cycle and their deregulation in alopecia X](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5655477/). PLoS One 12:30186469. ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 

@@ -104,7 +104,7 @@ Memon M and Tibary A. 2001. Canine and Feline Cryptorchidism. In
 Recent Advances in Small Animal Reproduction. International
 Veterinary Information Service.
 <https://www.ivis.org/advances/Concannon/memon/ivis.pdf>
-![3 bones](/img/3-bones.gif)
+![3 bones](/img/3-bones.png)
 
 ## Support Groups
 
@@ -115,11 +115,11 @@ e.g. obesity, and I can find no support group for Neuters either.
 ## Suggested Links
 
 <http://cidd.discoveryspace.ca/disorder/cryptorchidism-retained-testicle.html>
-![3 bones](/img/3-bones.gif)
+![3 bones](/img/3-bones.png)
 
 <http://siriusdog.com/cyptorchidism-congenital-testicle-dog.htm>
 (Wonderful description by Fred Lanting.)
-![2 bones](/img/2-bones.gif)
+![2 bones](/img/2-bones.png)
 
 ## SCARF-Sponsored Research
 

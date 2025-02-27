@@ -76,41 +76,41 @@ Glaucoma is a very painful condition and is difficult and expensive to treat and
 
 _(Many thanks to Dr. Gavin Kennard for answering dozens of questions and providing so much information on glaucoma in canines)._
 
-Ward, DVM, E. (n.d.). [Glaucoma in Dogs](https://vcahospitals.com/know-your-pet/glaucoma-in-dogs). Retrieved from https://vcahospitals.com/know-your-pet/ ![two bones rating](/img/2-bones.gif)
+Ward, DVM, E. (n.d.). [Glaucoma in Dogs](https://vcahospitals.com/know-your-pet/glaucoma-in-dogs). Retrieved from https://vcahospitals.com/know-your-pet/ ![two bones rating](/img/2-bones.png)
 
-[Canine (not human) glaucoma](http://web.archive.org/web/20201001072726/https://vmcli.com/canine-not-human-glaucoma/) by N LaCroix DVM at Veterinary Medical Center of Long Island. ![two bones rating](/img/2-bones.gif)
+[Canine (not human) glaucoma](http://web.archive.org/web/20201001072726/https://vmcli.com/canine-not-human-glaucoma/) by N LaCroix DVM at Veterinary Medical Center of Long Island. ![two bones rating](/img/2-bones.png)
 
 Maggio, F. (2015). Glaucomas. Topics in Companion Animal Medicine, 30(3), 86-96. Accessed at doi: <http://dx.doi.org.library.capella.edu/10.1053/j.tcam.2015.07.011>
-![three bones rating](/img/3-bones.gif)
+![three bones rating](/img/3-bones.png)
 
-Graham, K. L., McCowan, C., & White, A. (2016). [Genetic and biochemical biomarkers in canine glaucoma](https://doi.org/10.1177/0300985816666611). Veterinary Pathology, 54(2), 194-203. ![three bones rating](/img/3-bones.gif)
+Graham, K. L., McCowan, C., & White, A. (2016). [Genetic and biochemical biomarkers in canine glaucoma](https://doi.org/10.1177/0300985816666611). Veterinary Pathology, 54(2), 194-203. ![three bones rating](/img/3-bones.png)
 
-Kato K, Sasaki N, Matsunaga S, Nishimura R, Ogawa H. (2006). [Incidence of canine glaucoma with Goniodysplasia in Japan : A retrospective study](https://pdfs.semanticscholar.org/55a3/5a0870cd3674e90f638b30e1d196b694e7f0.pdf). Journal of Veterinary Medical Science, 68(8), 853-858. ![three bones rating](/img/3-bones.gif)
+Kato K, Sasaki N, Matsunaga S, Nishimura R, Ogawa H. (2006). [Incidence of canine glaucoma with Goniodysplasia in Japan : A retrospective study](https://pdfs.semanticscholar.org/55a3/5a0870cd3674e90f638b30e1d196b694e7f0.pdf). Journal of Veterinary Medical Science, 68(8), 853-858. ![three bones rating](/img/3-bones.png)
 
-[Neuroinflammation in advanced canine glaucoma](http://www.molvis.org/molvis/v16/a225/). (2010). Molecular Vision, 16, 2092-2108. ![three bones rating](/img/3-bones.gif)
+[Neuroinflammation in advanced canine glaucoma](http://www.molvis.org/molvis/v16/a225/). (2010). Molecular Vision, 16, 2092-2108. ![three bones rating](/img/3-bones.png)
 
-Park, S. A., Sledge, D., Monahan, C., Bartoe, J. T., & Komáromy, A. M. (2019). [Primary angle-closure glaucoma with goniodysgenesis in a beagle dog](https://doi.org/10.1186/s12917-019-1812-1). BMC Veterinary Research, 15(1). ![three bones rating](/img/3-bones.gif)
+Park, S. A., Sledge, D., Monahan, C., Bartoe, J. T., & Komáromy, A. M. (2019). [Primary angle-closure glaucoma with goniodysgenesis in a beagle dog](https://doi.org/10.1186/s12917-019-1812-1). BMC Veterinary Research, 15(1). ![three bones rating](/img/3-bones.png)
 
 ## Suggested Links
 
-<https://www.sagecenters.com/veterinaryvision/for-veterinarians/clinical-forum/specific-disease-topics/glaucoma-3/> ![two bones rating](/img/2-bones.gif)
+<https://www.sagecenters.com/veterinaryvision/for-veterinarians/clinical-forum/specific-disease-topics/glaucoma-3/> ![two bones rating](/img/2-bones.png)
 
-<http://www.eyecareforanimals.com/conditions/glaucoma/> ![two bones rating](/img/2-bones.gif)
+<http://www.eyecareforanimals.com/conditions/glaucoma/> ![two bones rating](/img/2-bones.png)
 
-<https://www.vetfolio.com/learn/article/canine-glaucoma-pathophysiology-and-diagnosis>![three bones rating](/img/3-bones.gif)
+<https://www.vetfolio.com/learn/article/canine-glaucoma-pathophysiology-and-diagnosis>![three bones rating](/img/3-bones.png)
 
-<http://web.archive.org/web/20240616223722/http://blog.vetbloom.com/ophthalmology/diagnosis-and-treatment-of-glaucoma/> ![two bones rating](/img/2-bones.gif)
+<http://web.archive.org/web/20240616223722/http://blog.vetbloom.com/ophthalmology/diagnosis-and-treatment-of-glaucoma/> ![two bones rating](/img/2-bones.png)
 and this group recommends the following two books:
 
 - Living with Blind Dogs: A Resource Book and Training Guide for the Owners of Blind and Low-Vision dogs by Caroline D. Levin
 - Blind Devotion: Enhancing the Lives of Blind and Visually Impaired Dogs by Cathy Symons and Joan Powers
 
-<https://eyedvm.com/animal-eye-care/handout/glaucoma-in-dogs-and-cats/> ![two bones rating](/img/2-bones.gif)
+<https://eyedvm.com/animal-eye-care/handout/glaucoma-in-dogs-and-cats/> ![two bones rating](/img/2-bones.png)
 
-Strom AR. Glaucoma diagnosis and management. WSAVA Congress Proceedings 2017. <https://www.vin.com/apputil/content/defaultadv1.aspx?pld=20539&id=8506396> ![two bones rating](/img/2-bones.gif)
+Strom AR. Glaucoma diagnosis and management. WSAVA Congress Proceedings 2017. <https://www.vin.com/apputil/content/defaultadv1.aspx?pld=20539&id=8506396> ![two bones rating](/img/2-bones.png)
 
-British Veterinary Association [Eye Scheme](https://www.bva.co.uk/canine-health-schemes/eye-scheme/) ![three bones rating](/img/3-bones.gif)
+British Veterinary Association [Eye Scheme](https://www.bva.co.uk/canine-health-schemes/eye-scheme/) ![three bones rating](/img/3-bones.png)
 
 ## Current Research
 
-Turner G, Groth A, Hii C, O'Reilly A, Volk H, Hardman C. (2023). [Statistical agreement of gonioscopy performed as a puppy and as an adult in the Samoyed dog](https://pubmed.ncbi.nlm.nih.gov/37526040/). Vet Ophthalmol. 2023 Aug 1. doi: 10.1111/vop.13138. Epub ahead of print. PMID: 37526040. ![3 bones](/img/3-bones.gif)
+Turner G, Groth A, Hii C, O'Reilly A, Volk H, Hardman C. (2023). [Statistical agreement of gonioscopy performed as a puppy and as an adult in the Samoyed dog](https://pubmed.ncbi.nlm.nih.gov/37526040/). Vet Ophthalmol. 2023 Aug 1. doi: 10.1111/vop.13138. Epub ahead of print. PMID: 37526040. ![3 bones](/img/3-bones.png)

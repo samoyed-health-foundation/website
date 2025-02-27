@@ -84,12 +84,12 @@ should not be bred.
 
 Cerebellar Disorders in The Merck Veterinary Manual 10th Edition. Ed
 Kahn, Cynthia M. Pub Merck and Co, Inc. pp 1120-1121 ![four bones
-rating](/img/4-bones.gif)
+rating](/img/4-bones.png)
 
 Bell JS, DVM. Cerebellar Abiotrophy: Its cause and
 diagnosis. (Link no longer available)
 ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 ## Support Groups
 
@@ -100,28 +100,28 @@ I could not find a support group for canine neurological degeneration.
 [Congenital and Inherited Disorders of the Nervous System in
 Dogs](http://www.merckvetmanual.com/pethealth/dog_disorders_and_diseases/brain_spinal_cord_and_nerve_disorders_of_dogs/congenital_and_inherited_disorders_of_the_nervous_system_in_dogs.html?qt=cerebellar%20disorders&alt=sh)
 in the Merck Manual Pet Health Edition ![four bones
-rating](/img/4-bones.gif)
+rating](/img/4-bones.png)
 
 [Cerebellar
 Abiotrophy](http://en.wikipedia.org/wiki/Cerebellar_abiotrophy)
 at wikipedia ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 [Cerebellar Abiotrophy
 (Ataxia)](http://cidd.discoveryspace.ca/disorder/cerebellar-abiotrophyataxia.html)
 at the Canine Inherited Disorders Database, University of Prince Edward
 Island ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 [Amo AN et al. 2009. Canine cerebellar cortical abiotrophy in two
 mixed breed
 littermates](http://sedici.unlp.edu.ar/handle/10915/11242).
 Analecta Veterinaria 29: 39-41. ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 Good description of the course of the disease:
 
 [Berry ML et al. 2003. Cerebellar abiotrophy in a miniature
 schnauzer](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC340240/?tool=pubmed).
 Can Vet J 44: 657-759. ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)

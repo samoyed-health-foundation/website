@@ -18,7 +18,7 @@ There are three different abnormalities that may occur singly or together in elb
 - Ununited anconeal process
 
 [Description of abnormalities](http://www.merckvetmanual.com/mvm/musculoskeletal_system/arthropathies_and_related_disorders_in_small_animals/elbow_dysplasia_in_small_animals.html) in the Merck Veterinary Manual
-![4 bones](/img/4-bones.gif)
+![4 bones](/img/4-bones.png)
 
 </details>
 
@@ -99,44 +99,44 @@ minimal risk. The following OFA article discusses how to use available
 information, including a "vertical pedigree," to help make breeding
 decisions.
 
-[Collecting and utilizing phenotypic data to minimize disease: A breeder's practical guide](https://ofa.org/wp-content/uploads/2021/11/hovanart.pdf) ![three bones rating](/img/3-bones.gif)
+[Collecting and utilizing phenotypic data to minimize disease: A breeder's practical guide](https://ofa.org/wp-content/uploads/2021/11/hovanart.pdf) ![three bones rating](/img/3-bones.png)
 
 ## References
 
 [Elbow Dysplasia](https://www.ofa.org/diseases/elbow-dysplasia) at
 the Orthopedic Foundation for Animals ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 [Elbow
 Dysplasia](http://www.merckvetmanual.com/mvm/musculoskeletal_system/arthropathies_and_related_disorders_in_small_animals/elbow_dysplasia_in_small_animals.html)
 in the Merck Veterinary Manual ![four bones
-rating](/img/4-bones.gif)
+rating](/img/4-bones.png)
 
 Elbow Dysplasia in Dogs at vetsurgerycentral.com ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 ## Suggested Links
 
 [Summary of OFA elbow dysplasia
 registry](http://www.mirage-samoyeds.com/elbowofa.htm)
 at www.mirage-samoyeds.com ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 [British Veterinary
 Association](https://www.bva.co.uk/canine-health-schemes/elbow-scheme/)
 ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 [Canine Elbow
 Dysplasia,](https://www.acvs.org/small-animal/canine-elbow-dysplasia)
 American College of Veterinary Surgeons ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 [Dr. Bell's Genetics
 lecture](/files/dr_bell_genetics_lecture.pdf)
 ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 ## Current Research
 
-Oberbauer AM et al. 2017. [Long-term genetic selection reduced prevalanece of hip and elbow dysplasia in 60 dog breeds](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5325577/). PLoS One 12:e0172918. ![three bones rating](/img/3-bones.gif)
+Oberbauer AM et al. 2017. [Long-term genetic selection reduced prevalanece of hip and elbow dysplasia in 60 dog breeds](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5325577/). PLoS One 12:e0172918. ![three bones rating](/img/3-bones.png)

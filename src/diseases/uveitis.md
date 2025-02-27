@@ -15,7 +15,7 @@ layout: disease
 ## Suggested Links
 
 Kuruts S. 2017. [Canine Uveitis and the Veterinary Technician](https://todaysveterinarynurse.com/articles/canine-uveitis-and-the-veterinary-technician/). Today's Veterinary Nurse. ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 [Anterior Uveitis in Animals](https://www.merckvetmanual.com/emergency-medicine-and-critical-care/ophthalmic-emergencies/anterior-uveitis-in-animals?query=uveitis). Merck Veterinary Manual. ![four bones
-rating](/img/4-bones.gif)
+rating](/img/4-bones.png)

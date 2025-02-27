@@ -85,28 +85,28 @@ congenital heart defects.
 [Atrial Septal Defect](http://cidd.discoveryspace.ca/disorder/atrial-septal-defect-asd.html),
 Canine Inherited Disorders Database, University of Prince Edward
 Island ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 [Congenital Cardiac Disease and the
-OFA](https://www.ofa.org/diseases/other-diseases/cardiac-disease) ![three bones rating](/img/3-bones.gif)
+OFA](https://www.ofa.org/diseases/other-diseases/cardiac-disease) ![three bones rating](/img/3-bones.png)
 
 [Cardiovascular System of the
 Dog](http://www.vetmed.wsu.edu/ClientED/anatomy/cardiovascular.aspx),
-Washington State University ![three bones rating](/img/3-bones.gif)
+Washington State University ![three bones rating](/img/3-bones.png)
 
 ## Suggested Links
 
 [Atrial Septal Defect in Dogs,
 aquaticcommunity.com](http://www.aquaticcommunity.com/dog/health/cardio/Atrialseptaldefect.php)
 ![one bone
-rating](/img/1-bone.gif)
+rating](/img/1-bone.png)
 
 [Atrial Septal Defect image,
 Wikipedia](http://en.wikipedia.org/wiki/File:Atrial_septal_defect-en.png)
 ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 [Heart Failure in Your Dog,
 2ndchance.info](http://www.2ndchance.info/dogdilcardiomyopathy.htm)
 ![one bone
-rating](/img/1-bone.gif)
+rating](/img/1-bone.png)

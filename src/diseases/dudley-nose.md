@@ -15,4 +15,4 @@ layout: disease
 ## Suggested Links
 
 Nesbitt M. [My dog's nose is changing color](https://www.animalwised.com/my-dog-s-nose-is-changing-color-2334.html). AnimalWised November 2019. ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)

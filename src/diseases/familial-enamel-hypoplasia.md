@@ -14,7 +14,7 @@ layout: disease
 
 ## Suggested Links
 
-General Information: NieMiec B. [Disorders of Dental Hard Tissues in Dogs. Enamel Hypocalcification/Hypoplasia](https://todaysveterinarypractice.com/disorders-of-dental-hard-tissues-in-dogs). Today's Veterinary Practice.![3 bones](/img/3-bones.gif)
+General Information: NieMiec B. [Disorders of Dental Hard Tissues in Dogs. Enamel Hypocalcification/Hypoplasia](https://todaysveterinarypractice.com/disorders-of-dental-hard-tissues-in-dogs). Today's Veterinary Practice.![3 bones](/img/3-bones.png)
 
 Samoyed Specific Research at the University of California at Davis: [Familial hypoplasia (Amelogenesis imperfecta) in Samoyed Dogs] (https://ccah.vetmed.ucdavis.edu/sites/g/files/dgvnsk4586/files/inline-files/samoyed-feh-study-5-19-2014.pdf).
 

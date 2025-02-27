@@ -102,55 +102,55 @@ Aroch,I, Ofri R. and Alzenberg, I., Haematological, ocular and skeletal
 abnormalities in a Samoyed family. The Journal of Small Animal
 Practice. Vol.37:7, p.333-339, 1996 [link to
 abstract](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=8840254&dopt=Citation) ![three
-bones rating](/img/3-bones.gif)
+bones rating](/img/3-bones.png)
 
 American College of Veterinary Ophthalmologist 1999 ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 Howell,D.M. Stankovics, M.E., Sarna C.S. and Aguirre G.D. The
 geographic form of retinal dysplasia in dogs is not always a congenital
 abnormality. Veterinary Ophthalmology p. 61-66, 1999. [link to
 abstract](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=11397243&query_hl=9&itool=pubmed_docsum)
-![three bones rating](/img/3-bones.gif)
+![three bones rating](/img/3-bones.png)
 
 MacMillian A.D. and Lipton D.E., Heritability of Multifocal Retinal
 Dysplasia in American Cocker Spaniels, JAVMA 1978: vol. 172:5 p. 568-572
 
 [link to
 abstract](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=632194&query_hl=13&itool=pubmed_docsum) ![three
-bones rating](/img/3-bones.gif)
+bones rating](/img/3-bones.png)
 
 Meyers V.N., Jezyk P.F., Aguirre G.D. and Paterson D.F., Short-limbed
 dwarfism and ocular defects in the Samoyed dog, JAVMA, vol. 183:9, p.
 975-979, Nov. 1, 1983. [link to
 abstract](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?itool=abstractplus&db=pubmed&cmd=Retrieve&dopt=abstractplus&list_uids=12002589) ![three
-bones rating](/img/3-bones.gif)
+bones rating](/img/3-bones.png)
 Willis, Malcolm B. "Genetics of the Dog"
 Howell Book House 1989. ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 ## Suggested Links
 
 [OFA Eye
 Evaluation](https://www.ofa.org/?s=eye+evaluation)
-![three bones rating](/img/3-bones.gif)
+![three bones rating](/img/3-bones.png)
 
 [Merck Veterinary
 Manual](http://www.merckvetmanual.com/mvm/eye_and_ear/ophthalmology/ocular_fundus.html?qt=retinal%20dysplasia&alt=sh)
-![three bones rating](/img/3-bones.gif)
+![three bones rating](/img/3-bones.png)
 
 [Gionfriddo, Julie (AVCO diplomate), Retinal
 Dyspalsia and Retinal
 Folds](http://www.eyevet.ca/ret_dysplasia.html)
-![three bones rating](/img/3-bones.gif)
+![three bones rating](/img/3-bones.png)
 
 [Stroyan, Keith D., Dwarfism and Eye disorders
 in Labrador Retrievers, Important Scientific
 Findings.](http://www.math.uiowa.edu/~stroyan/Shohola/Dwarf.htm) ![two
-bones rating](/img/2-bones.gif)
+bones rating](/img/2-bones.png)
 
 <http://cidd.discoveryspace.ca/disorder/retinal-dysplasia.html> ![two
-bones rating](/img/2-bones.gif)
+bones rating](/img/2-bones.png)
 
 ## "Living with a Disorder" Journal Entries
 

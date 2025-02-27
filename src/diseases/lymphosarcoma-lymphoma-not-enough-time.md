@@ -141,7 +141,7 @@ Demonstration of erythrocyte-, neutrophil- and platelet-associated IgG
 following treatment with
 cefazedone.](https://pubmed.ncbi.nlm.nih.gov/3394717/)
 American Journal of Hematology, 28,(2): 71-18, 2006.
-![three bones rating](/img/3-bones.gif)
+![three bones rating](/img/3-bones.png)
 
 Whether or not this had anything to do with my dog's persistent
 anemia I will never know. However, as a precaution I will not give my

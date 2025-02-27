@@ -103,14 +103,14 @@ caution, as the genetics of microphthalmia have not been worked out.
 
 Canine Inherited Disorders Database gives an overview on
 <http://cidd.discoveryspace.ca/disorder/microphthalmia-ocular-dysgenesis.html>
-![3 bones](/img/3-bones.gif)
+![3 bones](/img/3-bones.png)
 
 National Center for Biotechnology Information description of MITF gene:
-<http://omim.org/entry/156845> ![3 bones](/img/3-bones.gif)
+<http://omim.org/entry/156845> ![3 bones](/img/3-bones.png)
 
 Rothschild MF, Van Cleave PS, Glenn KL, Carlstrom LP, Ellinwood NM.
 Association of MITF with white spotting in Beagle crosses and
-Newfoundland dogs. Anim Genet. 2006 Dec;37(6):606-7.![2 bones](/img/2-bones.gif)
+Newfoundland dogs. Anim Genet. 2006 Dec;37(6):606-7.![2 bones](/img/2-bones.png)
 
 ## Suggested Links
 
@@ -118,22 +118,22 @@ There are many of web sites for other breeds, but none specifically for
 Samoyeds. A number of these sites associate microphthalmia with merling
 and coat colours. Some also associate deafness with merling and
 microphthalmia. Merling has not been associated with Samoyeds. ![3
-bones](/img/3-bones.gif)
+bones](/img/3-bones.png)
 
 OFA is the US overseer for heritable eye disease in dogs and has the US
 database.
 
 <https://www.ofa.org/?s=eye+overview>
-![3 bones](/img/3-bones.gif)
+![3 bones](/img/3-bones.png)
 
 <https://www.ofa.org/diseases/eye-certification/eye-faqs>
 ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 The BVA is the overseer in the UK. Please note Samoyeds are not
 routinely eye tested in the UK.
 <https://www.thekennelclub.org.uk/health-and-dog-care/health/getting-started-with-health-testing-and-screening/eye-screening-scheme/>
-![3 bones](/img/3-bones.gif)
+![3 bones](/img/3-bones.png)
 
 ## "Living with a Disorder" Journal Entries
 

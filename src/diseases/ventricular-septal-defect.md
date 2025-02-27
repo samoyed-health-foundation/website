@@ -83,38 +83,38 @@ from congenital heart defects.
 [Defect of the Ventricular Septum in Dogs,
 petmd](http://www.petmd.com/dog/conditions/cardiovascular/c_dg_septal_defect)
 ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 [Congenital Cardiac Disease and the
 OFA](https://www.ofa.org/diseases/other-diseases/cardiac-disease) ![three
 bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 ## Suggested Links
 
 [Ventricular Septal Defect in
 Dogs](http://www.aquaticcommunity.com/dog/health/cardio/Ventricularseptaldefect.php),
 aquaticcommunity.com ![one bone
-rating](/img/1-bone.gif)
+rating](/img/1-bone.png)
 
 [Ventricular Septal Defect (VSA): A Congenital Heart Disorder in
 Puppies,](https://www.petcoach.co/article/heart-anatomy-development-in-dogs/)
 Under: Other articles you might like at petcoach.co ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 [Cardiovascular system of the
 Dog](http://www.vetmed.wsu.edu/ClientED/anatomy/cardiovascular.aspx),
 Washington State University College of Veterinary Medicine ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 [Septal
 Defects](http://www.pediatriccardiacinquest.mb.ca/ch02/septaldefects.html),
 Manitoba Pediatric Cardiac Surgery Inquest ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 [Ventricular Septal
 Defect](http://cidd.discoveryspace.ca/disorder/ventricular-septal-defect-vsd.html)
 
 - Canine Inherited Disorders Database, Univ. of Prince Edward Island
   ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)

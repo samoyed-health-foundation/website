@@ -150,59 +150,59 @@ after one estrus cycle reduces the risk to 8%.
 Multivariate Study of 202 Consecutive Cases._ Vet Pathol 1993.
 30:20-27](https://vet.sagepub.com/content/30/1/20.short).
 ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 _[Canine Mammary Tumors](https://vet.osu.edu/vmc/companion/our-services/oncology-and-hematology/common-tumor-types/canine-mammary-tumors)._ Ohio State College of Veterinary
 Medicine.
 ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 Hoskins JD. _[Prognosis, treatment of canine mammary tumors.](https://www.dvm360.com/view/prognosis-treatment-canine-mammary-tumors)_
 www.dvm60.com
 2008
 ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 [_Mammary Tumors in Dogs and Cats: What Do I Tell the Owner._ Histovet
 Surgical
 Pathology](http://www.histovet.com/pdf/HIS_MammaryTumor.pdf).
 ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 [_Mammary Cancer_.
 www.caninecancerawareness.org](http://web.archive.org/web/20230128161428/http://caninecancerawareness.org/canine-cancer-diagnosis/mammary-cancer)
 ![one bone
-rating](/img/1-bone.gif)
+rating](/img/1-bone.png)
 
 [_Cancer and Tumors - Mammary Tumors_.
 www.vetinfo.com](http://www.vetinfo.com/dmammary.html#0_undefined,0_)
 ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 _[Overview of Mammary
 Tumors](http://www.merckvetmanual.com/mvm/reproductive_system/mammary_tumors/overview_of_mammary_tumors.html)_.
 Merck Veterinary Manual. ![four bones
-rating](/img/4-bones.gif)
+rating](/img/4-bones.png)
 
 [_Mammary Tumors in Cats and Dogs_. American College of Veterinary
 Surgeons](https://www.acvs.org/small-animal/mammary-tumors).
 ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 [Brooks WC. _Mammary Tumors in Dogs._
 www.veterinarypartner.com](http://www.veterinarypartner.com/Content.plx?P=A&A=1350&S=2&EVetID=0)
 ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 [_Mammary Gland (Breast) Cancer in Dogs._
 www.petcancercenter.org](http://www.petcancercenter.org/Cancer_Types_Breast_Dogs.html)
 ![one bone
-rating](/img/1-bone.gif)
+rating](/img/1-bone.png)
 
 ## Suggested Links
 
 <http://www.labbies.com/cancerintro.htm> ![one bone
-rating](/img/1-bone.gif)
+rating](/img/1-bone.png)
 
 ## SCARF-Sponsored Research
 

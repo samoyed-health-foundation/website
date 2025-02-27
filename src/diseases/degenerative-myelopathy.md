@@ -22,9 +22,9 @@ Does your dog have degenerative myelopathy? You can help by providing a sample f
 ## Suggested Links
 
 [Degenerative Myelopathy](https://cidd.discoveryspace.ca/disorder/degenerative-myelopathy.html). University of Prince Edward Island. CIDD Database.![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 [Degenerative Myelopathy](https://www.merckvetmanual.com/nervous-system/diseases-of-the-spinal-column-and-cord/degenerative-diseases-of-the-spinal-column-and-cord?query=degenerative%20myelopathy#v26305110). Merck Veterinary Manual. ![four bones
-rating](/img/4-bones.gif)
+rating](/img/4-bones.png)
 
 [Genetic Testing Available for Disorders in Samoyeds](/diseases/genetic-disorders/). SCARF

@@ -88,39 +88,39 @@ Perianal Fistulas in German Shepherds.
 
 1. Northern American Veterinary Conference (NAVC) Clinicians Brief --
    January 2008 Vol 6 Number1 ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 2. "[Perianal
    Fistula](http://www.merckvetmanual.com/mvm/digestive_system/diseases_of_the_rectum_and_anus/perianal_fistula.html)"
    in the Merck Veterinary Manual ![four bones
-rating](/img/4-bones.gif)
+rating](/img/4-bones.png)
 3. House AK et al. 2006. [Evaluation of the Effect of Two Dose Rates
    of Cyclosporine on the Severity of Perianal Fistulae Lesions and
    Associated Clinical Signs in
    Dogs](http://www.ncbi.nlm.nih.gov/pubmed/?term=house+ak+perianal+fistula&report=abstract).
    _Veterinary Surgery_ 35:543-549. ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 4. Patricelli AJ et al. 2002. [Cyclosporine and ketoconazole for the
    treatment of perianal fistulas in
    dogs](http://avmajournals.avma.org/doi/abs/10.2460/javma.2002.220.1009).
    _Journal of the American Veterinary Medical Association_ 220(7):
    1009-1016. ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 ## Suggested Links
 
 <http://perianal-fistulas.tripod.com/PersonalStoriesIndex.html> -
 This website has personal accounts of dogs with perianal fistulas ![one
 bone
-rating](/img/1-bone.gif)
+rating](/img/1-bone.png)
 
 <https://www.petcoach.co/dog/condition/perianal-fistulas/> ![two
 bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 <http://www.provet.co.uk/health/diseases/furunculosis.htm> ![two
 bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 <https://www.gopetsamerica.com/dog-health/perianal_fistulas.html> ![two
 bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)

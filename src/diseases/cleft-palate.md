@@ -93,17 +93,17 @@ such puppies on.
 Photos and Descriptions of [Cleft
 Palate](https://www.acvs.org/small-animal/cleft-palate)
 on the American College of Veterinary Surgeons website
-![3 bones](/img/3-bones.gif)
+![3 bones](/img/3-bones.png)
 
 Elwood JM, Colquhoun TA. [Observations on the prevention of cleft palate
 in dogs by folic acid and potential relevance to
 humans](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=16032001&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum).
 N Z Vet J. 1997 Dec;45(6):254-6.
-![3 bones](/img/3-bones.gif)
+![3 bones](/img/3-bones.png)
 
 A description with anatomical terms:
 <http://www.provet.co.uk/health/diseases/cleftpalate.htm>
-![2 bones](/img/2-bones.gif)
+![2 bones](/img/2-bones.png)
 
 ## Support Groups
 
@@ -115,13 +115,13 @@ humans.
 
 Extensive article on this topic:
 <http://www.lowchensaustralia.com/health/cleftpalate.htm>
-![one bone rating](/img/1-bone.gif)
+![one bone rating](/img/1-bone.png)
 
 Although corrective surgery is not generally recommended by the
 veterinarian community, this site gives you some graphics and an idea on
 costs:
 <http://www.dogbreedinfo.com/cleft.htm>
-![one bone rating](/img/1-bone.gif)
+![one bone rating](/img/1-bone.png)
 
 ## "Living with a Disorder" Journal Entries
 

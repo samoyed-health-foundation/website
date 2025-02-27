@@ -102,27 +102,27 @@ on the advisability of using the stock in future breedings.
    J Small Anim Pract. 1996 Jul;37(7):333-9.
 2. <https://webpath.med.utah.edu/HEMEHTML/HEME014.html>
    -- picture of anomaly in a stained blood smear ![3
-bones](/img/3-bones.gif)
+bones](/img/3-bones.png)
 3. <http://www.ashgi.org/home-page/genetics-info/heart-and-blood/pelger-huet-anomaly> --
    Aussie Genetics Fact Sheet: Pelger-Huet Anomaly (PHA) by C.A. Sharp
    from the Australian Shepherd Health & Genetics Institute ![2
-bones](/img/2-bones.gif)
+bones](/img/2-bones.png)
 4. Vikramjit S Kanwar, Andrew L Sherman. [Pelger-Huet
    Anomaly](http://www.emedicine.com/ped/topic1753.htm).
    eMedicine from webMD, September 2007 -- Excellent up-to-date paper
-   on PHA in human beings ![3 bones](/img/3-bones.gif)
+   on PHA in human beings ![3 bones](/img/3-bones.png)
 
 ## Suggested Links
 
 <http://www.histology-world.com/testbank/blood1a.htm> -- Learn
 all about Blood ![one bone
-rating](/img/1-bone.gif)
+rating](/img/1-bone.png)
 
 Katrin Hoffmann, Karl Sperling, Ada L. Olins and Donald E. Olins. [The
 granulocyte nucleus and lamin B receptor: avoiding the
 ovoid](https://www.ncbi.nlm.nih.gov/pubmed/17245605).
 Chromosoma Volume 116, Number 3 / June, 2007, pp227-235. --Excellent
-review of PHA ![3 bones](/img/3-bones.gif)
+review of PHA ![3 bones](/img/3-bones.png)
 
 Dusse LM, Morais E Silva RM, Freitas VM, Medeiros de Paula GM, Vieira
 LM, Carvalho MG. [Pseudo-Pelger-Huët in kidney-transplanted
@@ -130,7 +130,7 @@ patients](https://karger.com/aha/article-abstract/116/4/272/13598/Pseudo-Pelger-
 Acta Haematol. 2006;116(4):272-4. -- Excellent paper on pseudo PHA
 (changes in blood cells that are similar to changes seen in inherited
 PHA) in Kidney transplant patients. Good frontispiece descriptions of
-the disease ![2 bones](/img/2-bones.gif)
+the disease ![2 bones](/img/2-bones.png)
 
 J C Oosterwijk1, S Mansour, G van Noort, H R Waterham, C M Hall and R C
 M Hennekam. [Congenital abnormalities reported in Pelger-Huët
@@ -138,11 +138,11 @@ homozygosity as compared to Greenberg/HEM dysplasia: highly variable
 expression of allelic
 phenotypes. ](https://jmg.bmj.com/content/40/12/937) Journal
 of Medical Genetics 2003;40:937-941. -- Includes some of the history
-of research behind this disease. ![3 bones](/img/3-bones.gif)
+of research behind this disease. ![3 bones](/img/3-bones.png)
 
 Tomonaga M. [Nuclear abnormalities in Pelger-Huet anomaly; progress in
 blood cell
 morphology](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=PubMed&Cmd=ShowDetailView&TermToSearch=15724491&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum).
 \[Article in Japanese] Rinsho Byori. 2005 Jan;53(1):54-60.
 
-![3 bones](/img/3-bones.gif)
+![3 bones](/img/3-bones.png)

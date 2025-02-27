@@ -73,7 +73,7 @@ chondroitin sulfate, nutritional supplements, also appear to help
 although this has yet to be proven in stringent scientific studies.
 
 [This link has good explanations of the surgical options.](http://www.veterinarypartner.com/Content.plx?P=A&S=0&C=0&A=1916)
-![two bones rating](/img/2-bones.gif)
+![two bones rating](/img/2-bones.png)
 
 ## Management
 
@@ -89,34 +89,34 @@ discusses how to use available information, including a "vertical
 pedigree," to help make breeding decisions.
 
 _[OFA: Collecting and utilizing phenotypic data to minimize disease: A breeder's practical guide](https://ofa.org/wp-content/uploads/2021/11/hovanart.pdf)
-![three bones rating](/img/3-bones.gif)_
+![three bones rating](/img/3-bones.png)_
 
 ## References
 
 [Orthopedic Foundation for Animals](https://www.ofa.org/diseases/hip-dysplasia)
-![three bones rating](/img/3-bones.gif)
+![three bones rating](/img/3-bones.png)
 
 [PennHIP](https://antechimagingservices.com/antechweb/pennhip)
-![three bones rating](/img/3-bones.gif)
+![three bones rating](/img/3-bones.png)
 
 ## Suggested Links
 
 [Mirage Samoyeds](http://www.mirage-samoyeds.com/hipofa.htm#links)
-![two bones rating](/img/2-bones.gif)
+![two bones rating](/img/2-bones.png)
 
 [British scheme for scoring hips](https://www.bva.co.uk/canine-health-schemes/hip-scheme/)
-![three bones rating](/img/3-bones.gif)
+![three bones rating](/img/3-bones.png)
 
 [Dr. Bell's Genetics Lecture](/files/dr_bell_genetics_lecture.pdf) presented to the Samoyed Club of America October 15, 2002
-![two bones rating](/img/2-bones.gif)
+![two bones rating](/img/2-bones.png)
 
 Research article in the Veterinary Journal for anyone interested in the genetic methods used to evaluate HD:
 [_The long (and winding) road to gene discovery for canine hip dysplasia._ Zhu et al, Vet J. 2009: 181: 97-110](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2679856/?tool=pubmed)
-![three bones rating](/img/3-bones.gif)
+![three bones rating](/img/3-bones.png)
 
 ## Current Research
 
-Oberbauer AM et al. 2017. [Long-term genetic selection reduced prevalanece of hip and elbow dysplasia in 60 dog breeds](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5325577/). PLoS One 12:e0172918. ![three bones rating](/img/3-bones.gif)
+Oberbauer AM et al. 2017. [Long-term genetic selection reduced prevalanece of hip and elbow dysplasia in 60 dog breeds](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5325577/). PLoS One 12:e0172918. ![three bones rating](/img/3-bones.png)
 
 ## SCARF-Sponsored Research
 

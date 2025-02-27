@@ -14,8 +14,8 @@ layout: disease
 
 ## Suggested Links
 
-[Progressive retinal atrophy](https://cidd.discoveryspace.ca/disorder/progressive-retinal-atrophy.html). University of Prince Edward Island. CIDD Database. ![3 bones](/img/3-bones.gif)
+[Progressive retinal atrophy](https://cidd.discoveryspace.ca/disorder/progressive-retinal-atrophy.html). University of Prince Edward Island. CIDD Database. ![3 bones](/img/3-bones.png)
 
-[Progressive retinal atrophy](https://www.acvo.org/common-conditions-1/2018/2/2/pra). American College of Veterinary Ophthalmologists ![3 bones](/img/3-bones.gif)
+[Progressive retinal atrophy](https://www.acvo.org/common-conditions-1/2018/2/2/pra). American College of Veterinary Ophthalmologists ![3 bones](/img/3-bones.png)
 
 [Genetic Testing Available for Disorders in Samoyeds](/diseases/genetic-disorders/). SCARF

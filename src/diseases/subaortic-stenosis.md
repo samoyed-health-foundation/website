@@ -122,21 +122,21 @@ limit themselves through fatigue or by being on medication.
 Aortic Stenosis -- Canine Inherited Disorders Database
 
 <http://cidd.discoveryspace.ca/disorder/aortic-stenosis-0.html>
-![3 bones](/img/3-bones.gif)
+![3 bones](/img/3-bones.png)
 
 Bussardori, C. 1998. Breed related echocardiographic prognostic
 indicators in pulmonic and subaortic stenosis. ACVIM-Proceedings of the
 16th Annual Veterinary Medical Forum: 140-142. ![2
-bones](/img/2-bones.gif)
+bones](/img/2-bones.png)
 
 Bonagura, J.D. and Darke, P.G.G. 1995. Congenital heart disease. _In_
 S.J. Ettinger and E.C. Feldman (eds.)Textbook of Veterinary Internal
 Medicine, p. 892-943. W.B. Saunders, Toronto. ![four bones
-rating](/img/4-bones.gif)
+rating](/img/4-bones.png)
 
 Patterson, D.F. 1996. The genetics of canine congenital heart disease.
 ACVIM-Proceedings of the 14th Annual Veterinary Medical Forum:
-225-226. ![2 bones](/img/2-bones.gif) _Includes information for
+225-226. ![2 bones](/img/2-bones.png) _Includes information for
 breeders and veterinarians on screening and genetic counseling for
 congenital heart defects_
 
@@ -145,19 +145,19 @@ congenital heart defects_
 PDF file of the [Cardiac Lecture](</files/2006 Cardiac Lecture-abridged version.pdf>)
 given by Allison Heaney, DVM, Diplomate ACVIM (Cardiology) at the 2006
 SCA National Specialty held in Post Falls, ID. ![3
-bones](/img/3-bones.gif)
+bones](/img/3-bones.png)
 
 <https://www.ofa.org/diseases/other-diseases/cardiac-disease>
-![3 bones](/img/3-bones.gif)
+![3 bones](/img/3-bones.png)
 
 <http://devinefarm.net/health/ofaheart.htm> ![one bone
-rating](/img/1-bone.gif)
+rating](/img/1-bone.png)
 
 <http://www.mirage-samoyeds.com/heart.htm> ![2
-bones](/img/2-bones.gif)
+bones](/img/2-bones.png)
 
 <http://www.mirage-samoyeds.com/heartofa.htm> ![2
-bones](/img/2-bones.gif)
+bones](/img/2-bones.png)
 
 [Search for an ACVIM
 Cardiologist](http://find.vetspecialists.com/) in your

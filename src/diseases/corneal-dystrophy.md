@@ -80,13 +80,13 @@ recertified.
 
 Fundamentals of Veterinary Ophthalmology 3rd edition, 2001, by Douglas
 H. Slatter pp 296-299.
-![four bones rating](/img/4-bones.gif)
+![four bones rating](/img/4-bones.png)
 
 [Corneal Dystrophy, University of Prince Edward Island Canine Inherited Disorders Database](https://cidd.discoveryspace.ca/disorder/corneal-dystrophy.html)
-![three bones rating](/img/3-bones.gif)
+![three bones rating](/img/3-bones.png)
 
 [Degeneration of the Cornea in Dogs PetMD](http://www.petmd.com/dog/conditions/eyes/c_multi_corneal_degenerations_infiltrations)
-![two bones rating](/img/2-bones.gif)
+![two bones rating](/img/2-bones.png)
 
 ## Support Groups
 
@@ -97,7 +97,7 @@ None found.
 [OFA Eye Certification Registry
 Overview](https://www.ofa.org/?s=eye+overview)
 ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 ## "Living with a Disorder" Journal Entries
 

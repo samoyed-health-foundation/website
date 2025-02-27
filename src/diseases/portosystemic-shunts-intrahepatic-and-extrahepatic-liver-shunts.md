@@ -55,51 +55,51 @@ Medical vs. Surgical management is a complex subject there have been very few st
 ## References
 
 (1 ) [Doppler ultrasonographic assessment of closure of the ductus venosus in neonatal Irish wolfhounds. ](https://pubmed.ncbi.nlm.nih.gov/15605536/) Lamb CR, Burton CA Vet Rec. 2004 Nov 27; 155(22):699-701. ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 (2) Portosystemic Vascular Anomalies (PSVA) & Microvascular Dysplasia (MVD) SA Center, DVM, Dipl ACVIM Professor of Internal Medicine, Cornell University, Ithaca, NY ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 (3) [Association of breed with diagnosis of congenital portosystemic shunts in dogs: 2400 cases ](<https://avmajournals.avma.org/doi/abs/10.2460/javma.2003.223.1636 >)(1980-2002) Karen M Tobias, DVM, MS DACVS, & Barton W Rohrbach, VMD, MPH, DACVPM – JAVMA , Vol 223, No 11 December 1, 2003. ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 (4) [Prevalence of inherited disorders among mixed-breed and purebred dogs: 27,254 cases (1995-2010) ](https://avmajournals.avma.org/doi/abs/10.2460/javma.242.11.1549) Thomas P Bellumori, MS; Thomas R Famula PhD; Danika L Bannasch, PhD, DVM; Janelle M bellanger, MS; Anita M Oberbauer PhD. JAVMA, Vol 242 No 11 June 1 2013. ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 (5) [Effect of breed on anatomy of porto-systemic shunts resulting from congenital disease in dogs and cats: a review of 242 cases. ](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-0813.2004.tb13233.x) GB Hunt Veterinary Cardiovascular Unit, University Veterinary Centre, Faculty of Veterinary Science, University of Sydney, New South Wales. Australian Veterinary Journal Volumne 82, No 12, December 2004. ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 (6) [Inherited liver shunts in dogs elucidate pathways regulating embryonic development and clinical disorders of the portal vein.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3275728/) Frank G. van Steenbeek, Lindsay van den Bossche, Peter A. J. Leegwater, and Jan Rothuizen. Mamm Genome 23:76-84 (2012). ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 (7) [Endovascular evaluation and treatment of intrahepatic portosystemic shunts in dogs](https://avmajournals.avma.org/doi/abs/10.2460/javma.244.1.78)[ 100 cases (2001–2011)](https://avmajournals.avma.org/doi/abs/10.2460/javma.244.1.78) - Chick Weisse, VMD; Allyson C. Berent, DVM; Kimberly Todd; Jeffrey A. Solomon, MD; Constantin Cope, MD JAVMA January 1, 2014, Vol. 244, No. 1, Pages 78-94 ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 (8) [ Comparison of survival after surgical or medical treatment in dogs with a congenital portosystemic shunt](<https://avmajournals.avma.org/doi/abs/10.2460/javma.236.11.1215 >). Stephen N Greenhalgh et al. JAVMA Vol 236, No 11 June 1 2010. ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 (9) [Medical Management of congenital portosystemic shunts in 27 dogs: A retrospective study. ](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1748-5827.1998.tb03595.x)Watson PJ & Herrtage ME. Small anim Pract 39:62-68 1998 ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 (10) Long-term survival of dogs (n=597) with congenital or acquired portosystemic shunting: 1980-2010. Center SA, Randolph J, Warner K, et al. J Vet Intern Med 2012:26:781A ACVIM Forum 2012, New Orleans, LA (abstract) ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 ## Suggested Links
 
 There are many papers on liver shunts PubMed has in excess of 700. There are also various support groups on facebook the information given in these groups range from excellent to dangerous. Find a good internal medicine specialist to assist you in managing your dog.
 
 • Van den Bossche L et al. 2018. [Genome‐wide based model predicting recovery from portosystemic shunting after liver shunt attenuation in dogs.](<https://onlinelibrary.wiley.com/doi/full/10.1111/jvim.15140 >) J Vet Int Med 32:1343-1352. ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 • Van den Bossche L, Steenbeek FG. 2016. [Canine congenital portosystemic shunts: Disconnections dissected](https://www.sciencedirect.com/science/article/abs/pii/S1090023315003950). The Veterinary Journal 211:14-20. ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
-• Berent A & Weisse C. 2007. [Portosystemic Shunts and Portal Venous Hypoplasia. ](https://s3.amazonaws.com/assets.prod.vetlearn.com/mmah/d2/2e1cc31a82410b8b8c94f912c1e046/fileSOC_09_03_1_0.pdf) Compendiums Standards of Care Emergency and Critical Care Medicine 9.3: 1-11. ![three bones rating](/img/3-bones.gif)
+• Berent A & Weisse C. 2007. [Portosystemic Shunts and Portal Venous Hypoplasia. ](https://s3.amazonaws.com/assets.prod.vetlearn.com/mmah/d2/2e1cc31a82410b8b8c94f912c1e046/fileSOC_09_03_1_0.pdf) Compendiums Standards of Care Emergency and Critical Care Medicine 9.3: 1-11. ![three bones rating](/img/3-bones.png)
 
 • Van Steenbeek FG et al. 2013. [Aberrant Gene Expression in Dogs with Portosystemic Shunts](<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3581512/ >). PLOS One 8:e57662. ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
-• Berent AC, Tobias KM 2009. [Portosystemic Vascular Anomalies. ](https://web.archive.org/web/20200709221411/https://www.sonopath.com/sites/default/files/downloads/article_casey_LIVER_Portosystemic_Shunts.pdf) Vet Clin Small Anim 39: 513-541 ![two bones rating](/img/2-bones.gif)
+• Berent AC, Tobias KM 2009. [Portosystemic Vascular Anomalies. ](https://web.archive.org/web/20200709221411/https://www.sonopath.com/sites/default/files/downloads/article_casey_LIVER_Portosystemic_Shunts.pdf) Vet Clin Small Anim 39: 513-541 ![two bones rating](/img/2-bones.png)
 
 ## Living With
 

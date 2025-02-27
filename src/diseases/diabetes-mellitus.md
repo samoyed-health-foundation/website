@@ -125,31 +125,31 @@ Write **subscribe rainbowbridge** in the body of the letter.
 # Suggested Links
 
 <http://www.caninediabetes.org/pdorg/>
-![2 bones](/img/2-bones.gif)
+![2 bones](/img/2-bones.png)
 
 <http://www.vetmed.wsu.edu/outreach/Pet-Health-Topics/categories/diseases/diabetes-mellitus>
-![3 bones](/img/3-bones.gif)
+![3 bones](/img/3-bones.png)
 
 [Resource links page](http://www.caninediabetes.org/pdorg/resources_index.htm) from petdiabetes.org
-![2 bones](/img/2-bones.gif)
+![2 bones](/img/2-bones.png)
 
 <http://petswithdiabetes.yuku.com/>
-![2 bones](/img/2-bones.gif)
+![2 bones](/img/2-bones.png)
 
 Merck Manual Pet Health Edition.
 [Disorders of the Pancreas in Dogs](https://www.merckvetmanual.com/dog-owners/hormonal-disorders-of-dogs/disorders-of-the-pancreas-in-dogs).
-![4 bones](/img/4-bones.gif)
+![4 bones](/img/4-bones.png)
 
 [Demo on how to inject insulin](https://www.vetsulin.com/dogs/wp-content/uploads/sites/179/2022/03/Canine_Admin_Guide.pdf)
 
 <http://www.lillydiabetes.com/Pages/about-diabetes.aspx>
-![3 bones](/img/3-bones.gif)
+![3 bones](/img/3-bones.png)
 
 <http://www.vetsulin.com/>
-![2 bones](/img/2-bones.gif)
+![2 bones](/img/2-bones.png)
 
 <http://www.caninediabetes.org/>
-![2 bones](/img/2-bones.gif)
+![2 bones](/img/2-bones.png)
 
 Caroline Levin's book
 "_Dogs, Diet and Disease An Owner's Guide to Diabetes Mellitus, Pancreatitis, Cushings's Disease & More_"

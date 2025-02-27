@@ -108,7 +108,7 @@ The following link gives more information about adrenal surgery and
 complications:
 
 <http://www.marvistavet.com/treatment-pituitary-cushings-syndrome.pml>
-![2 bones](/img/2-bones.gif)
+![2 bones](/img/2-bones.png)
 
 Surgery on the pituitary, located at the base of the brain, is very
 risky in dogs, requires a neurosurgeon, and is rarely performed.
@@ -143,7 +143,7 @@ The following website has an excellent discussion of the pros and cons
 of these different drug treatments:
 
 <http://www.marvistavet.com/treatment-pituitary-cushings-syndrome.pml>
-![2 bones](/img/2-bones.gif)
+![2 bones](/img/2-bones.png)
 
 If the cause of Cushing's is iatrogenic the treatment is to withdraw the
 drug that caused it. This must be done gradually, because the drugs
@@ -159,10 +159,10 @@ system.
 ## References
 
 [http://www.marvistavet.com/cushings-disease-information-center.pml](http://www.marvistavet.com/cushings-disease-information-center.pml)
-![2 bones](/img/2-bones.gif)
+![2 bones](/img/2-bones.png)
 
 [http://www.vetmed.auburn.edu/dcs/sac/mededu/cushings/home.html](http://web.archive.org/web/20020627120906/http://www.vetmed.auburn.edu/dcs/sac/mededu/cushings/home.html)
-![3 bones](/img/3-bones.gif)
+![3 bones](/img/3-bones.png)
 
 ## Support Groups
 
@@ -171,10 +171,10 @@ system.
 ## Suggested Links
 
 <http://www.canismajor.com/dog/cushings.html>
-![one bone rating](/img/1-bone.gif)
+![one bone rating](/img/1-bone.png)
 
 <http://www.2ndchance.info/cushings.htm>
-![one bone rating](/img/1-bone.gif)
+![one bone rating](/img/1-bone.png)
 
 <http://dogs.about.com/od/caninediseases/fl/Cushings-Disease-in-Dogs.htm>
-![one bone rating](/img/1-bone.gif)
+![one bone rating](/img/1-bone.png)

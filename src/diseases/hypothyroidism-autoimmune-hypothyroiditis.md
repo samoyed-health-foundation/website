@@ -183,20 +183,20 @@ overview:
 - (1) **[CANINE AUTOIMMUNE THYROID DISEASE: COMMON PROBLEM OF PUREBRED
   DOGS](http://www.canine-epilepsy-guardian-angels.com/ThyroidDisease.htm)**
   **by W. Jean Dodds DVM**
-  ![1 bone](/img/1-bone.gif)
+  ![1 bone](/img/1-bone.png)
 - (2) [Hypothyroidism](http://www.mirage-samoyeds.com/thyroid3.htm) by
   John Cargill MA, MBA, MS and Susan Thorpe Vargas MS, Ph.D.
-  ![1 bone](/img/1-bone.gif)
+  ![1 bone](/img/1-bone.png)
 - (3) [Canine Inherited Disorders
   Database](http://cidd.discoveryspace.ca/disorder/hypothyroidism.html)
-  ![3 bones](/img/3-bones.gif)
+  ![3 bones](/img/3-bones.png)
 - (4) [CANINE HYPOTHYROIDISM: PREVALENCE OF POSITIVE TgAA IN 871
   LABORATORY SAMPLES FROM
   BOXERS](https://americanboxerclub.org/wp-content/uploads/2023/10/Boxer-Hypothyroidism.pdf)
   by RF Nachreiner, M Bowman, KR Refsal, PA Graham, A Provencher
   Bolliger Animal Health Diagnostic Laboratory, College of Veterinary
   Medicine, Michigan State University, East Lansing, MI
-  ![2 bones](/img/2-bones.gif)
+  ![2 bones](/img/2-bones.png)
 
 **References - Diagnostic Testing and Interpretation:**
 
@@ -206,7 +206,7 @@ This paper explains the difficulties of testing for thyroid problems:
   with Low Plasma Thyroxine Concentration. ](https://onlinelibrary.wiley.com/doi/10.1111/j.1939-1676.2007.tb02924.x) Journal of Veterinary
   Internal Medicine 2007 21:1
   25 ![2
-bones](/img/2-bones.gif)
+bones](/img/2-bones.png)
 
 A bit technical, but this is the best and most useful paper on
 diagnostics (you will have to register and login to access this
@@ -217,35 +217,35 @@ article):
   of Veterinary Pathologists (ACVP) and 40th Annual Meeting of the
   American Society for Veterinary Clinical Pathology (ASVCP), 2005 -
   Boston, MA, USA. Ithaca: International Veterinary Information
-  Service ![2 bones](/img/2-bones.gif) (Available at:
+  Service ![2 bones](/img/2-bones.png) (Available at:
   [www.ivis.org](https://www.ivis.org/) Document No.
   P2202.1205.)
 
 Information from a company that does diagnostic testing:
 
 - (7) Assessing Thyroid Function
-  from Antech Diagnostics (link no longer available) ![2 bones](/img/2-bones.gif)
+  from Antech Diagnostics (link no longer available) ![2 bones](/img/2-bones.png)
 
 Information from the OFA on how they interpret test results:
 
 - (8) <https://www.ofa.org/diseases/other-diseases/hypothyroidism/thyroid-labs> ![3
-bones](/img/3-bones.gif)
+bones](/img/3-bones.png)
 
 **References - Other:**
 
 **Description of Sick Euthyroid Syndrome:**
 
 - (10) <http://www.provet.co.uk/health/diagnostics/euthyroidsick.htm>
-  ![2 bones](/img/2-bones.gif)
+  ![2 bones](/img/2-bones.png)
 - (11) [Kantrowitz LB, Peterson ME, Melián C, Nichols R. Serum total
   thyroxine, total triiodothyronine, free thyroxine, and thyrotropin
   concentrations in dogs with nonthyroidal
   disease](http://www.ncbi.nlm.nih.gov/pubmed/11561650?ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_DefaultReportPanel.Pubmed_RVDocSum).
   J Am Vet Med Assoc. 2001 Sep 15;219(6):765-9. ![2
-bones](/img/2-bones.gif)
+bones](/img/2-bones.png)
 - (12) The Enigmatic Nature of Hypothyroidism Makes it Difficult to
   Distinguish From Other Diseases. (link no longer available)
-  By Christine Wilford, DVM ![1 bone](/img/1-bone.gif)
+  By Christine Wilford, DVM ![1 bone](/img/1-bone.png)
 
 ## Suggested Links
 
@@ -253,7 +253,7 @@ The OFA registry has general information and contains the requirements
 of registering with that organization:
 
 [OFA Website](https://www.ofa.org/diseases/other-diseases/hypothyroidism)
-![3 bones](/img/3-bones.gif)
+![3 bones](/img/3-bones.png)
 
 [OFA Thyroid Application](https://ofa.org/applications/)
 

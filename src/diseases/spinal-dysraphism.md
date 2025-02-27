@@ -148,7 +148,7 @@ and allow for recovery. The likelihood of this is extremely rare.
 Hanna FY, 2008. The successful treatment of a Yorkshire Terrier puppy
 with spina bifida and myelomeningocele. European Journal of Companion
 Animal Practice 18:47-50. ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 **Syringomyelia**
 
@@ -183,18 +183,18 @@ be helpful in improving quality of life.
 Spinal Cord Disorders -Congenital and Inherited Anomalies of the Nervous
 System. Merck Veterinary Manual, 10th edition. Pp 1125-1126 ![four
 bones
-rating](/img/4-bones.gif)
+rating](/img/4-bones.png)
 
 Arias MVB et al, 2008. [Spina bifida in three
 dogs.](http://bjvp.org.br/wp-content/uploads/2015/07/V.1-N.2-15-20881_2009_12_30_35_2.pdf)
 Brazilian Journal of Veterinary Pathology 1: 64-69. ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 Vite CH. Developmental
 Disorders.
 In: Braund's Clinical Neurology in Small Animals: Localization,
 Diagnois and Treatment. 2004. (Link no longer available). ![four bones
-rating](/img/4-bones.gif)
+rating](/img/4-bones.png)
 
 ## Support Groups
 
@@ -209,25 +209,25 @@ Dog](http://shebathequaddog.homestead.com/)
 [Spina bifida - Canine Inherited Disorders
 Database](http://cidd.discoveryspace.ca/disorder/spina-bifida.html),
 Univ. of Prince Edward Island ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 [Congenital and Inherited Spinal Cord
 Disorders](http://www.merckvetmanual.com/mvm/nervous_system/congenital_and_inherited_anomalies_of_the_nervous_system/congenital_and_inherited_spinal_cord_disorders.html)
 in the Merck Veterinary Manual ![four bones
-rating](/img/4-bones.gif)
+rating](/img/4-bones.png)
 
 [Spinal
 Dysraphism](http://www.nervous-system-diseases.com/spinal-dysraphism.html)
 at www.nervous-system-diseases.com ![one bone
-rating](/img/1-bone.gif)
+rating](/img/1-bone.png)
 
 [Furneaux 35 al, 1973. Syringomyelia and spina bifida occulta in a
 Samoyed
 dog](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1696303/pdf/canvetj00433-0039.pdf).
 Can Vet Jour 14:317-321. ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 [Canine Chiari
 Institute.](http://www.caninechiariinstitute.org/)
 ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)

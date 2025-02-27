@@ -31,7 +31,7 @@ in the dog, the stria vascularis degenerates. As this provides the
 blood supply to the cochlea, damage to this structure occurs and the
 sensory hair cells necessary for hearing die." (quote from:
 [http://www.steynmere.co.uk/DALM_DEAFNESS2.html](http://steynmere.co.uk/DALM_DEAFNESS2.html))
-![2 bones](/img/2-bones.gif)
+![2 bones](/img/2-bones.png)
 
 There is as yet no definitive proof that the extreme piebald gene is
 associated with hereditary deafness in Samoyeds. A lot of very
@@ -136,20 +136,20 @@ Karlsson, Elinor, et al of the Broad Institute of Harvard and MIT,.
 "Two-stage association mapping in dogs identifies coat color locus,"
 presented at the Third International Conference on Advances in Canine
 and Feline Genomics, held in Davis, CA, August 2-5, 2006. ![2
-bones](/img/2-bones.gif)
+bones](/img/2-bones.png)
 
 <http://www.lsu.edu/deafness/deaf.htm>
-![3 bones](/img/3-bones.gif)
+![3 bones](/img/3-bones.png)
 
 <https://www.ofa.org/diseases/other-diseases/congenital-deafness>
-![3 bones](/img/3-bones.gif)
+![3 bones](/img/3-bones.png)
 
 <http://www.lsu.edu/deafness/VetClinNA.htm>
 by George Strain-- Explains how extreme piebald gene may relate to
-other genes to cause deafness ![2 bones](/img/2-bones.gif)
+other genes to cause deafness ![2 bones](/img/2-bones.png)
 
 Little, Clarence C. 1967. The Inheritance of Coat Color in Dogs.
-Howell Book House. ![2 bones](/img/2-bones.gif)
+Howell Book House. ![2 bones](/img/2-bones.png)
 
 ## Support Groups
 
@@ -158,5 +158,5 @@ Howell Book House. ![2 bones](/img/2-bones.gif)
 ## Suggested Links
 
 <http://www.lsu.edu/deafness/BiblioDog.htm> ![3
-bones](/img/3-bones.gif)
+bones](/img/3-bones.png)
 A comprehensive list of references for deafness in dogs

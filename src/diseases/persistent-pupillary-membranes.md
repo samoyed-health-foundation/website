@@ -15,4 +15,4 @@ layout: disease
 ## Suggested Links
 
 [Persistent Pupillary Membranes](https://cidd.discoveryspace.ca/disorder/persistent-pupillary-membranes-ppm.html). University of Prince Edward Island CIDD Database.![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)

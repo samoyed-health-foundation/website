@@ -78,32 +78,32 @@ This may be temporary and resolve, or persist.
 1. Barlough,J.E., Pedersen, N.C, 1995. "The immune system and
    disorders" in UC Davis School of Vet Med book of dogs. Siegal, M.
    Ed., p.331-333. Harper Collins, New York. ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 2. [Hemolytic
    Anemia](https://www.merckvetmanual.com/circulatory-system/anemia/hemolytic-anemia-in-animals)
    in the Merck Veterinary Manual. ![four bones
-rating](/img/4-bones.gif)
+rating](/img/4-bones.png)
 3. <http://www.marvistavet.com/imha.pml>
    ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 4. Kohn, B., 2003. Evans' syndrome: immune-mediated hemolytic anemia
    in Immune-mediated thrombocytopenia-current approach. 28^th^ World
    Congress of World Small Animal Veterianry Assoc., Thailand. P. 1-3.
    ![four bones
-rating](/img/4-bones.gif)
+rating](/img/4-bones.png)
 5. Trepanier, L.A., Danhof, R., Toll, J., and Watrous, D. 2003.
    Clinical findings in 40 dogs with hypersensitivity associated with
    administration of potentiated sulfonamides. \[J Vet Int
    Med] 9; 17(5):p. 647-652. [Link to
    abstract](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=14529130&query_hl=5&itool=pubmed_docsum)
    ![four bones
-rating](/img/4-bones.gif)
+rating](/img/4-bones.png)
 6. Holloway, S.A., Meyer, D.J, and Mannella, C. 1990. Prednisolone and
    danazol for treatment of immune-mediated anemia, thrombocytopenia,
    and ineffective erythroid regeneration in a dog. \[J Am Vet Med
    Assoc] 197 (8):1045-1048. [Link to
    abstract](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=2243038&query_hl=7&itool=pubmed_docsum) ![three
-bones rating](/img/3-bones.gif)
+bones rating](/img/3-bones.png)
 
 ## SCARF-Sponsored Research:
 

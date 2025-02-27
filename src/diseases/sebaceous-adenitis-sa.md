@@ -66,11 +66,11 @@ soluble but is oil soluble.
 
 ## References
 
-[Merck Veterinary Manual online](https://www.merckvetmanual.com/integumentary-system/congenital-and-inherited-anomalies-of-the-integumentary-system/hyperplastic-and-seborrheic-syndromes-in-animals) on Hyperplastic and Seborrheic Syndromes ![four bones rating](/img/4-bones.gif)
+[Merck Veterinary Manual online](https://www.merckvetmanual.com/integumentary-system/congenital-and-inherited-anomalies-of-the-integumentary-system/hyperplastic-and-seborrheic-syndromes-in-animals) on Hyperplastic and Seborrheic Syndromes ![four bones rating](/img/4-bones.png)
 
-[Merck Veterinary Manual online](https://www.merckvetmanual.com/ear-disorders/diseases-of-the-pinna/sebaceous-adenitis) on Sebaceous Adenitis ![four bones rating](/img/4-bones.gif)
+[Merck Veterinary Manual online](https://www.merckvetmanual.com/ear-disorders/diseases-of-the-pinna/sebaceous-adenitis) on Sebaceous Adenitis ![four bones rating](/img/4-bones.png)
 
-[Sebaceous Adenitis](https://www.ofa.org/diseases/other-diseases/sebaceous-adenitis) on the OFA website ![three bones rating](/img/3-bones.gif)
+[Sebaceous Adenitis](https://www.ofa.org/diseases/other-diseases/sebaceous-adenitis) on the OFA website ![three bones rating](/img/3-bones.png)
 
 ## Support Groups
 
@@ -80,26 +80,26 @@ soluble but is oil soluble.
 ## Suggested Links
 
 [Sebaceous adenitis](https://www.ofa.org/diseases/other-diseases/sebaceous-adenitis)
-on the OFA website ![three bones rating](/img/3-bones.gif)
+on the OFA website ![three bones rating](/img/3-bones.png)
 
 <http://www.akita-friends.com/special/SA/story.htm>
 
-[Photos of an Akita's journey with Sebaceous Adenitis](http://www.akita-friends.com/special/SA/story.htm) ![one bone rating](/img/1-bone.gif)
+[Photos of an Akita's journey with Sebaceous Adenitis](http://www.akita-friends.com/special/SA/story.htm) ![one bone rating](/img/1-bone.png)
 
 [Report about the successful treatment of Sebaceous Adenitis through self-invented therapy](http://www.akita-friends.com/special/satreat.htm)
-_By Michael Rampak_ ![two bones rating](/img/2-bones.gif)
+_By Michael Rampak_ ![two bones rating](/img/2-bones.png)
 
 [Test breedings reveal inheritance mode of SA, DMS](https://www.dvm360.com/view/test-breedings-reveal-inheritance-mode-sa-dms)
-By: _Alice Jeromin, DVM, Dipl. ACVD_ ![two bones rating](/img/2-bones.gif)
+By: _Alice Jeromin, DVM, Dipl. ACVD_ ![two bones rating](/img/2-bones.png)
 
 [Sebaceous Adenitis](http://cidd.discoveryspace.ca/disorder/sebaceous-adenitis.html)
-on the Canine Inherited Disorders Database ![three bones rating](/img/3-bones.gif)
+on the Canine Inherited Disorders Database ![three bones rating](/img/3-bones.png)
 
 [Canine Sebaceous Adenitis](https://www.mspca.org/angell_services/canine-sebaceous-adenitis)
-on the MSPCA Angell website ![two bones rating](/img/2-bones.gif)
+on the MSPCA Angell website ![two bones rating](/img/2-bones.png)
 
 Forsythe P, Paterson S. [Ciclosporin 10 years on: Indications and efficacy.](https://pubmed.ncbi.nlm.nih.gov/24682697/)
-Veterinary Record Journal of the British Veterinary Association, March 2014 ![three bones rating](/img/3-bones.gif)
+Veterinary Record Journal of the British Veterinary Association, March 2014 ![three bones rating](/img/3-bones.png)
 
 ## "Living with a Disorder" Journal Entries
 

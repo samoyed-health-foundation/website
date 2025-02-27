@@ -98,19 +98,19 @@ management tips.
    Panosteitis,](https://web.archive.org/web/20190421071358/http://cal.vet.upenn.edu/projects/saortho/chapter_49/49mast.htm)
    in Textbook of Small Animal Orthopaedics. University of
    Pennsylvania. ![four bones
-rating](/img/4-bones.gif)
+rating](/img/4-bones.png)
 2. [Panosteitis](http://www.merckvetmanual.com/mvm/musculoskeletal_system/osteopathies_in_small_animals/developmental_osteopathies_in_small_animals.html),
    in The Merck Veterinary Manual, Developmental Osteopathies in Small
    Animals. ![four bones
-rating](/img/4-bones.gif)
+rating](/img/4-bones.png)
 3. Panosteitis, in Provet Pet Health Information
    <http://www.provet.co.uk/health/diseases/Panosteitis.htm>
-   ![2 bones](/img/2-bones.gif)
+   ![2 bones](/img/2-bones.png)
 
 ## Suggested Links
 
 <http://www.vetinfo.com/dencyclopedia/depano.html> ![2
-bones](/img/2-bones.gif)
+bones](/img/2-bones.png)
 
 <http://web.archive.org/web/20081230162415/http://www.vetinfo4dogs.com:80/dpano.html> ![2
-bones](/img/2-bones.gif)
+bones](/img/2-bones.png)

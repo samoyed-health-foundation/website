@@ -81,20 +81,20 @@ infection.
 ## References
 
 Canine Inherited Disorders Database overview on distichiasis
-![3 bones](/img/3-bones.gif)
+![3 bones](/img/3-bones.png)
 
 _Small Animal Ophthalmic Surgery: Practical Techniques for the
 Veterinarian_ \[By Kirk N. Gelatt and Janice Peterson Gelatt, Published 2001. Elsevier Health Sciences pp 87-90.]
-![4 bones](/img/4-bones.gif)
+![4 bones](/img/4-bones.png)
 
 [Distichiasis](https://www.petcoach.co/dog/condition/distichia/)
 on the petcoach.ca website
-![2 bones](/img/2-bones.gif)
+![2 bones](/img/2-bones.png)
 
 Canine Ophthalmology: An Atlas and Text by Jane Sansom, Keith C.
 Barnett, Christine D. V. Heinrich. Published 2002. Elsevier Health
 Sciences.
-![4 bones](/img/4-bones.gif)
+![4 bones](/img/4-bones.png)
 
 ## Support Groups
 
@@ -106,14 +106,14 @@ liaison listed at the top of this disorder.
 [OFA Eye Certification
 Registry](https://www.ofa.org/?s=eye+overview) is the
 US registry for eye disease in dogs
-![3 bones](/img/3-bones.gif)
+![3 bones](/img/3-bones.png)
 
 The [British Veterinary
 Association](https://www.bva.co.uk/canine-health-schemes/eye-scheme/)
 (BVA) is the overseer in the UK. Please note Samoyeds are not
 routinely eye tested in the UK.
-![3 bones](/img/3-bones.gif)
+![3 bones](/img/3-bones.png)
 
 [Distichiasis](http://www.merckvetmanual.com/mvm/eye_and_ear/ophthalmology/eyelids.html?qt=distichiasis&alt=sh)
 from the Merck Veterinary Manual Online - scroll down the page for a photograph
-![4 bones](/img/4-bones.gif)
+![4 bones](/img/4-bones.png)

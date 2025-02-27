@@ -62,7 +62,7 @@ excellent summary of the differences between the two forms of DI can be
 accessed at:
 
 <http://www.mirage-samoyeds.com/diabetes2.htm>
-![2 bones](/img/2-bones.gif)
+![2 bones](/img/2-bones.png)
 
 ## Risk Factors
 
@@ -136,49 +136,49 @@ diabetes insipidus in three dogs, J Am Vet Med Assoc 179 (1981)
 \[3\] M.F. Harb, R.W. Nelson, E.C. Feldman, J.C. Scott-Moncrieff, S.M.
 Griffey, [Central diabetes insipidus in dogs: 20 cases](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=8944803&ordinalpos=2&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum)
 (1986-1995), J Am Vet Med Assoc 209 (1996) 1884-1888.
-![3 bones](/img/3-bones.gif)
+![3 bones](/img/3-bones.png)
 
 \[4\] H. Luzius, D.A. Jans, E.G. Grunbaum, A. Moritz, W. Rascher, F.
 Fahrenholz, [A low affinity vasopressin V2-receptor in inherited
 nephrogenic diabetes
 insipidus](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=1387165&ordinalpos=33&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum),
 J Recept Res 12 (1992) 351-368.
-![2 bones](/img/2-bones.gif)
+![2 bones](/img/2-bones.png)
 
 \[5\] M.M. Goossens, A. Rijnberk, J.A. Mol, J. Wolfswinkel, G. Voorhout,
 [Central diabetes insipidus in a dog with a
 pro-opiomelanocortin-producing pituitary tumor not causing
 hyperadrenocorticism](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=8531185&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum),
 J Vet Intern Med 9 (1995) 361-365.
-![3 bones](/img/3-bones.gif)
+![3 bones](/img/3-bones.png)
 
 \[6\] J.M. Authement, R.J. Boudrieau, P.M. Kaplan, [Transient,
 traumatically induced, central diabetes insipidus in a
 dog](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=2925484&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum),
 J Am Vet Med Assoc 194 (1989) 683-685.
-![3 bones](/img/3-bones.gif)
+![3 bones](/img/3-bones.png)
 
 \[7\] D.J. Davenport, D.J. Chew, G.C. Johnson, [Diabetes insipidus
 associated with metastatic pancreatic carcinoma in a
 dog](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=3017907&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum),
 J Am Vet Med Assoc 189 (1986) 204-205.
-![3 bones](/img/3-bones.gif)
+![3 bones](/img/3-bones.png)
 
 \[8\] R. Nichols, [Polyuria and polydipsia. Problems associated with
 patient
 evaluation](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=2134078&ordinalpos=2&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum),
 Probl Vet Med 2 (1990) 610-616.
-![2 bones](/img/2-bones.gif)
+![2 bones](/img/2-bones.png)
 
 \[9\] E.C. Feldman, R.W. Nelson, [Diagnostic approach to polydipsia and
 polyuria](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=2648668&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVAbstractPlus),
 Vet Clin North Am Small Anim Pract 19 (1989) 327-341.
-![2 bones](/img/2-bones.gif)
+![2 bones](/img/2-bones.png)
 
 ## Suggested Links
 
 <http://mirage-samoyeds.com/diabetes2.htm>
-![2 bones](/img/2-bones.gif)
+![2 bones](/img/2-bones.png)
 
 <http://www.vetinfo.com/dencyclopedia/dedibetinsp.html>
-![2 bones](/img/2-bones.gif)
+![2 bones](/img/2-bones.png)

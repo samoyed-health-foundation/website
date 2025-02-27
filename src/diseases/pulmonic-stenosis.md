@@ -104,26 +104,26 @@ disease. Allow the dog to self limit his exercise. No FORCED exercise
    Stenosis](<http://www.vet.upenn.edu/docs/default-source/cardiology-brochures-(ryan)/understanding-pulmonic-stenosis.pdf?sfvrsn=0>)
    from the Matthew J. Ryan Veterinary Hospital, University of
    Pennsylvania School of Veterinary Medicine. ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 2. [Pulmonic
    Stenosis](https://cidd.discoveryspace.ca/disorder/pulmonic-stenosis.html)
    from the Canine Inherited Disorders Database ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 ## Suggested Links
 
 1. <http://www.vet.upenn.edu/veterinary-hospitals/ryan-veterinary-hospital/services/cardiology>
    Search for 'pulmonic stenosis'. This site has a wealth of
    information on it, as well as slide presentations. ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 2. <https://www.ofa.org/diseases/other-diseases/cardiac-disease> -- This link has good
    descriptions of the cardiac physical and ultrasound exams. ![three
 bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 3. [Pulmonic
    Stenosis](https://cidd.discoveryspace.ca/disorder/pulmonic-stenosis.html)
    from the Canine Inherited Disorders Database ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 4. <http://www.mirage-samoyeds.com/heart.htm> --
    Samoyed State of Heart by Cheri Hollenback ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)

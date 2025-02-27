@@ -45,7 +45,7 @@ Biochemical and Molecular Strategies for Disease Characterization and
 Carrier
 Detection.](https://academic.oup.com/jhered/article-abstract/90/1/112/2187160?redirectedFrom=PDF)
 Journal of Heredity 90: 112-118.
-![2 bones](/img/2-bones.gif)
+![2 bones](/img/2-bones.png)
 
 Figure 1 in this paper has a diagram of the canine clotting mechanism
 cascade showing all of the factors involved:
@@ -55,7 +55,7 @@ in Canine Models of Hemophilia A, Hemophilia B, von Willebrand Disease,
 and Factor Vii
 Deficiency](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3101868/). ILAR
 Journal 50: 144-167.
-![3 bones](/img/3-bones.gif)
+![3 bones](/img/3-bones.png)
 
 </details>
 
@@ -137,13 +137,13 @@ affected males should not be bred.
 [Coagulation protein
 disorders in Animals.](https://www.merckvetmanual.com/circulatory-system/hemostatic-disorders/coagulation-protein-disorders-in-animals)
 Merck Veterinary Manual. ![four bones
-rating](/img/4-bones.gif)
+rating](/img/4-bones.png)
 
 [Hemophilia
 A](http://ahdc.vet.cornell.edu/sects/coag/clinical/Hemopha.cfm)
 from the Cornell University College of Veterinary Medicine ![three
 bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 ## Support Groups
 
@@ -156,11 +156,11 @@ There is a Canine Hemophilia Support Group on Facebook.
 [Hemophilia at the Canine Inherited Disorders
 Database](http://cidd.discoveryspace.ca/disorder/hemophilia.html),
 University of Prince Edward Island ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 [X-Linked Recessive
 Inheritance](http://en.wikipedia.org/wiki/X-linked_recessive_inheritance)
 at wikipedia ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
-[Bleeding Disorders of Dogs](https://www.merckvetmanual.com/dog-owners/blood-disorders-of-dogs/bleeding-disorders-of-dogs). Merck Manual Pet Health Edition ![four bones rating](/img/4-bones.gif)
+[Bleeding Disorders of Dogs](https://www.merckvetmanual.com/dog-owners/blood-disorders-of-dogs/bleeding-disorders-of-dogs). Merck Manual Pet Health Edition ![four bones rating](/img/4-bones.png)

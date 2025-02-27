@@ -15,4 +15,4 @@ layout: disease
 ## Suggested Links
 
 [Patent Ductus Arteriosus in Animals](https://www.merckvetmanual.com/circulatory-system/congenital-and-inherited-anomalies-of-the-cardiovascular-system/patent-ductus-arteriosus-in-animals). Merck Veterinary Manual.![four bones
-rating](/img/4-bones.gif)
+rating](/img/4-bones.png)

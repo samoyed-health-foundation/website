@@ -273,24 +273,24 @@ the [Orthopedic Foundation of America](https://ofa.org/diseases/patellar-luxatio
 
 [ACVS - Medial Patellar
 Luxations](https://www.acvs.org/small-animal/patellar-luxations)
-![3 bones](/img/3-bones.gif)
+![3 bones](/img/3-bones.png)
 
 <https://www.petcoach.co/dog/condition/luxating-patella/>
-![2 bones](/img/2-bones.gif)
+![2 bones](/img/2-bones.png)
 
 <http://www.ovrs.com/brochures/patellar-luxation-pamphlet.pdf>
-![2 bones](/img/2-bones.gif)
+![2 bones](/img/2-bones.png)
 
 <https://www.ofa.org/diseases/other-diseases/patellar-luxation>
-![3 bones](/img/3-bones.gif)
+![3 bones](/img/3-bones.png)
 
-<https://www.lifelearn-cliented.com/iframe.php?action=view&rid=836&c=22682-20181026154945-ac9f9074ee8d439619deed84d7e06cdd&print=1> ![2 bones](/img/2-bones.gif)
+<https://www.lifelearn-cliented.com/iframe.php?action=view&rid=836&c=22682-20181026154945-ac9f9074ee8d439619deed84d7e06cdd&print=1> ![2 bones](/img/2-bones.png)
 
 [Merck Veterinary Manual
 Online](http://www.merckvetmanual.com/mvm/musculoskeletal_system/arthropathies_and_related_disorders_in_small_animals/patellar_luxation_in_small_animals.html)
 
 - Patellar Luxations ![four bones
-rating](/img/4-bones.gif)
+rating](/img/4-bones.png)
 
 ## "Living with a Disorder" Journal Entries
 

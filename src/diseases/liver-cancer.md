@@ -123,19 +123,19 @@ Some recommend SAM-e (S-adenosylmethionine), an amino acid, to
 [Hepatic
 Neoplasia](http://www.merckvetmanual.com/mvm/digestive_system/hepatic_disease_in_small_animals/hepatic_neoplasia_in_small_animals.html),
 Merck Veterinary Manual ![four bones
-rating](/img/4-bones.gif)
+rating](/img/4-bones.png)
 
 Good discussion of why fine needle aspirates may not yield accurate
 results: [Eves NG. Hepatocellular adenoma in a 12-year-old crossbred
 German shepherd dog. Can Vet J 2004.
 45:326-328](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC548621/?tool=pmcentrez).
 ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 Wypij J, Fan TM, Lorimier, L-P. [Primary hepatic and biliary tract
 tumors in dogs and cats: An
 overview.](https://www.dvm360.com/view/primary-hepatic-and-biliary-tract-tumors-dogs-and-cats-overview)
-Veterinary Medicine (dvm360) 2006. ![two bones rating](/img/2-bones.gif)
+Veterinary Medicine (dvm360) 2006. ![two bones rating](/img/2-bones.png)
 
 ## Support Groups
 
@@ -148,15 +148,15 @@ normal dog liver and gallbladder, Colorado
 State](https://vivo.colostate.edu/hbooks/pathphys/digestion/liver/anatomy.html)
 
 ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 [Canine Liver Cancer,
 www.vetinfo.com,](http://www.vetinfo.com/canine-liver-cancer.html)
 
 (see also related links at the bottom vetinfo webpage) ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 Wypij J, Fan TM, Lorimier, L-P. [Primary hepatic and biliary tract
 tumors in dogs and cats: An
 overview.](https://www.dvm360.com/view/primary-hepatic-and-biliary-tract-tumors-dogs-and-cats-overview)
-Veterinary Medicine (dvm360) 2006. ![two bones rating](/img/2-bones.gif)
+Veterinary Medicine (dvm360) 2006. ![two bones rating](/img/2-bones.png)
