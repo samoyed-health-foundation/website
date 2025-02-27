@@ -189,16 +189,16 @@ shyness.
    "Practical genetics for Samoyed Breeders and
    Owners"](/files/dr_bell_genetics_lecture.pdf)-
    from 2002 Samoyed National Specialty talk. ![three bones
-   rating](/img/3-bones.gif)
+   rating](/img/3-bones.png)
 2. [Thyroid Can Alter
    Behavior](http://www.canine-epilepsy-guardian-angels.com/bizarre_behavior.htm)
    by W. Jean Dodds, DVM ![two bones
-   rating](/img/2-bones.gif)
+   rating](/img/2-bones.png)
 3. Mod Vet Pract. 1975 Apr;56(4):278-82. Problem behavior in dogs.
    Understanding the shy dog. Campbell WE.
    [Abstract](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=1124074&dopt=Abstract)
    ![two bones
-   rating](/img/2-bones.gif)
+   rating](/img/2-bones.png)
 
 
 ## Support Groups
@@ -218,27 +218,27 @@ level.
 [Why doesn't my dog like
 socializing](https://www.pedigree.com/dog-care/training/why-doesnt-my-dog-like-socializing)
 on the Pedigree.com website  ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 Brief Description:  Training Tips
 
 [Shy Dogs FAQ](http://kimmurphy.net/shy-k9s-faq.html)
 from the Shy-k9s Mailing List ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 Brief Description:  Frequently Asked Questions about the shy dog
 
 [Behavioral Genetics and Animal
 Science](http://www.grandin.com/references/genetics.html) by Temple
 Grandin and Mark J. Dessing  ![three bones
-rating](/img/3-bones.gif)
+rating](/img/3-bones.png)
 
 Brief Description:  Genetics and Behavior
 
 [Socialization Of Your Shy (or puppy mill)
 Dog](http://www.bichonfriseusa.com/articles/socializationshy.htm) on the
 Bichon Frise Information Station website ![two bones
-rating](/img/2-bones.gif)
+rating](/img/2-bones.png)
 
 Brief Description:  Socialization of the shy dog (Bichon)
 
