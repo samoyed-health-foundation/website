@@ -14,7 +14,7 @@
     "@tailwindcss/cli": "^4.0.8",
     "@tailwindcss/postcss": "4.0.12",
     "@tailwindcss/typography": "0.5.16",
-    "@types/node": "22.13.9",
+    "@types/node": "22.13.10",
     "algolia-indexing": "2.0.0",
     "algoliasearch": "5.20.4",
     "alpinejs": "3.14.8",
