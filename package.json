@@ -18,7 +18,7 @@
     "algolia-indexing": "2.0.0",
     "algoliasearch": "5.23.2",
     "alpinejs": "3.14.9",
-    "browser-sync": "3.0.3",
+    "browser-sync": "3.0.4",
     "cross-env": "7.0.3",
     "flowbite": "3.1.2",
     "instantsearch.js": "4.78.1",
