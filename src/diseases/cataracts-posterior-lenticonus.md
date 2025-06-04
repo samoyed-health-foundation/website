@@ -146,13 +146,10 @@ diets, vitamins or eye exercises will not dissolve or reduce a cataract.
 abnormalities should be addressed before cataract surgery is considered.
 
 - A complete physical examination will be performed by your veterinarian, which may include the following preoperative tests:
-
   - **Blood and urine analysis**;
   - **Chest X-rays**; and
   - **EKG**
-
 - A complete ophthalmic examination should always be performed:
-
   - **Schirmer tear test** (to test for tear production);
   - **Tonometry** (to check for glaucoma);
   - **Electroretinography** (to check retinal function); and

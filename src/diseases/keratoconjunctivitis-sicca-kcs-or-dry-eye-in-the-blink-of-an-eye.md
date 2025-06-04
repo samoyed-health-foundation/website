@@ -162,7 +162,6 @@ do it:
   and apply a ¼ inch strip of artificial tears lubricating eye
   ointment to each eye at noontime, if I'm at home, and always at
   bedtime.
-
 - I make every effort and care (I'm not always successful) to apply
   just a ¼ inch strip to their corneas (the first application is, as
   mentioned above, tricky). Why? Because this ointment is very oily
@@ -173,19 +172,15 @@ do it:
   periocular/palpebral inflammation and temporary hair loss
   (alopecia). Obviously, the greater the amount of ointment applied,
   the greater the amount of discharge.
-
 - Five minutes after I apply the Optimmune®, I apply one drop
   of *Refresh*® *Celluvisc*® in each eye. This is not only soothing to
   the eye but my male's veterinary ophthalmologist finds that the drop
   acts as a barrier against any ointment discharge.
-
 - Five minutes later, I apply a warm compress to each eye for about a
   minute and wipe away any oily discharge.
-
 - I am always careful to administer lots of kisses after each
   treatment. My male patient returns the favor by licking my eyes (I
   guess he thinks he's giving me drops!).
-
 - Each dog has their own tube of Optimmune® and artificial tear
   lubricating eye ointment. The Refresh® Celluvisc® comes in sterile,
   one dosage containers.

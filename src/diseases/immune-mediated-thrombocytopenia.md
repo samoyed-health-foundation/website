@@ -31,11 +31,9 @@ by the immune system precedes the act of platelet destruction.
 Examples of reactions in the immune system that could be followed by
 platelet destruction include:
 
-- a parasitic infection of blood (Ehrlichiosis, Rocky Mountain Spotted
-  Fever)
+- a parasitic infection of blood (Ehrlichiosis, Rocky Mountain Spotted Fever)
 - a tumor
-- drugs (chemotherapy agents, sulfonamide and chloramphenicol
-  antibiotics)
+- drugs (chemotherapy agents, sulfonamide and chloramphenicol antibiotics)
 - Lupus
 
 ## Risk Factors
@@ -62,7 +60,7 @@ Inspection of gums and mouth, whites of the eyes, and abdomen may reveal petechi
 - Transfusion when a crisis occurs
 - Splenectomy
 
-  Plasma exchange has been cited as an emerging treatment. Improvement of hemorrhages occurred in a small number of dogs in a research report.
+Plasma exchange has been cited as an emerging treatment. Improvement of hemorrhages occurred in a small number of dogs in a research report.
 
 ## References
 

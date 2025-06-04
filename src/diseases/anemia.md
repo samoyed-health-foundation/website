@@ -56,13 +56,8 @@ processes that produce the anemia.
 ## Diagnostic Tests
 
 - Medical History.
-
-- Hematocrit or Packed Cell Volume (PCV) - a quick test for
-  determining what percent of blood is RBCs.
-
-- CBC with platelet and reticulocyte count (young RBCs) - Can detect
-  anemia and may give information about the possible cause.
-
+- Hematocrit or Packed Cell Volume (PCV) - a quick test for determining what percent of blood is RBCs.
+- CBC with platelet and reticulocyte count (young RBCs) - Can detect anemia and may give information about the possible cause.
 - Depending on the results of these tests your vet may then obtain any
   of a number of special studies including perhaps: blood chemistry or
   other special blood tests, urinalysis, examination of stool for

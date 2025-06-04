@@ -10,11 +10,8 @@ _Information presented in the "Living With..." sections of the SCARF website rep
 ---
 
 - **Age at onset:** about 12 months
-
 - **Sex:** Male
-
 - **Early signs and symptoms:** Continuous hair loss with spotty regrowth
-
 - **How the diagnosis was made?:** Skin punch biopsy and dermatology consult
 
 My Samoyed had just finished his championship when he was diagnosed with

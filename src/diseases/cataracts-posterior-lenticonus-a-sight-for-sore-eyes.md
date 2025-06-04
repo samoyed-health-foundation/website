@@ -54,22 +54,17 @@ bilateral cataracts. Attempts to console me were unsuccessful.
 
 - I requested to take 20+ vacation days to care for my dog during his
   recovery. My employer granted my request.
-
 - I contacted the patient's breeder.
-
 - Patient's primary veterinarian consulted three colleagues. All three
   ophthalmologists agreed that surgery on a dog with
   incipient/immature cataracts was indicated.
-
 - Patient's primary veterinarian consulted the diagnosing
   ophthalmologist (hereinafter referred to as "diagnosing
   ophthalmologist"). Diagnosing ophthalmologist, one of the foremost
   veterinary cataract surgeons in the United States,expressed
   confidence in a successful outcome.
-
 - I contacted the AKC. I was advised to retire my Champion as the AKC
   considers all cataracts to be hereditary.
-
 - I contacted Vilma Yuzbasiyan-Gurkan at Michigan State University and
   arranged to have the patient's DNA collected for use in their study
   (AKC Grant No. 1637).
@@ -82,14 +77,10 @@ problem as inconsequential and presented the following arguments against
 surgical intervention:
 
 - The dog may not go blind.
-
 - A dog does not need eyesight.
-
 - Cataract surgery is unsuccessful and the dog will probably become
   blind within a year.
-
 - Cataract surgeons profit monetarily by this surgery.
-
 - _Let the dog get glaucoma and later, when the eyes are enucleated and he is free from pain_ (glaucoma is exquisitely painful), _he will be so grateful._ (Direct quote.)
 
 This ophthalmologist was, obviously, not aware of the recent advances
@@ -111,19 +102,15 @@ until at least 6 months after surgery.
 veterinarian for the following:
 
 - A complete physical examination.
-
 - Blood analysis (well within normal ranges and negative for Von
   Willebrandts).
-
 - EKG (normal).
-
 - Vaccinations, as applicable.
 
 **Friday, May 4, 2001:** Patient underwent electroretinography and ocular
 ultrasound. **Cost in 2001:** $375.
 
 - Patient's retinal functions were well within normal limits.
-
 - Patient did not have any retinal detachments.
 
 Patient was deemed to be a good candidate for cataract surgery. Surgery
@@ -234,15 +221,12 @@ with colorful animal stickers.
 **Postoperative medications/administration:**
 
 - Pred Acetate 1%:1 drop in each eye every 4 hours.
-
 - Neopoly-G:1 drop in each eye every 4 hours.
-
 - Artificial tears:1 drop in each eye every 4 hours.
 
 5 minutes must elapse between drops.
 
 - Cefalexin 500 mg #21:1 capsule 3 times a day.
-
 - Prednisone 20 mg #20:Once daily, with food.
 
 **Cost in 2001:** $2,500 (includes 3 postoperative visits).
@@ -332,20 +316,14 @@ outcome, I encourage you to:
 
 - Find an experienced veterinary ophthalmologist in a state of the art
   medical facility.
-
 - Remove the cataracts while they are in the early stages of cataract
   formation and before the eyes become inflamed.
-
 - Prepare your dog and home:
-
   - Have your dog become accustomed to wearing an E-collar;
-
   - Prepare a quiet place where your dog can recover (separated from
     other animals and family);
-
   - Disconnect your door bells and restrict visitors during
     recovery.
-
 - Get the support of your family, friends and employer.
 
 Cataract formation secondary to Posterior Lenticonus is an undesirable

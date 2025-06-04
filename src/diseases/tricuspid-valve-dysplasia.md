@@ -51,13 +51,9 @@ but usually die by 3 years.
 
 ## Causes
 
-- Congenital (present at birth due to developmental problems or
-  genetics.);
-
+- Congenital (present at birth due to developmental problems or genetics.);
 - Inheritable in some breeds.
-
-- Cause unknown in Samoyeds at this time. Not commonly found in
-  Samoyeds
+- Cause unknown in Samoyeds at this time. Not commonly found in Samoyeds
 
 ## Risk Factors
 
