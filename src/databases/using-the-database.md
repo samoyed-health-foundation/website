@@ -4,25 +4,15 @@ layout: single
 ---
 
 - [How to Participate in the Samoyed Database/DNA banking project](#how)
-
 - [Order kits and supplies for DNA banking](#order-kits)
-
 - [Overview of the Database](#overview-of-the-database)
-
 - [Creating An Account](#creating-your-account)
-
 - [Adding my Samoyed's records to the Main Database](#adding)
-
 - [Adding my Samoyed's Record to the Companion Databases](#companion-databases) - Adverse Event and/or Death Report
-
 - [Updating: Editing and Modifying your Samoyed's records](#updating)
-
 - [Lost Password Retrieval](#lost-password-retrieval)
-
 - [How to Change my Email address or Password](#change-profile) - editing your member profile
-
 - [Requirements to complete submission to the DNA Bank](#requirements-to-complete)
-
 - [Privacy and Security Issues associated with the database/bank](#privacy-and-security)
 
 # How to Participate in the Samoyed Database/DNA banking project {#how}
@@ -64,7 +54,6 @@ If you request DNA kit(s) from the DNA Bank at from the Dogenes Website:
 
 - You will pay for each kit online. When you receive the kits, you will
   follow the instructions for swabbing the inside cheek of each animal.
-
 - You must also complete the database.
 
 If you have internet access, you will go to the [Samoyed Database Member Login page](https://www.dogenes.com/members1.html).
@@ -93,9 +82,7 @@ be found at [https://www.samoyedhealthfoundation.org](/).
 The SCARF DNA Repository/Database consists of three directories.
 
 1. Data Entry for Samoyed Records - main database
-
 2. Data Entry for Samoyed Incident Report
-
 3. Data Entry for Samoyed Death Report
 
 In each directory, a **"record"** is created for each individual
@@ -247,14 +234,11 @@ database until:
    have completed and submitted, to the best of your ability, the online
    database form or have mailed a printed copy of the form to the DNA
    Bank.
-
 2. You have submitted a 3-generation pedigree to the DNA Bank (if
    pedigree is known).
-
 3. You have signed and mailed the [SCARF Transfer of DNA Ownership &
    Release form](https://www.dogenes.com/SCARFrelease.pdf) to the DNA
    Bank. Note: All co-owners on the dog must sign the form.
-
 4. You have mailed the swabbed cheek swabs to the DNA Bank.
 
 # Privacy and Security issues associated with the database/bank {#privacy-and-security}

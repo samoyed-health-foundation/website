@@ -120,13 +120,9 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 ## Morris Animal Foundation Grants
 
 - [MAF Grant D09CA-082 (discontinued):](/research/current-studies/morris-grant-d09ca-082) Potential Drug Therapy for Lymphoma \[$3000]
-
   - This study has been discontinued by the researcher due to the undesirable effects on the patient. SCARF has re-directed this funding to another study.
-
 - [MAF Grant D09CA-029:](/research/current-studies/morris-grant-d09ca-029) Determining Risk Factors for Lymphoma. Dr. Lauren A. Trepanier, University of Wisconsin
-
   - Scarf has re-directed the funds from D09CA-082 to this study.
-
 - MAF Grant D10CA-016 (closed): Investigating a Noninvasive, At-home Diagnostic Technique for Gastrointestinal Disorders. Pedro L Boscan, DVM PhD, Colorado State University \[$3000] [[Study update](</files/D10CA-016 update.pdf>)] [[final report](/files/d10ca-016-final.pdf)]
 - [MAF Grant D10CA-060 (closed):](/research/current-studies/morris-grant-d10ca-060) Evaluating the Safety and Efficacy of a Drug to Control Epilepsy in Dogs. Dawn Merton Boothe, DVM PhD, Auburn University \[$3000]
 - [MAF Grant D10CA-801A:](/research/current-studies/morris-grant-d10ca-801a) Evaluating Treatment for Vision Problems in Diabetic Dogs \[$3000]
@@ -159,7 +155,6 @@ You may participate in the [Samoyed DNA bank/databases](/databases)
 - [AKCCHF grant #00997-A (closed):](/research/current-studies/akcchf-grant-00997-a) Virological Survey of Dogs with Idiopathic Conjunctivitis. Eric Ledbetter, DVM, Cornell University \[$1000] [[publication](http://www.ncbi.nlm.nih.gov/pubmed/19827980)]
 - [AKCCHF grant #01046-A (closed): ](/research/current-studies/akcchf-grant-01046-a) The Relevance of Ezrin in the Metastatic Progression of Canine Osteosarcoma. Sun Hyeok Hong, DVM PhD, National Cancer Institute \[$1000]
 - [AKCCHF grant #01064-A (closed): ](/research/current-studies/akcchf-grant-01064-a) Immuno-cytochemical Detection and siRNA-Mediated Knockdown of Survivin in Canine Lymphoma. Douglas H Thamm, VMD, Colorado State University \[$1000] [[final report](</files/1064-A MY2 FINAL Summary.pdf>)] [[publication 2008](http://www.ncbi.nlm.nih.gov/pubmed/18647159)] [[publication 2011](https://aacrjournals.org/cancerres/article/72/1/249/575897/Expression-and-Function-of-Survivin-in-Canine)]
-
   - This work is also applicable to Osteosarcoma - see the [AKCCHF Success Story](http://www.akcchf.org/research/impact-stories/survivin-canine-osteosarcoma.html)
 
 # Funded Research Grants (2007)

@@ -42,9 +42,7 @@ There are 5 Stages of Lymphosarcoma
 - Stage II: Enlargement of more than one lymph node in one region of
   the body
 - Stage III: Multiple lymph nodes enlarged throughout the body.
-
   - _Note_: _Stage IIIA is usually the earliest at which LSA is detected._
-
 - Stage IV: Spleen and/or Liver involved
 - Stage V: Bone marrow or other organs involved (e.g.
   gastrointestinal tract, skin, nervous system)
@@ -97,9 +95,9 @@ treatment is to extend life via remission of the disease.
 - Radiation
 - Chemotherapy - (Standard treatment for most patients). There are a few different "Protocols" that are used for Lymphosarcoma. Each uses multiple drugs, with one or more drugs given weekly. Some are injectable drugs and/or given orally.
 
-  1. VELCAP Protocol from TUFT University - combines 5 drugs: Vincristine, Cytoxan, Prednisone, Adriamycin, and L-asparaginase
-  2. Madison (U of Wisconsin) Protocol - Combines 5 drugs (same drugs as VELCAP but with different dosing regimen): L-asparaginase, Vincristine, Cytoxan, Adriamycin & Prednisone. Another Wisconsin protocol, L-VCA short, uses only 4 of the drugs, Vincristine, Cytoxan, Adriamycin & Prednisone.
-  3. COP Protocol -- Combines 3 drugs: Vincristine, Cytoxan and Prednisone
+1. VELCAP Protocol from TUFT University - combines 5 drugs: Vincristine, Cytoxan, Prednisone, Adriamycin, and L-asparaginase
+2. Madison (U of Wisconsin) Protocol - Combines 5 drugs (same drugs as VELCAP but with different dosing regimen): L-asparaginase, Vincristine, Cytoxan, Adriamycin & Prednisone. Another Wisconsin protocol, L-VCA short, uses only 4 of the drugs, Vincristine, Cytoxan, Adriamycin & Prednisone.
+3. COP Protocol -- Combines 3 drugs: Vincristine, Cytoxan and Prednisone
 
 _Dogs usually do not have the extreme side effects with Chemotherapy
 that humans do. That is not to say there aren't any, such as nausea and

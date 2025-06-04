@@ -94,21 +94,15 @@ levels. As of 10/31/08, 35 more normal Samoyed samples are needed.
   enroll animals that you suspect may have 'thyroid issues'. _The
   appropriate dogs are those that you are most convinced are healthy,
   fit, and robust animals._
-
 - Between one and eight years of age
-
 - Females should be non-pregnant, non- lactating and not in season
-
 - Dogs can be on heartworm, nutritional supplements\*, flea and tick
   medication but cannot be on other drugs. Dogs must be off any drug
   therapy (eye or ear drops, antibiotics, steroids etc) for at least
   12 weeks prior to enrolling in the study. \*Supplements are
   acceptable but please record their use on the health questionnaire.
-
 - Animals must be fasted for at least 6 hours prior to sampling.
-
 - AKC registered (or able to provide evidence of purebred status)
-
 - More information below - note, dogs must be enrolled in the study
   before samples are submitted.
 
@@ -167,7 +161,6 @@ or <rdavies@umn.edu> or <http://www.cvm.umn.edu/cic/current/endocrine/home.html>
 - A client consent form which needs to be signed and returned with the study samples.
 - A letter to your veterinarian which describes the study and requirements for the physical exam and sample collections.
 - A frequently asked question form to provide additional information.
-
 - _Please include the breed, sex, date of birth of your dog and your
   complete contact details in your initial email. The names, address,
   phone number and email address of your veterinarian is also required._
@@ -183,8 +176,7 @@ or <rdavies@umn.edu> or <http://www.cvm.umn.edu/cic/current/endocrine/home.html>
    to have all three parties (owner, veterinarian and Dr. Davies) in
    communication regarding dog enrollment.
 
-**\*Samples that are received without going through the enrollment
-procedure cannot be analyzed**.\*
+**\*Samples that are received without going through the enrollment procedure cannot be analyzed**.\*
 
 This project is also supported by the American Kennel Club Canine Health
 Foundation and the Orthopedic Foundation for Animals.
