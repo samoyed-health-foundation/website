@@ -101,4 +101,9 @@ rating](/img/3-bones.png)
 
 ## "Living with a Disorder" Journal Entries
 
-- [Corneal Dystrophy](/diseases/corneal-dystrophy-corneal-dystrophy)
+- [Corneal Dystrophy](/diseases/corneal-dystrophy-corneal-dystrophy) 
+
+## SCARF-Sponsored Research
+
+- [AKCCHF Grant #02696:](/research/current-studies/akcchf-grant-02696) Efficacy and Safety of Netarsudil for Canine Corneal Endothelial Dystrophy
+
