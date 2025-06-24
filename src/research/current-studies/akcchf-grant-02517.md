@@ -2,12 +2,7 @@
 title: AKCCHF Grant 02517
 layout: single
 ---
-
-
-				
-					
-
-## 02517: Genetics of Primary Angle Closure Glaucoma in the Siberian Husky
+## AKCCHF Grant 02517: Genetics of Primary Angle Closure Glaucoma in the Siberian Husky
 
 Glaucoma is a very painful and rapidly blinding disease that 
 leads to irreversible sight loss in many thousands of dogs in the USA 
