@@ -16,7 +16,7 @@
     "@tailwindcss/typography": "0.5.16",
     "@types/node": "22.16.4",
     "algolia-indexing": "2.0.0",
-    "algoliasearch": "5.33.0",
+    "algoliasearch": "5.34.0",
     "alpinejs": "3.14.9",
     "browser-sync": "3.0.4",
     "cross-env": "7.0.3",
