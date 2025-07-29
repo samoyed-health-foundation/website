@@ -20,7 +20,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)[](<>)
 
 * [MAF Grant D25CA-033](/research/current-studies/morris-grant-d25ca-033): A Novel, Multi-Faceted Gene Therapy Approach to Osteoarthritis in Dogs. 
   Principal Investigator: Laurie Goodrich; Colorado State University [$10,000]
-* [MAF Grant D25CA-039] (/research/current-studies/morris-grant-d25ca-039): Does Lifetime Activity Affect Cognitive Aging? Principal Investigator: Péter Pongrácz, MSc, PhD; Eötvös Loránd University [$10,000]
+* [MAF Grant D25CA-039](/research/current-studies/morris-grant-d25ca-039): Does Lifetime Activity Affect Cognitive Aging? Principal Investigator: Péter Pongrácz, MSc, PhD; Eötvös Loránd University [$10,000]
 
 # Funded Research Grants (2024)
 
