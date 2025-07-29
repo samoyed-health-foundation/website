@@ -6,7 +6,7 @@ layout: single
 
 **Principal Investigator:** Laurie Goodrich, DVM
 
-**Institution:**Colorado State University
+**Institution:** Colorado State University
 
 **Project Description:**
 SUMMARY: Researchers will use a new gene therapy approach to treat osteoarthritis in dogs.
