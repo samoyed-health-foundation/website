@@ -17,15 +17,16 @@ You may participate in the [Samoyed DNA bank/databases](/databases)[](<>)
 # Funded Research Grants (2025)
 
 ## Morris Animal Foundation Grants
-* [MAF Grant D25CA-033](/research/current-studies/
+
+* [MAF Grant D25CA-033](/research/current-studies/morris-grant-d25ca-033): A Novel, Multi-Faceted Gene Therapy Approach to Osteoarthritis in Dogs. 
+  Principal Investigator: Laurie Goodrich; Colorado State University [$10,000]
+* [MAF Grant D25CA-039] (/research/current-studies/morris-grant-d25ca-039): Does Lifetime Activity Affect Cognitive Aging? Principal Investigator: Péter Pongrácz, MSc, PhD; Eötvös Loránd University [$10,000]
 
 # Funded Research Grants (2024)
 
-
-
 ## AKC Canine Health Foundation Grants
 
-* [AKCCHF Grant # 02517](/research/current-studies/akcchf-grant-02517): Genetics of Primary Angle Closure Glaucoma in the Siberian Husky. Principal Investigator:  Gillian J McLellan, BVMS, PhD, DACVO, DECVO, DVOphthal, MRCVS, FARVO. University of Wisconsin [$10,000}
+* [AKCCHF Grant # 02517](/research/current-studies/akcchf-grant-02517): Genetics of Primary Angle Closure Glaucoma in the Siberian Husky. Principal Investigator:  Gillian J McLellan, BVMS, PhD, DACVO, DECVO, DVOphthal, MRCVS, FARVO. University of Wisconsin \[$10,000]
 
 # Funded Research Grants (2023)
 
