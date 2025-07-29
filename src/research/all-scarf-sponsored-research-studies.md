@@ -16,9 +16,12 @@ You may participate in the [Samoyed DNA bank/databases](/databases)[](<>)
 
 # Funded Research Grants (2025)
 
-## Coming Soon[](<>)
+## Morris Animal Foundation Grants
+* [MAF Grant D25CA-033](/research/current-studies/
 
 # Funded Research Grants (2024)
+
+
 
 ## AKC Canine Health Foundation Grants
 
@@ -41,7 +44,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)[](<>)
 ## AKC Canine Health Foundation Grants
 
 * [AKCCHF Grant # 02690-A (closed): ](/research/current-studies/akcchf-grant-02690a/)Diagnostic Utility of Thoracoscopy for Localization of Pulmonary Bullae in Dogs with Spontaneous Pneumothorax. Principal Investigator: Valery Scharf, DVM, MS; North Carolina State University \[$2500] [[Progress Report 2021](/files/akcchf02690amy2summary.pdf)] [[Progress Report end 2021](/files/akcchf02819ey1summary.pdf)]
-* [AKCCHF Grant #02696 (closed):](/research/current-studies/akcchf-grant-02696/) Efficacy and Safety of Netarsudil for Canine Corneal Endothelial Dystrophy. Principal Investigator: Sara Thomasy, DVM, PhD; University of California, Davis \[$5000] [[Progress Report 2021](/files/akcchf02696my2summary.pdf)] [\[Final Report 2024](/research/current-studies/akcchf02696-Final-Report/)] [Publication](https://www.nature.com/articles/s41598-024-56084-4)]
+* [AKCCHF Grant #02696 (closed):](/research/current-studies/akcchf-grant-02696/) Efficacy and Safety of Netarsudil for Canine Corneal Endothelial Dystrophy. Principal Investigator: Sara Thomasy, DVM, PhD; University of California, Davis \[$5000] [[Progress Report 2021](/files/akcchf02696my2summary.pdf)] [[Final Report 2024](/research/current-studies/akcchf02696-Final-Report/)] [Publication](https://www.nature.com/articles/s41598-024-56084-4)]
 * [AKCCHF Grant #02783 (closed):](/research/current-studies/akcchf-grant-02783/) Transcriptional Profiling of Canine Soft Tissue Sarcoma. Principal Investigator: Andrew Miller, DVM; Cornell University \[$5000] [[Progress Report](/files/akcchf02783ey1summary.pdf)] [[Mid Year 2 Progress Report 2021](/files/akc02783my2summary.pdf)] [[End Year 2 Progress Report Feb 2022](/files/akcchf02783ey2summary.pdf)]
 * [AKCCHF Grant #02819 (closed):](/research/current-studies/akcchf-grant-02819/) Identification of Bartonella henselae In Vivo Induced Antigens for Development of a Reliable Serodiagnostic Assay for Canine Bartonelloses. Principal Investigator: Edward Breitschwerdt, DVM; North Carolina State University \[$2500] [[Progress Report 2021](/files/akcchf02819my1summary.pdf)] [[Progress Report end 2021](/files/akcchf02819ey1summary.pdf)]
 
