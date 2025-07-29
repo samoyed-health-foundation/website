@@ -2,7 +2,7 @@
 title: Morris Grant D25CA-033
 layout: single
 ---
-**Morris Grant D25CA-033:** Gene Therapy for Osteoarthritis in Dogs
+**Morris Grant D25CA-033:** A Novel, Multi-Faceted Gene Therapy Approach to Osteoarthritis in Dogs
 
 **Principal Investigator:** Laurie Goodrich, DVM
 
