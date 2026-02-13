@@ -20,7 +20,7 @@
     "alpinejs": "3.15.8",
     "browser-sync": "3.0.4",
     "cross-env": "10.1.0",
-    "flowbite": "3.1.2",
+    "flowbite": "4.0.1",
     "instantsearch.js": "4.87.2",
     "js-yaml": "4.1.1",
     "markdown-it-anchor": "9.2.0",
