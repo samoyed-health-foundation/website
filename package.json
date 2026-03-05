@@ -13,7 +13,7 @@
     "@playwright/test": "1.52.0",
     "@tailwindcss/cli": "4.2.1",
     "@tailwindcss/postcss": "4.2.1",
-    "@tailwindcss/typography": "0.5.16",
+    "@tailwindcss/typography": "0.5.19",
     "@types/node": "22.19.13",
     "algolia-indexing": "2.0.0",
     "algoliasearch": "5.49.1",
