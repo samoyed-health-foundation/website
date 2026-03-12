@@ -26,19 +26,25 @@ people:
     facebook_href: "https://www.facebook.com/beverly.delaney.18"
 
   - name: Leah Seman
-    title: Director, Director SCA
+    title: Director, SCA Liason
     image_src: "/img/avatar-ls.jpg"
     email_href: "mailto:leah.seman@samoyedhealthfoundation.org"
     facebook_href: "https://www.facebook.com/leah.seman"
 
-  - name: Pam Barbe
+  - name: Maureen Powers
     title: Director
-    image_src: "/img/avatar-pb.jpg"
-    email_href: "mailto:pam.barbe@samoyedhealthfoundation.org"
-    facebook_href: "https://www.facebook.com/pam.barbe"
+    image_src: "/img/avatar-mp.jpg"
+    email_href: "mailto:maureen.powers@samoyedhealthfoundation.org"
+    facebook_href: "https://www.facebook.com/maureen.powers.77"
 
   - name: Matt Odille
     title: Director, Web Developer
     image_src: "/img/avatar-mo.jpg"
     email_href: "mailto:matt.odille@samoyedhealthfoundation.org"
     facebook_href: "https://www.facebook.com/matt.odille"
+
+  - name: Pam Barbe
+    title: Director Emeritus
+    image_src: "/img/avatar-pb.jpg"
+    email_href: "mailto:pam.barbe@samoyedhealthfoundation.org"
+    facebook_href: "https://www.facebook.com/pam.barbe"
