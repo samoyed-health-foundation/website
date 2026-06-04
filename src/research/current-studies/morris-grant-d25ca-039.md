@@ -8,6 +8,10 @@ layout: single
 
 **Institution:** Eötvös Loránd University
 
+**Progress Report 2026**
+
+
+
 **Project Description:**
 
 **SUMMARY**: Researchers will study if a dog’s activity level or “job” during their lifetime influences cognitive declines later in life.
