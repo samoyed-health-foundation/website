@@ -18,6 +18,15 @@
   ::file-selector-button {
     border-color: var(--color-gray-200, currentColor);
   }
+
+  /*
+    Flowbite v4 form styles read colors from its own theme tokens, but this
+    project only uses the plugin. Define the token so placeholders and input
+    borders keep the gray-500 color used by Flowbite 2.
+  */
+  :root {
+    --color-body: var(--color-gray-500);
+  }
 }
 
 /*Your Custom CSS Goes here*/
