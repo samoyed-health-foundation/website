@@ -1,5 +1,6 @@
 // @ts-check
 const { defineConfig, devices } = require('@playwright/test');
+const path = require('path');
 
 /**
  * Read environment variables from file.
@@ -96,6 +97,9 @@ module.exports = defineConfig({
 
   expect: {
     toHaveScreenshot: {
+      // Screenshots use a bundled font so glyph rendering does not depend on
+      // the system font version installed on the machine running the tests.
+      stylePath: path.join(__dirname, 'tests/screenshot-font.css'),
       // Account for slight differences with SVG icons and rounded borders on local macOS vs CI macOS
       maxDiffPixels: 6
     },
