@@ -2,7 +2,7 @@ import markdownIt from "markdown-it";
 import markdownItAnchor from "markdown-it-anchor";
 import markdownItAttrs from "markdown-it-attrs";
 import markdownItTableOfContents from "markdown-it-table-of-contents";
-import yaml from "js-yaml";
+import { load as loadYaml } from "js-yaml";
 
 export default async function (eleventyConfig) {
   // https://www.11ty.dev/docs/ignores/#opt-out-of-using-.gitignore
@@ -47,7 +47,7 @@ export default async function (eleventyConfig) {
   });
 
   // https://www.11ty.dev/docs/data-custom/#yaml
-  eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
+  eleventyConfig.addDataExtension("yaml", (contents) => loadYaml(contents));
 
   // https://www.11ty.dev/docs/copy/
   // Copy files to /_site
