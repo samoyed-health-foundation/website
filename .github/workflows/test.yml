@@ -1,9 +1,12 @@
-name: Test for Renovate
+name: Test
 
 on:
   push:
     branches:
       - 'renovate/**'
+  pull_request:
+    branches:
+      - master
   workflow_dispatch:
 
 jobs:
