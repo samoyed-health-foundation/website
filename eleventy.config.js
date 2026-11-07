@@ -8,6 +8,12 @@ export default async function (eleventyConfig) {
   // https://www.11ty.dev/docs/ignores/#opt-out-of-using-.gitignore
   eleventyConfig.setUseGitIgnore(false);
 
+  // Tailwind/PostCSS writes straight to _site, outside of Eleventy's watcher,
+  // so tell the dev server to live reload when the generated CSS changes.
+  eleventyConfig.setServerOptions({
+    watch: ["./_site/css/style.css"],
+  });
+
   // Use custom markdown-it instance so it can be set as a filter, too
   const markdownLib = markdownIt({ html: true })
     .use(markdownItAttrs)
