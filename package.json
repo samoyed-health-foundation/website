@@ -24,7 +24,7 @@
     "instantsearch.js": "4.122.0",
     "js-yaml": "4.3.2",
     "markdown-it-anchor": "9.2.1",
-    "markdown-it-attrs": "4.3.1",
+    "markdown-it-attrs": "4.5.0",
     "markdown-it-table-of-contents": "1.2.0",
     "npm-run-all2": "8.0.4",
     "postcss": "8.5.32",
