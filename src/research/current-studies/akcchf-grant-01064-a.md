@@ -6,7 +6,7 @@ layout: single
 **Investigator:** Douglas H Thamm, VMD, Colorado State University
 
 _Note:_ Some of this work on Survivin is also applicable to
-Osteosarcoma, as described in this AKCCHF Success Story: [Survivin' Canine Osteosarcoma](http://www.akcchf.org/research/impact-stories/survivin-canine-osteosarcoma.html)
+Osteosarcoma, as described in this AKCCHF Success Story: [Survivin' Canine Osteosarcoma](https://web.archive.org/web/20250513071447/https://www.akcchf.org/research/impact-stories/survivin-canine-osteosarcoma.html)
 
 **Update \[[Final Report](</files/1064-A MY2 FINAL Summary.pdf>)]**
 

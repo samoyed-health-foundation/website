@@ -140,7 +140,7 @@ Merck Veterinary Manual. ![four bones
 rating](/img/4-bones.png)
 
 [Hemophilia
-A](http://ahdc.vet.cornell.edu/sects/coag/clinical/Hemopha.cfm)
+A](https://www.vet.cornell.edu/animal-health-diagnostic-center/laboratories/comparative-coagulation/clinical-topics/hemophilia)
 from the Cornell University College of Veterinary Medicine ![three
 bones
 rating](/img/3-bones.png)

@@ -18,7 +18,7 @@ layout: single
 # Vaccination Information
 
 - [2022 AAHA Canine Vaccine Guidelines](https://www.aaha.org/resources/2022-aaha-canine-vaccination-guidelines/)
-- [New Vaccine Protocols](http://community.dog.com/f/29543/t/80008.aspx) by Dr. Bob Rogers, DVM
+- [New Vaccine Protocols](https://web.archive.org/web/20230330173714/http://community.dog.com/f/29543/t/80008.aspx) by Dr. Bob Rogers, DVM
 - [Vaccinations for the New Puppy](http://www.mirage-samoyeds.com/vaccinations.htm) by Susan Thorpe Vargas Ph.D.
 
 # Nutrition

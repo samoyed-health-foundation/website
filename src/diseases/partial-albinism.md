@@ -134,7 +134,7 @@ exist for Deaf and Blind dogs.
 bone
 rating](/img/1-bone.png)
 
-<http://web.archive.org/web/20221229195344/http://www.kolumbus.fi/sarakontu/link/canlinks.html>
+<https://web.archive.org/web/20221229195344/http://www.kolumbus.fi/sarakontu/link/canlinks.html>
 ![one bone
 rating](/img/1-bone.png) - Interesting site with links to colour genetics
 for many Spitz breeds

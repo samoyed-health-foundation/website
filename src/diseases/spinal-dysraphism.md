@@ -186,7 +186,7 @@ bones
 rating](/img/4-bones.png)
 
 Arias MVB et al, 2008. [Spina bifida in three
-dogs.](http://bjvp.org.br/wp-content/uploads/2015/07/V.1-N.2-15-20881_2009_12_30_35_2.pdf)
+dogs.](https://web.archive.org/web/20250607152442/https://bjvp.org.br/wp-content/uploads/2015/07/V.1-N.2-15-20881_2009_12_30_35_2.pdf)
 Brazilian Journal of Veterinary Pathology 1: 64-69. ![three bones
 rating](/img/3-bones.png)
 

@@ -26,7 +26,7 @@ Open registries would provide information on normals, affected and carriers.
 
 > The following DNA tests are available for Samoyeds at this time. These are listed for informational purposes only. SCARF neither recommends or endorses the validity of the tests themselves.
 
-- [xl-pra from Optigen](http://www.optigen.com/opt9_test_xlpra.html)
+- [xl-pra from Optigen](https://web.archive.org/web/20191221142141/http://www.optigen.com:80/opt9_test_xlpra.html)
 - [DNA test for Inherited Retinal Dysplasia/Dwarfism](/optigen-dna-test-for-retinal-dysplasia-dwarfism-in-the-samoyed) from Optigen
 - [DNA test for Hereditary Nephritis - Samoyed Hereditary Glomerulopathy](https://shop.embarkvet.com/products/embark-for-breeders-dog-dna-test-kit) from Embark
 - [Genetic Testing: A Guide for Breeders](http://siriusdog.com/genetic-testing-breeders-guide/) by Mary Whiteley, Ph.D.
@@ -39,7 +39,7 @@ Open registries would provide information on normals, affected and carriers.
 - [Genetics And Breeding Strategies: Essays For The Dog Breeder](https://www.pawpeds.com/cms/index.php/en/component/content/article/geneticsandbreedingstrategiesessaydogbreeder-eng) by Dr. Susan Thorpe-Vargas
 - [Canine Inherited Disorders Database](http://cidd.discoveryspace.ca/)
 - [Understanding canine genetics](https://www.thekennelclub.org.uk/health-and-dog-care/health/getting-started-with-health-testing-and-screening/understanding-canine-genetics/)
-- [Breeding for Health](http://malamute-health.org/index.php/breeding-for-health) on the malamutehealth.org website
+- [Breeding for Health](https://web.archive.org/web/20250117110115/http://malamute-health.org/index.php/breeding-for-health) on the malamutehealth.org website
 - [Canine Genetics Resources](http://www.workingdogs.com/genetics.htm) on workingdogs.com - a large collection of links for further reading
 - [Breeding Better Dogs](http://www.breedingbetterdogs.com/articles/articles.html) - a list of articles by Carmen L. Battaglia - some of these are very thought provoking
 - [Natural Protection of Genetic Variation](https://www.pawpeds.com/cms/index.php/en/education/articles/genetics/natural-protection-of-genetic-variation) by Dr. Per Eric Sundgren - this makes understanding the importance of the Major Histocompatibility Complex (MHC) to your breeding program very understandable

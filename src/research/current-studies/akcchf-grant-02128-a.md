@@ -54,4 +54,4 @@ Mary Jo Burkhard, DVM, PhD, DACVP (Immunology/Infectious Disease,
 Clinical Pathology) Michelle Evason, DVM, DACVIM (Internal Medicine) J.
 Scott Weese, DVM, DVSc, DACVIM (Infectious Disease, Internal Medicine)
 
-[AKCCHF.org 02128-A](http://www.akcchf.org/research/research-portfolio/2128.html)
+[AKCCHF.org 02128-A](https://www.akcchf.org/grant-directory/02128-a/)

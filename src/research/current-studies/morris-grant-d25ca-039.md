@@ -8,7 +8,7 @@ layout: single
 
 **Institution:** Eötvös Loránd University
 
-**[[Progress Report 2026](/files/D25CA039Progress2026.pdf)]**
+**[[Progress Report 2026](/files/d25ca039progress2026.pdf)]**
 
 **Project Description:**
 

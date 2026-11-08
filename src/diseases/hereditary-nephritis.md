@@ -157,5 +157,5 @@ Disease](http://www.faqs.org/faqs/dogs-faq/medical-info/JRD/)
 at faqs.org ![two bones
 rating](/img/2-bones.png)
 
-[Hereditary Nephritis](https://www.gopetsamerica.com/dog-health/x_linked_nephritis.html) at gopetsamerica.com ![two bones
+[Hereditary Nephritis](https://web.archive.org/web/20210227005413/http://gopetsamerica.com/dog-health/x_linked_nephritis.html) at gopetsamerica.com ![two bones
 rating](/img/2-bones.png)

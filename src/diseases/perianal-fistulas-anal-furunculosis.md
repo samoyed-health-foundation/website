@@ -108,7 +108,7 @@ rating](/img/3-bones.png)
 
 ## Suggested Links
 
-<http://perianal-fistulas.tripod.com/PersonalStoriesIndex.html> -
+<https://web.archive.org/web/20260412202027/https://perianal-fistulas.tripod.com/PersonalStoriesIndex.html> -
 This website has personal accounts of dogs with perianal fistulas ![one
 bone
 rating](/img/1-bone.png)
@@ -117,10 +117,10 @@ rating](/img/1-bone.png)
 bones
 rating](/img/2-bones.png)
 
-<http://www.provet.co.uk/health/diseases/furunculosis.htm> ![two
+<https://web.archive.org/web/20240425035817/https://www.provet.co.uk/health/diseases/furunculosis.htm> ![two
 bones
 rating](/img/2-bones.png)
 
-<https://www.gopetsamerica.com/dog-health/perianal_fistulas.html> ![two
+<https://web.archive.org/web/20201128202843/http://gopetsamerica.com/dog-health/perianal_fistulas.html> ![two
 bones
 rating](/img/2-bones.png)

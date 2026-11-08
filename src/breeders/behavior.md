@@ -18,9 +18,9 @@ layout: single
 - [Aberrant behavior](http://www.clickersolutions.com/articles/#problem) including aggression, separation anxiety
 - [Misconceptions about pack dominance](http://www.clickersolutions.com/articles/2001/dominance.htm)
 - [Dog Behavior Information and Advice](https://www.k9ofmine.com/dog-behavior/)
-- [My Smart Puppy Blog](https://mysmartpuppy.com/category/puppy-training/)
-- [Nature vs. Nurture: The Genetics of Behavior](http://www.akcchf.org/educational-resources/library/articles/articles/Nature-vs-Nurture-The-Genetics-of-Behavior-07-1997.pdf) by Jacquie Neilson, DVM, DACVB
-- [The Dominant Dog](http://www.akcchf.org/educational-resources/library/articles/articles/The-Dominant-Dog-07-1997.pdf) by Jacquie Neilson, DVM, DACVB
+- [My Smart Puppy Blog](https://www.pawsrpals.com/category/dog-training/)
+- [Nature vs. Nurture: The Genetics of Behavior](https://www.akcchf.org/wp-content/uploads/Nature-vs-Nurture-The-Genetics-of-Behavior-07-1997.pdf) by Jacquie Neilson, DVM, DACVB
+- [The Dominant Dog](https://web.archive.org/web/20241214034658/https://www.akcchf.org/educational-resources/library/articles/articles/The-Dominant-Dog-07-1997.pdf) by Jacquie Neilson, DVM, DACVB
 - [The Interaction of Illness and Behavior](http://www.mmilani.com/writing/articles/dogs/canine-illness-behavior/) by Myrna Milani, BS, DVM
 
 # Microchipping

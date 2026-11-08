@@ -83,7 +83,7 @@ information](/optigen-dna-test-for-retinal-dysplasia-dwarfism-in-the-samoyed/):
 
 [Genetic Testing Available for Disorders in Samoyeds](/diseases/genetic-disorders/)
 
-[Wisdom Panel](https://breeder.wisdompanel.com/product/13)
+[Wisdom Panel](https://www.wisdompanel.com/en-us/products)
 
 ## Treatment Guidelines
 

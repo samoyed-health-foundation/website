@@ -107,7 +107,7 @@ life only a few months at best.
 
 ## References
 
-[Hemangiosarcoma. Modiano Lab at the University of Minnesota](https://modianolab.org/index.php/cancer-info/hemangiosarcoma/) ![two bones rating](/img/2-bones.png)
+[Hemangiosarcoma. Modiano Lab at the University of Minnesota](https://vetmed.umn.edu/modiano-lab/cancer-center/hemangiosarcoma) ![two bones rating](/img/2-bones.png)
 
 ## Suggested Links
 

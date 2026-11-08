@@ -109,12 +109,12 @@ years of age.
 ## References
 
 1.  [Understanding Canine Congestive Heart
-    Failure](<http://www.vet.upenn.edu/docs/default-source/cardiology-brochures-(ryan)/understanding-heart-failure.pdf?sfvrsn=0>)
+    Failure](<https://www.vet.upenn.edu/wp-content/uploads/2024/12/understanding-heart-failure.pdf>)
     from the Matthew J. Ryan Veterinary Hospital, University of
     Pennsylvania School of Veterinary Medicine ![3
 bones](/img/3-bones.png)
 2.  [Canine Heart
-    Anatomy](http://web.archive.org/web/20041119090303/http://www.geocities.com/labsr4ulist/pawtvd.htm)
+    Anatomy](https://web.archive.org/web/20041119090303/http://www.geocities.com/labsr4ulist/pawtvd.htm)
     (Web archive) by Rachel Peeples, DVM ![2 bones](/img/2-bones.png)
 
 ## Suggested Links

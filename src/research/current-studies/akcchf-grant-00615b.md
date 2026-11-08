@@ -6,7 +6,7 @@ layout: single
 **Jaime F Modiano, VMD PhD, \[\$2500 from AKCCHF Donor Advised fund\]**
 
 This is an AKCCHF Success Story! [Sniffing Out Lymphoma
-Genes](http://www.akcchf.org/research/research-portfolio/0706.html)
+Genes](https://www.akcchf.org/grant-directory/00615b/)
 
 **_Project Summary from AKCCHF.org website:_**
 
