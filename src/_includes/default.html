@@ -59,23 +59,16 @@
     </script>
 
     <!-- Algolia search -->
-    <script
-      src="https://cdn.jsdelivr.net/npm/algoliasearch@4.24.0/dist/algoliasearch-lite.umd.js"
-      integrity="sha256-b2n6oSgG4C1stMT/yc/ChGszs9EY/Mhs6oltEjQbFCQ="
-      crossorigin="anonymous"
-    ></script>
-    <script
-      src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.75.6/dist/instantsearch.production.min.js"
-      integrity="sha256-DuvNCzkn3zdi0M6ISr57tX37YCcb7ezs9WK3lqUEe3Q="
-      crossorigin="anonymous"
-    ></script>
+    <script src="/static/js/algoliasearch.js"></script>
+    <script src="/static/js/instantsearch.js"></script>
 
     <script>
       const searchInput = document.getElementById("searchbox");
 
       if (searchInput) {
         const hitsContainer = document.getElementById("hits");
-        const searchClient = algoliasearch(
+        const { liteClient } = window["algoliasearch/lite"];
+        const searchClient = liteClient(
           "G83DE3N7W7",
           "bcd13ea64e870f8094e34cabdc485a08",
         );
@@ -120,7 +113,7 @@
                 <a href="${hit.url}" class="text-lg font-medium text-purple-700 hover:underline">
                   ${hit._highlightResult.title.value}
                 </a>
-                <p class="text-sm text-gray-600 dark:text-gray-400">${hit._highlightResult.description?.value || ""}</p>
+                <p class="text-sm text-gray-600 dark:text-gray-400 line-clamp-3">${hit._highlightResult.summary?.value || ""}</p>
               </div>
             `;
               },

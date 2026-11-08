@@ -10,5 +10,10 @@ test('hemophili', async ({ page }) => {
   const hits = await page.locator('#hits .ais-Hits-item').allTextContents();
   expect(hits).toContainEqual(expect.stringContaining('Hemophilia'));
   expect(hits).toContainEqual(expect.stringContaining('A to Z Diseases'));
+
+  // Each hit should show a summary snippet, not an empty paragraph.
+  const firstHitSnippet = page.locator('#hits .ais-Hits-item p').first();
+  await expect(firstHitSnippet).not.toBeEmpty();
+
   await expect(page).toHaveScreenshot({ fullPage: true, timeout: 10000 });
 });

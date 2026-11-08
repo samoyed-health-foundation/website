@@ -54,6 +54,10 @@ export default async function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
     "./src/admin/config.yml": "./admin/config.yml",
     "./node_modules/alpinejs/dist/cdn.min.js": "./static/js/alpine.js",
+    "./node_modules/algoliasearch/dist/lite/builds/browser.umd.js":
+      "./static/js/algoliasearch.js",
+    "./node_modules/instantsearch.js/dist/instantsearch.production.min.js":
+      "./static/js/instantsearch.js",
   });
   // Copy static folder to /_site
   eleventyConfig.addPassthroughCopy({ "src/static/css": "css" });

@@ -14,7 +14,6 @@
     "@tailwindcss/postcss": "4.3.4",
     "@tailwindcss/typography": "0.5.20",
     "@types/node": "26.6.6",
-    "algolia-indexing": "2.0.0",
     "algoliasearch": "5.61.0",
     "alpinejs": "3.17.5",
     "flowbite": "4.0.2",
