@@ -7,7 +7,7 @@ layout: single
 
 This is an AKCCHF Success Story!  [Looking for a New Treatment for
 Refractive Corneal
-Ulcers](http://www.akcchf.org/research/research-portfolio/0985.html)
+Ulcers](https://www.akcchf.org/grant-directory/00985-a/)
 
 **_Project Summary from AKCCHF.org website:_**
 

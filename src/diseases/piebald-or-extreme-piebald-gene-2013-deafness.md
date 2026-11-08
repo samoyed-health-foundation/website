@@ -144,7 +144,7 @@ bones](/img/2-bones.png)
 <https://www.ofa.org/diseases/other-diseases/congenital-deafness>
 ![3 bones](/img/3-bones.png)
 
-<http://www.lsu.edu/deafness/VetClinNA.htm>
+<https://www.lsu.edu/vetmed/deafness/vetclinna.php>
 by George Strain-- Explains how extreme piebald gene may relate to
 other genes to cause deafness ![2 bones](/img/2-bones.png)
 
@@ -153,10 +153,10 @@ Howell Book House. ![2 bones](/img/2-bones.png)
 
 ## Support Groups
 
-[http://www.deafdogs.org](http://www.deafdogs.org/)
+[http://www.deafdogs.org](https://web.archive.org/web/20251126123518/https://www.deafdogs.org/)
 
 ## Suggested Links
 
-<http://www.lsu.edu/deafness/BiblioDog.htm> ![3
+<https://www.lsu.edu/vetmed/deafness/bibliodog.php> ![3
 bones](/img/3-bones.png)
 A comprehensive list of references for deafness in dogs

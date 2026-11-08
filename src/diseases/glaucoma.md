@@ -78,7 +78,7 @@ _(Many thanks to Dr. Gavin Kennard for answering dozens of questions and providi
 
 Ward, DVM, E. (n.d.). [Glaucoma in Dogs](https://vcahospitals.com/know-your-pet/glaucoma-in-dogs). Retrieved from https://vcahospitals.com/know-your-pet/ ![two bones rating](/img/2-bones.png)
 
-[Canine (not human) glaucoma](http://web.archive.org/web/20201001072726/https://vmcli.com/canine-not-human-glaucoma/) by N LaCroix DVM at Veterinary Medical Center of Long Island. ![two bones rating](/img/2-bones.png)
+[Canine (not human) glaucoma](https://web.archive.org/web/20201001072726/https://vmcli.com/canine-not-human-glaucoma/) by N LaCroix DVM at Veterinary Medical Center of Long Island. ![two bones rating](/img/2-bones.png)
 
 Maggio, F. (2015). Glaucomas. Topics in Companion Animal Medicine, 30(3), 86-96. Accessed at doi: <http://dx.doi.org.library.capella.edu/10.1053/j.tcam.2015.07.011>
 ![three bones rating](/img/3-bones.png)
@@ -99,13 +99,13 @@ Park, S. A., Sledge, D., Monahan, C., Bartoe, J. T., & Komáromy, A. M. (2019). 
 
 <https://www.vetfolio.com/learn/article/canine-glaucoma-pathophysiology-and-diagnosis>![three bones rating](/img/3-bones.png)
 
-<http://web.archive.org/web/20240616223722/http://blog.vetbloom.com/ophthalmology/diagnosis-and-treatment-of-glaucoma/> ![two bones rating](/img/2-bones.png)
+<https://web.archive.org/web/20240616223722/http://blog.vetbloom.com/ophthalmology/diagnosis-and-treatment-of-glaucoma/> ![two bones rating](/img/2-bones.png)
 and this group recommends the following two books:
 
 - Living with Blind Dogs: A Resource Book and Training Guide for the Owners of Blind and Low-Vision dogs by Caroline D. Levin
 - Blind Devotion: Enhancing the Lives of Blind and Visually Impaired Dogs by Cathy Symons and Joan Powers
 
-<https://eyedvm.com/animal-eye-care/handout/glaucoma-in-dogs-and-cats/> ![two bones rating](/img/2-bones.png)
+<https://web.archive.org/web/20250617032458/https://eyedvm.com/animal-eye-care/handout/glaucoma-in-dogs-and-cats/> ![two bones rating](/img/2-bones.png)
 
 Strom AR. Glaucoma diagnosis and management. WSAVA Congress Proceedings 2017. <https://www.vin.com/apputil/content/defaultadv1.aspx?pld=20539&id=8506396> ![two bones rating](/img/2-bones.png)
 

@@ -104,7 +104,7 @@ rating](/img/4-bones.png)
    Animals. ![four bones
 rating](/img/4-bones.png)
 3. Panosteitis, in Provet Pet Health Information
-   <http://www.provet.co.uk/health/diseases/Panosteitis.htm>
+   <https://web.archive.org/web/20240425033303/https://www.provet.co.uk/health/diseases/Panosteitis.htm>
    ![2 bones](/img/2-bones.png)
 
 ## Suggested Links
@@ -112,5 +112,5 @@ rating](/img/4-bones.png)
 <http://www.vetinfo.com/dencyclopedia/depano.html> ![2
 bones](/img/2-bones.png)
 
-<http://web.archive.org/web/20081230162415/http://www.vetinfo4dogs.com:80/dpano.html> ![2
+<https://web.archive.org/web/20081230162415/http://www.vetinfo4dogs.com:80/dpano.html> ![2
 bones](/img/2-bones.png)

@@ -127,7 +127,7 @@ Write **subscribe rainbowbridge** in the body of the letter.
 <http://www.caninediabetes.org/pdorg/>
 ![2 bones](/img/2-bones.png)
 
-<http://www.vetmed.wsu.edu/outreach/Pet-Health-Topics/categories/diseases/diabetes-mellitus>
+<https://hospital.vetmed.wsu.edu/2022/03/17/diabetes-mellitus>
 ![3 bones](/img/3-bones.png)
 
 [Resource links page](http://www.caninediabetes.org/pdorg/resources_index.htm) from petdiabetes.org

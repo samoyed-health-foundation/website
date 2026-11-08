@@ -161,7 +161,7 @@ system.
 [http://www.marvistavet.com/cushings-disease-information-center.pml](http://www.marvistavet.com/cushings-disease-information-center.pml)
 ![2 bones](/img/2-bones.png)
 
-[http://www.vetmed.auburn.edu/dcs/sac/mededu/cushings/home.html](http://web.archive.org/web/20020627120906/http://www.vetmed.auburn.edu/dcs/sac/mededu/cushings/home.html)
+[http://www.vetmed.auburn.edu/dcs/sac/mededu/cushings/home.html](https://web.archive.org/web/20020627120906/http://www.vetmed.auburn.edu/dcs/sac/mededu/cushings/home.html)
 ![3 bones](/img/3-bones.png)
 
 ## Support Groups
@@ -176,5 +176,5 @@ system.
 <http://www.2ndchance.info/cushings.htm>
 ![one bone rating](/img/1-bone.png)
 
-<http://dogs.about.com/od/caninediseases/fl/Cushings-Disease-in-Dogs.htm>
+<https://web.archive.org/web/20151023052708/http://dogs.about.com:80/od/caninediseases/fl/Cushings-Disease-in-Dogs.htm>
 ![one bone rating](/img/1-bone.png)

@@ -91,7 +91,7 @@ rating](/img/3-bones.png)
 OFA](https://www.ofa.org/diseases/other-diseases/cardiac-disease) ![three bones rating](/img/3-bones.png)
 
 [Cardiovascular System of the
-Dog](http://www.vetmed.wsu.edu/ClientED/anatomy/cardiovascular.aspx),
+Dog](https://hospital.vetmed.wsu.edu/2022/01/04/cat-and-dog-anatomy),
 Washington State University ![three bones rating](/img/3-bones.png)
 
 ## Suggested Links

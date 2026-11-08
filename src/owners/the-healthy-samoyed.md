@@ -19,9 +19,9 @@ layout: single
 # Vaccination Information
 
 - [2022 AAHA Canine Vaccine Guidelines](https://www.aaha.org/resources/2022-aaha-canine-vaccination-guidelines/)
-- [New Vaccine Protocols](http://community.dog.com/f/29543/t/80008.aspx) by Dr. Bob Rogers, DVM
+- [New Vaccine Protocols](https://web.archive.org/web/20230330173714/http://community.dog.com/f/29543/t/80008.aspx) by Dr. Bob Rogers, DVM
 - [Vaccinations for the New Puppy](http://www.mirage-samoyeds.com/vaccinations.htm) by Susan Thorpe Vargas Ph.D.
-- [2013 CANINE VACCINATION GUIDELINES - Implementing the Protocol](http://web.archive.org/web/20201112035714/https://cvm.ncsu.edu/wp-content/uploads/2015/06/Ford_2013CANINEonlyVACCINEMNS.2.pdf) by Richard B. Ford, DVM, MS
+- [2013 CANINE VACCINATION GUIDELINES - Implementing the Protocol](https://web.archive.org/web/20201112035714/https://cvm.ncsu.edu/wp-content/uploads/2015/06/Ford_2013CANINEonlyVACCINEMNS.2.pdf) by Richard B. Ford, DVM, MS
 
 # Nutrition
 
@@ -40,5 +40,5 @@ layout: single
   common name or scientific name or by plant category.
 - [ASPCA Poison Control](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants) 1-888-426-4435.
   A $60 consultation fee may be applied to your credit card.
-- [UC Davis - Plants Reported to be Poisonous to Animals](https://wric.ucdavis.edu/PDFs/plants%20reported%20to%20be%20poisonous%20to%20animals.pdf)
+- [UC Davis - Plants Reported to be Poisonous to Animals](http://wric.ucdavis.edu/crop-resource/plants-reported-be-poisonous-animals)
 - [Books on toxic plants](http://guides.library.illinois.edu/c.php?g=348314&p=2351054)

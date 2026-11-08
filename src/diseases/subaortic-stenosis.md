@@ -25,7 +25,7 @@ harder to pump blood past the constriction. SAS is NOT usually present
 at birth, but develops as the dog ages.
 
 [Diagram of canine heart
-anatomy](http://www.vetmed.wsu.edu/ClientED/anatomy/cardiovascular.aspx)
+anatomy](https://hospital.vetmed.wsu.edu/2022/01/04/cat-and-dog-anatomy)
 
 ## Signs and Symptoms
 

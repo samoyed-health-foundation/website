@@ -103,7 +103,7 @@ Under: Other articles you might like at petcoach.co ![two bones
 rating](/img/2-bones.png)
 
 [Cardiovascular system of the
-Dog](http://www.vetmed.wsu.edu/ClientED/anatomy/cardiovascular.aspx),
+Dog](https://hospital.vetmed.wsu.edu/2022/01/04/cat-and-dog-anatomy),
 Washington State University College of Veterinary Medicine ![three bones
 rating](/img/3-bones.png)
 

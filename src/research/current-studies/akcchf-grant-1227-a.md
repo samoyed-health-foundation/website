@@ -7,7 +7,7 @@ layout: single
 
 Stanley L Marks, BVSc, PhD, University of California Davis
 
-**This is an AKCCHF Success Story! [Diagnosing Pancreatitis before It's Too Late](http://www.akcchf.org/research/research-portfolio/1227.html)**
+**This is an AKCCHF Success Story! [Diagnosing Pancreatitis before It's Too Late](https://www.akcchf.org/grant-directory/01227-a/)**
 
 **2/28/2010: Report to Grant Sponsor from Investigator**
 

@@ -101,7 +101,7 @@ disease. Allow the dog to self limit his exercise. No FORCED exercise
 ## References
 
 1. [Understanding Canine Pulmonic
-   Stenosis](<http://www.vet.upenn.edu/docs/default-source/cardiology-brochures-(ryan)/understanding-pulmonic-stenosis.pdf?sfvrsn=0>)
+   Stenosis](<https://www.vet.upenn.edu/wp-content/uploads/2024/12/understanding-pulmonic-stenosis.pdf>)
    from the Matthew J. Ryan Veterinary Hospital, University of
    Pennsylvania School of Veterinary Medicine. ![two bones
 rating](/img/2-bones.png)

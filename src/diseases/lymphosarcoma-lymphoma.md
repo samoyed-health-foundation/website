@@ -129,13 +129,13 @@ occasional diarrhea. Some owners notice the dog losing its whiskers._
 
 <http://www.merckvetmanual.com/mvm/pharmacology/antineoplastic_agents/treatment_of_canine_lymphoma.html> ![four bones rating](/img/4-bones.png)
 
-<http://web.archive.org/web/20220701021808/https://www.oncolink.org/cancers/vet/common-veterinary-cancers/lymphosarcoma-in-dogs> ![three bones rating](/img/3-bones.png)
+<https://web.archive.org/web/20220701021808/https://www.oncolink.org/cancers/vet/common-veterinary-cancers/lymphosarcoma-in-dogs> ![three bones rating](/img/3-bones.png)
 
 ## Suggested Links
 
 [http://www.caninecancerawareness.org](https://web.archive.org/web/20160327102445/http://caninecancer.com/Lymphoma.html) ![one bone rating](/img/1-bone.png)
 
-<http://vth.vetmed.wsu.edu/specialties/oncology/information-for-owners/dog-lymphoma> ![three bones rating](/img/3-bones.png)
+<https://hospital.vetmed.wsu.edu/2021/05/24/lymphoma-in-dogs/> ![three bones rating](/img/3-bones.png)
 
 <https://wearethecure.org/learn-more-about-canine-cancer/canine-cancer-library/lymphoma/> ![two bones rating](/img/2-bones.png)
 

@@ -6,7 +6,7 @@ layout: single
 **Nicola J Mason, BVetMed, PhD, University of Pennsylvania**
 
 This is an AKCCHF success story:  [Using Technology to Target
-Tumors ](http://www.akcchf.org/research/research-portfolio/1139.html)
+Tumors ](https://www.akcchf.org/grant-directory/01139-2/)
 
 **_Project Summary from AKCCHF.org website:_**
 

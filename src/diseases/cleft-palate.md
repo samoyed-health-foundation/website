@@ -102,7 +102,7 @@ N Z Vet J. 1997 Dec;45(6):254-6.
 ![3 bones](/img/3-bones.png)
 
 A description with anatomical terms:
-<http://www.provet.co.uk/health/diseases/cleftpalate.htm>
+<https://web.archive.org/web/20250624042138/https://www.provet.co.uk/health/diseases/cleftpalate.htm>
 ![2 bones](/img/2-bones.png)
 
 ## Support Groups

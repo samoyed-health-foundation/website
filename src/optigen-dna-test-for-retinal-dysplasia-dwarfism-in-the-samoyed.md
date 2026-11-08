@@ -83,4 +83,4 @@ your dogs.
 
 More information is available on the Optigen website:
 
-[http://www.optigen.com/opt9_rdosd.html](http://www.optigen.com/opt9_rdosd.html)
+[https://web.archive.org/web/20191222044820/http://www.optigen.com:80/opt9_rdosd.html](https://web.archive.org/web/20191222044820/http://www.optigen.com:80/opt9_rdosd.html)

@@ -235,7 +235,7 @@ bones](/img/3-bones.png)
 
 **Description of Sick Euthyroid Syndrome:**
 
-- (10) <http://www.provet.co.uk/health/diagnostics/euthyroidsick.htm>
+- (10) <https://web.archive.org/web/20240803035522/https://www.provet.co.uk/health/diagnostics/euthyroidsick.htm>
   ![2 bones](/img/2-bones.png)
 - (11) [Kantrowitz LB, Peterson ME, Melián C, Nichols R. Serum total
   thyroxine, total triiodothyronine, free thyroxine, and thyrotropin

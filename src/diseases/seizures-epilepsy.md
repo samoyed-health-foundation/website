@@ -125,7 +125,7 @@ bred.
 ## References
 
 [Understanding Your Pet's
-Epilepsy](http://www.canine-epilepsy.net/basics/basics_index.html),
+Epilepsy](https://web.archive.org/web/20260309165828/http://www.canine-epilepsy.net/basics/basics_index.html),
 Canine Epilepsy Network ![three bones
 rating](/img/3-bones.png)
 
@@ -155,7 +155,7 @@ Resources ](http://www.canine-epilepsy.com/) ![one bone
 rating](/img/1-bone.png)
 
 [Seizures and Your
-Dog](http://dogs.about.com/od/caninediseases/p/seizures.htm)
+Dog](https://web.archive.org/web/20160617183056/http://dogs.about.com:80/od/caninediseases/p/seizures.htm?)
 at about.com ![two bones
 rating](/img/2-bones.png)
 

@@ -95,7 +95,7 @@ available outside the laboratory.
 
 X-linked muscular dystrophies. In: The Merck Veterinary Manual 10th Edition. Ed Kahn, Cynthia M. Pub Merck and Co, Inc. pp 950, 1128. ![four bones rating](/img/4-bones.png)
 
-[Canine X-linked Muscular Dystrophy](https://www.gopetsamerica.com/dog-health/canine_x_linked_muscular_dystrophy.html) at www.gopetsamerica.com ![two bones rating](/img/2-bones.png)
+[Canine X-linked Muscular Dystrophy](https://web.archive.org/web/20210617014312/https://www.gopetsamerica.com/dog-health/canine_x_linked_muscular_dystrophy.html) at www.gopetsamerica.com ![two bones rating](/img/2-bones.png)
 
 ## Support Groups
 
