@@ -79,7 +79,7 @@ four large-breed dogs. Veterinary Clinical Pathology. 38, 375-380.
 "[Breed- Specific Reference Intervals for Assessing Thyroid Function in
 Seven Dog Breeds](http://www.ncbi.nlm.nih.gov/pubmed/19351336)."
 
-# PARTICIPATION CRITERIA
+## PARTICIPATION CRITERIA
 
 ## Wanted
 

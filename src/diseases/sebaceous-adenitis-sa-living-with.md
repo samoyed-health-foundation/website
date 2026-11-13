@@ -13,10 +13,10 @@ _Information presented in the "Living With..." sections of the SCARF website rep
 
 The day my 6y/o boy came home...I was anxious and wanted to see him. However, when I saw him, I started crying. The dog I picked up wasn't the same dog I said good bye to in February of 2002. I immediately made an appointment with my local vet for a check up and blood work for hypothyroidism. I was so sure he was hypothyroid.
 
-{% figure "/img/1a.jpg" %}
-{% figure "/img/3a.jpg" %}
-{% figure "/img/2a.jpg" %}
-{% figure "/img/5a.jpg" %}
+{% figure "/img/1a.jpg", "Photo 1 of 4: the dog's affected coat and skin" %}
+{% figure "/img/3a.jpg", "Photo 2 of 4: the dog's affected coat and skin" %}
+{% figure "/img/2a.jpg", "Photo 3 of 4: the dog's affected coat and skin" %}
+{% figure "/img/5a.jpg", "Photo 4 of 4: the dog's affected coat and skin" %}
 
 Two days later, we found out he had staph and yeast infections on his skin. This explained the rotting flesh smell. He was given Cephlahexin BID (twice a day) for 2 weeks. A week later we found out he was indeed hypothyroid. He was put on Soloxine .6mg BID. We were given permission to bathe him because the stench permeating from his skin was so bad. I gave him an oatmeal based shampoo and noticed the rinse water was brownish-red. Almost like he was infested with fleas, but he wasn't.
 

@@ -9,7 +9,7 @@ _Information presented in the "Living With..." sections of the SCARF website rep
 
 ---
 
-# LIVING WITH POSTERIOR LENTICONUS - Our Journey
+## LIVING WITH POSTERIOR LENTICONUS - Our Journey
 
 _He has cataracts._
 

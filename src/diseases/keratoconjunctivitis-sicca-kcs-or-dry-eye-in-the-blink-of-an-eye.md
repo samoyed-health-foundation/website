@@ -19,7 +19,7 @@ topic because they presented me with different symptoms, different tear
 production measurements, different protocols and different levels of
 response to treatment.
 
-# PATIENT #1
+## PATIENT #1
 
 **Age at Onset:** 6 years, 2 months.
 

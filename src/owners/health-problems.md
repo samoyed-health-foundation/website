@@ -3,12 +3,12 @@ title: Health Problems
 layout: single
 ---
 
-# General
+## General
 
 - [Samoyed specific health disorders/diseases](/diseases)
 - [Samoyed health links](http://www.mirage-samoyeds.com/healthlinks1.htm)
 
-# Whelping and Early Puppyhood
+## Whelping and Early Puppyhood
 
 - [Telltale Signs Of Difficult Labor](http://www.norfolkterrier.org/articles_k-o/labor01.html) from Cornell University Newsletter
 - [Chronicle of Early Puppyhood](http://vetinfo.com/dpuplitter.html) by Michael Richards, DVM on the vetinfo web site
@@ -22,7 +22,7 @@ layout: single
 - [Cesarean Section](http://www.lbah.com/canine/csection.htm) by Long Beach Animal Hospital
 - [Eclampsia (Milk Fever or Puerperal Tetany)](https://www.petcoach.co/article/eclampsia-puerperal-tetany-milk-fever-hypocalcemia-in-dogs/) by Race Foster, DVM and Marty Smith, DVM
 
-# Pharmacy
+## Pharmacy
 
 > Always ask for an "information sheet" on the prescribed medication and read it before administering the medication to your pet.
 
@@ -41,6 +41,6 @@ layout: single
 - [Deramaxx®: Overview](https://www.drugs.com/pro/deramaxx.html)
 - **[Advice to Dog Owners Whose Pets Take NSAIDs](https://web.archive.org/web/20190423023030///www.fda.gov/AnimalVeterinary/ResourcesforYou/AnimalHealthLiteracy/ucm419032.htm) - this could save your dog's life.**
 
-# Laboratory
+## Laboratory
 
 - [What do those lab tests mean?](https://hospital.vetmed.wsu.edu/2022/01/12/understanding-your-pets-lab-tests/)

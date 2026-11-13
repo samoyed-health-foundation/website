@@ -3,7 +3,7 @@ title: Behavior
 layout: single
 ---
 
-# Training And Behavior
+## Training And Behavior
 
 - [The Samoyed](https://www.samoyedclubofamerica.org/the-samoyed/) - a Samoyed Club of America publication
 - [Puppy training](http://www.clickersolutions.com/articles/#puppy) including mouthing
@@ -18,7 +18,7 @@ layout: single
 - [Anxiety Disorders in Dogs](https://www.petmd.com/dog/slideshows/anxiety-disorders-dogs-symptoms-diagnosis-and-treatment)
 - [The Interaction of Illness and Behavior](http://www.mmilani.com/writing/articles/dogs/canine-illness-behavior/) by Myrna Milani, BS, DVM
 
-# Microchipping
+## Microchipping
 
 - [A different way to register during disaster through AKC](http://www.akcreunite.org/)
 - [AKC Companion Animal Recovery](http://www.akccar.org/)

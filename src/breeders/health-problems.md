@@ -3,12 +3,12 @@ title: Health Problems
 layout: single
 ---
 
-# General
+## General
 
 - [Samoyed specific health disorders/diseases](/diseases)
 - [Samoyed health links](http://www.mirage-samoyeds.com/healthlinks1.htm)
 
-# Pharmacy
+## Pharmacy
 
 > Always ask for an "information sheet" on the prescribed medication and read it before administering the medication to your pet.
 
@@ -27,6 +27,6 @@ layout: single
 - [Understanding Deramaxx® - Smart Drug or Clever Marketing?](https://web.archive.org/web/20140209160302/http://www.vetnsaids.com/)
 - **[Advice to Dog Owners Whose Pets Take NSAIDs](https://web.archive.org/web/20190423023030///www.fda.gov/AnimalVeterinary/ResourcesforYou/AnimalHealthLiteracy/ucm419032.htm) - this could save your dog's life.**
 
-# Laboratory
+## Laboratory
 
 - [What do those lab tests mean?](https://hospital.vetmed.wsu.edu/2022/01/12/understanding-your-pets-lab-tests/)
