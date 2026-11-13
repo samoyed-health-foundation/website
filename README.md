@@ -25,6 +25,12 @@ npx playwright test
 npm start
 ```
 
+## Agent readiness
+
+See [docs/agent-readiness.md](docs/agent-readiness.md) for the crawler content
+policy, the generated discovery files (`robots.txt`, `sitemap.xml`,
+`llms.txt`, Markdown twins), and the post-deploy release check.
+
 ## Updating Playwright snapshots
 
 ```bash
