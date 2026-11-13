@@ -29,22 +29,10 @@ for (let i = 0; i < args.length; i++) {
     port = args[++i];
   } else if (a.startsWith('--port=')) {
     port = a.slice('--port='.length);
-  } else if (!a.startsWith('-')) {
-    // positional: first dir, second port
-    if (i === 0 || outputDir === (process.env.SERVE_DIR || '_site')) {
-      // heuristic: if looks like a number, treat as port
-      if (/^\d+$/.test(a) && i > 0) {
-        port = a;
-      } else if (/^\d+$/.test(a) && outputDir !== (process.env.SERVE_DIR || '_site')) {
-        port = a;
-      } else {
-        outputDir = a;
-      }
-    }
   }
+  // positional args are handled below
 }
 
-// Simpler positional handling override:
 if (args.length >= 1 && !args[0].startsWith('-')) {
   outputDir = args[0];
 }

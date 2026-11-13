@@ -28,9 +28,9 @@ hand-maintained URL list to keep in sync.
 `/llms-full.txt` is not a file. The edge adapter redirects it to `/index.md`,
 the Markdown twin of the front page.
 
-The `.md` links in `llms.txt` are written ahead of the twin generator and the
-negotiation adapters, which land in separate tickets. Until those ship, the
-links have no target.
+The `.md` links in `llms.txt` resolve to the build-generated Markdown twins,
+served through the negotiation adapters (Netlify edge function in production,
+`scripts/serve-built.mjs` locally).
 
 ## Changing a page
 

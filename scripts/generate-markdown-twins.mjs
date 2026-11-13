@@ -20,27 +20,16 @@ function walkHtmlFiles(root) {
 }
 
 function isNoindex(html) {
-  return /<meta[^>]*name\s*=\s*["']robots["'][^>]*content\s*=\s*["'][^"']*noindex/i.test(html)
-    || /<meta[^>]*content\s*=\s*["'][^"']*noindex[^"']*["'][^>]*name\s*=\s*["']robots["']/i.test(html);
+  const metaTags = html.match(/<meta\b[^>]*>/gi) || [];
+  return metaTags.some((tag) => {
+    const nameMatch = tag.match(/\bname\s*=\s*["']([^"']*)["']/i);
+    const contentMatch = tag.match(/\bcontent\s*=\s*["']([^"']*)["']/i);
+    if (!nameMatch || !contentMatch) return false;
+    return nameMatch[1].toLowerCase() === 'robots' && /noindex/i.test(contentMatch[1]);
+  });
 }
 
 function twinRelativePath(htmlRelativePath) {
-  // htmlRelativePath uses posix separators, relative to output root
-  const parts = htmlRelativePath.split('/');
-  const base = parts[parts.length - 1];
-  const dirParts = parts.slice(0, -1);
-  if (base.toLowerCase() === 'index.html') {
-    const dirName = dirParts.length ? dirParts[dirParts.length - 1] : '';
-    if (!dirName || dirName === '.') return 'index.md';
-    return dirParts.join('/') + '.md'.replace(/^/, ''); // placeholder
-  }
-  // non-index html file: strip .html add .md
-  const name = base.replace(/\.html$/i, '.md');
-  return [...dirParts, name].join('/');
-}
-
-// Fix twinRelativePath for index.html case properly
-function twinRel(htmlRelativePath) {
   const posix = htmlRelativePath.split(path.sep).join('/');
   const parts = posix.split('/');
   const base = parts[parts.length - 1];
@@ -111,7 +100,7 @@ export async function generateMarkdownTwins(outputDir) {
     const html = fs.readFileSync(file, 'utf8');
     if (isNoindex(html)) continue;
 
-    const twinRelPath = twinRel(rel);
+    const twinRelPath = twinRelativePath(rel);
     const twinAbs = path.join(root, twinRelPath);
     const md = convert(html);
     fs.mkdirSync(path.dirname(twinAbs), { recursive: true });
