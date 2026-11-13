@@ -10,6 +10,7 @@
     {% if description %}
     <meta name="description" content="{{description}}" />
     {% endif %} {% block head %}{% endblock %}
+    <link rel="alternate" type="text/markdown" href="{{ page.url | toMarkdownPath }}" />
     <link rel="stylesheet" type="text/css" href="/css/style.css" />
     <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon" />
     <link rel="apple-touch-icon" href="/img/apple-touch-icon.png" />

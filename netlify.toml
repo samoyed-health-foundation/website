@@ -18,3 +18,7 @@
   to = "https://www.samoyedhealthfoundation.org/:splat"
   status = 301
   force = true
+
+[[edge_functions]]
+  function = "markdown-negotiation"
+  path = "/*"

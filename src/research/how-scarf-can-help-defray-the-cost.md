@@ -6,7 +6,7 @@ layout: single
 **Below is information on how SCARF can help you with the expenses of participating in one of
 our sponsored research studies.**
 
-# Mailing costs\*
+## Mailing costs\*
 
 To supply either a blood or tissue (tumor) sample for Foundation funded
 research, the owner may choose either method below:
@@ -16,7 +16,7 @@ research, the owner may choose either method below:
 - SCARF will provide reimbursement of the costs for mailing the sample
   to Foundation funded research institution ($50 cap).
 
-# Cost of medical procedures\*
+## Cost of medical procedures\*
 
 To supply either a blood or tissue (tumor) sample for Foundation funded
 research, the owner may choose either method below:
@@ -24,7 +24,7 @@ research, the owner may choose either method below:
 - SCARF will provide a tax credit letter to the donor for the **full** expense of the medical procedure as a deduction for their taxes.
 - SCARF will reimburse the owner for providing a sample for Foundation funded research ($100 cap).
 
-# Assistance to local regional clubs/specialties for collection events\*
+## Assistance to local regional clubs/specialties for collection events\*
 
 Should clubs wish to run a collection event to assist their members in
 participating in SCARF sponsored research, the Foundation will provide

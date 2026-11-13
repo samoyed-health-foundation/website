@@ -3,7 +3,7 @@ title: "SAMS"
 layout: single
 ---
 
-# SAMS Collection Clinic
+## SAMS Collection Clinic
 
 On August 28th, blood was collected by the members of SAMS and sent to the [Dr Hess grant studying diabetes](/research/current-studies/akcchf-grant-610), funded by the SCA Research Foundation.
 

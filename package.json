@@ -4,6 +4,7 @@
     "css": "postcss src/static/css/tailwind.css --o _site/css/style.css --watch",
     "eleventy": "eleventy --serve --port=8080",
     "build": "eleventy && npx @tailwindcss/cli -i src/static/css/tailwind.css -o _site/css/style.css",
+    "build:test": "rm -rf _site-test && eleventy --output=_site-test && npx @tailwindcss/cli -i src/static/css/tailwind.css -o _site-test/css/style.css",
     "algolia": "node ./scripts/algolia.js",
     "algolia:cd": "if [ \"$(git log -1 --pretty=format:'%an')\" != \"renovate[bot]\" ]; then npm run algolia; else echo 'Skipping Algolia update for renovate[bot] commit'; fi"
   },
@@ -25,6 +26,8 @@
     "npm-run-all2": "9.0.4",
     "postcss": "8.5.32",
     "postcss-cli": "12.0.0",
-    "tailwindcss": "4.3.4"
+    "tailwindcss": "4.3.4",
+    "turndown": "^7.2.5",
+    "turndown-plugin-gfm": "^1.0.2"
   }
 }
