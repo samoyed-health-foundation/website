@@ -2,8 +2,10 @@
 layout: default
 ---
 
-{% include "./partials/title.html" %}
+<main>
+  {% include "./partials/title.html" %}
 
-<section class="single">
-  <div class="mx-auto max-w-screen-xl px-4">{{ content | safe }}</div>
-</section>
+  <section class="single">
+    <div class="mx-auto max-w-screen-xl px-4">{{ content | safe }}</div>
+  </section>
+</main>

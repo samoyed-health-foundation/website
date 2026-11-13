@@ -3,7 +3,7 @@ title: "Research Study Collection Clinics"
 layout: single
 ---
 
-# Previous Research Study Collection Clinics
+## Previous Research Study Collection Clinics
 
 - Australia 2018 - [more](/research/research-study-collection-clinics/australia-2018)
 - British Samoyed Club - [more](/research/research-study-collection-clinics/british-samoyed-club)

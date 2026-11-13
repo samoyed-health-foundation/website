@@ -3,13 +3,13 @@ title: Behavior
 layout: single
 ---
 
-# Your New Litter
+## Your New Litter
 
 - [Puppy aptitude test](http://www.workingdogs.com/testing_volhard.htm) by Wendy & Joachim Volhard
 - [Puppy socialization](http://www.canismajor.com/dog/socializ.html)
 - [Developing High Achievers](https://breedingbetterdogs.com/seminars/breeding-better-dogs) - Originally published as "Early Neurological Stimulation" by Carmen L. Battaglia
 
-# Training And Behavior
+## Training And Behavior
 
 - [The Samoyed](https://www.samoyedclubofamerica.org/the-samoyed/) - a Samoyed Club of America publication
 - [Puppy training](http://www.clickersolutions.com/articles/#puppy) including mouthing
@@ -23,7 +23,7 @@ layout: single
 - [The Dominant Dog](https://web.archive.org/web/20241214034658/https://www.akcchf.org/educational-resources/library/articles/articles/The-Dominant-Dog-07-1997.pdf) by Jacquie Neilson, DVM, DACVB
 - [The Interaction of Illness and Behavior](http://www.mmilani.com/writing/articles/dogs/canine-illness-behavior/) by Myrna Milani, BS, DVM
 
-# Microchipping
+## Microchipping
 
 - [AKC Companion Animal Recovery](http://www.akccar.org/)
 - [AVID microchip](https://avidid.com/)

@@ -1,9 +1,10 @@
 ---
 title: How you can help
 layout: single
+description: Support Samoyed health research by donating to SCARF, volunteering, or enrolling your Samoyed in the DNA database.
 ---
 
-# Donating
+## Donating
 
 We welcome donations to SCARF by PayPal or by mail.
 
@@ -15,12 +16,12 @@ If you have any questions, please contact our Treasurer at [treasurer@samoyedhea
 
 Thank you!
 
-# Volunteering
+## Volunteering
 
 We would love your assistance!
 
 Please contact our President at [president@samoyedhealthfoundation.org](mailto:president@samoyedhealthfoundation.org?subject=Volunteering) for more information.
 
-# Enrolling your Samoyed in the DNA Database
+## Enrolling your Samoyed in the DNA Database
 
 [It's easier than you think!](/databases/adding-your-samoyed)
