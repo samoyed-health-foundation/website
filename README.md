@@ -25,6 +25,10 @@ npx playwright test
 npm start
 ```
 
+The Playwright suite also spins up a built-site server (`npm run build:test`
+then `node scripts/serve-built.mjs`) to exercise the agent-facing HTTP
+surface; see `playwright.config.js`.
+
 ## Agent readiness
 
 See [docs/agent-readiness.md](docs/agent-readiness.md) for the crawler content
