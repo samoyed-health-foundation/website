@@ -1,6 +1,7 @@
 
 # Eleventy output folder
 _site/
+_site-test/
 
 # Local Netlify folder
 .netlify
