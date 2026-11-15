@@ -1,0 +1,16 @@
+---
+permalink: /sitemap.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- for item in collections.all %}
+{%- if item.url and not item.data.noindex and item.data.sitemap != false %}
+{%- set isHtml = item.url == "/" or item.url.endsWith("/") or item.url.endsWith(".html") %}
+{%- set isExcludedArea = item.url.startsWith("/admin/") %}
+{%- if isHtml and not isExcludedArea %}
+  <url><loc>{{ settings.baseUrl }}{{ item.url }}</loc></url>
+{%- endif %}
+{%- endif %}
+{%- endfor %}
+</urlset>
