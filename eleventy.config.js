@@ -6,6 +6,7 @@ import { load as loadYaml } from "js-yaml";
 
 export default async function (eleventyConfig) {
   const { generateMarkdownTwins } = await import("./scripts/generate-markdown-twins.mjs");
+  const negotiation = await import("./lib/markdown-negotiation.mjs");
 
   // https://www.11ty.dev/docs/ignores/#opt-out-of-using-.gitignore
   eleventyConfig.setUseGitIgnore(false);
@@ -24,6 +25,10 @@ export default async function (eleventyConfig) {
   eleventyConfig.setLibrary("md", markdownLib);
   eleventyConfig.addFilter("markdown", (content) => {
     return markdownLib.render(content);
+  });
+
+  eleventyConfig.addFilter("toMarkdownPath", (url) => {
+    return negotiation.toMarkdownPath(url);
   });
 
   // Custom shortcode for figure
