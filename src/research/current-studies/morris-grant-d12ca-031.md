@@ -13,7 +13,7 @@ layout: single
 which are 10 to 20 times more at risk than other breeds. Surgical
 removal of the stones is usually the only cure for this painful disease.
  Preventive measures are lacking and recurrence rates are high. Pedigree
-analysis of Miniature Schnauzers enrolled in a previous pilot study
+analysis of Miniature Schnauzers enrollled in a previous pilot study
 revealed substantial familial associations for urinary stones and high
 rates of the disease independent of diet or environment.  These previous
 findings suggest that there may be an underlying genetic basis for

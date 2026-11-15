@@ -3,7 +3,7 @@ title: "Australia 2018"
 layout: single
 ---
 
-# Australia collection Event
+## Australia collection Event
 
 SCARF was contacted by a grieving owner who had just lost her special Samoyed to bloat.
 She wanted to find a way to preserve his DNA for future studies of this awful disease.

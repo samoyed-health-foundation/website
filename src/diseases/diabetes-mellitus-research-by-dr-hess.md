@@ -3,7 +3,7 @@ title: Diabetes mellitus research
 layout: disease
 ---
 
-# Research by Dr. Hess
+## Research by Dr. Hess
 
 **Current Research:**
 

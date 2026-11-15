@@ -3,7 +3,7 @@ title: Genetic Disorders
 layout: search
 ---
 
-# Genetic Testing Available for Disorders in Samoyeds
+## Genetic Testing Available for Disorders in Samoyeds
 
 The following disorders are inherited in Samoyeds and genetic testing is available. Links to several laboratories that offer genetic testing are listed. Listing is for information only and is not a SCARF endorsement of their services. Laboratory websites are included for their descriptions of the disorders and their inheritance.
 

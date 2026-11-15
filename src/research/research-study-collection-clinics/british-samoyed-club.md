@@ -3,7 +3,7 @@ title: "British Samoyed Club"
 layout: single
 ---
 
-# Eye testing
+## Eye testing
 
 by Hazel Fitzgibbon,
 SCARF Foreign Liaison
