@@ -5,7 +5,7 @@ layout: single
 
 > **Update:** This research study is complete. Samples are no longer required.
 
-# Molecular Control of COX-2 Expression and Regulation of Prostaglandin Transport in Canine Mammary Tumors
+## Molecular Control of COX-2 Expression and Regulation of Prostaglandin Transport in Canine Mammary Tumors
 
 **Monique Dore, DVM PhD, University of Montreal.**
 

@@ -3,7 +3,7 @@ title: Diabetes mellitus
 layout: disease
 ---
 
-# Summary
+## Summary
 
 Diabetes mellitus (DM) is a disorder where the body is unable to
 regulate blood sugar levels.
@@ -24,7 +24,7 @@ The body eliminates excess blood glucose by filtering it through the kidneys and
 
 </details>
 
-# Signs and Symptoms
+## Signs and Symptoms
 
 The classic signs of diabetes are
 
@@ -41,7 +41,7 @@ Dogs are often diagnosed with diabetes because the owner notices the dog
 has suddenly gone blind. This is due to the rapid cataract development
 that often occurs in diabetic dogs.
 
-# Causes
+## Causes
 
 - genetic
 - immune-mediated destruction of the pancreatic beta cells
@@ -50,7 +50,7 @@ that often occurs in diabetic dogs.
   hormones)
 - predisposing diseases: hyperadrenocorticism, acromegaly
 
-# Risk Factors
+## Risk Factors
 
 - OBESITY - both obese cats and dogs are at risk for developing type
   II diabetes. Cats over 15 pounds are at high risk.
@@ -59,7 +59,7 @@ that often occurs in diabetic dogs.
 - Breed predisposition: Samoyeds are about 12 times more likely to
   develop diabetes compared to mixed breed dogs.
 
-# Diagnostic Tests
+## Diagnostic Tests
 
 A diagnosis of DM is made based on clinical signs, physical exam, and
 lab tests. Findings typically include persistent hyperglycemia (elevated
@@ -71,10 +71,10 @@ animals can have blood glucose values that are moderately elevated, or
 extremely elevated (600+ mg/dL).
 
 <div style="display: none">
-# References
+## References
 </div>
 
-# Treatment Guidelines
+## Treatment Guidelines
 
 > Note: Treatment of animals should only be performed by a licensed
 > veterinarian. Veterinarians should consult the current literature and
@@ -103,7 +103,7 @@ in consultation with your veterinarian. Continuous glucose monitoring is now pos
 
 [New Options in Managing Diabetes in Samoyeds](/diseases/diabetes-mellitus-living-with)
 
-# Management
+## Management
 
 Diabetes can be controlled and your dog can live a long quality life
 however it does take significant commitment. The first few months are
@@ -112,7 +112,7 @@ significant financial contribution, especially at first. Education,
 patience and commitment will make caring for your Diabetic Samoyed a
 rewarding experience.
 
-# Support Groups
+## Support Groups
 
 <http://www.caninediabetes.org/maillists.html>
 
@@ -122,7 +122,7 @@ Please note it is the number one and not an L at the end of netwrx.
 Leave the subject line blank.
 Write **subscribe rainbowbridge** in the body of the letter.
 
-# Suggested Links
+## Suggested Links
 
 <http://www.caninediabetes.org/pdorg/>
 ![2 bones](/img/2-bones.png)
@@ -155,18 +155,18 @@ Caroline Levin's book
 "_Dogs, Diet and Disease An Owner's Guide to Diabetes Mellitus, Pancreatitis, Cushings's Disease & More_"
 is a godsend to the Diabetic pet caretaker.
 
-# Current Research
+## Current Research
 
 - [Short AD et al. Searching for "monogenic diabetes" in dogs using a candidate gene approach. Canine Genet Epidemiol 2014. 1:8.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4579387/)
 
-# SCARF-Sponsored Research
+## SCARF-Sponsored Research
 
 - [MAF Grant D10CA-801A:](/research/current-studies/morris-grant-d10ca-801a) Evaluating Treatment for Vision Problems in Diabetic Dogs
 - [AKCCHF Grant # 00610:](/research/current-studies/akcchf-grant-610) Evaluation of Genetic Markers for Diabetes Mellitus in Samoyed and Australian Terrier Dogs. Rebecka S Hess, DVM DACVIM, University of Pennsylvania School of Veterinary Medicine.
 - [Published Research by Dr. Hess](/diseases/diabetes-mellitus-research-by-dr-hess)
 - [AKCCHF Grant #00305:](/research/current-studies/akcchf-grant-305) Histocompatibility Alleles Conferring Susceptibility to Canine Diabetes, Immune-Mediated Thyroiditis and Immune-Mediated Hemolytic Anemia. Wayne Potts, PhD, University of Utah.
 
-# "Living with a Disorder" Journal Entries
+## "Living with a Disorder" Journal Entries
 
 - [A Labor of Love](/diseases/diabetes-mellitus-a-labor-of-love)
 - [Murray Dog May](/diseases/diabetes-mellitus-murray-dog-may)

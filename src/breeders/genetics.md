@@ -3,7 +3,7 @@ title: Genetics
 layout: single
 ---
 
-# Registries
+## Registries
 
 Closed registries release only normal results to the public.
 
@@ -22,7 +22,7 @@ Open registries would provide information on normals, affected and carriers.
   CHIC liaison is
   [Carla Barstow](mailto:cb0085@auburn.edu?subject=CHIC)
 
-# Gene Tests
+## Gene Tests
 
 > The following DNA tests are available for Samoyeds at this time. These are listed for informational purposes only. SCARF neither recommends or endorses the validity of the tests themselves.
 
@@ -31,7 +31,7 @@ Open registries would provide information on normals, affected and carriers.
 - [DNA test for Hereditary Nephritis - Samoyed Hereditary Glomerulopathy](https://shop.embarkvet.com/products/embark-for-breeders-dog-dna-test-kit) from Embark
 - [Genetic Testing: A Guide for Breeders](http://siriusdog.com/genetic-testing-breeders-guide/) by Mary Whiteley, Ph.D.
 
-# Suggested Reading
+## Suggested Reading
 
 - A [talking glossary](http://www.genome.gov/Glossary/) of genetic terminology
 - [Picking A Puppy - How the genetics of behavior can help you choose the best one for you](/breeders/picking-a-puppy) by Susan Thorpe-Vargas Ph.D.

@@ -3,7 +3,7 @@ title: "AKCCHF grant #01227-A (closed)"
 layout: single
 ---
 
-# Specificity and Sensitivity of the Pancreatic Lipase Immunoreactivity (SPEC cPL) Test for the Diagnosis of Canine Pancreatitis
+## Specificity and Sensitivity of the Pancreatic Lipase Immunoreactivity (SPEC cPL) Test for the Diagnosis of Canine Pancreatitis
 
 Stanley L Marks, BVSc, PhD, University of California Davis
 

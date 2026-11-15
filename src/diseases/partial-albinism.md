@@ -8,7 +8,7 @@ layout: disease
 >
 > Thank you to Hazel Fitzgibbon for providing this disorder information.
 
-# Description
+## Description
 
 Albinism is a genetic disorder characterized by a complete or partial
 lack of melanin, or pigment, in eyes, skin and hair. This lack of

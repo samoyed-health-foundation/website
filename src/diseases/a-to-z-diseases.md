@@ -7,7 +7,7 @@ layout: search
 > \*\* means the article is written, but we still need a health liaison
 > for the topic. If there is no asterisk we do not have an article or liaison but have included links to health information.
 
-# A
+## A
 
 - [Addison's Disease (Hypoadrenocorticism)](/diseases/addison-s-disease)\*
 - [Albinism, Partial (Albinoid Syndrome)](/diseases/partial-albinism) \*\*
@@ -17,11 +17,11 @@ layout: search
 - [Atrial Septal Defect](/diseases/atrial-septal-defect-1) \*
 - [Autoimmune Hypothyroiditis (Autoimmune Thyroiditis)](/diseases/hypothyroidism-autoimmune-hypothyroiditis) \*\*
 
-# B
+## B
 
 - [Bloat & Gastric Torsion (Gastric Dilatation-Volvulus)](/diseases/bloat) \*
 
-# C
+## C
 
 - [Cataracts (posterior lenticonus)](/diseases/cataracts-posterior-lenticonus) \*
 - [Cerebellar Degeneration (Cerebellar Abiotrophy, Progressive Neuronal Abiotrophy)](/diseases/cerebellar-degeneration-cerebeller-abiotrophies) \*
@@ -30,7 +30,7 @@ layout: search
 - [Cushing's Disease (Hyperadrenocorticism)](/diseases/cushing-s-disease) \*
 - [Cryptorchidism](/diseases/cryptorchidism) \*\*
 
-# D
+## D
 
 - [Deafness (Piebald or Extreme Piebald Gene)](/diseases/piebald-or-extreme-piebald-gene-2013-deafness) \*\*
 - [Degenerative myelopathy](/diseases/degenerative-myelopathy)
@@ -42,22 +42,22 @@ layout: search
 - [Dudley Nose (Nasal Depigmentation)](/diseases/dudley-nose)
 - [Dwarfism](/diseases/retinal-dysplasia-folds/) \*\*
 
-# E
+## E
 
 - [Elbow Dysplasia](/diseases/elbow-dysplasia) \*\*
 - [Epilepsy/Seizures](/diseases/seizures-epilepsy) \*
 
-# F
+## F
 
 - [Fading Puppy](/diseases/fading-puppy-syndrome) \*
 - [Familial Enamel Hypoplasia](/diseases/familial-enamel-hypoplasia)
 
-# G
+## G
 
 - [Gastric Dilatation-Volvulus (Bloat & Gastric Torsion)](/diseases/bloat) \*
 - [Glaucoma](/diseases/glaucoma) \*
 
-# H
+## H
 
 - [Hemangiosarcoma](/diseases/hemangiosarcoma) \*
 - [Hemophilia](/diseases/hemophilia) \*
@@ -67,38 +67,38 @@ layout: search
 - [Hypoadrenocorticism (Addison's Disease)](/diseases/addison-s-disease)\*
 - [Hypothyroidism (Autoimmune Thyroiditis)](/diseases/hypothyroidism-autoimmune-hypothyroiditis) \*\*
 
-# I
+## I
 
 - [Immune-Mediated Hemolytic Anemia](/diseases/immune-mediated-hemolytic-anemia) \*\*
 - [Immune-Mediated Thrombocytopenia](/diseases/immune-mediated-thrombocytopenia) \*\*
 - [Inflammatory Bowel (IBD) & Protein Losing Enteropathy(PLE)](/diseases/inflammatory-bowel-ibd) \*\*
 
-# K
+## K
 
 - [Keratoconjunctivitis Sicca (KCS, dry eye)](/diseases/keratoconjunctivitis-sicca-kcs-or-dry-eye) \*
 
-# L
+## L
 
 - [Liver Cancer](/diseases/liver-cancer) \*\*
 - [Luxation of the Patella](/diseases/luxating-patella) \*\*
 - [Lymphoma/lymphosarcoma](/diseases/lymphosarcoma-lymphoma) \*\*
 
-# M
+## M
 
 - [Mammary (Breast) Cancer](/diseases/mammary-cancer-1) \*\*
 - [Masticatory Myositis (Atrophic Myositis/ Eosinophilic Myotis)](/diseases/masticatory-myositis)\*
 - [Microphthalmia](/diseases/microphthalmia) \*\*
 - [Muscular Dystrophy (x-linked)](/diseases/x-linked-muscular-dystrophy) \*
 
-# N
+## N
 
 - [Nephritis, Hereditary](/diseases/hereditary-nephritis/)\*\*
 
-# O
+## O
 
 - [Osteosarcoma](/diseases/osteosarcoma) \*
 
-# P
+## P
 
 - [Pancreatic Cancer](/diseases/pancreatic-cancer) \*
 - [Pancreatitis](/diseases/pancreatitis) \*
@@ -114,36 +114,36 @@ layout: search
 - [Progressive Retinal Atrophy (PRA), including X-linked](/diseases/progressive-retinal-atrophy-x-linked)
 - [Pulmonic Stenosis](/diseases/pulmonic-stenosis) \*\*
 
-# R
+## R
 
 - [Retinal Dysplasia/Oculoskeletal Dysplasia 2](/diseases/retinal-dysplasia-folds/) \*\*
 
-# S
+## S
 
 - [Sebaceous Adenitis](/diseases/sebaceous-adenitis-sa) \*
 - [Seizures/Epilepsy](/diseases/seizures-epilepsy) \*
 - [Spinal Dysraphism (Spina Bifida, Syringomyelia)](/diseases/spinal-dysraphism) \*
 - [Subaortic Stenosis (SAS)](/diseases/subaortic-stenosis) \*\*
 
-# T
+## T
 
 - [Tricuspid Valve Dysplasia](/diseases/tricuspid-valve-dysplasia) \*\*
 
-# U
+## U
 
 - [Uterine Inertia](/diseases/uterine-inertia) \*\*
 - [Uveitis](/diseases/uveitis)
 - [Uveodermatologic Syndrome (UDS, Vogt-Koyanagi-Harada Syndrome, VKH, VKH-like)](/diseases/uveodermatologic-syndrome-uds) \*
 
-# V
+## V
 
 - [Ventricular Septal Defect](/diseases/ventricular-septal-defect) \*
 - [Vogt-Koyanagi-Harada Syndrome, VKH, VKH-like (Uveodermatologic Syndrome -UDS)](/diseases/uveodermatologic-syndrome-uds) \*
 
-# X
+## X
 
 - [X-linked Myopathy](/diseases/x-linked-myopathy) \*
 
-# Z
+## Z
 
 - [Zinc-Responsive Dermatosis](/diseases/zinc-responsive-dermatosis) \*\*

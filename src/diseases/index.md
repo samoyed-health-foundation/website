@@ -1,9 +1,10 @@
 ---
 title: Diseases
 layout: search
+description: An A to Z list of the disorders, syndromes and conditions seen in the Samoyed, also grouped by body system and by genetic test.
 ---
 
-# Disorders, syndromes and conditions
+## Disorders, syndromes and conditions
 
 As in humans, the Samoyed has some intermittently diagnosed diseases and many diseases in a very small percentage of the population that are present, but not significant in the population.
 
@@ -18,18 +19,18 @@ This section is not intended to diagnose or treat an illness, but rather as a ge
 > SCARF is in the process of having more topics reviewed so that they may be uploaded to the website.
 > Please check back soon.
 
-# List - A to Z
+## List - A to Z
 
 [more](/diseases/a-to-z-diseases)...
 
-# List - By system or class
+## List - By system or class
 
 [more](/diseases/by-system-or-class)...
 
-# List - Genetic testing for disorders
+## List - Genetic testing for disorders
 
 [more](/diseases/genetic-disorders/)...
 
-# Most common in Samoyeds
+## Most common in Samoyeds
 
 [more](/diseases/most-common-diagnoses)...

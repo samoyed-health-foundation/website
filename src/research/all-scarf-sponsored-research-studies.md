@@ -6,7 +6,7 @@ You can read about how AKCCHF approves grant proposals at <https://www.akcchf.or
 
 You can read about how MAF approves grant proposals at <https://www.morrisanimalfoundation.org/dogs>
 
-# Samples requested
+## Samples requested
 
 [Degenerative Myelopathy](/research/current-studies/degenerative-myelopathy-study-needs-samples)
 
@@ -14,7 +14,7 @@ You can read about how MAF approves grant proposals at <https://www.morrisanimal
 
 You may participate in the [Samoyed DNA bank/databases](/databases)[](<>)
 
-# Funded Research Grants (2025)
+## Funded Research Grants (2025)
 
 ## Morris Animal Foundation Grants
 
@@ -22,25 +22,25 @@ You may participate in the [Samoyed DNA bank/databases](/databases)[](<>)
   Principal Investigator: Laurie Goodrich; Colorado State University \[$10,000] [[Progress Report 2026](/files/d25ca033report.pdf)]
 * [MAF Grant D25CA-039](/research/current-studies/morris-grant-d25ca-039): Does Lifetime Activity Affect Cognitive Aging? Principal Investigator: Péter Pongrácz, MSc, PhD; Eötvös Loránd University \[$10,000] [[Progress Report 2026](/files/d25ca039progress2026.pdf)] 
 
-# Funded Research Grants (2024)
+## Funded Research Grants (2024)
 
 ## AKC Canine Health Foundation Grants
 
 * [AKCCHF Grant # 02517](/research/current-studies/akcchf-grant-02517): Genetics of Primary Angle Closure Glaucoma in the Siberian Husky. Principal Investigator:  Gillian J McLellan, BVMS, PhD, DACVO, DECVO, DVOphthal, MRCVS, FARVO. University of Wisconsin \[$10,000]
 
-# Funded Research Grants (2023)
+## Funded Research Grants (2023)
 
 ## AKC Canine Health Foundation Grants
 
 * [AKCCHF Grant # 03106 (open)](/research/current-studies/akcchf-grant-03106): Clinical Validation of Urinary miR-126 as a Marker of Immune Complex-Mediated Glomerulonephritis in Dogs. Principal Investigator: Mary B Nabity, DVM, PhD. Texas A&M AgriLife Research. \[$10,000] [[Progress Report 2024](/files/03106-ey1-summary.pdf)]
 
-# Funded Research Grants (2022)
+## Funded Research Grants (2022)
 
 ## Morris Animal Foundation Grants
 
 * [MAF Grant D22CA-040](/research/current-studies/morris-grant-d22ca-040): Investigating a Novel Drug Therapy for Heart Disease. Principal Investigator: Joshua Stern, DVM. University of California Davis. \[$10,000] [[Progress Report 2023](/files/d22ca040progressreport.pdf)] [[Progress Report 2024](/research/current-studies/morris-foundation-d22ca-040-progress-report-2024)]
 
-# Funded Research Grants (2021)
+## Funded Research Grants (2021)
 
 ## AKC Canine Health Foundation Grants
 
@@ -49,7 +49,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)[](<>)
 * [AKCCHF Grant #02783 (closed):](/research/current-studies/akcchf-grant-02783/) Transcriptional Profiling of Canine Soft Tissue Sarcoma. Principal Investigator: Andrew Miller, DVM; Cornell University \[$5000] [[Progress Report](/files/akcchf02783ey1summary.pdf)] [[Mid Year 2 Progress Report 2021](/files/akc02783my2summary.pdf)] [[End Year 2 Progress Report Feb 2022](/files/akcchf02783ey2summary.pdf)]
 * [AKCCHF Grant #02819 (closed):](/research/current-studies/akcchf-grant-02819/) Identification of Bartonella henselae In Vivo Induced Antigens for Development of a Reliable Serodiagnostic Assay for Canine Bartonelloses. Principal Investigator: Edward Breitschwerdt, DVM; North Carolina State University \[$2500] [[Progress Report 2021](/files/akcchf02819my1summary.pdf)] [[Progress Report end 2021](/files/akcchf02819ey1summary.pdf)]
 
-# Funded Research Grants (2020)
+## Funded Research Grants (2020)
 
 ## AKC Canine Health Foundation Grants
 
@@ -57,7 +57,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)[](<>)
 * [AKCCHF Grant #02553 (closed)](https://www.samoyedhealthfoundation.org/research/current-studies/akcchf-grant-02553/): Targeted next generation sequencing panel for comprehensive testing of vector-borne pathogens. Rebecca Wilkes, DVM. Purdue University \[$2500] [[Final Report 2021](/files/akcchf02553my2summary.pdf)]
 * [AKCCHF Grant #02682A (closed):](/research/current-studies/akcchf-grant-02682a/) The Effects of a Modified Approach to Early Weight Bearing in Dogs Following a Tibeal Plateau Leveling Osteotomy for Cranial Cruciate Ligament Rupture. Dominique S Hansfort BVSc, MS. Virginia-Maryland Regional College of Veterinary Medicine. \[$2700]. [[Progress Report 2021](/files/akc02682amy2summary.pdf)] [[Progress Report end 2021](/files/akcchf02682aey2summary.pdf)]
 
-# Funded Research Grants (2019)
+## Funded Research Grants (2019)
 
 ## Morris Animal Foundation Grants
 
@@ -65,7 +65,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)[](<>)
 * [MAF Grant D19CA-064 (closed):](https://www.samoyedhealthfoundation.org/research/morris-d19ca-064/) Synergizing Radiation-Induced Immunogenic Cell Death and Toll-like Receptor 9 Agonism to Generate Abscopal Effects in Canine Osteosarcoma. Timothy M Fan DVM, PhD. University of Illinois \[$10,000]  [[Final Report 2025](/files/d19ca064final.pdf)]
 * [MAF Grant D20CA-312 (closed): ](https://www.samoyedhealthfoundation.org/research/morris-grant-d20ca-312/) Lymphotropic Nanoparticle Enhanced MRI for Diagnosis of Metastatic Disease in Canine Head and Neck Tumors. Lynn Griffin DVM. Colorado State University \[$10,000] [[Progress Report](/files/d20ca312progressreport.pdf)] [[FinalReport](/files/d20ca312finalreport.pdf)]
 
-# Funded Research Grants (2015)
+## Funded Research Grants (2015)
 
 ## AKC CANINE HEALTH FOUNDATION OAK GRANTS
 
@@ -82,7 +82,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)[](<>)
 * [MAF Grant D15CA-307 (closed):](/research/current-studies/morris-grant-d15ca-307) Evaluating a New Treatment for Dogs with Kidney Disease. Dr. Amanda E. Coleman, University of Georgia [[study update](</files/D15CA-307 Nov 2017 update.pdf>)] [[final report](https://www.samoyedhealthfoundation.org/files/d15ca307final.pdf)]
 * [MAF Grant D15CA-802 (closed):](/research/current-studies/d15ca-802) Understanding the Transmission Risk of Bacterial Infections between Therapy Dogs and Kids with Cancer. Dr. Allen R. Chen, Johns Hopkins University [[final report](</files/D15CA-802 FinalReport.pdf>)]
 
-# Funded Research Grants (2013)
+## Funded Research Grants (2013)
 
 ## AKC CANINE HEALTH FOUNDATION OAK GRANTS
 
@@ -100,7 +100,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)[](<>)
 * [MAF Grant D13CA-311 (closed):](/research/current-studies/morris-grant-d13ca-311) Evaluating Preventive Therapy for Ligament Disease. Siao Sia Goh, BVSc, Colorado State University [[study update](</files/D13CA-311 update.pdf>)]  \[[final report]](/files/Morris-Grant-D13CA-311.pdf)
 * [MAF Grant D13CA-802 (closed):](/research/current-studies/d13ca-802) Assessing a Diagnostic Tool for Eye Diseases. Chris G Pirie DVM, DACVO, Tufts University [[final report](/files/D13CA-802.pdf)] [[publication](http://www.ncbi.nlm.nih.gov/pubmed/24447609)]
 
-# Funded Research Grants (2012)
+## Funded Research Grants (2012)
 
 ## AKC Canine Health Foundation Grants
 
@@ -116,11 +116,11 @@ You may participate in the [Samoyed DNA bank/databases](/databases)[](<>)
 * [MAF Grant D12CA-803 (closed)](/research/current-studies/morris-grant-d12ca-803): Reprogramming Canine Stem Cells to Develop New Therapies; Dr Deborah Guest, Animal Health Trust, United Kingdom. ($3000) [[final report](</files/D12CA-803 Final Report.pdf>)]
 * [MAF Grant D12MS-002 (closed): ](/research/current-studies/morris-d12ms-002) Examining the Role of Stem Cells and Genes in Mammary Tumor Development; Dr Gerlinde R Van de Walle, Ghent University, Belgium (#3000) [[study update](</files/D12MS-002 update.pdf>)] [[final report](</files/D12MS-002 Final Report.pdf>)]
 
-# Funded Research Grants (2011)
+## Funded Research Grants (2011)
 
 * [AKCCHF grant #01670-A (closed):](/research/current-studies/akcchf-grant-01670-a) Pinpointing the causal mutation(s) underlying a genome-wide association signal for hereditary cataract in Northern breeds. Sally L Ricketts, PhD, Animal Health Trust \[$2000]
 
-# Funded Research Grants (2010)
+## Funded Research Grants (2010)
 
 ## AKC Canine Health Foundation Grants
 
@@ -146,7 +146,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)[](<>)
 
 * [Bloat Study (closed): ](/research/current-studies/bloat-study) DOGenes, Inc.
 
-# Funded Research Grants (2009)
+## Funded Research Grants (2009)
 
 * [Rabies Challenge Fund](https://www.rabieschallengefund.org/) [Summary](https://www.rabieschallengefund.org/)
 * [AKCCHF grant #00615-B (closed):](/research/current-studies/akcchf-grant-00615b) Heritable and Sporadic Genetic Lesions in Canine Lymphoma. Jaime F Modiano, VMD PhD \[$2500 from AKCCHF Donor Advised fund] [[publication](https://www.tandfonline.com/doi/abs/10.3109/10428194.2011.559802)] [[AKCCHF Success Story](https://www.akcchf.org/grant-directory/00615b/)]
@@ -158,7 +158,7 @@ You may participate in the [Samoyed DNA bank/databases](/databases)[](<>)
 * AKCCHF grant #01239-A (closed): SNP Chip Analyses for Canine Cryptorchidism. Max F Rothschild, PhD, Iowa State University \[$1000] [[Final Report](/research/current-studies/akcchf-grant-1239-a)]
 * AKCCHF grant #01240-A (closed): Development of a Diagnostic Method for Canine Atopic Dermatitis. Daniel A Gingerich, DVM, Imulan Bio Therapeutics, LLC \[$1000] [[final report](</files/1240-A EY1 FINAL Summary (2).pdf>)]
 
-# Funded Research Grants (2008)
+## Funded Research Grants (2008)
 
 * [AKCCHF grant #00613 (closed):](/research/current-studies/akcchf-grant-00613) The Prognostic Significance of Chromosome Aneuploidy in Canine Lymphoma. Matthew Breen, PhD, North Carolina State University \[$2500] [[publication](http://www.ncbi.nlm.nih.gov/pubmed/21375435)]
 * [AKCCHF grant #00763 (closed):](/research/current-studies/akcchf-grant-00763) Capsular Tension Ring Effect on Canine Lens Epithelial Migration and Post-Operative Lens Capsule Opacification. David Wilkie, DVM, Ohio State University \[$2500] [[publication](http://www.ncbi.nlm.nih.gov/pubmed/19077830)]
@@ -173,32 +173,32 @@ You may participate in the [Samoyed DNA bank/databases](/databases)[](<>)
 
   * This work is also applicable to Osteosarcoma - see the [AKCCHF Success Story](https://web.archive.org/web/20250513071447/https://www.akcchf.org/research/impact-stories/survivin-canine-osteosarcoma.html)
 
-# Funded Research Grants (2007)
+## Funded Research Grants (2007)
 
 * [AKCCHF Grant #00366 (closed):](/research/current-studies/akcchf-grant-0366) Molecular Control of COX-2 Expression and Regulation of Prostaglandin Transport in Canine Mammary Tumors. Monique Dore, DVM PhD, University of Montreal. \[Additional funding $2500] [[publication 2003](https://vet.sagepub.com/content/40/2/207.full)] [[publication 2006](http://vet.sagepub.com/content/43/5/656.long)] [[publication 2011](http://vet.sagepub.com/content/48/1/254.long)]
 * [AKCCHF Grant # 00610 (closed):](/research/current-studies/akcchf-grant-610) Evaluation of Genetic Markers for Diabetes Mellitus in Samoyed and Australian Terrier Dogs. Rebecka S Hess, DVM DACVIM, University of Pennsylvania School of Veterinary Medicine. \[Additional funding $10,000]
 
-# Funded Research Grants (2006)
+## Funded Research Grants (2006)
 
 * [AKCCHF Grant #00305 (closed):](/research/current-studies/akcchf-grant-305) Histocompatibility Alleles Conferring Susceptibility to Canine Diabetes, Immune-Mediated Thyroiditis and Immune-Mediated Hemolytic Anemia. Wayne Potts, PhD, University of Utah. \[Additional funding $1250]
 * [AKCCHF Grant #00372 (closed):](/research/current-studies/akcchf-grant-372) The Establishment of Breed-Specific Reference Intervals for Thyroid Hormones. Rebecca L Davies, PhD; Sheila Torres, DVM MS PhD DACVD. \[Additional funding $7348] [[publication](http://www.ncbi.nlm.nih.gov/pubmed/19351336)] [[publication](https://journals.sagepub.com/doi/full/10.1177/1040638715606953)]
 * [AKCCHF Grant # 00610 (closed):](/research/current-studies/akcchf-grant-610) Evaluation of Genetic Markers for Diabetes Mellitus in Samoyed and Australian Terrier Dogs. Rebecka S Hess, DVM DACVIM, University of Pennsylvania School of Veterinary Medicine. \[$10,000]
 
-# Funded Research Grants (2005)
+## Funded Research Grants (2005)
 
 * [AKCCHF Grant #00305 (closed):](/research/current-studies/akcchf-grant-305) Histocompatibility Alleles Conferring Susceptibility to Canine Diabetes, Immune-Mediated Thyroiditis and Immune-Mediated Hemolytic Anemia. Wayne Potts, PhD, University of Utah. \[$1250]
 * [AKCCHF Grant #00366 (closed):](/research/current-studies/akcchf-grant-0366) Molecular Control of COX-2 Expression and Regulation of Prostaglandin Transport in Canine Mammary Tumors. Monique Dore, DVM PhD, University of Montreal. \[$2500] [[publication 2003](https://vet.sagepub.com/content/40/2/207.full)] [[publication 2006](http://vet.sagepub.com/content/43/5/656.long)] [[publication 2011](http://vet.sagepub.com/content/48/1/254.long)]
 * [AKCCHF Grant #00372 (closed):](/research/current-studies/akcchf-grant-372) The Establishment of Breed-Specific Reference Intervals for Thyroid Hormones. Rebecca L Davies, PhD; Sheila Torres, DVM MS PhD DACVD. \[$7348] [[publication](http://www.ncbi.nlm.nih.gov/pubmed/19351336)]
 
-# Funded Research Grants (2002)
+## Funded Research Grants (2002)
 
 * [AKCCHF Grant #02222 (closed): ](/research/current-studies/akcchf-grant-02222)Molecular Control of Prostaglandin Synthesis in Canine Mammary Tumors. Monique Dore, DVM PhD, University of Montreal.
 
-# Funded Research Grants (2001)
+## Funded Research Grants (2001)
 
 * [AKCCHF Grant #02277 (closed): ](/research/current-studies/akcchf-grant-02277) Identification of the Genetic Cause or Causes for Cataracts in Several Breeds. George J Brewer MD, University of Michigan. \[$3000]
 
-# Funded Research Grants (prior to 2001)
+## Funded Research Grants (prior to 2001)
 
 * [AKCCHF Grant #01637 (closed):](/research/current-studies/akcchf-grant-01637) Identification of DNA Marker(s) for Cataracts in Purebred Dogs, with Emphasis on the Breeds Alaskan Malamute, Siberian Husky, and Samoyed. Vilma Yuzbasiyan-Gurkan, PhD, Michigan State University. \[$11,674.50]
 * [AKCCHF Grant #01836 (closed): ](/research/current-studies/akcchf-grant-01836) Identifying the Genetic Cause of Canine Hip Dysplasia. George J Brewer MD, University of Michigan. \[$2000]

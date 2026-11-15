@@ -3,7 +3,7 @@ title: "Death Report"
 layout: single
 ---
 
-# Samoyed Death Report Form
+## Samoyed Death Report Form
 
 The purpose of this death report is to help keep other Samoyed owners
 informed of possible health problems and help the Foundation seek and

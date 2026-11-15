@@ -3,7 +3,7 @@ title: Dog Food Recall Information
 layout: single
 ---
 
-# Suggested Links
+## Suggested Links
 
 [http://www.itchmo.com/](http://www.itchmo.com/) - The most current information. You can sign up to receive email notifications of any recalls as they are happening.
 
@@ -11,7 +11,7 @@ layout: single
 
 <https://www.fda.gov/animal-veterinary/safety-health/recalls-withdrawals> - FDA Recalls.
 
-# News Articles
+## News Articles
 
 ## 2021 Bravo Packing, Inc. Recall
 
