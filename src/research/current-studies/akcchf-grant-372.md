@@ -3,7 +3,7 @@ title: "AKCCHF grant #00372 (closed)"
 layout: single
 ---
 
-**Samoyed enrolllment for this study is closed. SCARF wishes to thank
+**Samoyed enrollment for this study is closed. SCARF wishes to thank
 the efforts of many Samoyed owners for contributing to this research
 study. **
 
@@ -50,9 +50,9 @@ Retriever, Keeshond, Samoyed, and Siberian Husky breeds."
 
 **Update from the AKCCHF.org website:**
 
-"All dogs have completed the recruitment, enrolllment and screening
+"All dogs have completed the recruitment, enrollment and screening
 process. All samples from all dogs have been collected. Six hundred dogs
-were enrollled\* and 77 dogs were rejected due to their failure to pass
+were enrolled\* and 77 dogs were rejected due to their failure to pass
 inclusion criteria. All analytical testing (health screening data and
 hormone analyses) has been completed. Preliminary data has been
 presented at the American College of Veterinary Internal Medicine
@@ -88,10 +88,10 @@ study to establish breed-specific reference ranges for thyroid hormone
 levels. As of 10/31/08, 35 more normal Samoyed samples are needed.
 
 - Healthy dogs only - Dogs with chronic health concerns should not be
-  enrollled. Dogs previously diagnosed with thyroid problems or that
+  enrolled. Dogs previously diagnosed with thyroid problems or that
   show signs of thyroid problems (obesity, lethargy, poor hair coat,
   and infertility) are not eligible to participate. Please do not
-  enrolll animals that you suspect may have 'thyroid issues'. _The
+  enroll animals that you suspect may have 'thyroid issues'. _The
   appropriate dogs are those that you are most convinced are healthy,
   fit, and robust animals._
 - Between one and eight years of age
@@ -99,11 +99,11 @@ levels. As of 10/31/08, 35 more normal Samoyed samples are needed.
 - Dogs can be on heartworm, nutritional supplements\*, flea and tick
   medication but cannot be on other drugs. Dogs must be off any drug
   therapy (eye or ear drops, antibiotics, steroids etc) for at least
-  12 weeks prior to enrollling in the study. \*Supplements are
+  12 weeks prior to enrolling in the study. \*Supplements are
   acceptable but please record their use on the health questionnaire.
 - Animals must be fasted for at least 6 hours prior to sampling.
 - AKC registered (or able to provide evidence of purebred status)
-- More information below - note, dogs must be enrollled in the study
+- More information below - note, dogs must be enrolled in the study
   before samples are submitted.
 
 ## What We Need
@@ -143,12 +143,12 @@ charge to the owner. More importantly, you will have the pride in
 knowing that you have participated in an opportunity to improve the
 health management of your favorite breed
 
-**\*Samples that are received without going through the enrolllment
+**\*Samples that are received without going through the enrollment
 procedure cannot be analyzed**.\*
 
 ## To Participate
 
-For more information or to enrolll your pet in this study or if your
+For more information or to enroll your pet in this study or if your
 regional club in the mid-west would like to plan a collection event,
 please contact Dr. Rebecca Davies at 612-626-0168
 or <rdavies@umn.edu> or <http://www.cvm.umn.edu/cic/current/endocrine/home.html>
@@ -169,14 +169,14 @@ or <rdavies@umn.edu> or <http://www.cvm.umn.edu/cic/current/endocrine/home.html>
    schedule an appointment for a Monday, Tuesday or Wednesday **(to allow
    for over-night delivery to Minnesota laboratories prior to Friday). Once
    the appointment is made, notify Dr. Davies (<rdavies@umn.edu> or
-   612-626-0168) so that she can officially enrolll your dog into the study.
+   612-626-0168) so that she can officially enroll your dog into the study.
    Dr. Davies will need to discuss the collection with your veterinarian by
-   email prior to final enrolllment and sample submission. Sample collection
+   email prior to final enrollment and sample submission. Sample collection
    and shipping timing are critical to sample acceptance so it is important
    to have all three parties (owner, veterinarian and Dr. Davies) in
-   communication regarding dog enrolllment.
+   communication regarding dog enrollment.
 
-**\*Samples that are received without going through the enrolllment procedure cannot be analyzed**.\*
+**\*Samples that are received without going through the enrollment procedure cannot be analyzed**.\*
 
 This project is also supported by the American Kennel Club Canine Health
 Foundation and the Orthopedic Foundation for Animals.

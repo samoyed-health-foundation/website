@@ -33,8 +33,8 @@ with findings in human medical literature on CTR effects.
 
 The second part of the study involves a clinical trial with CTR
 implantation in clinical patients. This study is currently in progress
-with a majority of the necessary client-owned dogs enrollled as far out
-as 12 months post-cataract surgery. Half of the eyes enrollled receive
+with a majority of the necessary client-owned dogs enrolled as far out
+as 12 months post-cataract surgery. Half of the eyes enrolled receive
 CTRs and half serve as control eyes. Photos are taken of the lens
 capsules at all recheck appointments, and the degree of capsule scarring
 is evaluated by a software program to eliminate subjectivity. In April

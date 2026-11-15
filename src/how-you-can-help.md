@@ -1,7 +1,7 @@
 ---
 title: How you can help
 layout: single
-description: Support Samoyed health research by donating to SCARF, volunteering, or enrollling your Samoyed in the DNA database.
+description: Support Samoyed health research by donating to SCARF, volunteering, or enrolling your Samoyed in the DNA database.
 ---
 
 ## Donating

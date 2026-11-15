@@ -22,7 +22,7 @@ chemotherapy given after surgery changed Treg numbers compared to their
 pre-treatment values, and 3) evaluate whether OSA dogs with high Treg
 numbers had a poorer prognosis than dogs with low numbers of Treg.
 
-We enrollled a total of 18 dogs with OSA and followed their progress
+We enrolled a total of 18 dogs with OSA and followed their progress
 through the study and afterwards. We also compared Treg and other
 important T lymphocyte subsets (CD4+ and CD8+ T cells) between the dogs
 with cancer and 22 healthy control dogs. We found that dogs with OSA had

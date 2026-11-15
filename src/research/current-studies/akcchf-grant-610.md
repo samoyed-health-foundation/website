@@ -3,7 +3,7 @@ title: "AKCCHF grant #00610 (closed)"
 layout: single
 ---
 
-**Samoyed enrolllment for this study is closed.  SCARF wishes to thank
+**Samoyed enrollment for this study is closed.  SCARF wishes to thank
 the efforts of many Samoyed owners for contributing to this research
 study.  **
 

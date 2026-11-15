@@ -15,9 +15,9 @@ SAS is one of the most common congenital heart defects in dogs and causes physic
 
 **The Project:**
 
-The team will enrolll 36 patients with severe SAS, with 12 each randomized into three study groups (placebo, low dose and target dose of rapamycin therapy). Once enrollled, each patient completes a six-month follow-up over three visits. All dog patients are receiving the highest quality of cardiology care for free which has resulted in some animals getting treatment that pet owners otherwise could not afford.
+The team will enroll 36 patients with severe SAS, with 12 each randomized into three study groups (placebo, low dose and target dose of rapamycin therapy). Once enrolled, each patient completes a six-month follow-up over three visits. All dog patients are receiving the highest quality of cardiology care for free which has resulted in some animals getting treatment that pet owners otherwise could not afford.
 
 **Project Update:**
 
-The study currently is in the recruitment and enrolllment phase and the team has partnered with regional cardiologists to help with screening and enrolllment efforts. So far the team has enrollled 26 dogs that have already completed the first visit. Twenty of these dogs have completed the entirety of the study with no major adverse events reported. The team anticipates to complete enrolllment in the next six months. The investigators are blinded to study data so preliminary data is not available at this time.
+The study currently is in the recruitment and enrollment phase and the team has partnered with regional cardiologists to help with screening and enrollment efforts. So far the team has enrolled 26 dogs that have already completed the first visit. Twenty of these dogs have completed the entirety of the study with no major adverse events reported. The team anticipates to complete enrollment in the next six months. The investigators are blinded to study data so preliminary data is not available at this time.
 
