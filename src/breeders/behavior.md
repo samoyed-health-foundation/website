@@ -5,7 +5,7 @@ layout: single
 
 # Your New Litter
 
-- [Puppy aptitude test](http://www.workingdogs.com/testing_volhard.htm) by Wendy & Joachim Volhard
+- [Puppy aptitude test](https://www.volharddognutrition.com/content/choosing-your-puppy.pdf) by Wendy & Joachim Volhard
 - [Puppy socialization](http://www.canismajor.com/dog/socializ.html)
 - [Developing High Achievers](https://breedingbetterdogs.com/seminars/breeding-better-dogs) - Originally published as "Early Neurological Stimulation" by Carmen L. Battaglia
 

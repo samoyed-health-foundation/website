@@ -161,8 +161,8 @@ contains a glossary. Chapter 6 details pregnancy and whelping of the
 bitch. ![2 bones](/img/2-bones.png)
 
 [The use of Oxytocin during the Whelping of a
-litter](http://www.workingdogs.com/doc0023.htm) by Fred
-Lanting on the workingdogs.com website. ![one bone
+litter](https://siriusdog.com/oxytocin-whelping-litter-contractions/) by Fred
+Lanting. ![one bone
 rating](/img/1-bone.png)
 
 ## "Living with a Disorder" Journal Entries
