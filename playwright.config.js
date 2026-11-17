@@ -1,6 +1,7 @@
 // @ts-check
 const { defineConfig, devices } = require('@playwright/test');
 const path = require('path');
+const { SERVE_PORT, SERVE_BASE_URL } = require('./tests/serve-config');
 
 /* Specs that only exercise the built site over HTTP, with no browser. */
 const HTTP_SPECS = /(agent-readiness|negotiation)\.spec\.js/;
@@ -113,8 +114,8 @@ module.exports = defineConfig({
       reuseExistingServer: !process.env.CI,
     },
     {
-      command: 'npm run build:test && node scripts/serve-built.mjs _site-test 8081',
-      url: 'http://127.0.0.1:8081',
+      command: `npm run build:test && node scripts/serve-built.mjs _site-test ${SERVE_PORT}`,
+      url: SERVE_BASE_URL,
       reuseExistingServer: !process.env.CI,
       timeout: 300000,
     },

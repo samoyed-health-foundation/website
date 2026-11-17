@@ -1,7 +1,7 @@
 // @ts-check
 const { test, expect } = require('@playwright/test');
 
-const BASE = 'http://127.0.0.1:8081';
+const { SERVE_BASE_URL: BASE } = require('./serve-config');
 const negotiationPromise = import('../lib/markdown-negotiation.mjs');
 
 function isMarkdown(ct) {
