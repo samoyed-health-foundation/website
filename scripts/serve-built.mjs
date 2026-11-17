@@ -18,26 +18,36 @@ import {
 const args = process.argv.slice(2);
 let outputDir = process.env.SERVE_DIR || '_site';
 let port = process.env.PORT || process.env.SERVE_PORT || 8081;
+let outputDirFromFlag = false;
+let portFromFlag = false;
+const positional = [];
 
 for (let i = 0; i < args.length; i++) {
   const a = args[i];
   if (a === '--dir' || a === '-d') {
     outputDir = args[++i];
+    outputDirFromFlag = true;
   } else if (a.startsWith('--dir=')) {
     outputDir = a.slice('--dir='.length);
+    outputDirFromFlag = true;
   } else if (a === '--port' || a === '-p') {
     port = args[++i];
+    portFromFlag = true;
   } else if (a.startsWith('--port=')) {
     port = a.slice('--port='.length);
+    portFromFlag = true;
+  } else if (!a.startsWith('-')) {
+    positional.push(a);
   }
-  // positional args are handled below
 }
 
-if (args.length >= 1 && !args[0].startsWith('-')) {
-  outputDir = args[0];
+// Positional form: `serve-built.mjs [dir] [port]`. Flags win over positionals,
+// and a flag's value is consumed above so it can never be read as a positional.
+if (positional.length >= 1 && !outputDirFromFlag) {
+  outputDir = positional[0];
 }
-if (args.length >= 2 && !args[1].startsWith('-')) {
-  port = args[1];
+if (positional.length >= 2 && !portFromFlag) {
+  port = positional[1];
 }
 
 outputDir = path.resolve(outputDir);
