@@ -1,5 +1,7 @@
 // @ts-check
 const { test, expect } = require('@playwright/test');
+const fs = require('node:fs');
+const path = require('node:path');
 
 // The module is ESM so both the Netlify edge function and the local Node
 // server can share it. Import it once; Playwright runs these tests in workers.
@@ -196,5 +198,22 @@ test.describe('llms-full.txt policy', () => {
     expect(LLMS_FULL_PATH).toBe('/llms-full.txt');
     expect(LLMS_FULL_REDIRECT).toBe('/index.md');
     expect(llmsFullRedirectTarget()).toBe('/index.md');
+  });
+});
+
+test.describe('netlify.toml edge function scope', () => {
+  test('the catch-all function excludes every passthrough prefix', async () => {
+    const { PASSTHROUGH_PREFIXES } = await negotiation;
+    const toml = fs.readFileSync(path.join(__dirname, '..', 'netlify.toml'), 'utf8');
+    const declaration = toml
+      .split('[[edge_functions]]')
+      .find((part) => part.includes('function = "markdown-negotiation"'));
+
+    expect(declaration, 'markdown-negotiation edge function declaration').toBeTruthy();
+    for (const prefix of PASSTHROUGH_PREFIXES) {
+      expect(declaration ?? '', `${prefix} must be excluded from the edge function`).toContain(
+        `"${prefix}/*"`,
+      );
+    }
   });
 });
