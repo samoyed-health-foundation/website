@@ -2,6 +2,9 @@
 const { defineConfig, devices } = require('@playwright/test');
 const path = require('path');
 
+/* Specs that only exercise the built site over HTTP, with no browser. */
+const HTTP_SPECS = /(agent-readiness|negotiation)\.spec\.js/;
+
 /**
  * Read environment variables from file.
  * https://github.com/motdotla/dotenv
@@ -34,13 +37,21 @@ module.exports = defineConfig({
 
   /* Configure projects for major browsers */
   projects: [
+    /* HTTP-only specs use the request fixture; run them once, not per browser. */
+    {
+      name: 'http',
+      testMatch: HTTP_SPECS,
+    },
+
     {
       name: 'chromium',
+      testIgnore: HTTP_SPECS,
       use: { ...devices['Desktop Chrome'] },
     },
 
     {
       name: 'chromium dark',
+      testIgnore: HTTP_SPECS,
       use: { ...devices['Desktop Chrome'], colorScheme: 'dark' },
     },
 
@@ -51,29 +62,35 @@ module.exports = defineConfig({
 
     {
       name: 'webkit',
+      testIgnore: HTTP_SPECS,
       use: { ...devices['Desktop Safari'] },
     },
 
     {
       name: 'webkit dark',
+      testIgnore: HTTP_SPECS,
       use: { ...devices['Desktop Safari'], colorScheme: 'dark' },
     },
 
     /* Test against mobile viewports. */
     {
       name: 'Mobile Chrome',
+      testIgnore: HTTP_SPECS,
       use: { ...devices['Pixel 5'] },
     },
     {
       name: 'Mobile Chrome Dark',
+      testIgnore: HTTP_SPECS,
       use: { ...devices['Pixel 5'], colorScheme: 'dark' },
     },
     {
       name: 'Mobile Safari',
+      testIgnore: HTTP_SPECS,
       use: { ...devices['iPhone 12'] },
     },
     {
       name: 'Mobile Safari Dark',
+      testIgnore: HTTP_SPECS,
       use: { ...devices['iPhone 12'], colorScheme: 'dark' },
     },
 
