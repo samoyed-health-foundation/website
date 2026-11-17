@@ -135,9 +135,10 @@ test.describe('classifyPath', () => {
 
 test.describe('response header helpers', () => {
   test('content types include a charset', async () => {
-    const { MARKDOWN_CONTENT_TYPE, HTML_CONTENT_TYPE } = await negotiation;
+    const { MARKDOWN_CONTENT_TYPE, HTML_CONTENT_TYPE, PLAIN_TEXT_CONTENT_TYPE } = await negotiation;
     expect(MARKDOWN_CONTENT_TYPE).toBe('text/markdown; charset=utf-8');
     expect(HTML_CONTENT_TYPE).toBe('text/html; charset=utf-8');
+    expect(PLAIN_TEXT_CONTENT_TYPE).toBe('text/plain; charset=utf-8');
   });
 
   test('Vary names Accept', async () => {

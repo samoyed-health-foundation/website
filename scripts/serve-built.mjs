@@ -8,6 +8,7 @@ import {
   toMarkdownPath,
   applyRepresentationHeaders,
   MARKDOWN_CONTENT_TYPE,
+  PLAIN_TEXT_CONTENT_TYPE,
   VARY_ACCEPT,
   LLMS_FULL_PATH,
   llmsFullRedirectTarget,
@@ -159,6 +160,7 @@ const server = http.createServer(async (req, res) => {
 
   if (negotiated === 'not-acceptable') {
     res.statusCode = 406;
+    res.setHeader('Content-Type', PLAIN_TEXT_CONTENT_TYPE);
     res.setHeader('Vary', VARY_ACCEPT);
     res.end('Not Acceptable');
     return;

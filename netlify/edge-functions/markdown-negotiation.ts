@@ -4,6 +4,7 @@ import {
   toMarkdownPath,
   applyRepresentationHeaders,
   MARKDOWN_CONTENT_TYPE,
+  PLAIN_TEXT_CONTENT_TYPE,
   VARY_ACCEPT,
   LLMS_FULL_PATH,
   llmsFullRedirectTarget,
@@ -53,7 +54,10 @@ export default async (request: Request, context: any): Promise<Response> => {
   if (negotiated === 'not-acceptable') {
     return new Response('Not Acceptable', {
       status: 406,
-      headers: { Vary: VARY_ACCEPT },
+      headers: {
+        'Content-Type': PLAIN_TEXT_CONTENT_TYPE,
+        Vary: VARY_ACCEPT,
+      },
     });
   }
 
