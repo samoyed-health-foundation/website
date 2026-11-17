@@ -6,10 +6,8 @@ import {
   negotiate,
   classifyPath,
   toMarkdownPath,
-  toHtmlPath,
-  linkAlternate,
+  applyRepresentationHeaders,
   MARKDOWN_CONTENT_TYPE,
-  HTML_CONTENT_TYPE,
   VARY_ACCEPT,
   LLMS_FULL_PATH,
   llmsFullRedirectTarget,
@@ -123,7 +121,7 @@ const server = http.createServer(async (req, res) => {
     }
     const ext = path.extname(filePath).toLowerCase();
     let ct = MIME[ext] || 'application/octet-stream';
-    if (pathname === '/llms.txt') ct = 'text/markdown; charset=utf-8';
+    if (pathname === '/llms.txt') ct = MARKDOWN_CONTENT_TYPE;
     const body = readBody(filePath);
     res.statusCode = 200;
     res.setHeader('Content-Type', ct);
@@ -141,9 +139,7 @@ const server = http.createServer(async (req, res) => {
     }
     const body = readBody(filePath);
     res.statusCode = 200;
-    res.setHeader('Content-Type', MARKDOWN_CONTENT_TYPE);
-    res.setHeader('Vary', VARY_ACCEPT);
-    res.setHeader('Link', linkAlternate(pathname));
+    applyRepresentationHeaders((name, value) => res.setHeader(name, value), 'markdown', pathname);
     res.setHeader('Content-Length', String(body.length));
     res.end(body);
     return;
@@ -178,9 +174,7 @@ const server = http.createServer(async (req, res) => {
     }
     const body = readBody(twinFile);
     res.statusCode = 200;
-    res.setHeader('Content-Type', MARKDOWN_CONTENT_TYPE);
-    res.setHeader('Vary', VARY_ACCEPT);
-    res.setHeader('Link', linkAlternate(twinPath));
+    applyRepresentationHeaders((name, value) => res.setHeader(name, value), 'markdown', twinPath);
     res.setHeader('Content-Length', String(body.length));
     res.end(body);
     return;
@@ -189,9 +183,7 @@ const server = http.createServer(async (req, res) => {
   // html
   const body = readBody(filePath);
   res.statusCode = 200;
-  res.setHeader('Content-Type', HTML_CONTENT_TYPE);
-  res.setHeader('Vary', VARY_ACCEPT);
-  res.setHeader('Link', linkAlternate(pathname));
+  applyRepresentationHeaders((name, value) => res.setHeader(name, value), 'html', pathname);
   res.setHeader('Content-Length', String(body.length));
   res.end(body);
 });

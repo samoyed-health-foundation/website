@@ -166,6 +166,28 @@ test.describe('response header helpers', () => {
     const { linkAlternate } = await negotiation;
     expect(linkAlternate('/index.md')).toBe('</>; rel="alternate"; type="text/html"');
   });
+
+  test('applyRepresentationHeaders shapes an HTML response', async () => {
+    const { applyRepresentationHeaders } = await negotiation;
+    const headers = new Map();
+    applyRepresentationHeaders((name, value) => headers.set(name, value), 'html', '/diseases/hip-dysplasia-hd');
+    expect(headers.get('Content-Type')).toBe('text/html; charset=utf-8');
+    expect(headers.get('Vary')).toBe('Accept');
+    expect(headers.get('Link')).toBe(
+      '</diseases/hip-dysplasia-hd.md>; rel="alternate"; type="text/markdown"',
+    );
+  });
+
+  test('applyRepresentationHeaders shapes a Markdown twin', async () => {
+    const { applyRepresentationHeaders } = await negotiation;
+    const headers = new Map();
+    applyRepresentationHeaders((name, value) => headers.set(name, value), 'markdown', '/diseases/hip-dysplasia-hd.md');
+    expect(headers.get('Content-Type')).toBe('text/markdown; charset=utf-8');
+    expect(headers.get('Vary')).toBe('Accept');
+    expect(headers.get('Link')).toBe(
+      '</diseases/hip-dysplasia-hd>; rel="alternate"; type="text/html"',
+    );
+  });
 });
 
 test.describe('llms-full.txt policy', () => {

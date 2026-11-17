@@ -2,9 +2,8 @@ import {
   negotiate,
   classifyPath,
   toMarkdownPath,
-  linkAlternate,
+  applyRepresentationHeaders,
   MARKDOWN_CONTENT_TYPE,
-  HTML_CONTENT_TYPE,
   VARY_ACCEPT,
   LLMS_FULL_PATH,
   llmsFullRedirectTarget,
@@ -25,7 +24,7 @@ export default async (request: Request, context: any): Promise<Response> => {
       const response = await context.next();
       const body = await response.arrayBuffer();
       const headers = new Headers(response.headers);
-      headers.set('Content-Type', 'text/markdown; charset=utf-8');
+      headers.set('Content-Type', MARKDOWN_CONTENT_TYPE);
       return new Response(body, { status: response.status, headers });
     }
     return context.next();
@@ -33,12 +32,12 @@ export default async (request: Request, context: any): Promise<Response> => {
 
   if (kind === 'markdown') {
     const response = await context.next();
+    if (response.status === 404) {
+      return response;
+    }
     const body = await response.arrayBuffer();
     const headers = new Headers(response.headers);
-    headers.set('Content-Type', MARKDOWN_CONTENT_TYPE);
-    headers.set('Vary', VARY_ACCEPT);
-    headers.set('Link', linkAlternate(pathname));
-    headers.set('Content-Length', String(body.byteLength));
+    applyRepresentationHeaders((name, value) => headers.set(name, value), 'markdown', pathname);
     return new Response(body, { status: response.status, headers });
   }
 
@@ -62,21 +61,18 @@ export default async (request: Request, context: any): Promise<Response> => {
     const twinPath = toMarkdownPath(pathname);
     const twinUrl = new URL(twinPath, request.url);
     const twinResponse = await context.next(new Request(twinUrl, request));
+    if (twinResponse.status === 404) {
+      return twinResponse;
+    }
     const body = await twinResponse.arrayBuffer();
     const headers = new Headers(twinResponse.headers);
-    headers.set('Content-Type', MARKDOWN_CONTENT_TYPE);
-    headers.set('Vary', VARY_ACCEPT);
-    headers.set('Link', linkAlternate(twinPath));
-    headers.set('Content-Length', String(body.byteLength));
+    applyRepresentationHeaders((name, value) => headers.set(name, value), 'markdown', twinPath);
     return new Response(body, { status: twinResponse.status, headers });
   }
 
   // html
   const body = await htmlResponse.arrayBuffer();
   const headers = new Headers(htmlResponse.headers);
-  headers.set('Content-Type', HTML_CONTENT_TYPE);
-  headers.set('Vary', VARY_ACCEPT);
-  headers.set('Link', linkAlternate(pathname));
-  headers.set('Content-Length', String(body.byteLength));
+  applyRepresentationHeaders((name, value) => headers.set(name, value), 'html', pathname);
   return new Response(body, { status: htmlResponse.status, headers });
 };
