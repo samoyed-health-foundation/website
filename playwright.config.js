@@ -1,6 +1,10 @@
 // @ts-check
 const { defineConfig, devices } = require('@playwright/test');
 const path = require('path');
+const { SERVE_PORT, SERVE_BASE_URL } = require('./tests/serve-config');
+
+/* Specs that only exercise the built site over HTTP, with no browser. */
+const HTTP_SPECS = /(agent-readiness|negotiation)\.spec\.js/;
 
 /**
  * Read environment variables from file.
@@ -34,13 +38,21 @@ module.exports = defineConfig({
 
   /* Configure projects for major browsers */
   projects: [
+    /* HTTP-only specs use the request fixture; run them once, not per browser. */
+    {
+      name: 'http',
+      testMatch: HTTP_SPECS,
+    },
+
     {
       name: 'chromium',
+      testIgnore: HTTP_SPECS,
       use: { ...devices['Desktop Chrome'] },
     },
 
     {
       name: 'chromium dark',
+      testIgnore: HTTP_SPECS,
       use: { ...devices['Desktop Chrome'], colorScheme: 'dark' },
     },
 
@@ -51,29 +63,35 @@ module.exports = defineConfig({
 
     {
       name: 'webkit',
+      testIgnore: HTTP_SPECS,
       use: { ...devices['Desktop Safari'] },
     },
 
     {
       name: 'webkit dark',
+      testIgnore: HTTP_SPECS,
       use: { ...devices['Desktop Safari'], colorScheme: 'dark' },
     },
 
     /* Test against mobile viewports. */
     {
       name: 'Mobile Chrome',
+      testIgnore: HTTP_SPECS,
       use: { ...devices['Pixel 5'] },
     },
     {
       name: 'Mobile Chrome Dark',
+      testIgnore: HTTP_SPECS,
       use: { ...devices['Pixel 5'], colorScheme: 'dark' },
     },
     {
       name: 'Mobile Safari',
+      testIgnore: HTTP_SPECS,
       use: { ...devices['iPhone 12'] },
     },
     {
       name: 'Mobile Safari Dark',
+      testIgnore: HTTP_SPECS,
       use: { ...devices['iPhone 12'], colorScheme: 'dark' },
     },
 
@@ -89,11 +107,19 @@ module.exports = defineConfig({
   ],
 
   /* Run your local dev server before starting the tests */
-  webServer: {
-    command: 'npm run start',
-    url: 'http://127.0.0.1:8080',
-    reuseExistingServer: !process.env.CI,
-  },
+  webServer: [
+    {
+      command: 'npm run start',
+      url: 'http://127.0.0.1:8080',
+      reuseExistingServer: !process.env.CI,
+    },
+    {
+      command: `npm run build:test && node scripts/serve-built.mjs _site-test ${SERVE_PORT}`,
+      url: SERVE_BASE_URL,
+      reuseExistingServer: !process.env.CI,
+      timeout: 300000,
+    },
+  ],
 
   expect: {
     toHaveScreenshot: {

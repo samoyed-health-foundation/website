@@ -18,3 +18,20 @@
   to = "https://www.samoyedhealthfoundation.org/:splat"
   status = 301
   force = true
+
+[[edge_functions]]
+  function = "markdown-negotiation"
+  path = "/*"
+  # Keep in sync with PASSTHROUGH_PREFIXES in lib/markdown-negotiation.mjs;
+  # tests/negotiation.spec.js fails if a prefix is missing. Do not add
+  # /llms.txt or /llms-full.txt here: the function rewrites the former's
+  # Content-Type and redirects the latter.
+  excludedPath = [
+    "/.netlify/*",
+    "/admin/*",
+    "/css/*",
+    "/img/*",
+    "/files/*",
+    "/webfonts/*",
+    "/static/*",
+  ]
